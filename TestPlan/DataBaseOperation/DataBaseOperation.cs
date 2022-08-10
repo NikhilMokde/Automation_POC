@@ -60,7 +60,7 @@ namespace MFG_Atomation.TestPlan.ActionTracker
         [Category("Functional")]
         public void InsertDataFromDatabase()
         {
-            //Report Generation
+            //Extent Report Generation
             Logs.StartReporting(Constants.InsertDataFromDatabase);
 
             //Start Execution
