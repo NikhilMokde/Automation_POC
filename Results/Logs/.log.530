@@ -1,0 +1,215 @@
+2020-11-26 19:50:31,434  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 19:50:31,455  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 19:50:31,456  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 19:50:31,546  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 19:50:31,611  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 19:50:31,612  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerBuyerTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 19:50:31,612  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 19:50:59,049  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 19:50:59,049  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 19:50:59,055  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 19:50:59,055  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 19:51:41,494  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2020-11-26 19:51:49,594  :: INFO  :: [Logs]  :: Navigate to application. 
+2020-11-26 19:51:51,099  :: INFO  :: [Logs]  :: Automation193741266 entered in input field. 
+2020-11-26 19:51:51,099  :: INFO  :: [Logs]  :: Enter first name. 
+2020-11-26 19:51:52,343  :: INFO  :: [Logs]  :: Buyer1513058860 entered in input field. 
+2020-11-26 19:51:52,343  :: INFO  :: [Logs]  :: Enter last name. 
+2020-11-26 19:51:53,593  :: INFO  :: [Logs]  :: Automation1243194210@yopmail.com entered in input field. 
+2020-11-26 19:51:53,593  :: INFO  :: [Logs]  :: Enter email. 
+2020-11-26 19:51:54,979  :: INFO  :: [Logs]  :: supplierCompany1678650522 entered in input field. 
+2020-11-26 19:51:54,979  :: INFO  :: [Logs]  :: Enter company name. 
+2020-11-26 19:51:56,226  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-11-26 19:51:56,226  :: INFO  :: [Logs]  :: Choose country. 
+2020-11-26 19:51:57,477  :: INFO  :: [Logs]  :: 872756922 entered in input field. 
+2020-11-26 19:51:57,477  :: INFO  :: [Logs]  :: Enter phone number. 
+2020-11-26 19:51:58,723  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 19:51:58,723  :: INFO  :: [Logs]  :: Enter password. 
+2020-11-26 19:51:59,946  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 19:51:59,947  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-26 19:52:01,240  :: INFO  :: [Logs]  :: 1614417844 entered in input field. 
+2020-11-26 19:52:01,241  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-26 19:52:01,377  :: INFO  :: [Logs]  :: click on register button. 
+2020-11-26 19:52:01,377  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2020-11-26 19:52:01,378  :: INFO  :: [Logs]  :: Register New Supplier. 
+2020-11-26 19:52:07,509  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 19:52:23,627  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-26 19:52:24,974  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-26 19:52:25,121  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 19:52:25,121  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-26 19:52:29,809  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 19:52:45,097  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 19:52:52,661  :: INFO  :: [Logs]  :: clicked on New Reg  Tab. 
+2020-11-26 19:52:54,497  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-11-26 19:52:56,686  :: INFO  :: [Logs]  :: Automation1243194210 entered in input field. 
+2020-11-26 19:53:05,593  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 19:53:11,126  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1243194210@yopmail.c.... 
+2020-11-26 19:53:14,349  :: INFO  :: [Logs]  :: entre checked button. 
+2020-11-26 19:53:22,350  :: INFO  :: [Logs]  :: Checkedis selected From Dropdown. 
+2020-11-26 19:53:24,359  :: INFO  :: [Logs]  :: Automation1243194210 entered in input field. 
+2020-11-26 19:53:28,154  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 19:53:33,763  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1243194210@yopmail.c.... 
+2020-11-26 19:53:34,479  :: INFO  :: [Logs]  :: entre search button. 
+2020-11-26 19:53:36,669  :: INFO  :: [Logs]  :: verify Register Tab in Action Tracker supplier. 
+2020-11-26 19:53:38,579  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 19:53:51,716  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 19:53:51,956  :: INFO  :: [Logs]  :: clicked on Logged In Tab. 
+2020-11-26 19:54:02,981  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-11-26 19:54:04,285  :: INFO  :: [Logs]  :: Automation1243194210 entered in input field. 
+2020-11-26 19:54:10,815  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 19:54:12,896  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1243194210@yopmail.c.... 
+2020-11-26 19:54:13,021  :: INFO  :: [Logs]  :: entre checked button. 
+2020-11-26 19:54:22,330  :: INFO  :: [Logs]  :: Checkedis selected From Dropdown. 
+2020-11-26 19:54:23,637  :: INFO  :: [Logs]  :: Automation1243194210 entered in input field. 
+2020-11-26 19:54:25,761  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 19:54:27,836  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1243194210@yopmail.c.... 
+2020-11-26 19:54:27,836  :: INFO  :: [Logs]  :: entre search button. 
+2020-11-26 19:54:28,395  :: INFO  :: [Logs]  :: verify Register Tab in Action Tracker supplier. 
+2020-11-26 19:54:29,980  :: INFO  :: [Logs]  :: Message is Display as expected:Select Your Industry. 
+2020-11-26 19:54:31,142  :: INFO  :: [Logs]  :: Architectureis selected From Dropdown. 
+2020-11-26 19:54:31,350  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 19:54:31,351  :: INFO  :: [Logs]  :: Select Industry Focous. 
+2020-11-26 19:54:32,139  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-11-26 19:54:32,249  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-11-26 19:54:32,313  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-11-26 19:54:32,314  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-11-26 19:54:32,314  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-11-26 19:54:32,826  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-11-26 19:54:57,063  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-26 19:55:00,141  :: INFO  :: [Logs]  :: click on existing port. 
+2020-11-26 19:55:01,547  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-26 19:55:01,547  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-11-26 19:55:02,757  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-11-26 19:55:02,757  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-11-26 19:55:04,044  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-11-26 19:55:04,044  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-11-26 19:55:05,157  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-11-26 19:55:05,157  :: INFO  :: [Logs]  :: Select Unit. 
+2020-11-26 19:55:07,657  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 19:55:09,702  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 19:55:11,060  :: INFO  :: [Logs]  :: Clicked on next button of date picker. 
+2020-11-26 19:55:13,100  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 19:55:15,135  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 19:55:16,509  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 19:55:16,509  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 19:55:17,416  :: INFO  :: [Logs]  :: Select process. 
+2020-11-26 19:55:20,002  :: INFO  :: [Logs]  :: Select Material. 
+2020-11-26 19:55:20,437  :: INFO  :: [Logs]  :: Select post production process. 
+2020-11-26 19:55:21,695  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-11-26 19:55:21,695  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-11-26 19:55:21,806  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-11-26 19:55:26,808  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-11-26 19:55:26,808  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-11-26 19:55:27,225  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2020-11-26 19:55:27,797  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-11-26 19:55:27,854  :: INFO  :: [Logs]  :: The element Element (id = 61407792-45ab-42d2-9adc-0e0cef6054d1) was found on the page.. 
+2020-11-26 19:55:29,188  :: INFO  :: [Logs]  :: RFQ1725251247 entered in input field. 
+2020-11-26 19:55:29,188  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-11-26 19:55:30,367  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-11-26 19:55:30,367  :: INFO  :: [Logs]  :: select Purpose. 
+2020-11-26 19:55:32,535  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 19:55:34,568  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 19:55:35,831  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 19:55:35,831  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-26 19:55:37,985  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 19:55:40,070  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 19:55:41,332  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 19:55:41,332  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-26 19:55:41,516  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-11-26 19:55:41,972  :: INFO  :: [Logs]  :: click on + Add New Address Button. 
+2020-11-26 19:55:43,404  :: INFO  :: [Logs]  :: automationuser1552448010 entered in input field. 
+2020-11-26 19:55:43,405  :: INFO  :: [Logs]  :: Entre Nick Name. 
+2020-11-26 19:55:44,770  :: INFO  :: [Logs]  :: automationuser895201944 entered in input field. 
+2020-11-26 19:55:44,770  :: INFO  :: [Logs]  :: Entre company Name. 
+2020-11-26 19:55:46,167  :: INFO  :: [Logs]  :: RamNagar998160191 entered in input field. 
+2020-11-26 19:55:46,167  :: INFO  :: [Logs]  :: Entre address1. 
+2020-11-26 19:55:47,469  :: INFO  :: [Logs]  :: NewYork1122374737 entered in input field. 
+2020-11-26 19:55:47,470  :: INFO  :: [Logs]  :: Entre address2. 
+2020-11-26 19:55:48,871  :: INFO  :: [Logs]  :: London730642188 entered in input field. 
+2020-11-26 19:55:48,871  :: INFO  :: [Logs]  :: Entre city. 
+2020-11-26 19:55:50,128  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-11-26 19:55:50,128  :: INFO  :: [Logs]  :: Select country. 
+2020-11-26 19:55:52,449  :: INFO  :: [Logs]  :: Alaskais selected From Dropdown. 
+2020-11-26 19:55:52,449  :: INFO  :: [Logs]  :: Select State. 
+2020-11-26 19:55:53,728  :: INFO  :: [Logs]  :: 1379665771 entered in input field. 
+2020-11-26 19:55:53,729  :: INFO  :: [Logs]  :: Entre Postal Code . 
+2020-11-26 19:55:53,891  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 19:55:54,030  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-11-26 19:55:54,509  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2020-11-26 19:55:54,651  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-11-26 19:56:01,391  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-11-26 19:56:02,589  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-11-26 19:56:05,208  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-11-26 19:56:05,208  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-11-26 19:56:05,513  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-11-26 19:56:06,867  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-11-26 19:56:10,200  :: INFO  :: [Logs]  :: click on submit RFQ button on Popup. 
+2020-11-26 19:56:11,530  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2020-11-26 19:56:11,530  :: INFO  :: [Logs]  :: add RFQ Details. 
+2020-11-26 19:56:14,411  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-26 19:56:14,411  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-11-26 19:56:15,141  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 19:56:20,702  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-26 19:56:21,953  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-26 19:56:22,063  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 19:56:22,063  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-26 19:56:25,205  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 19:56:36,975  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 19:56:37,192  :: INFO  :: [Logs]  :: clicked on Unval / Create RFQ Tab. 
+2020-11-26 19:56:38,393  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-11-26 19:56:39,785  :: INFO  :: [Logs]  :: Automation1243194210 entered in input field. 
+2020-11-26 19:56:46,207  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 19:56:48,320  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1243194210@yopmail.c.... 
+2020-11-26 19:56:48,470  :: INFO  :: [Logs]  :: entre checked button. 
+2020-11-26 19:56:51,639  :: INFO  :: [Logs]  :: Checkedis selected From Dropdown. 
+2020-11-26 19:56:52,997  :: INFO  :: [Logs]  :: Automation1243194210 entered in input field. 
+2020-11-26 19:56:55,097  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 19:56:56,668  :: ERROR :: [Logs]  :: failed to get text from the element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.get_Text()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Text()
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 176. 
+2020-11-26 19:56:56,716  :: ERROR :: [Logs]  :: Failed to create RFQ System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.get_Text()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 182
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email, String typeOfUser) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 267. 
+2020-11-26 19:56:56,742  :: INFO  :: [Logs]  :: ManufacturersActionTrackermethod is failed. 
+2020-11-26 19:56:59,033  :: INFO  :: [Logs]  :: Login with supplier is failed System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.get_Text()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email, String typeOfUser) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 288
+   at MFG_Atomation.Utility.RFQVision.ActionTrackerUtility.M2_3444_BuyerActionTrackerTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQVision\ActionTrackerUtility.cs:line 237. 
+2020-11-26 19:56:59,503  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2020-11-26 19:57:00,029  :: ERROR :: [Logs]  :: Test case failed. 
+2020-11-26 19:57:14,766  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 19:57:14,766  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3394_ActionTrackerBuyerTab ============================. 
+2020-11-26 19:57:14,767  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 19:57:15,460  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-26 19:57:15,492  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 19:57:15,493  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 19:57:15,493  :: INFO  :: [Logs]  :: ===============================================================================================================. 

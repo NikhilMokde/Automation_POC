@@ -1,0 +1,41 @@
+2020-12-14 14:02:46,853  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:02:46,867  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 14:02:46,867  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:02:46,947  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 14:02:47,000  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:02:47,001  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3410_RFQLifeCycleThroughManufacturerViews started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 14:02:47,005  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:03:10,331  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 14:03:10,331  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 14:03:10,347  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 14:03:10,347  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 14:03:10,591  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 14:03:13,981  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 14:03:15,366  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 14:03:21,510  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 14:03:21,510  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-12-14 14:03:26,381  :: INFO  :: [Logs]  :: User has clicked on Manufacturer Views. 
+2020-12-14 14:03:26,382  :: INFO  :: [Logs]  :: click on Manufacturer Views. 
+2020-12-14 14:03:47,385  :: ERROR :: [Logs]  :: Failed to create RFQ from Discover ManufacturerSystem.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementListProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.Collections.Generic.IList`1.get_Item(Int32 index)
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQFrmDisManufac(String sheetName, String pageName) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 1000. 
+2020-12-14 14:03:47,386  :: INFO  :: [Logs]  :: CreateRFQFrmDisManufac. 
+2020-12-14 14:03:47,404  :: ERROR :: [Logs]  :: Open RFQ failed System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   --- End of inner exception stack trace ---
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQFrmDisManufac(String sheetName, String pageName) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 1097
+   at MFG_Automation.Utility.RFQ.RFQUtility.M2_3410_RFQLifeCycleManufacturerViews(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQ\RFQUtility.cs:line 717. 
+2020-12-14 14:03:47,404  :: INFO  :: [Logs]  :: M2_3410_RFQLifeCycleManufacturerViews. 
+2020-12-14 14:03:48,405  :: ERROR :: [Logs]  :: Test case failed. 

@@ -1,0 +1,67 @@
+2020-11-24 17:27:12,007  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:27:12,024  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 17:27:12,024  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:27:12,100  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-24 17:27:12,114  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:27:12,114  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_ManufacturerViewsMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 17:27:12,120  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:27:26,545  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 17:27:26,545  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 17:27:26,552  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 17:27:26,552  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 17:27:31,078  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 17:27:34,988  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-24 17:27:36,226  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 17:27:41,247  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 17:27:41,248  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-11-24 17:27:41,909  :: INFO  :: [Logs]  :: ==========SendMessageThroughDiscoverManufactuere==========. 
+2020-11-24 17:27:42,439  :: INFO  :: [Logs]  :: User has clicked on Manufacturer Views. 
+2020-11-24 17:27:42,439  :: INFO  :: [Logs]  :: Select Manufacturer Views from left navigation. 
+2020-11-24 17:27:47,082  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <i _ngcontent-c17="" aria-hidden="true" class="fa fa-envelope-o icon-second" ngbtooltip="Message Manufacturer"></i> is not clickable at point (1284, 605). Other element would receive the click: <iframe src="https://app.hubspot.com/conversations-visitor/7872785/threads/utk/7a8f4aa5a9bb411580aa7570a4fa27fc?uuid=3da6c0555ce540439c4e7b8024d26b40&amp;mobile=false&amp;mobileSafari=false&amp;hideWelcomeMessage=false&amp;hstc=null&amp;domain=uatapp.mfg.com&amp;inApp53=false&amp;messagesUtk=7a8f4aa5a9bb411580aa7570a4fa27fc&amp;url=https%3A%2F%2Fuatapp.mfg.com%2F%23%2Fauth%2Flogin%2Fsimple&amp;inline=false&amp;isFullscreen=false&amp;globalCookieOptOut=null&amp;isFirstVisitorSession=false&amp;isAttachmentDisabled=false&amp;enableWidgetCookieBanner=false&amp;isInCMS=false" title="chat widget"></iframe>
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2020-11-24 17:27:47,083  :: INFO  :: [Logs]  :: Send Message through Discover Manufacture. 
+2020-11-24 17:27:49,273  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-24 17:27:49,273  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2020-11-24 17:27:49,966  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 17:27:52,915  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-24 17:27:54,187  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 17:27:57,395  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 17:27:57,395  :: INFO  :: [Logs]  :: supplier login. 
+2020-11-24 17:28:01,501  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-24 17:28:33,108  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Supplier Thread Manufacturer Views')]"}
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at MFG_Atomation.PageObjects.Messages.MessagesPageObject.VeriyMessageInGlobalTab(String sheetName, String RFQId, Int32 subjectRow, Int32 messageRow, Int32 userRow, Boolean isRFQIdPresent, String messageSubject, Boolean isattchmentPresent) in E:\MFG Code\mfg.automation\PageObjects\Messages\MessagesPageObject.cs:line 268. 
+2020-11-24 17:28:33,109  :: INFO  :: [Logs]  :: VeriyMessageInGlobalTabmethod is failed. 
+2020-11-24 17:28:33,297  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),'Supplier Thread Manufacturer Views')]"}
+  (Session info: chrome=86.0.4240.198)
+   at MFG_Atomation.PageObjects.Messages.MessagesPageObject.VeriyMessageInGlobalTab(String sheetName, String RFQId, Int32 subjectRow, Int32 messageRow, Int32 userRow, Boolean isRFQIdPresent, String messageSubject, Boolean isattchmentPresent) in E:\MFG Code\mfg.automation\PageObjects\Messages\MessagesPageObject.cs:line 324
+   at MFG_Atomation.Utility.Messages.MessagesUtility.M2_3344_ManufacturerViewsMessaging(String sheetName) in E:\MFG Code\mfg.automation\Utility\MessageUtlity\MessagesUtility.cs:line 500. 
+2020-11-24 17:28:33,297  :: INFO  :: [Logs]  :: M2_3344_ManufacturerViewsMessagingmethod is failed. 
+2020-11-24 17:28:33,788  :: ERROR :: [Logs]  :: ManufacturerViewsMessagingTest case failed. 
+2020-11-24 17:28:33,946  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:28:33,946  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3344_ManufacturerViewsMessaging ============================. 
+2020-11-24 17:28:33,946  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:28:34,810  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-24 17:28:34,816  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:28:34,816  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 17:28:34,816  :: INFO  :: [Logs]  :: ===============================================================================================================. 

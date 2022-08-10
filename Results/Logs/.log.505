@@ -1,0 +1,117 @@
+2020-12-03 18:53:02,993  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-03 18:53:03,005  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-03 18:53:03,005  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-03 18:53:03,075  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-03 18:53:03,088  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-03 18:53:03,088  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3462_VerifyFilterVisionSide started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-03 18:53:03,089  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-03 18:53:14,024  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-03 18:53:14,024  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-03 18:53:14,028  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-12-03 18:53:14,028  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-03 18:53:20,425  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-03 18:53:25,403  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-03 18:53:26,590  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-03 18:53:29,573  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-03 18:53:29,573  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-12-03 18:53:30,133  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-03 18:53:45,589  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-03 18:53:48,687  :: INFO  :: [Logs]  :: click on existing port. 
+2020-12-03 18:53:50,028  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-03 18:53:50,028  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-03 18:53:51,280  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-03 18:53:51,280  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-03 18:53:52,516  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-03 18:53:52,516  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-03 18:53:53,635  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-12-03 18:53:53,635  :: INFO  :: [Logs]  :: Select Unit. 
+2020-12-03 18:53:55,965  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-03 18:53:58,003  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-03 18:53:59,547  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-03 18:53:59,547  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-03 18:54:00,036  :: INFO  :: [Logs]  :: Select process. 
+2020-12-03 18:54:00,944  :: INFO  :: [Logs]  :: Select Material. 
+2020-12-03 18:54:01,228  :: INFO  :: [Logs]  :: Select post production process. 
+2020-12-03 18:54:02,486  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-12-03 18:54:02,486  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-12-03 18:54:02,576  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-03 18:54:07,577  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-12-03 18:54:07,577  :: INFO  :: [Logs]  :: Click On browse file button On DashBoard and add parts. 
+2020-12-03 18:54:07,959  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2020-12-03 18:54:08,477  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-12-03 18:54:08,535  :: INFO  :: [Logs]  :: The element Element (id = faeb94fa-7dc6-4e4e-9afe-cf37c3a353b8) was found on the page.. 
+2020-12-03 18:54:09,805  :: INFO  :: [Logs]  :: RFQ1782823027 entered in input field. 
+2020-12-03 18:54:09,806  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-12-03 18:54:10,989  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-12-03 18:54:10,990  :: INFO  :: [Logs]  :: select Purpose. 
+2020-12-03 18:54:13,143  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-03 18:54:15,181  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-03 18:54:16,401  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-03 18:54:16,401  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-12-03 18:54:18,542  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-03 18:54:20,593  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-03 18:54:21,798  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-03 18:54:21,798  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-12-03 18:54:22,013  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-12-03 18:54:22,144  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-12-03 18:54:23,798  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2020-12-03 18:54:29,510  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-12-03 18:54:29,709  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2020-12-03 18:54:29,796  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-12-03 18:54:35,839  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-12-03 18:54:36,073  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-12-03 18:54:37,528  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-03 18:54:37,528  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-12-03 18:54:37,709  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-12-03 18:54:38,927  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-12-03 18:54:40,418  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2020-12-03 18:54:40,418  :: INFO  :: [Logs]  :: Add RFQ Details. 
+2020-12-03 18:54:42,224  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-03 18:54:42,224  :: INFO  :: [Logs]  :: Buyer logged out successfully. 
+2020-12-03 18:54:42,910  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-03 18:54:56,686  :: INFO  :: [Logs]  :: jabdi@mfg.com entered in input field. 
+2020-12-03 18:54:57,884  :: INFO  :: [Logs]  :: Password@1234 entered in input field. 
+2020-12-03 18:54:57,969  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-03 18:54:57,969  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-12-03 18:55:04,389  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-12-03 18:55:05,921  :: INFO  :: [Logs]  :: RFQ1782823027 entered in input field. 
+2020-12-03 18:55:05,921  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2020-12-03 18:55:06,246  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-12-03 18:55:09,567  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-12-03 18:55:18,627  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-12-03 18:55:20,628  :: INFO  :: [Logs]  :: RFQ is released. 
+2020-12-03 18:55:21,153  :: INFO  :: [Logs]  :: click on RFQ List Button. 
+2020-12-03 18:55:26,355  :: INFO  :: [Logs]  :: Activeis selected From Dropdown. 
+2020-12-03 18:55:26,546  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Clear()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Clear()
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 41. 
+2020-12-03 18:55:26,548  :: INFO  :: [Logs]  :: value not selected System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.InvalidElementStateException: invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Clear()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 49
+   at MFG_Atomation.PageObjects.Filters.FiltersPageObject.SelectValueformFilter(String value, String rFQName) in E:\MFG Code\mfg.automation\PageObjects\Filters\FiltersPageObject.cs:line 129. 
+2020-12-03 18:55:26,548  :: INFO  :: [Logs]  :: SelectValueformFilter. 
+2020-12-03 18:55:26,936  :: ERROR :: [Logs]  :: M2-3462 VerifyFilterVisionSide Test case failed. 
+2020-12-03 18:55:26,994  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-03 18:55:26,994  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3462_VerifyFilterVisionSide ============================. 
+2020-12-03 18:55:26,994  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-03 18:55:27,560  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-03 18:55:27,566  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-03 18:55:27,566  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-03 18:55:27,566  :: INFO  :: [Logs]  :: ===============================================================================================================. 

@@ -1,0 +1,283 @@
+2020-11-26 14:15:03,870  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 14:15:03,888  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 14:15:03,888  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 14:15:03,968  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 14:15:04,018  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 14:15:04,019  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22922_Messaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 14:15:04,020  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 14:15:19,460  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 14:15:19,460  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 14:15:19,466  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 14:15:19,466  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 14:15:20,280  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 14:15:31,484  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 14:15:32,850  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 14:15:38,911  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 14:15:38,911  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-11-26 14:15:39,531  :: INFO  :: [Logs]  :: =========== Create RFQ ==========. 
+2020-11-26 14:15:47,357  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-11-26 14:15:52,055  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-26 14:15:55,725  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-11-26 14:15:57,311  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-26 14:16:00,283  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-11-26 14:16:00,283  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-11-26 14:16:03,225  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 14:16:05,287  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 14:16:06,940  :: INFO  :: [Logs]  :: Clicked on next button of date picker. 
+2020-11-26 14:16:09,005  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 14:16:11,090  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 14:16:12,889  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 14:16:13,145  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-11-26 14:16:16,566  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-11-26 14:16:16,735  :: INFO  :: [Logs]  :: The element Element (id = 5312307f-8c08-457a-b629-6af8c305e96a) was found on the page.. 
+2020-11-26 14:16:18,355  :: INFO  :: [Logs]  :: RFQ225959439 entered in input field. 
+2020-11-26 14:16:18,355  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-11-26 14:16:19,866  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-11-26 14:16:19,866  :: INFO  :: [Logs]  :: select Purpose. 
+2020-11-26 14:16:24,296  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 14:16:26,352  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 14:16:27,793  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 14:16:27,793  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-26 14:16:32,268  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 14:16:34,311  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 14:16:35,715  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 14:16:35,715  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-26 14:16:36,052  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-11-26 14:16:36,231  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-11-26 14:16:38,202  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2020-11-26 14:16:49,300  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-11-26 14:16:50,880  :: INFO  :: [Logs]  ::  entered in input field. 
+2020-11-26 14:16:58,776  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-11-26 14:16:59,213  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2020-11-26 14:16:59,477  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-11-26 14:17:07,489  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-11-26 14:17:08,095  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-11-26 14:17:10,595  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-11-26 14:17:10,595  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-11-26 14:17:11,255  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-11-26 14:17:12,692  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-11-26 14:17:15,043  :: INFO  :: [Logs]  :: ============ End of Function Create RFQ ==========. 
+2020-11-26 14:17:15,043  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-11-26 14:17:17,174  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-26 14:17:17,174  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-11-26 14:17:17,929  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 14:17:29,752  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-26 14:17:31,005  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-26 14:17:31,140  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 14:17:31,141  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-26 14:17:42,145  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-11-26 14:17:43,872  :: INFO  :: [Logs]  :: RFQ225959439 entered in input field. 
+2020-11-26 14:17:43,872  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2020-11-26 14:17:44,103  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-11-26 14:17:51,848  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-11-26 14:17:56,800  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-11-26 14:17:58,802  :: INFO  :: [Logs]  :: Release RFQ. 
+2020-11-26 14:18:00,395  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-11-26 14:18:00,395  :: INFO  :: [Logs]  :: Logout as a vision. 
+2020-11-26 14:18:00,768  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 14:18:06,602  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 14:18:08,120  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 14:18:12,031  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 14:18:12,031  :: INFO  :: [Logs]  :: supplier login. 
+2020-11-26 14:18:13,116  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-26 14:18:13,116  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-26 14:18:22,015  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-26 14:18:22,394  :: INFO  :: [Logs]  :: 'My RFQs' is clicked. 
+2020-11-26 14:18:26,215  :: INFO  :: [Logs]  :: RFQ225959439 entered in input field. 
+2020-11-26 14:18:26,557  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-26 14:18:29,559  :: INFO  :: [Logs]  :: Search the RFQ. 
+2020-11-26 14:18:35,742  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-11-26 14:18:38,244  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:18:42,295  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:18:44,094  :: INFO  :: [Logs]  :: Supplier Thread 1 entered in input field. 
+2020-11-26 14:18:44,095  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-26 14:18:44,204  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2020-11-26 14:18:45,972  :: INFO  :: [Logs]  :: Supplier to buyer entered in input field. 
+2020-11-26 14:18:45,972  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-26 14:18:46,094  :: INFO  :: [Logs]  :: click sent button. 
+2020-11-26 14:18:46,265  :: INFO  :: [Logs]  :: send message from supplier to buyer. 
+2020-11-26 14:18:49,107  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-11-26 14:18:49,107  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2020-11-26 14:18:49,918  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 14:18:54,909  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 14:18:56,208  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 14:18:59,319  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 14:18:59,319  :: INFO  :: [Logs]  :: Login buyer. 
+2020-11-26 14:19:05,185  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:19:33,747  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 14:19:40,833  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 1. 
+2020-11-26 14:19:41,107  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 14:19:53,830  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:19:53,830  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:19:55,540  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-11-26 14:20:00,176  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:20:30,036  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:20:38,529  :: INFO  :: [Logs]  :: click on Received Message. 
+2020-11-26 14:20:41,335  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 1. 
+2020-11-26 14:20:46,246  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:20:46,648  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:21:00,164  :: INFO  :: [Logs]  :: Verify Message on RFQ Details Tab. 
+2020-11-26 14:21:05,765  :: INFO  :: [Logs]  :: click on Dashboard button. 
+2020-11-26 14:21:06,287  :: INFO  :: [Logs]  :: Scroll down. 
+2020-11-26 14:21:06,529  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:21:19,519  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 1. 
+2020-11-26 14:21:19,520  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 14:21:20,858  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:21:20,858  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:21:22,035  :: INFO  :: [Logs]  :: Message is Display as expected: Supplier to buyer. 
+2020-11-26 14:21:22,035  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:21:22,156  :: INFO  :: [Logs]  :: Verify Message on Dashboard Tab. 
+2020-11-26 14:21:27,260  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:21:51,339  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:21:57,098  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 14:21:58,169  :: INFO  :: [Logs]  :: click on send button. 
+2020-11-26 14:21:58,302  :: INFO  :: [Logs]  :: Validation Message is present as Expected Enter the Message. 
+2020-11-26 14:21:59,729  :: INFO  :: [Logs]  :: Buyer to supplier entered in input field. 
+2020-11-26 14:21:59,729  :: INFO  :: [Logs]  :: entre Message. 
+2020-11-26 14:22:05,928  :: INFO  :: [Logs]  :: upload data file. 
+2020-11-26 14:22:06,244  :: INFO  :: [Logs]  :: click on send button. 
+2020-11-26 14:22:06,403  :: INFO  :: [Logs]  :: Send one to one Message. 
+2020-11-26 14:22:08,720  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-26 14:22:08,720  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-11-26 14:22:09,367  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 14:22:13,880  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 14:22:15,124  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 14:22:18,015  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 14:22:18,015  :: INFO  :: [Logs]  :: Login as a Manufacture. 
+2020-11-26 14:22:21,895  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:22:44,263  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 14:22:46,257  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 1. 
+2020-11-26 14:22:46,257  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 14:22:47,389  :: INFO  :: [Logs]  :: Validation Message is present as Expected Automation Buyer1. 
+2020-11-26 14:22:47,389  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:23:06,350  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-11-26 14:23:10,139  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:23:29,742  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:23:38,118  :: INFO  :: [Logs]  :: click on Received Message. 
+2020-11-26 14:23:40,925  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 1. 
+2020-11-26 14:23:52,421  :: INFO  :: [Logs]  :: Validation Message is present as Expected Automation Buyer1. 
+2020-11-26 14:23:52,421  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:23:52,526  :: INFO  :: [Logs]  :: Verify Message on RFQ Details Tab. 
+2020-11-26 14:23:56,550  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:24:18,255  :: INFO  :: [Logs]  :: click on Received message on global tab. 
+2020-11-26 14:24:20,623  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:24:27,503  :: INFO  :: [Logs]  :: click on Received message on RFQ Details page. 
+2020-11-26 14:24:29,171  :: INFO  :: [Logs]  :: Supplier Thread 2 entered in input field. 
+2020-11-26 14:24:29,171  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-26 14:24:29,205  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2020-11-26 14:24:30,791  :: INFO  :: [Logs]  :: Supplier to buyer1 entered in input field. 
+2020-11-26 14:24:30,791  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-26 14:24:30,921  :: INFO  :: [Logs]  :: click sent button. 
+2020-11-26 14:24:46,301  :: INFO  :: [Logs]  :: click on Received Message. 
+2020-11-26 14:25:09,259  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:25:18,520  :: INFO  :: [Logs]  :: send one to one message with new thread chain. 
+2020-11-26 14:25:21,005  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-11-26 14:25:21,005  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2020-11-26 14:25:21,621  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 14:25:26,504  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 14:25:27,718  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 14:25:30,679  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 14:25:30,680  :: INFO  :: [Logs]  :: Login buyer. 
+2020-11-26 14:25:34,588  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:25:56,681  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 14:25:58,532  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 2. 
+2020-11-26 14:25:58,532  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 14:25:59,670  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:25:59,670  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:26:02,655  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-11-26 14:26:06,529  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:26:24,482  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:26:33,426  :: INFO  :: [Logs]  :: click on Received Message. 
+2020-11-26 14:26:35,373  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 2. 
+2020-11-26 14:26:36,407  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:26:36,407  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:26:36,508  :: INFO  :: [Logs]  :: Verify Message on RFQ Details Tab. 
+2020-11-26 14:26:53,173  :: INFO  :: [Logs]  :: click on Dashboard button. 
+2020-11-26 14:26:53,510  :: INFO  :: [Logs]  :: Scroll down. 
+2020-11-26 14:26:53,671  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:27:06,934  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 2. 
+2020-11-26 14:27:06,934  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 14:27:08,076  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:27:08,076  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:27:09,174  :: INFO  :: [Logs]  :: Message is Display as expected: Supplier to buyer1. 
+2020-11-26 14:27:09,174  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:27:09,305  :: INFO  :: [Logs]  :: Verify Message on Dashboard Tab. 
+2020-11-26 14:27:13,301  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:27:34,928  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 14:27:36,002  :: INFO  :: [Logs]  :: click on send button. 
+2020-11-26 14:27:36,126  :: INFO  :: [Logs]  :: Validation Message is present as Expected Enter the Message. 
+2020-11-26 14:27:37,728  :: INFO  :: [Logs]  :: Buyer to supplier 1 entered in input field. 
+2020-11-26 14:27:37,728  :: INFO  :: [Logs]  :: entre Message. 
+2020-11-26 14:27:44,246  :: INFO  :: [Logs]  :: upload data file. 
+2020-11-26 14:27:44,610  :: INFO  :: [Logs]  :: click on send button. 
+2020-11-26 14:27:44,751  :: INFO  :: [Logs]  :: Send one to one Message through Global Tab. 
+2020-11-26 14:27:46,767  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-26 14:27:46,767  :: INFO  :: [Logs]  :: Logout Buyer. 
+2020-11-26 14:27:47,545  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 14:27:52,208  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 14:27:53,511  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 14:27:58,290  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 14:27:58,291  :: INFO  :: [Logs]  :: Login as a Manufacture. 
+2020-11-26 14:28:02,996  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:28:33,003  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 14:28:35,407  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 2. 
+2020-11-26 14:28:35,408  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 14:28:36,588  :: INFO  :: [Logs]  :: Validation Message is present as Expected Automation Buyer1. 
+2020-11-26 14:28:36,588  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:28:44,348  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-11-26 14:28:48,179  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:29:04,584  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:29:10,680  :: INFO  :: [Logs]  :: click on Received Message. 
+2020-11-26 14:29:11,780  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - Supplier Thread 2. 
+2020-11-26 14:29:12,817  :: INFO  :: [Logs]  :: Validation Message is present as Expected Automation Buyer1. 
+2020-11-26 14:29:12,817  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:29:12,947  :: INFO  :: [Logs]  :: Verify Message on RFQ Details Tab. 
+2020-11-26 14:29:16,740  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:29:39,876  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 14:29:41,726  :: INFO  :: [Logs]  :: supplier Thread 3 entered in input field. 
+2020-11-26 14:29:41,727  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-26 14:29:41,810  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2020-11-26 14:29:43,943  :: INFO  :: [Logs]  :: Supplier to buyer2 entered in input field. 
+2020-11-26 14:29:43,943  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-26 14:29:44,192  :: INFO  :: [Logs]  :: click sent button. 
+2020-11-26 14:31:11,422  :: INFO  :: [Logs]  :: click on Received Message. 
+2020-11-26 14:31:13,618  :: INFO  :: [Logs]  :: Validation Message is present as Expected Automation Buyer1. 
+2020-11-26 14:31:13,618  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:31:13,924  :: INFO  :: [Logs]  :: send one to one message with new thread chain. 
+2020-11-26 14:31:14,363  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 14:31:15,907  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 14:31:17,140  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 14:31:23,639  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 14:31:23,640  :: INFO  :: [Logs]  :: Login buyer. 
+2020-11-26 14:31:27,654  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:31:53,700  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 14:31:55,835  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - supplier Thread 3. 
+2020-11-26 14:31:55,835  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 14:31:56,966  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:31:56,966  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:32:03,046  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-11-26 14:32:06,681  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 14:32:25,808  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:32:39,251  :: INFO  :: [Logs]  :: click on Received Message. 
+2020-11-26 14:32:40,357  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - supplier Thread 3. 
+2020-11-26 14:32:41,392  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:32:41,392  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:32:41,467  :: INFO  :: [Logs]  :: Verify Message on RFQ Details Tab. 
+2020-11-26 14:32:52,763  :: INFO  :: [Logs]  :: click on Dashboard button. 
+2020-11-26 14:32:53,613  :: INFO  :: [Logs]  :: Scroll down. 
+2020-11-26 14:32:54,800  :: INFO  :: [Logs]  :: click on Message Tab. 
+2020-11-26 14:33:09,927  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154666 - supplier Thread 3. 
+2020-11-26 14:33:10,477  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 14:33:14,191  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-11-26 14:33:14,740  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:33:17,740  :: INFO  :: [Logs]  :: Message is Display as expected: Supplier to buyer2. 
+2020-11-26 14:33:18,125  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 14:33:20,195  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-11-26 14:33:24,183  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2020-11-26 14:33:24,646  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 14:33:24,646  :: INFO  :: [Logs]  :: ====================== End of Test Case : M22922_Messaging ============================. 
+2020-11-26 14:33:24,646  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 14:33:25,740  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-26 14:33:25,755  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 14:33:25,755  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 14:33:25,755  :: INFO  :: [Logs]  :: ===============================================================================================================. 

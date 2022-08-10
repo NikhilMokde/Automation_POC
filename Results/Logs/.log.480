@@ -1,0 +1,19 @@
+2020-12-10 11:15:53,080  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-10 11:15:53,099  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-10 11:15:53,099  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-10 11:15:53,185  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-10 11:15:53,214  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-10 11:15:53,215  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3493_VerifyMyRFQFilterBuyerSide started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-10 11:15:53,219  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-10 11:17:09,936  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-10 11:17:48,287  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2020-12-10 11:17:48,352  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 168
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 181. 
+2020-12-10 11:17:50,679  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-10 11:17:50,679  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3493_VerifyMyRFQFilterBuyerSide ============================. 
+2020-12-10 11:17:50,679  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-10 11:17:51,744  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-10 11:17:51,744  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-10 11:17:51,744  :: INFO  :: [Logs]  :: ===============================================================================================================. 

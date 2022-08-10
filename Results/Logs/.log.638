@@ -1,0 +1,74 @@
+2020-11-24 15:45:38,893  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:45:38,928  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 15:45:38,928  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:45:39,380  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-24 15:45:39,480  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:45:39,481  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22965_ExternalMessagesWithLeadstream started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 15:45:39,482  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:46:00,090  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 15:46:00,090  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 15:46:00,095  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 15:46:00,095  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 15:46:12,266  :: INFO  :: [Logs]  :: ==========LeadStreamCreation==========. 
+2020-11-24 15:46:22,754  :: INFO  :: [Logs]  :: Automation entered in input field. 
+2020-11-24 15:46:22,756  :: INFO  :: [Logs]  :: Entre First Name. 
+2020-11-24 15:46:24,049  :: INFO  :: [Logs]  :: supplier entered in input field. 
+2020-11-24 15:46:24,049  :: INFO  :: [Logs]  :: Entre last Name. 
+2020-11-24 15:46:26,407  :: INFO  :: [Logs]  :: AutomationSupplierCompany884413312 entered in input field. 
+2020-11-24 15:46:26,408  :: INFO  :: [Logs]  :: Entre company. 
+2020-11-24 15:46:27,938  :: INFO  :: [Logs]  :: automationsupplier.com entered in input field. 
+2020-11-24 15:46:27,938  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-24 15:46:29,464  :: INFO  :: [Logs]  :: 123456789 entered in input field. 
+2020-11-24 15:46:29,464  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-24 15:46:30,680  :: INFO  :: [Logs]  :: Validation Message is present as Expected Email is required. 
+2020-11-24 15:46:32,204  :: INFO  :: [Logs]  :: LeadStream Testing entered in input field. 
+2020-11-24 15:46:32,204  :: INFO  :: [Logs]  :: Entre  subject. 
+2020-11-24 15:46:32,230  :: INFO  :: [Logs]  :: Send button is disabled. 
+2020-11-24 15:46:33,682  :: INFO  :: [Logs]  :: automationsupplier2@yopmail.com entered in input field. 
+2020-11-24 15:46:33,682  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-24 15:46:35,017  :: INFO  :: [Logs]  :: abcdefd entered in input field. 
+2020-11-24 15:46:35,017  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-24 15:46:36,165  :: INFO  :: [Logs]  :: Validation Message is present as Expected Please enter a valid phone number.. 
+2020-11-24 15:46:36,211  :: INFO  :: [Logs]  :: Send button is disabled. 
+2020-11-24 15:46:37,873  :: INFO  :: [Logs]  :: 123456789 entered in input field. 
+2020-11-24 15:46:37,873  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-24 15:46:39,396  :: INFO  :: [Logs]  :: This is for LeadStream Testing  entered in input field. 
+2020-11-24 15:46:39,397  :: INFO  :: [Logs]  :: Entre Message. 
+2020-11-24 15:46:39,572  :: INFO  :: [Logs]  :: Entre Message. 
+2020-11-24 15:46:45,523  :: INFO  :: [Logs]  :: upload file. 
+2020-11-24 15:46:50,696  :: INFO  :: [Logs]  :: click on Send button. 
+2020-11-24 15:46:50,696  :: INFO  :: [Logs]  :: ==========EndLeadStreamCreation==========. 
+2020-11-24 15:46:51,476  :: INFO  :: [Logs]  :: Send Lead stream message externally. 
+2020-11-24 15:46:52,002  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 15:46:57,249  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-24 15:46:58,544  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-24 15:46:58,643  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 15:46:58,643  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-24 15:46:59,050  :: INFO  :: [Logs]  :: ==========ReleaseLeadStreamMessage==========. 
+2020-11-24 15:47:00,875  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-24 15:47:14,223  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-24 15:47:15,936  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a _ngcontent-c16="" class="btn tracker-filter-button-inactive">...</a> is not clickable at point (605, 318). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2020-11-24 15:47:16,509  :: ERROR :: [Logs]  :: Test case failed. 
+2020-11-24 15:47:18,116  :: ERROR :: [Logs]  :: Test case failed. 
+2020-11-24 15:47:18,554  :: ERROR :: [Logs]  :: Test case failed. 
+2020-11-24 15:47:18,686  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:47:18,686  :: INFO  :: [Logs]  :: ====================== End of Test Case : M22965_ExternalMessagesWithLeadstream ============================. 
+2020-11-24 15:47:18,686  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:47:19,228  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-24 15:47:19,235  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:47:19,236  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 15:47:19,236  :: INFO  :: [Logs]  :: ===============================================================================================================. 

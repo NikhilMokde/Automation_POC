@@ -1,0 +1,133 @@
+2021-01-02 16:23:20,580  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 16:23:20,603  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 16:23:20,603  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 16:23:20,698  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-02 16:23:20,762  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 16:23:20,763  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3462_VerifyFilterVisionSide started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 16:23:20,763  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 16:23:39,830  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-02 16:23:39,831  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-02 16:23:39,841  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-02 16:23:39,841  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-02 16:23:54,073  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 16:24:01,427  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-02 16:24:03,388  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-02 16:24:08,943  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 16:24:08,943  :: INFO  :: [Logs]  :: login as a buyer. 
+2021-01-02 16:24:09,952  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2021-01-02 16:24:32,855  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2021-01-02 16:24:35,969  :: INFO  :: [Logs]  :: click on existing port. 
+2021-01-02 16:24:37,670  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2021-01-02 16:24:37,670  :: INFO  :: [Logs]  :: Entre Part Name. 
+2021-01-02 16:24:38,963  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2021-01-02 16:24:38,963  :: INFO  :: [Logs]  :: Entre Part No. 
+2021-01-02 16:24:40,362  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2021-01-02 16:24:40,362  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2021-01-02 16:24:41,563  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2021-01-02 16:24:41,563  :: INFO  :: [Logs]  :: Select Unit. 
+2021-01-02 16:24:44,124  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 16:24:46,234  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 16:24:47,650  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 16:24:47,650  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 16:24:48,401  :: INFO  :: [Logs]  :: Select process. 
+2021-01-02 16:24:49,951  :: INFO  :: [Logs]  :: Select Material. 
+2021-01-02 16:24:50,528  :: INFO  :: [Logs]  :: Select post production process. 
+2021-01-02 16:24:52,016  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2021-01-02 16:24:52,016  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2021-01-02 16:24:52,164  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2021-01-02 16:24:57,165  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2021-01-02 16:24:57,165  :: INFO  :: [Logs]  :: Click On browse file button On DashBoard and add parts. 
+2021-01-02 16:24:57,686  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2021-01-02 16:24:58,742  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2021-01-02 16:24:58,975  :: INFO  :: [Logs]  :: The element Element (id = b6d28257-de49-4bb8-9c90-bebcfa5f2c0e) was found on the page.. 
+2021-01-02 16:25:00,489  :: INFO  :: [Logs]  :: RFQ1632232054 entered in input field. 
+2021-01-02 16:25:00,489  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2021-01-02 16:25:01,695  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2021-01-02 16:25:01,695  :: INFO  :: [Logs]  :: select Purpose. 
+2021-01-02 16:25:03,927  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 16:25:05,974  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 16:25:07,190  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 16:25:07,190  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-02 16:25:09,429  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 16:25:11,462  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 16:25:12,714  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 16:25:12,714  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-02 16:25:13,020  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2021-01-02 16:25:13,180  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2021-01-02 16:25:15,004  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2021-01-02 16:25:22,051  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2021-01-02 16:25:22,313  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2021-01-02 16:25:22,439  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2021-01-02 16:25:29,849  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2021-01-02 16:25:30,234  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2021-01-02 16:25:32,206  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2021-01-02 16:25:32,206  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2021-01-02 16:25:32,439  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2021-01-02 16:25:33,226  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2021-01-02 16:25:34,378  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2021-01-02 16:25:34,378  :: INFO  :: [Logs]  :: Add RFQ Details. 
+2021-01-02 16:25:36,417  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2021-01-02 16:25:36,417  :: INFO  :: [Logs]  :: Buyer logged out successfully. 
+2021-01-02 16:25:37,202  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 16:25:42,700  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2021-01-02 16:25:44,065  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2021-01-02 16:25:44,204  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 16:25:44,204  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2021-01-02 16:26:06,577  :: INFO  :: [Logs]  :: List view is enabled. 
+2021-01-02 16:26:08,494  :: INFO  :: [Logs]  :: RFQ1632232054 entered in input field. 
+2021-01-02 16:26:08,495  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2021-01-02 16:26:08,782  :: INFO  :: [Logs]  :: Search button is clicked. 
+2021-01-02 16:26:13,499  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2021-01-02 16:26:20,113  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2021-01-02 16:26:22,114  :: INFO  :: [Logs]  :: RFQ is released. 
+2021-01-02 16:26:23,244  :: INFO  :: [Logs]  :: click on RFQ List Button. 
+2021-01-02 16:26:27,193  :: INFO  :: [Logs]  :: United States entered in input field. 
+2021-01-02 16:26:57,652  :: INFO  :: [Logs]  :: RFQ1632232054 entered in input field. 
+2021-01-02 16:26:57,652  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2021-01-02 16:26:58,158  :: INFO  :: [Logs]  :: Search button is clicked. 
+2021-01-02 16:27:30,450  :: ERROR :: [Logs]  :: element not loaded  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 30 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //i[@class='fa fa-edit pointerCursor']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 139. 
+2021-01-02 16:27:30,454  :: INFO  :: [Logs]  :: value not selected OpenQA.Selenium.WebDriverTimeoutException: Timed out after 30 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //i[@class='fa fa-edit pointerCursor']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 144
+   at MFG_Atomation.PageObjects.Filters.FiltersPageObject.SelectValueformFilter(String value, String rFQName, String typeofDropdown) in E:\MFG Code\mfg.automation\PageObjects\Filters\FiltersPageObject.cs:line 230. 
+2021-01-02 16:27:30,479  :: INFO  :: [Logs]  :: SelectValueformFilter. 
+2021-01-02 16:27:33,916  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverTimeoutException: Timed out after 30 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //i[@class='fa fa-edit pointerCursor']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Filters.FiltersPageObject.SelectValueformFilter(String value, String rFQName, String typeofDropdown) in E:\MFG Code\mfg.automation\PageObjects\Filters\FiltersPageObject.cs:line 240
+   at MFG_Atomation.Utility.Filters.FilterUtility.M2_3462_VerifyFilterVisionSide(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 308. 
+2021-01-02 16:27:33,916  :: INFO  :: [Logs]  :: M2_3462_VerifyFilterVisionSidemethod is failed. 
+2021-01-02 16:27:34,440  :: ERROR :: [Logs]  :: M2-3462 VerifyFilterVisionSide Test case failed. 
+2021-01-02 16:27:34,655  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 16:27:34,655  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3462_VerifyFilterVisionSide ============================. 
+2021-01-02 16:27:34,655  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 16:27:37,509  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-02 16:27:37,517  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 16:27:37,517  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 16:27:37,517  :: INFO  :: [Logs]  :: ===============================================================================================================. 

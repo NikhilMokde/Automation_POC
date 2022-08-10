@@ -1,0 +1,21 @@
+2022-08-08 14:53:53,067  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 14:53:53,077  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2022-08-08 14:53:53,077  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 14:53:53,089  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2022-08-08 14:56:12,659  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Student ID]. 
+2022-08-08 14:56:13,577  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[FirstName]. 
+2022-08-08 14:56:14,899  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[LastName]. 
+2022-08-08 14:56:16,009  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Age]. 
+2022-08-08 14:56:19,258  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Student ID]. 
+2022-08-08 14:56:20,178  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[FirstName]. 
+2022-08-08 14:56:21,047  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[LastName]. 
+2022-08-08 14:56:21,882  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Age]. 
+2022-08-08 14:56:28,928  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2022-08-08 14:56:28,995  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in C:\Users\NMokade\Downloads\Automation Framework\Automation Framework\Generics\CommonActions.cs:line 159. 
+2022-08-08 14:56:57,641  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 14:56:57,642  :: INFO  :: [Logs]  :: ====================== End of Test Case : RetriveDataFromDatabase ============================. 
+2022-08-08 14:56:57,642  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 14:57:01,421  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 14:57:01,421  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2022-08-08 14:57:01,421  :: INFO  :: [Logs]  :: ===============================================================================================================. 

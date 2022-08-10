@@ -1,0 +1,65 @@
+2020-12-29 12:40:54,473  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:40:54,494  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 12:40:54,494  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:40:54,611  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-29 12:40:54,699  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:40:54,700  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_MFGContactsMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 12:40:54,701  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:41:16,570  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-29 12:41:16,570  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-29 12:41:16,597  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-29 12:41:16,597  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-29 12:41:21,874  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-29 12:41:24,740  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-12-29 12:41:25,990  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 12:41:31,392  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-29 12:41:31,393  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-12-29 12:41:32,094  :: INFO  :: [Logs]  :: ==========SendMessageThroughDiscoverManufactuere==========. 
+2020-12-29 12:41:32,935  :: INFO  :: [Logs]  :: User has clicked on MFG Contacts. 
+2020-12-29 12:41:32,936  :: INFO  :: [Logs]  :: Select MFG Contacts from left navigation. 
+2020-12-29 12:41:35,540  :: INFO  :: [Logs]  :: Pune MFG entered in input field. 
+2020-12-29 12:41:35,540  :: INFO  :: [Logs]  :: Search the manufacturer. 
+2020-12-29 12:41:39,958  :: INFO  :: [Logs]  :: Click on search icon. 
+2020-12-29 12:41:45,204  :: INFO  :: [Logs]  :: click on Send Message Button. 
+2020-12-29 12:41:46,646  :: INFO  :: [Logs]  ::  Thread  MFG Contacts entered in input field. 
+2020-12-29 12:41:46,647  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-12-29 12:41:46,679  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2020-12-29 12:41:48,351  :: INFO  :: [Logs]  :: supplier to buyer MFG Contacts entered in input field. 
+2020-12-29 12:41:48,351  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-12-29 12:42:00,080  :: INFO  :: [Logs]  :: upload data file. 
+2020-12-29 12:42:00,178  :: INFO  :: [Logs]  :: click sent button. 
+2020-12-29 12:42:02,894  :: INFO  :: [Logs]  :: Message is Display as expected:Message sent successfully.. 
+2020-12-29 12:42:02,894  :: INFO  :: [Logs]  :: ==========End of SendMessageThroughDiscoverManufactuere==========. 
+2020-12-29 12:42:02,894  :: INFO  :: [Logs]  :: Send Message through Discover Manufacture. 
+2020-12-29 12:42:05,486  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-12-29 12:42:05,486  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2020-12-29 12:42:06,243  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-29 12:42:09,647  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-29 12:42:10,874  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 12:42:14,639  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-29 12:42:14,639  :: INFO  :: [Logs]  :: supplier login. 
+2020-12-29 12:42:20,148  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-12-29 12:42:43,504  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-12-29 12:43:38,010  :: INFO  :: [Logs]  :: Message is Display as expected:Thread  MFG Contacts. 
+2020-12-29 12:43:41,128  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-12-29 12:43:56,962  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation supplier. 
+2020-12-29 12:43:57,928  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-12-29 12:44:08,052  :: INFO  :: [Logs]  :: Failed to enter the data in field NUnit.Framework.AssertionException: Message is not present expected:Buyer to supplier
+   at NUnit.Framework.Assert.ReportFailure(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 394
+   at NUnit.Framework.Assert.Fail(String message, Object[] args) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 145
+   at NUnit.Framework.Assert.Fail(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 155
+   at MFG_Automation.Generics.Helper.VerifyMessage(String actualMessage, String exepctedMessage) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 497
+   at MFG_Atomation.PageObjects.Messages.MessagesPageObject.VeriyMessageInGlobalTab(String sheetName, String RFQId, Int32 subjectRow, Int32 messageRow, Int32 userRow, Boolean isRFQIdPresent, String messageSubject, Boolean isattchmentPresent, Boolean isSpecialInviteMessageRowFirst) in E:\MFG Code\mfg.automation\PageObjects\Messages\MessagesPageObject.cs:line 322. 
+2020-12-29 12:44:08,065  :: INFO  :: [Logs]  :: VeriyMessageInGlobalTabmethod is failed. 
+2020-12-29 12:44:09,131  :: INFO  :: [Logs]  :: Failed to enter the data in field NUnit.Framework.AssertionException: Message is not present expected:Buyer to supplier
+   at MFG_Atomation.PageObjects.Messages.MessagesPageObject.VeriyMessageInGlobalTab(String sheetName, String RFQId, Int32 subjectRow, Int32 messageRow, Int32 userRow, Boolean isRFQIdPresent, String messageSubject, Boolean isattchmentPresent, Boolean isSpecialInviteMessageRowFirst) in E:\MFG Code\mfg.automation\PageObjects\Messages\MessagesPageObject.cs:line 339
+   at MFG_Atomation.Utility.Messages.MessagesUtility.M2_3344_MFGContactsMessaging(String sheetName) in E:\MFG Code\mfg.automation\Utility\MessageUtlity\MessagesUtility.cs:line 556. 
+2020-12-29 12:44:09,132  :: INFO  :: [Logs]  :: M2_3344_MFGContactsMessagingmethod is failed. 
+2020-12-29 12:44:09,641  :: ERROR :: [Logs]  :: MFGContactsMessagingTest case failed. 
+2020-12-29 12:44:11,943  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:44:11,943  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3344_MFGContactsMessaging ============================. 
+2020-12-29 12:44:11,943  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:44:18,679  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-29 12:44:18,686  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:44:18,686  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 12:44:18,686  :: INFO  :: [Logs]  :: ===============================================================================================================. 

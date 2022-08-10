@@ -1,0 +1,13 @@
+2020-12-29 12:28:39,805  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:28:39,825  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 12:28:39,825  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:28:39,926  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-29 12:28:39,948  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:28:39,949  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_ContactListMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 12:28:39,949  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:32:38,950  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-29 12:32:40,083  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2020-12-29 12:32:40,617  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 168
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 181. 

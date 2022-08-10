@@ -1,0 +1,105 @@
+2020-04-17 19:19:54,709  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-17 19:19:54,733  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-17 19:19:54,733  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-17 19:19:54,933  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-17 19:19:56,357  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-17 19:19:56,358  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22774_QMSUpdationAndCreation started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-17 19:19:56,359  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-17 19:21:05,467  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-17 19:21:05,467  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-17 19:21:05,494  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-04-17 19:21:05,494  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-17 19:21:19,846  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-17 19:22:15,159  :: INFO  :: [Logs]  :: Clicked on QMS tab. 
+2020-04-17 19:22:17,341  :: INFO  :: [Logs]  :: Clicked on create quote. 
+2020-04-17 19:22:23,723  :: INFO  :: [Logs]  :: Clicked on create new customer. 
+2020-04-17 19:22:25,894  :: INFO  :: [Logs]  :: Automation Company entered in input field. 
+2020-04-17 19:22:25,894  :: INFO  :: [Logs]  :: Enter data on company name text box. 
+2020-04-17 19:22:27,522  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115499 entered in input field. 
+2020-04-17 19:22:27,522  :: INFO  :: [Logs]  :: Enter data on first name text box. 
+2020-04-17 19:22:29,107  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115536 entered in input field. 
+2020-04-17 19:22:29,107  :: INFO  :: [Logs]  :: Enter data on last name text box. 
+2020-04-17 19:22:30,658  :: INFO  :: [Logs]  :: automanufacturer001070112115649 entered in input field. 
+2020-04-17 19:22:30,658  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-04-17 19:22:32,064  :: INFO  :: [Logs]  :: Pune Maharashtra entered in input field. 
+2020-04-17 19:22:32,064  :: INFO  :: [Logs]  :: Enter data on address text box. 
+2020-04-17 19:22:32,196  :: INFO  :: [Logs]  :: Country selected successfully. 
+2020-04-17 19:22:34,112  :: INFO  :: [Logs]  :: State selected successfully. 
+2020-04-17 19:22:35,466  :: INFO  :: [Logs]  :: Pune entered in input field. 
+2020-04-17 19:22:35,466  :: INFO  :: [Logs]  :: Enter data on city name text box. 
+2020-04-17 19:22:36,739  :: INFO  :: [Logs]  :: 152NY entered in input field. 
+2020-04-17 19:22:36,739  :: INFO  :: [Logs]  :: Enter data on zip code text box. 
+2020-04-17 19:22:38,197  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-04-17 19:22:38,197  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-04-17 19:22:39,755  :: INFO  :: [Logs]  :: mfgautomation@yopmail.com entered in input field. 
+2020-04-17 19:22:39,755  :: INFO  :: [Logs]  :: Enter valid mail address. 
+2020-04-17 19:22:40,924  :: INFO  :: [Logs]  :: abcd entered in input field. 
+2020-04-17 19:22:40,924  :: INFO  :: [Logs]  :: Enter invalid data on phone number text box. 
+2020-04-17 19:22:42,214  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-04-17 19:22:42,214  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-04-17 19:22:42,377  :: INFO  :: [Logs]  :: Clicked on save QMS customer. 
+2020-04-17 19:22:48,340  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-17 19:22:53,807  :: INFO  :: [Logs]  :: M2 - 2763_CreateRFQAwardAndUpdate entered in input field. 
+2020-04-17 19:22:55,121  :: INFO  :: [Logs]  :: QMS469653346 entered in input field. 
+2020-04-17 19:22:55,221  :: INFO  :: [Logs]  :: Clicked on Get Started. 
+2020-04-17 19:23:08,535  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2020-04-17 19:23:13,395  :: INFO  :: [Logs]  :: Clicked on Enter datails. 
+2020-04-17 19:23:14,610  :: INFO  :: [Logs]  :: 123 entered in input field. 
+2020-04-17 19:23:14,610  :: INFO  :: [Logs]  :: Enter data on part name text box. 
+2020-04-17 19:23:15,864  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-04-17 19:23:15,864  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2020-04-17 19:23:17,234  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-04-17 19:23:17,234  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-04-17 19:23:18,612  :: INFO  :: [Logs]  :: Part Description entered in input field. 
+2020-04-17 19:23:18,612  :: INFO  :: [Logs]  :: Entered Part Description. 
+2020-04-17 19:23:19,896  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-04-17 19:23:19,896  :: INFO  :: [Logs]  :: Enter data on cost text box. 
+2020-04-17 19:23:21,476  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2020-04-17 19:23:22,609  :: INFO  :: [Logs]  :: ? entered in input field. 
+2020-04-17 19:23:22,639  :: INFO  :: [Logs]  :: Entered Post Process. 
+2020-04-17 19:23:22,852  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2020-04-17 19:23:47,102  :: INFO  :: [Logs]  :: Clicked on Add Quote Details. 
+2020-04-17 19:23:47,194  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2020-04-17 19:23:56,726  :: INFO  :: [Logs]  :: 3 entered in input field. 
+2020-04-17 19:23:58,080  :: INFO  :: [Logs]  :: This is for Testing  entered in input field. 
+2020-04-17 19:24:00,355  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-17 19:24:02,404  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-17 19:24:03,945  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-17 19:24:04,022  :: INFO  :: [Logs]  :: Payment term has been selected. 
+2020-04-17 19:24:04,225  :: INFO  :: [Logs]  :: Clicked on Review Quote. 
+2020-04-17 19:24:06,143  :: INFO  :: [Logs]  :: Page Navigate to QMS Details Page. 
+2020-04-17 19:24:06,275  :: INFO  :: [Logs]  :: Clicked on Finish Quote. 
+2020-04-17 19:24:06,423  :: INFO  :: [Logs]  :: Clicked on Email to customer. 
+2020-04-17 19:24:20,068  :: INFO  :: [Logs]  :: MFG.cpm entered in input field. 
+2020-04-17 19:24:20,068  :: INFO  :: [Logs]  :: Enter data on subject text box. 
+2020-04-17 19:24:21,482  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-17 19:24:21,482  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-04-17 19:24:21,591  :: INFO  :: [Logs]  :: Clicked on Send Email. 
+2020-04-17 19:24:30,749  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <p _ngcontent-c31="" class="lead-head">...</p> is not clickable at point (325, 83). Other element would receive the click: <div _ngcontent-c32="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at OpenQA.Selenium.Support.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 116. 
+2020-04-17 19:24:34,585  :: INFO  :: [Logs]  :: Failed to enter the data in field System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <p _ngcontent-c31="" class="lead-head">...</p> is not clickable at point (325, 83). Other element would receive the click: <div _ngcontent-c32="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 121
+   at MFG_Atomation.PageObjects.QMS.QMSQuoate.CreateQMS(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\QMS\QMSQuoate.cs:line 535. 
+2020-04-17 19:24:34,658  :: INFO  :: [Logs]  :: CreateQMSmethod is failed. 
+2020-04-17 19:24:35,950  :: ERROR :: [Logs]  :: Test case failed. 
+2020-04-17 19:25:24,012  :: INFO  :: [Logs]  :: mfgautomation@yopmail.com entered in input field. 
+2020-04-17 19:25:36,776  :: INFO  :: [Logs]  :: Email Recived by Customer. 

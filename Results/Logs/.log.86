@@ -1,0 +1,152 @@
+2021-01-07 17:48:18,760  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-07 17:48:18,769  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-07 17:48:18,769  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-07 17:48:18,820  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-07 17:48:18,835  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-07 17:48:18,835  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3295_OpenRFQ started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-07 17:48:18,839  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-07 17:48:44,989  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-07 17:48:44,990  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-07 17:48:44,994  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-07 17:48:44,994  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-07 17:48:48,731  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-07 17:48:52,989  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-07 17:48:54,192  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-07 17:48:58,262  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-07 17:48:58,263  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-07 17:48:58,897  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2021-01-07 17:49:00,457  :: INFO  :: [Logs]  :: click on RFQ button. 
+2021-01-07 17:49:00,555  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2021-01-07 17:49:00,555  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2021-01-07 17:49:00,555  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2021-01-07 17:49:01,119  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2021-01-07 17:49:13,872  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2021-01-07 17:49:14,832  :: INFO  :: [Logs]  :: click on existing port. 
+2021-01-07 17:49:16,136  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2021-01-07 17:49:16,136  :: INFO  :: [Logs]  :: Entre Part Name. 
+2021-01-07 17:49:17,406  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2021-01-07 17:49:17,406  :: INFO  :: [Logs]  :: Entre Part No. 
+2021-01-07 17:49:18,629  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2021-01-07 17:49:18,629  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2021-01-07 17:49:19,737  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2021-01-07 17:49:19,737  :: INFO  :: [Logs]  :: Select Unit. 
+2021-01-07 17:49:22,108  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-07 17:49:24,140  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-07 17:49:25,445  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-07 17:49:25,445  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-07 17:49:25,773  :: INFO  :: [Logs]  :: Select process. 
+2021-01-07 17:49:26,596  :: INFO  :: [Logs]  :: Select Material. 
+2021-01-07 17:49:26,919  :: INFO  :: [Logs]  :: Select post production process. 
+2021-01-07 17:49:28,137  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2021-01-07 17:49:28,137  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2021-01-07 17:49:28,204  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2021-01-07 17:49:29,206  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2021-01-07 17:49:29,206  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2021-01-07 17:49:29,639  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2021-01-07 17:49:30,255  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2021-01-07 17:49:30,325  :: INFO  :: [Logs]  :: The element Element (id = 8ea1444b-144e-4ad3-88a8-2b3afa391b90) was found on the page.. 
+2021-01-07 17:49:31,555  :: INFO  :: [Logs]  :: RFQ927512992 entered in input field. 
+2021-01-07 17:49:31,555  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2021-01-07 17:49:32,749  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2021-01-07 17:49:32,749  :: INFO  :: [Logs]  :: select Purpose. 
+2021-01-07 17:49:34,923  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-07 17:49:36,964  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-07 17:49:38,178  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-07 17:49:38,178  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-07 17:49:40,357  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-07 17:49:42,393  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-07 17:49:43,578  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-07 17:49:43,578  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-07 17:49:43,762  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2021-01-07 17:49:43,899  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2021-01-07 17:49:44,186  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2021-01-07 17:49:44,313  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2021-01-07 17:49:50,572  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2021-01-07 17:49:50,943  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2021-01-07 17:49:52,528  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2021-01-07 17:49:52,528  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2021-01-07 17:49:52,693  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2021-01-07 17:49:53,418  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2021-01-07 17:49:54,601  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2021-01-07 17:49:54,601  :: INFO  :: [Logs]  :: add RFQ Details. 
+2021-01-07 17:49:56,500  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2021-01-07 17:49:56,500  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2021-01-07 17:49:57,129  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-07 17:50:03,682  :: INFO  :: [Logs]  :: jabdi@mfg.com entered in input field. 
+2021-01-07 17:50:04,868  :: INFO  :: [Logs]  :: Password@1234 entered in input field. 
+2021-01-07 17:50:04,969  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-07 17:50:04,969  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2021-01-07 17:50:12,172  :: INFO  :: [Logs]  :: List view is enabled. 
+2021-01-07 17:50:13,578  :: INFO  :: [Logs]  :: RFQ927512992 entered in input field. 
+2021-01-07 17:50:13,578  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2021-01-07 17:50:13,847  :: INFO  :: [Logs]  :: Search button is clicked. 
+2021-01-07 17:50:17,026  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2021-01-07 17:50:23,289  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2021-01-07 17:50:23,289  :: INFO  :: [Logs]  :: RFQ is released. 
+2021-01-07 17:50:24,556  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2021-01-07 17:50:24,556  :: INFO  :: [Logs]  :: Vision has logged out. 
+2021-01-07 17:50:24,925  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-07 17:50:28,298  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2021-01-07 17:50:29,574  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-07 17:50:34,226  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-07 17:50:34,226  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2021-01-07 17:50:34,821  :: INFO  :: [Logs]  :: ==========VerifyOpenRFQDetails==========. 
+2021-01-07 17:50:35,292  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2021-01-07 17:50:35,292  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2021-01-07 17:50:36,200  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2021-01-07 17:50:36,398  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2021-01-07 17:50:40,386  :: INFO  :: [Logs]  :: RFQ927512992 entered in input field. 
+2021-01-07 17:50:40,386  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2021-01-07 17:50:42,184  :: INFO  :: [Logs]  :: click on RFQ Company Name. 
+2021-01-07 17:51:08,429  :: INFO  :: [Logs]  :: Get RFQ Count. 
+2021-01-07 17:51:18,670  :: INFO  :: [Logs]  :: click on Open RFQ Link. 
+2021-01-07 17:51:19,746  :: INFO  :: [Logs]  :: Message is Display as expected:Pune MFG. 
+2021-01-07 17:51:19,829  :: INFO  :: [Logs]  :: Message is Display as expected:Open RFQs (5). 
+2021-01-07 17:51:19,860  :: INFO  :: [Logs]  :: Message is Display as expected:(5). 
+2021-01-07 17:51:20,096  :: INFO  :: [Logs]  :: click on select Process Dropdown. 
+2021-01-07 17:51:20,397  :: INFO  :: [Logs]  :: click on capability. 
+2021-01-07 17:51:20,574  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-07 17:51:21,941  :: INFO  :: [Logs]  :: RFQ927512992 entered in input field. 
+2021-01-07 17:51:23,167  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <i _ngcontent-c36="" class="fa fa-search icon-search cursor-pointer" container="body" ngbtooltip="Search" placement="top"></i> is not clickable at point (1086, 280). Other element would receive the click: <div _ngcontent-c36="" class="modal fade show" id="myModal" role="dialog" style="padding-right: 17px; display: block;">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2021-01-07 17:51:23,177  :: ERROR :: [Logs]  :: Failed to Verify Open RFQ Details System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <i _ngcontent-c36="" class="fa fa-search icon-search cursor-pointer" container="body" ngbtooltip="Search" placement="top"></i> is not clickable at point (1086, 280). Other element would receive the click: <div _ngcontent-c36="" class="modal fade show" id="myModal" role="dialog" style="padding-right: 17px; display: block;">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 67
+   at MFG_Atomation.PageObjects.RFQManufacturer.MyQuoatedRFQ.VerifyOpenRFQDetails(String rFQName, String expectedTitle, String expectedCompanyName) in E:\MFG Code\mfg.automation\PageObjects\RFQManufacturer\MyQuoateRFQPageObject.cs:line 204. 
+2021-01-07 17:51:23,177  :: INFO  :: [Logs]  :: VerifyOpenRFQDetailsmethod is failed. 
+2021-01-07 17:51:23,183  :: ERROR :: [Logs]  :: Open RFQ failed System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <i _ngcontent-c36="" class="fa fa-search icon-search cursor-pointer" container="body" ngbtooltip="Search" placement="top"></i> is not clickable at point (1086, 280). Other element would receive the click: <div _ngcontent-c36="" class="modal fade show" id="myModal" role="dialog" style="padding-right: 17px; display: block;">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.RFQManufacturer.MyQuoatedRFQ.VerifyOpenRFQDetails(String rFQName, String expectedTitle, String expectedCompanyName) in E:\MFG Code\mfg.automation\PageObjects\RFQManufacturer\MyQuoateRFQPageObject.cs:line 218
+   at MFG_Automation.Utility.RFQ.RFQUtility.M2_3295_OpenRFQ(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQ\RFQUtility.cs:line 687. 
+2021-01-07 17:51:23,183  :: INFO  :: [Logs]  :: M2_3295_OpenRFQ. 
+2021-01-07 17:51:24,220  :: ERROR :: [Logs]  :: M2_3295_OpenRFQ Test case failed. 
+2021-01-07 17:51:24,271  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-07 17:51:24,271  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3295_OpenRFQ ============================. 
+2021-01-07 17:51:24,271  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-07 17:51:25,113  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-07 17:51:25,118  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-07 17:51:25,118  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-07 17:51:25,118  :: INFO  :: [Logs]  :: ===============================================================================================================. 

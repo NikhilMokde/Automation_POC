@@ -1,0 +1,50 @@
+2020-04-09 11:38:21,515  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-09 11:38:21,528  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-09 11:38:21,528  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-09 11:38:21,572  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-09 11:38:21,585  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-09 11:38:21,586  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-09 11:38:21,587  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-09 11:38:41,400  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-09 11:38:41,401  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-09 11:38:41,407  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-09 11:38:41,407  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-09 11:39:41,639  :: INFO  :: [Logs]  :: Unable to login OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:50964/session/8b75ffc4c0c85a3ea02d58e90c302a5b/url timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 192. 
+2020-04-09 11:40:41,686  :: ERROR :: [Logs]  :: Unable to capture screenshot OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:50964/session/8b75ffc4c0c85a3ea02d58e90c302a5b/screenshot timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 141. 
+2020-04-09 11:40:41,692  :: ERROR :: [Logs]  :: Unable to capture screenshot OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:50964/session/8b75ffc4c0c85a3ea02d58e90c302a5b/screenshot timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 150
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 163. 
+2020-04-09 11:40:41,726  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-09 11:40:41,726  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22763_CreateRFQAwardAndDeclined ============================>. 
+2020-04-09 11:40:41,726  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-09 11:42:04,753  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-09 11:42:04,801  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-09 11:42:04,802  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-09 11:42:04,802  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

@@ -1,0 +1,210 @@
+2020-12-29 19:32:28,280  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:32:28,297  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 19:32:28,297  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:32:28,419  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-29 19:32:28,471  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:32:28,481  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3333_BuyerSetting started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 19:32:28,589  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:32:51,916  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-29 19:32:51,916  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-29 19:32:51,927  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-29 19:32:51,927  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-29 19:32:59,050  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-29 19:33:02,648  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-29 19:33:03,894  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 19:33:07,777  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-29 19:33:07,777  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-12-29 19:33:08,377  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2020-12-29 19:33:17,121  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-29 19:33:17,257  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-12-29 19:33:26,403  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-12-29 19:33:26,403  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingPage==========. 
+2020-12-29 19:33:26,403  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2020-12-29 19:33:26,949  :: INFO  :: [Logs]  :: ==========SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:33:28,319  :: INFO  :: [Logs]  :: click on Preferences Tab. 
+2020-12-29 19:33:28,553  :: INFO  :: [Logs]  :: ==========End of SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:33:28,553  :: INFO  :: [Logs]  :: select Manufacturing Location. 
+2020-12-29 19:33:29,049  :: INFO  :: [Logs]  :: ==========SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:33:30,191  :: INFO  :: [Logs]  :: click on Preferences Tab. 
+2020-12-29 19:33:30,386  :: INFO  :: [Logs]  :: ==========End of SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:33:30,386  :: INFO  :: [Logs]  :: select Manufacturing Location. 
+2020-12-29 19:33:30,888  :: INFO  :: [Logs]  :: ==========SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:33:32,060  :: INFO  :: [Logs]  :: click on Preferences Tab. 
+2020-12-29 19:33:32,320  :: INFO  :: [Logs]  :: ==========End of SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:33:32,320  :: INFO  :: [Logs]  :: select Manufacturing Location. 
+2020-12-29 19:33:32,833  :: INFO  :: [Logs]  :: ==========SelectMethodOfCommunication==========. 
+2020-12-29 19:33:32,878  :: INFO  :: [Logs]  :: click on Call Radio Button. 
+2020-12-29 19:33:32,878  :: INFO  :: [Logs]  :: ==========End of SelectMethodOfCommunication==========. 
+2020-12-29 19:33:32,878  :: INFO  :: [Logs]  :: select method of communication. 
+2020-12-29 19:33:33,367  :: INFO  :: [Logs]  :: ==========SelectPaymentTerms==========. 
+2020-12-29 19:33:34,514  :: INFO  :: [Logs]  :: Net 45is selected From Dropdown. 
+2020-12-29 19:33:34,514  :: INFO  :: [Logs]  :: ==========End of SelectPaymentTerms==========. 
+2020-12-29 19:33:34,514  :: INFO  :: [Logs]  :: select Payment Terms. 
+2020-12-29 19:33:35,031  :: INFO  :: [Logs]  :: ==========PayForShipping==========. 
+2020-12-29 19:33:36,171  :: INFO  :: [Logs]  :: click on Pay for shipping method. 
+2020-12-29 19:33:36,171  :: INFO  :: [Logs]  :: ==========End of PayForShipping==========. 
+2020-12-29 19:33:36,171  :: INFO  :: [Logs]  :: select pay for shipping. 
+2020-12-29 19:33:36,717  :: INFO  :: [Logs]  :: ==========ClickOnSaveButton==========. 
+2020-12-29 19:33:37,963  :: INFO  :: [Logs]  :: ==========End of ClickOnSaveButton==========. 
+2020-12-29 19:33:37,963  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-29 19:33:38,543  :: INFO  :: [Logs]  :: ==========SelectNDAMethod==========. 
+2020-12-29 19:33:39,465  :: INFO  :: [Logs]  :: click on NDA Tab. 
+2020-12-29 19:33:41,392  :: INFO  :: [Logs]  :: Message is Display as expected:MFG.com's Standard NDA. 
+2020-12-29 19:33:41,500  :: INFO  :: [Logs]  :: ==========End of SelectNDAMethod==========. 
+2020-12-29 19:33:41,500  :: INFO  :: [Logs]  :: select NDA Level. 
+2020-12-29 19:33:41,986  :: INFO  :: [Logs]  :: ==========ClickOnSaveButton==========. 
+2020-12-29 19:33:43,148  :: INFO  :: [Logs]  :: ==========End of ClickOnSaveButton==========. 
+2020-12-29 19:33:43,148  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-29 19:33:43,652  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-12-29 19:33:43,768  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-12-29 19:33:43,877  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-29 19:33:43,877  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-12-29 19:33:43,877  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-29 19:33:44,393  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughPartLibeary==========. 
+2020-12-29 19:33:49,234  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-29 19:33:57,033  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-12-29 19:33:58,086  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-29 19:34:00,251  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-29 19:34:00,251  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-29 19:34:02,651  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-29 19:34:04,689  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-29 19:34:05,925  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-29 19:34:06,679  :: INFO  :: [Logs]  :: Select process. 
+2020-12-29 19:34:11,833  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-29 19:34:11,833  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughPartLibeary==========. 
+2020-12-29 19:34:11,833  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-29 19:34:12,728  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-12-29 19:34:12,792  :: INFO  :: [Logs]  :: ==========VerifySettingDataForManufacturingLocation==========. 
+2020-12-29 19:34:13,825  :: INFO  :: [Logs]  :: Message is Display as expected:Preferred-Manufacturing-active. 
+2020-12-29 19:34:13,825  :: INFO  :: [Logs]  :: verify Manufacturing Location. 
+2020-12-29 19:34:13,825  :: INFO  :: [Logs]  :: ==========End Of VerifySettingDataForManufacturingLocation==========. 
+2020-12-29 19:34:13,825  :: INFO  :: [Logs]  :: select Manufacturing Location. 
+2020-12-29 19:34:14,299  :: INFO  :: [Logs]  :: ==========VerifySettingDataForManufacturingLocation==========. 
+2020-12-29 19:34:15,338  :: INFO  :: [Logs]  :: Message is Display as expected:Preferred-Manufacturing-active. 
+2020-12-29 19:34:15,338  :: INFO  :: [Logs]  :: verify Manufacturing Location. 
+2020-12-29 19:34:15,339  :: INFO  :: [Logs]  :: ==========End Of VerifySettingDataForManufacturingLocation==========. 
+2020-12-29 19:34:15,339  :: INFO  :: [Logs]  :: select Manufacturing Location. 
+2020-12-29 19:34:16,047  :: INFO  :: [Logs]  :: ==========VerifySettingApplicabledata==========. 
+2020-12-29 19:34:17,078  :: INFO  :: [Logs]  :: Message is Display as expected:active-rfq-btn. 
+2020-12-29 19:34:17,078  :: INFO  :: [Logs]  :: verify Who Pays For Shipping?. 
+2020-12-29 19:34:18,104  :: INFO  :: [Logs]  :: Message is Display as expected:active-rfq-btn. 
+2020-12-29 19:34:18,104  :: INFO  :: [Logs]  :: verify Payment Method. 
+2020-12-29 19:34:19,136  :: INFO  :: [Logs]  :: Message is Display as expected:active-rfq-btn. 
+2020-12-29 19:34:19,136  :: INFO  :: [Logs]  :: Verify NDA Tyoe. 
+2020-12-29 19:34:20,174  :: INFO  :: [Logs]  :: Message is Display as expected:active-rfq-btn. 
+2020-12-29 19:34:20,174  :: INFO  :: [Logs]  :: Verify  NDA Verbiage. 
+2020-12-29 19:34:20,175  :: INFO  :: [Logs]  :: ==========End of VerifySettingApplicabledata==========. 
+2020-12-29 19:34:20,175  :: INFO  :: [Logs]  :: verify setting data Applicable. 
+2020-12-29 19:34:20,642  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2020-12-29 19:34:20,766  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-29 19:34:21,088  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-12-29 19:34:24,718  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-12-29 19:34:24,719  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingPage==========. 
+2020-12-29 19:34:24,948  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2020-12-29 19:34:25,480  :: INFO  :: [Logs]  :: ==========SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:34:26,826  :: INFO  :: [Logs]  :: click on Preferences Tab. 
+2020-12-29 19:34:27,025  :: INFO  :: [Logs]  :: ==========End of SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:34:27,025  :: INFO  :: [Logs]  :: select Manufacturing Location. 
+2020-12-29 19:34:27,570  :: INFO  :: [Logs]  :: ==========SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:34:28,788  :: INFO  :: [Logs]  :: click on Preferences Tab. 
+2020-12-29 19:34:29,021  :: INFO  :: [Logs]  :: ==========End of SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:34:29,022  :: INFO  :: [Logs]  :: select Manufacturing Location. 
+2020-12-29 19:34:29,481  :: INFO  :: [Logs]  :: ==========SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:34:30,624  :: INFO  :: [Logs]  :: click on Preferences Tab. 
+2020-12-29 19:34:30,779  :: INFO  :: [Logs]  :: ==========End of SelectPreferredManufacturingLocation==========. 
+2020-12-29 19:34:30,779  :: INFO  :: [Logs]  :: select Manufacturing Location. 
+2020-12-29 19:34:31,300  :: INFO  :: [Logs]  :: ==========PayForShipping==========. 
+2020-12-29 19:34:32,447  :: INFO  :: [Logs]  :: click on Pay for shipping method. 
+2020-12-29 19:34:32,447  :: INFO  :: [Logs]  :: ==========End of PayForShipping==========. 
+2020-12-29 19:34:32,447  :: INFO  :: [Logs]  :: select pay for shipping. 
+2020-12-29 19:34:32,918  :: INFO  :: [Logs]  :: ==========ClickOnSaveButton==========. 
+2020-12-29 19:34:34,022  :: INFO  :: [Logs]  :: ==========End of ClickOnSaveButton==========. 
+2020-12-29 19:34:34,022  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-29 19:34:34,561  :: INFO  :: [Logs]  :: ==========SelectNDAMethod==========. 
+2020-12-29 19:34:35,309  :: INFO  :: [Logs]  :: click on NDA Tab. 
+2020-12-29 19:34:35,369  :: INFO  :: [Logs]  :: select NDA Level. 
+2020-12-29 19:34:35,844  :: INFO  :: [Logs]  :: ==========ClickOnSaveButton==========. 
+2020-12-29 19:34:36,970  :: INFO  :: [Logs]  :: ==========End of ClickOnSaveButton==========. 
+2020-12-29 19:34:36,970  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-29 19:34:37,425  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-12-29 19:34:37,686  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-12-29 19:34:37,927  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-29 19:34:37,928  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-12-29 19:34:37,928  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-29 19:34:38,482  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughPartLibeary==========. 
+2020-12-29 19:34:42,063  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-29 19:34:49,620  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-12-29 19:34:50,643  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-29 19:34:52,604  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-29 19:34:52,604  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-29 19:34:55,044  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-29 19:34:57,080  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-29 19:34:58,309  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-29 19:34:59,030  :: INFO  :: [Logs]  :: Select process. 
+2020-12-29 19:35:04,116  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-29 19:35:04,116  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughPartLibeary==========. 
+2020-12-29 19:35:04,116  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-29 19:35:04,768  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-12-29 19:35:04,954  :: INFO  :: [Logs]  :: ==========VerifySettingDataForManufacturingLocation==========. 
+2020-12-29 19:35:06,000  :: INFO  :: [Logs]  :: Message is Display as expected:Preferred-Manufacturing-active. 
+2020-12-29 19:35:06,000  :: INFO  :: [Logs]  :: verify Manufacturing Location. 
+2020-12-29 19:35:06,000  :: INFO  :: [Logs]  :: ==========End Of VerifySettingDataForManufacturingLocation==========. 
+2020-12-29 19:35:06,000  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2020-12-29 19:35:06,148  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-29 19:35:06,425  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-12-29 19:35:11,149  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-12-29 19:35:11,150  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingPage==========. 
+2020-12-29 19:35:11,514  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2020-12-29 19:35:12,012  :: INFO  :: [Logs]  :: ==========UpdatePrefrencesDefaulltDashBoard==========. 
+2020-12-29 19:35:13,386  :: INFO  :: [Logs]  :: click on Preferences Tab. 
+2020-12-29 19:35:13,480  :: INFO  :: [Logs]  :: ==========End of UpdatePrefrencesDefaulltDashBoard==========. 
+2020-12-29 19:35:13,481  :: INFO  :: [Logs]  :: update preferences default dashboard. 
+2020-12-29 19:35:13,935  :: INFO  :: [Logs]  :: ==========ClickOnSaveButton==========. 
+2020-12-29 19:35:15,037  :: INFO  :: [Logs]  :: ==========End of ClickOnSaveButton==========. 
+2020-12-29 19:35:15,037  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-29 19:35:16,946  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-29 19:35:16,946  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-12-29 19:35:17,659  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-29 19:35:20,458  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-29 19:35:21,700  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 19:35:24,430  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-29 19:35:24,430  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-12-29 19:35:24,844  :: INFO  :: [Logs]  :: ==========VerifyTitleOnDashboard==========. 
+2020-12-29 19:35:25,027  :: INFO  :: [Logs]  :: click on Dashboard button. 
+2020-12-29 19:35:25,118  :: INFO  :: [Logs]  :: user logged in by Buyer. 
+2020-12-29 19:35:25,118  :: INFO  :: [Logs]  :: Verify Title on Dashboard. 
+2020-12-29 19:35:26,046  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2020-12-29 19:35:29,942  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-29 19:35:30,078  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-12-29 19:35:33,884  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-12-29 19:35:33,885  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingPage==========. 
+2020-12-29 19:35:33,888  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2020-12-29 19:35:34,340  :: INFO  :: [Logs]  :: ==========UpdatePrefrencesDefaulltDashBoard==========. 
+2020-12-29 19:35:35,525  :: INFO  :: [Logs]  :: click on Preferences Tab. 
+2020-12-29 19:35:35,614  :: INFO  :: [Logs]  :: ==========End of UpdatePrefrencesDefaulltDashBoard==========. 
+2020-12-29 19:35:35,614  :: INFO  :: [Logs]  :: update preferences default dashboard. 
+2020-12-29 19:35:36,094  :: INFO  :: [Logs]  :: ==========ClickOnSaveButton==========. 
+2020-12-29 19:35:37,182  :: INFO  :: [Logs]  :: ==========End of ClickOnSaveButton==========. 
+2020-12-29 19:35:37,182  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-29 19:35:39,557  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-29 19:35:39,557  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-12-29 19:35:40,279  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-29 19:35:43,113  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-29 19:35:44,356  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 19:35:46,681  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-29 19:35:46,681  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-12-29 19:35:47,248  :: INFO  :: [Logs]  :: ==========VerifyTitleOnDashboard==========. 
+2020-12-29 19:35:47,793  :: INFO  :: [Logs]  :: click on Dashboard button. 
+2020-12-29 19:35:47,794  :: INFO  :: [Logs]  :: ==========ClickOnCreateanRFQButtonOnDashBoard==========. 
+2020-12-29 19:35:48,747  :: INFO  :: [Logs]  :: click on Create RFQ Button On Dashboard. 
+2020-12-29 19:35:48,747  :: INFO  :: [Logs]  :: ==========End of ClickOnCreateanRFQButtonOnDashBoard==========. 
+2020-12-29 19:35:48,748  :: INFO  :: [Logs]  :: user logged in by Buyer. 
+2020-12-29 19:35:49,244  :: INFO  :: [Logs]  :: Verify Title on Dashboard. 
+2020-12-29 19:35:49,711  :: INFO  :: [Logs]  :: Test case Passed successfully. 
+2020-12-29 19:35:50,171  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:35:50,171  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3333_BuyerSetting ============================. 
+2020-12-29 19:35:50,171  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:35:51,103  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-29 19:35:51,110  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:35:51,110  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 19:35:51,111  :: INFO  :: [Logs]  :: ===============================================================================================================. 

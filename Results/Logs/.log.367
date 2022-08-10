@@ -1,0 +1,97 @@
+2020-12-14 22:55:55,480  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:55:55,500  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 22:55:55,500  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:55:55,652  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 22:55:55,804  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:55:55,808  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3333_SupplierSetting started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 22:55:55,809  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:56:28,893  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 22:56:28,893  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 22:56:28,898  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 22:56:28,898  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 22:57:08,646  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 22:57:14,514  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-12-14 22:57:16,194  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 22:57:23,814  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 22:57:23,815  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-12-14 22:57:29,335  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2020-12-14 22:57:33,310  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-14 22:57:37,015  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-12-14 22:57:48,274  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2020-12-14 22:57:57,385  :: INFO  :: [Logs]  :: click on LiveQuoate Tab. 
+2020-12-14 22:57:59,020  :: INFO  :: [Logs]  :: CNC Machining entered in input field. 
+2020-12-14 22:57:59,146  :: INFO  :: [Logs]  :: select processes. 
+2020-12-14 22:58:00,625  :: INFO  :: [Logs]  :: Alloy Steel entered in input field. 
+2020-12-14 22:58:00,759  :: INFO  :: [Logs]  :: select Material. 
+2020-12-14 22:58:02,295  :: INFO  :: [Logs]  :: ELECTROPLATING entered in input field. 
+2020-12-14 22:58:02,421  :: INFO  :: [Logs]  :: select Post Processes. 
+2020-12-14 22:58:03,773  :: INFO  :: [Logs]  :: Maybe entered in input field. 
+2020-12-14 22:58:03,906  :: INFO  :: [Logs]  :: select LiveQuote Probability. 
+2020-12-14 22:58:05,258  :: INFO  :: [Logs]  :: In Progress entered in input field. 
+2020-12-14 22:58:05,377  :: INFO  :: [Logs]  :: select Live Quote Status. 
+2020-12-14 22:58:42,120  :: INFO  :: [Logs]  :: COD entered in input field. 
+2020-12-14 22:58:42,403  :: INFO  :: [Logs]  :: select Payment Terms. 
+2020-12-14 22:58:43,812  :: INFO  :: [Logs]  :: Miscellaneous entered in input field. 
+2020-12-14 22:58:43,950  :: INFO  :: [Logs]  :: select Custom Costs. 
+2020-12-14 22:58:45,603  :: INFO  :: [Logs]  :: Standard Overnight entered in input field. 
+2020-12-14 22:58:45,718  :: INFO  :: [Logs]  :: select Shipping Method. 
+2020-12-14 22:58:47,119  :: INFO  :: [Logs]  :: Production Lead Time entered in input field. 
+2020-12-14 22:58:47,253  :: INFO  :: [Logs]  :: Select LeadTimes. 
+2020-12-14 22:58:49,247  :: INFO  :: [Logs]  :: .000is selected From Dropdown. 
+2020-12-14 22:58:51,815  :: INFO  :: [Logs]  :: 101 entered in input field. 
+2020-12-14 22:58:51,815  :: INFO  :: [Logs]  :: Entre starting No. 
+2020-12-14 22:59:58,492  :: INFO  :: [Logs]  :: M2 - 2763_CreateRFQAwardAndUpdate entered in input field. 
+2020-12-14 22:59:58,492  :: INFO  :: [Logs]  :: Enter invalid  QMS Reference. 
+2020-12-14 22:59:59,750  :: INFO  :: [Logs]  :: QMS1852843576 entered in input field. 
+2020-12-14 22:59:59,750  :: INFO  :: [Logs]  :: Entre Valid QMS Ref. 
+2020-12-14 22:59:59,852  :: INFO  :: [Logs]  :: Clicked on Get Started. 
+2020-12-14 23:00:17,589  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2020-12-14 23:00:28,798  :: INFO  :: [Logs]  :: Clicked on Enter details. 
+2020-12-14 23:00:43,611  :: INFO  :: [Logs]  :: Message is Display as expected:CNC Machining. 
+2020-12-14 23:00:45,140  :: INFO  :: [Logs]  :: Pen Drive entered in input field. 
+2020-12-14 23:00:45,140  :: INFO  :: [Logs]  :: Enter data on part name text box. 
+2020-12-14 23:00:47,363  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-14 23:00:47,363  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2020-12-14 23:00:48,863  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-14 23:00:48,882  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-14 23:00:50,470  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-14 23:00:50,470  :: INFO  :: [Logs]  :: Entered Part Description. 
+2020-12-14 23:00:51,970  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-12-14 23:00:51,970  :: INFO  :: [Logs]  :: Enter data on cost text box. 
+2020-12-14 23:00:53,390  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2020-12-14 23:00:54,669  :: INFO  :: [Logs]  :: ? entered in input field. 
+2020-12-14 23:00:54,738  :: INFO  :: [Logs]  :: Entered Post Process. 
+2020-12-14 23:00:55,005  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2020-12-14 23:00:57,067  :: INFO  :: [Logs]  :: Clicked on Add Quote Details. 
+2020-12-14 23:01:23,118  :: INFO  :: [Logs]  :: Message is Display as expected:                              Standard Overnight
+                            . 
+2020-12-14 23:01:24,586  :: INFO  :: [Logs]  :: Message is Display as expected:                              COD
+                            . 
+2020-12-14 23:01:25,788  :: INFO  :: [Logs]  :: Message is Display as expected:                                    Production Lead Time
+                                  . 
+2020-12-14 23:01:27,235  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2020-12-14 23:01:42,478  :: INFO  :: [Logs]  :: 3 entered in input field. 
+2020-12-14 23:01:46,158  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-14 23:02:00,900  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 23:02:03,037  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 23:02:07,171  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 23:02:08,549  :: INFO  :: [Logs]  :: Payment term has been selected. 
+2020-12-14 23:02:09,896  :: INFO  :: [Logs]  :: Clicked on Review Quote. 
+2020-12-14 23:02:13,451  :: INFO  :: [Logs]  :: Page Navigate to QMS Details Page. 
+2020-12-14 23:02:18,299  :: INFO  :: [Logs]  :: Clicked on Finish Quote. 
+2020-12-14 23:02:20,209  :: INFO  :: [Logs]  :: Clicked on Email to customer. 
+2020-12-14 23:02:30,199  :: INFO  :: [Logs]  :: MFG.com entered in input field. 
+2020-12-14 23:02:30,199  :: INFO  :: [Logs]  :: Enter data on subject text box. 
+2020-12-14 23:02:30,456  :: INFO  :: [Logs]  :: scroll down. 
+2020-12-14 23:02:31,680  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-14 23:02:31,681  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-12-14 23:02:31,821  :: INFO  :: [Logs]  :: Clicked on Send Email. 
+2020-12-14 23:02:42,003  :: INFO  :: [Logs]  :: Email sent successfully. 
+2020-12-14 23:02:44,081  :: INFO  :: [Logs]  :: Test case Passed successfully. 
+2020-12-14 23:02:44,604  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 23:02:44,604  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3333_SupplierSetting ============================. 
+2020-12-14 23:02:44,604  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 23:02:45,979  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-14 23:02:46,001  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 23:02:46,001  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 23:02:46,001  :: INFO  :: [Logs]  :: ===============================================================================================================. 

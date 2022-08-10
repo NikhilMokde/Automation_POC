@@ -1,0 +1,14 @@
+2020-04-21 10:31:26,297  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-21 10:31:26,313  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-21 10:31:26,313  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-21 10:31:26,376  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-21 10:31:26,489  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-21 10:31:26,490  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22774_QMSUpdationAndCreation started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-21 10:31:26,490  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-21 10:32:06,995  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-21 10:32:06,995  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-21 10:32:07,025  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-04-21 10:32:07,025  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-21 10:32:19,615  :: INFO  :: [Logs]  :: Unable to login System.Reflection.TargetException: Non-static method requires a target.
+   at MFG_Automation.Generics.Helper.ClearAndInputText(IWebElement element, String text) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 103
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 205. 

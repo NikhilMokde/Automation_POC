@@ -1,0 +1,347 @@
+2020-11-24 21:17:17,031  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:17:17,046  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 21:17:17,046  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:17:17,130  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-24 21:17:17,144  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:17:17,145  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3295_OpenRFQ started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 21:17:17,145  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:17:30,657  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 21:17:30,657  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 21:17:30,662  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 21:17:30,663  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 21:17:34,944  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 21:17:44,525  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-24 21:17:45,743  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 21:17:50,470  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 21:17:50,470  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-11-24 21:17:51,138  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-11-24 21:17:55,627  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-11-24 21:17:55,716  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-11-24 21:17:55,716  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-11-24 21:17:55,716  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-11-24 21:17:56,265  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-11-24 21:18:09,054  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-24 21:18:12,186  :: INFO  :: [Logs]  :: click on existing port. 
+2020-11-24 21:18:13,542  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-24 21:18:13,542  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-11-24 21:18:14,770  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-11-24 21:18:14,770  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-11-24 21:18:16,092  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-11-24 21:18:16,092  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-11-24 21:18:17,213  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-11-24 21:18:17,213  :: INFO  :: [Logs]  :: Select Unit. 
+2020-11-24 21:18:19,642  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-24 21:18:21,746  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-24 21:18:23,182  :: INFO  :: [Logs]  :: Clicked on next button of date picker. 
+2020-11-24 21:18:25,260  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-24 21:18:27,291  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-24 21:18:28,596  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-24 21:18:28,596  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-24 21:18:29,092  :: INFO  :: [Logs]  :: Select process. 
+2020-11-24 21:18:30,422  :: INFO  :: [Logs]  :: Select Material. 
+2020-11-24 21:18:30,767  :: INFO  :: [Logs]  :: Select post production process. 
+2020-11-24 21:18:32,090  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-11-24 21:18:32,090  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-11-24 21:18:32,185  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-11-24 21:18:37,189  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-11-24 21:18:37,190  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-11-24 21:18:37,711  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2020-11-24 21:18:38,111  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-11-24 21:18:38,162  :: INFO  :: [Logs]  :: The element Element (id = 0ae8e66a-f180-4790-a32b-73b423933dbd) was found on the page.. 
+2020-11-24 21:18:39,532  :: INFO  :: [Logs]  :: RFQ993748746 entered in input field. 
+2020-11-24 21:18:39,532  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-11-24 21:18:40,804  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-11-24 21:18:40,805  :: INFO  :: [Logs]  :: select Purpose. 
+2020-11-24 21:18:42,972  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-24 21:18:45,046  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-24 21:18:46,347  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-24 21:18:46,347  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-24 21:18:48,630  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-24 21:18:50,698  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-24 21:18:51,999  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-24 21:18:52,001  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-24 21:18:52,342  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-11-24 21:18:52,446  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-11-24 21:18:52,855  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2020-11-24 21:18:52,947  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-11-24 21:18:59,395  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-11-24 21:18:59,705  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-11-24 21:19:01,290  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-11-24 21:19:01,290  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-11-24 21:19:01,474  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-11-24 21:19:02,840  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-11-24 21:19:04,596  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2020-11-24 21:19:04,596  :: INFO  :: [Logs]  :: add RFQ Details. 
+2020-11-24 21:19:06,779  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-24 21:19:06,780  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-11-24 21:19:07,523  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 21:19:14,853  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-24 21:19:16,151  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-24 21:19:16,236  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 21:19:16,236  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-24 21:19:26,369  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-11-24 21:19:27,955  :: INFO  :: [Logs]  :: RFQ993748746 entered in input field. 
+2020-11-24 21:19:27,955  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2020-11-24 21:19:28,089  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-11-24 21:19:36,203  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-11-24 21:19:41,487  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-11-24 21:19:43,489  :: INFO  :: [Logs]  :: RFQ is released. 
+2020-11-24 21:19:45,082  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-11-24 21:19:45,082  :: INFO  :: [Logs]  :: Vision has logged out. 
+2020-11-24 21:19:45,409  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 21:19:48,526  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-24 21:19:49,732  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 21:19:53,033  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 21:19:53,033  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2020-11-24 21:19:53,591  :: INFO  :: [Logs]  :: ==========VerifyOpenRFQDetails==========. 
+2020-11-24 21:19:53,926  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-24 21:19:53,927  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-24 21:20:02,783  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-24 21:20:03,080  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-24 21:20:06,943  :: INFO  :: [Logs]  :: RFQ993748746 entered in input field. 
+2020-11-24 21:20:06,943  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-24 21:20:16,796  :: INFO  :: [Logs]  :: click on RFQ Company Name. 
+2020-11-24 21:20:19,674  :: INFO  :: [Logs]  :: Get RFQ Count. 
+2020-11-24 21:20:28,229  :: INFO  :: [Logs]  :: click on Open RFQ Link. 
+2020-11-24 21:20:30,491  :: ERROR :: [Logs]  :: Failed to Verify Open RFQ Details NUnit.Framework.AssertionException: Message is not present expected:Pune MFG
+   at NUnit.Framework.Assert.ReportFailure(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 394
+   at NUnit.Framework.Assert.Fail(String message, Object[] args) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 145
+   at NUnit.Framework.Assert.Fail(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 155
+   at MFG_Automation.Generics.Helper.VerifyMessage(String actualMessage, String exepctedMessage) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 497
+   at MFG_Atomation.PageObjects.RFQManufacturer.MyQuoatedRFQ.VerifyOpenRFQDetails(String rFQName, String expectedTitle, String expectedCompanyName) in E:\MFG Code\mfg.automation\PageObjects\RFQManufacturer\MyQuoateRFQPageObject.cs:line 176. 
+2020-11-24 21:20:30,542  :: INFO  :: [Logs]  :: VerifyOpenRFQDetailsmethod is failed. 
+2020-11-24 21:20:30,542  :: ERROR :: [Logs]  :: Open RFQ failed NUnit.Framework.AssertionException: Message is not present expected:Pune MFG
+   at MFG_Atomation.PageObjects.RFQManufacturer.MyQuoatedRFQ.VerifyOpenRFQDetails(String rFQName, String expectedTitle, String expectedCompanyName) in E:\MFG Code\mfg.automation\PageObjects\RFQManufacturer\MyQuoateRFQPageObject.cs:line 218
+   at MFG_Automation.Utility.RFQ.RFQUtility.M2_3295_OpenRFQ(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQ\RFQUtility.cs:line 684. 
+2020-11-24 21:20:30,543  :: INFO  :: [Logs]  :: M2_3295_OpenRFQ. 
+2020-11-24 21:20:31,480  :: ERROR :: [Logs]  :: M2_3295_OpenRFQ Test case failed. 
+2020-11-24 21:20:31,541  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:20:31,541  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3295_OpenRFQ ============================. 
+2020-11-24 21:20:31,541  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:20:32,167  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-24 21:20:32,172  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:20:32,172  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3410_RFQLifeCycleThroughDashboard started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 21:20:32,172  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:20:44,628  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 21:20:44,628  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 21:20:44,629  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 21:20:44,629  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 21:20:49,270  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 21:20:56,865  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-24 21:20:58,116  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 21:21:04,281  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 21:21:04,281  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-11-24 21:21:04,885  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-11-24 21:21:30,044  :: ERROR :: [Logs]  :: Unable to click on element using Java script OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScript(String script, Object[] args)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 115. 
+2020-11-24 21:21:30,061  :: ERROR :: [Logs]  :: Failed to Create RFQ Part Through Upload File OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 120
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 190. 
+2020-11-24 21:21:30,061  :: INFO  :: [Logs]  :: CreateRFQPartThroughUploadFilemethod is failed. 
+2020-11-24 21:21:30,063  :: ERROR :: [Logs]  :: Open RFQ failed OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 258
+   at MFG_Automation.Utility.RFQ.RFQUtility.M2_3410_RFQLifeCycleWithDashboard(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQ\RFQUtility.cs:line 931. 
+2020-11-24 21:21:30,063  :: INFO  :: [Logs]  :: M2_3410_RFQLifeCycleWithDashboard. 
+2020-11-24 21:21:30,987  :: ERROR :: [Logs]  :: M2_3410_RFQLifeCycleThroughParts Test case failed. 
+2020-11-24 21:21:31,009  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:21:31,009  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3410_RFQLifeCycleThroughDashboard ============================. 
+2020-11-24 21:21:31,009  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:21:31,412  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-24 21:21:31,412  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:21:31,412  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3410_RFQLifeCycleThroughParts started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 21:21:31,412  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:21:43,629  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 21:21:43,629  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 21:21:43,631  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 21:21:43,631  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 21:21:43,662  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 21:21:56,652  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-24 21:21:57,918  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 21:22:03,042  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 21:22:03,042  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-11-24 21:22:06,782  :: INFO  :: [Logs]  :: User has clicked on Parts. 
+2020-11-24 21:22:06,782  :: INFO  :: [Logs]  :: click on Parts. 
+2020-11-24 21:22:14,213  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-24 21:22:14,832  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-24 21:22:28,234  :: ERROR :: [Logs]  :: Unable to click on element using Java script OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScript(String script, Object[] args)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 115. 
+2020-11-24 21:22:28,848  :: ERROR :: [Logs]  :: Failed to create RFQ from Discover ManufacturerOpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 120
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQFrmDisManufac(String sheetName, String pageName) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 1014. 
+2020-11-24 21:22:28,848  :: INFO  :: [Logs]  :: CreateRFQFrmDisManufac. 
+2020-11-24 21:22:28,850  :: ERROR :: [Logs]  :: Open RFQ failed OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQFrmDisManufac(String sheetName, String pageName) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 1098
+   at MFG_Automation.Utility.RFQ.RFQUtility.M2_3410_RFQLifeCycleWithParts(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQ\RFQUtility.cs:line 815. 
+2020-11-24 21:22:28,850  :: INFO  :: [Logs]  :: M2_3410_RFQLifeCycleWithParts. 
+2020-11-24 21:22:30,012  :: ERROR :: [Logs]  :: M2_3410_RFQLifeCycleThroughParts Test case failed. 
+2020-11-24 21:22:30,013  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:22:30,013  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3410_RFQLifeCycleThroughParts ============================. 
+2020-11-24 21:22:30,013  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:22:30,440  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-24 21:22:30,441  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:22:30,441  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : RFQLifeCycleDisManM2_1748 started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 21:22:30,441  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:22:46,520  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 21:22:46,520  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 21:22:46,521  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 21:22:46,521  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 21:22:46,548  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 21:23:47,542  :: INFO  :: [Logs]  :: Unable to login OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:55608/session/43ee2ee366ef73230b225507aa454033/url timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 210. 
+2020-11-24 21:23:47,741  :: ERROR :: [Logs]  :: RFQ creation from discover manufacturer failed OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:55608/session/43ee2ee366ef73230b225507aa454033/url timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 246
+   at MFG_Automation.Utility.RFQ.RFQUtility.RFQLifeCycleDisManM2_1748(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQ\RFQUtility.cs:line 276. 
+2020-11-24 21:23:47,742  :: INFO  :: [Logs]  :: RFQLifeCycleDisManM2_1748. 
+2020-11-24 21:24:47,748  :: ERROR :: [Logs]  :: Unable to capture screen shot OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:55608/session/43ee2ee366ef73230b225507aa454033/screenshot timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2020-11-24 21:25:33,130  :: ERROR :: [Logs]  :: Test case failed. 
+2020-11-24 21:25:33,131  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:25:33,131  :: INFO  :: [Logs]  :: ====================== End of Test Case : RFQLifeCycleDisManM2_1748 ============================. 
+2020-11-24 21:25:33,131  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:25:33,591  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-24 21:25:33,591  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:25:33,591  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : RFQLifeCycleM2_1664 started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 21:25:33,591  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:25:45,129  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 21:25:45,129  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 21:25:45,130  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 21:25:45,130  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 21:25:45,173  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 21:25:54,895  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-24 21:25:56,157  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 21:26:00,540  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 21:26:00,540  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-11-24 21:26:01,089  :: INFO  :: [Logs]  :: =========== Create RFQ ==========. 
+2020-11-24 21:26:05,666  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-11-24 21:26:18,428  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-24 21:26:23,644  :: ERROR :: [Logs]  :: Unable to click on element using Java script OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScript(String script, Object[] args)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 115. 
+2020-11-24 21:26:23,754  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 120
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName, String LevelOfNDA, String TypeOfPart, Boolean isBlacklistSupplierDisaplyInSpecialInvite) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 543. 
+2020-11-24 21:26:23,754  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-11-24 21:26:23,755  :: ERROR :: [Logs]  :: RFQ life-cycle is failed OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:55337
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName, String LevelOfNDA, String TypeOfPart, Boolean isBlacklistSupplierDisaplyInSpecialInvite) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 704
+   at MFG_Automation.Utility.RFQ.RFQUtility.RFQLifeCycleM2_1664(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQ\RFQUtility.cs:line 48. 
+2020-11-24 21:26:23,755  :: INFO  :: [Logs]  :: RFQLifeCycleM2_1664. 
+2020-11-24 21:26:24,294  :: ERROR :: [Logs]  :: Test case failed. 
+2020-11-24 21:26:24,295  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:26:24,295  :: INFO  :: [Logs]  :: ====================== End of Test Case : RFQLifeCycleM2_1664 ============================. 
+2020-11-24 21:26:24,295  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:26:24,759  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-24 21:26:24,763  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 21:26:24,763  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 21:26:24,763  :: INFO  :: [Logs]  :: ===============================================================================================================. 

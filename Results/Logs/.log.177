@@ -1,0 +1,42 @@
+2021-01-02 13:54:00,503  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 13:54:00,527  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 13:54:00,527  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 13:54:00,686  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-02 13:54:01,729  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 13:54:01,730  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3215_DashboardFunctionality started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 13:54:01,731  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 13:54:29,993  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-02 13:54:29,993  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-02 13:54:30,013  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-02 13:54:30,013  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-02 13:54:52,050  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 13:55:00,525  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-02 13:55:01,806  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-02 13:55:11,589  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 13:55:11,670  :: INFO  :: [Logs]  :: Login As a Buyer. 
+2021-01-02 13:55:12,758  :: INFO  :: [Logs]  :: ==========ClickOnCreateanRFQButtonOnDashBoard==========. 
+2021-01-02 13:55:21,807  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="myRFQ-create-Rfq-btn-text-dash">...</span> is not clickable at point (1035, 194). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2021-01-02 13:55:22,001  :: ERROR :: [Logs]  :: Click to Create an RFQ Button On DashBoard is failed System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="myRFQ-create-Rfq-btn-text-dash">...</span> is not clickable at point (1035, 194). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 67
+   at MFG_Atomation.PageObjects.Dashboard.DashboardPageObject.ClickOnCreateanRFQButtonOnDashBoard() in E:\MFG Code\mfg.automation\PageObjects\Dashboard\DashboardPageObject.cs:line 137. 
+2021-01-02 13:55:22,085  :: INFO  :: [Logs]  :: ClickOnCreateanRFQButtonOnDashBoard. 

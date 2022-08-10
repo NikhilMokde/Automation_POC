@@ -1,0 +1,65 @@
+2020-11-11 16:25:28,329  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-11 16:25:28,337  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-11 16:25:28,337  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-11 16:25:28,432  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-11 16:25:28,441  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-11 16:25:28,441  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerSupplierTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-11 16:25:28,493  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-11 16:25:44,822  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-11 16:25:44,822  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-11 16:25:44,827  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-11 16:25:44,827  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-11 16:25:56,650  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2020-11-11 16:25:59,844  :: INFO  :: [Logs]  :: Navigate to application. 
+2020-11-11 16:26:01,076  :: INFO  :: [Logs]  :: Automation2119940485 entered in input field. 
+2020-11-11 16:26:01,076  :: INFO  :: [Logs]  :: Enter first name. 
+2020-11-11 16:26:02,230  :: INFO  :: [Logs]  :: Buyer2125096842 entered in input field. 
+2020-11-11 16:26:02,230  :: INFO  :: [Logs]  :: Enter last name. 
+2020-11-11 16:26:03,437  :: INFO  :: [Logs]  :: AutomationBuyer432174351@yopmail.com entered in input field. 
+2020-11-11 16:26:03,438  :: INFO  :: [Logs]  :: Enter email. 
+2020-11-11 16:26:04,619  :: INFO  :: [Logs]  :: supplierCompany1081137832 entered in input field. 
+2020-11-11 16:26:04,619  :: INFO  :: [Logs]  :: Enter company name. 
+2020-11-11 16:26:05,883  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-11-11 16:26:05,883  :: INFO  :: [Logs]  :: Choose country. 
+2020-11-11 16:26:07,061  :: INFO  :: [Logs]  :: 280875441 entered in input field. 
+2020-11-11 16:26:07,061  :: INFO  :: [Logs]  :: Enter phone number. 
+2020-11-11 16:26:08,242  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-11 16:26:08,243  :: INFO  :: [Logs]  :: Enter password. 
+2020-11-11 16:26:09,420  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-11 16:26:09,421  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-11 16:26:10,562  :: INFO  :: [Logs]  :: 700616320 entered in input field. 
+2020-11-11 16:26:10,562  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-11 16:26:10,636  :: INFO  :: [Logs]  :: click on register button. 
+2020-11-11 16:26:10,637  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2020-11-11 16:26:10,639  :: INFO  :: [Logs]  :: Register New Supplier. 
+2020-11-11 16:26:14,793  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-11 16:26:21,754  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-11 16:26:22,934  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-11 16:26:23,013  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-11 16:26:23,014  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-11 16:27:05,636  :: ERROR :: [Logs]  :: element not loaded  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'Action Tracker')], or: By.XPath: //span[contains(text(),'Action Tracker')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 139. 
+2020-11-11 16:27:05,640  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'Action Tracker')], or: By.XPath: //span[contains(text(),'Action Tracker')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 144
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 87. 
+2020-11-11 16:27:05,662  :: INFO  :: [Logs]  :: ManufacturersActionTrackermethod is failed. 

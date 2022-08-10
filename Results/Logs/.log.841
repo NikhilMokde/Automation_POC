@@ -1,0 +1,180 @@
+2020-04-15 21:16:40,888  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-15 21:16:40,902  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-15 21:16:40,902  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-15 21:16:40,986  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-15 21:16:40,998  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-15 21:16:40,998  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22510 started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-15 21:16:40,999  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-15 21:17:02,688  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-15 21:17:02,688  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-15 21:17:02,700  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-15 21:17:02,700  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-15 21:17:14,173  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-15 21:17:56,250  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-15 21:17:56,405  :: INFO  :: [Logs]  :: The element Element (id = 31db7225-9690-490f-9bbd-9a6ee00c5a1c) was found on the page.. 
+2020-04-15 21:18:12,999  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-15 21:18:16,638  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-15 21:18:18,920  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-15 21:18:21,235  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-15 21:18:22,411  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-15 21:18:22,412  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-15 21:18:24,949  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-15 21:18:27,015  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-15 21:18:28,747  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-15 21:18:29,296  :: INFO  :: [Logs]  :: Select process. 
+2020-04-15 21:18:29,847  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-15 21:18:30,383  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-15 21:18:32,735  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-15 21:18:32,862  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-15 21:18:35,204  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-04-15 21:18:35,280  :: INFO  :: [Logs]  :: The element Element (id = 60359107-cfc4-4a40-8180-b2ecd5346526) was found on the page.. 
+2020-04-15 21:18:37,701  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-04-15 21:18:39,983  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-15 21:18:42,048  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-15 21:18:45,659  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-15 21:18:47,697  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-15 21:18:49,227  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-04-15 21:18:49,377  :: INFO  :: [Logs]  :: 'Mayment Method' button is clicked. 
+2020-04-15 21:18:57,003  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-04-15 21:19:10,961  :: INFO  :: [Logs]  :: 'Non-Disclousre ' button is clicked. 
+2020-04-15 21:19:11,127  :: INFO  :: [Logs]  :: 'communication' button is clicked. 
+2020-04-15 21:19:22,416  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-04-15 21:19:22,806  :: INFO  :: [Logs]  :: 'special certificatio' button is clicked. 
+2020-04-15 21:19:24,486  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-15 21:19:24,487  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-04-15 21:19:24,684  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-04-15 21:19:25,966  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-04-15 21:19:27,913  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-15 21:19:29,183  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-15 21:19:29,183  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-04-15 21:20:17,663  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-04-15 21:20:29,637  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-04-15 21:20:31,425  :: INFO  :: [Logs]  :: RFQ478352957 entered in input field. 
+2020-04-15 21:20:31,425  :: INFO  :: [Logs]  :: RFQ name is entered in searchbar. 
+2020-04-15 21:20:31,661  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-04-15 21:20:33,344  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-04-15 21:20:58,685  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-04-15 21:21:00,686  :: INFO  :: [Logs]  :: RFQ is released. 
+2020-04-15 21:21:02,769  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-04-15 21:21:02,769  :: INFO  :: [Logs]  :: Vision has logged out. 
+2020-04-15 21:21:15,662  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2020-04-15 21:21:21,246  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-04-15 21:21:22,084  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-04-15 21:21:22,408  :: INFO  :: [Logs]  :: User has clicked on Special Invite RFQs. 
+2020-04-15 21:21:22,798  :: INFO  :: [Logs]  :: 'My RFQs' is clicked. 
+2020-04-15 21:21:30,644  :: INFO  :: [Logs]  :: RFQ478352957 entered in input field. 
+2020-04-15 21:21:30,898  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-04-15 21:21:38,899  :: INFO  :: [Logs]  :: RFQ is searched by manufacturer. 
+2020-04-15 21:21:39,293  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-04-15 21:21:55,778  :: INFO  :: [Logs]  :: 'Read NDA' button is clicked on NDA Agreement popup. 
+2020-04-15 21:22:00,502  :: INFO  :: [Logs]  :: 'Accept' button is clicked on NDA Agreement popup. 
+2020-04-15 21:22:02,503  :: INFO  :: [Logs]  :: 2nd Level NDA is accepted. 
+2020-04-15 21:22:03,718  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-04-15 21:22:03,718  :: INFO  :: [Logs]  :: Manufacturer logged out. 
+2020-04-15 21:22:08,763  :: INFO  :: [Logs]  :: Buyer has logged in. 
+2020-04-15 21:22:17,717  :: INFO  :: [Logs]  :: User has clicked on RFQ. 
+2020-04-15 21:22:18,086  :: INFO  :: [Logs]  :: Clicked on RFQs from left navigation. 
+2020-04-15 21:22:18,417  :: INFO  :: [Logs]  :: User has clicked on NDA's to Approve. 
+2020-04-15 21:22:18,417  :: INFO  :: [Logs]  :: Clicked on NDAs to Approve from left navigation. 
+2020-04-15 21:22:18,417  :: INFO  :: [Logs]  :: Successfully navigated to NDAs To Approve. 
+2020-04-15 21:22:22,630  :: INFO  :: [Logs]  :: RFQ478352957 entered in input field. 
+2020-04-15 21:22:22,630  :: INFO  :: [Logs]  :: RFQ is seached for approving 2nd Level NDA. 
+2020-04-15 21:22:22,801  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-04-15 21:22:23,084  :: INFO  :: [Logs]  :: Button is clicked for approving 2nd Level NDA. 
+2020-04-15 21:22:26,086  :: INFO  :: [Logs]  :: RFQ is approved for 2nd Level NDA from buyer. 
+2020-04-15 21:22:27,082  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-15 21:22:27,082  :: INFO  :: [Logs]  :: Buyer has logged out successfully. 
+2020-04-15 21:22:32,151  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2020-04-15 21:22:35,032  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-04-15 21:22:36,002  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-04-15 21:22:36,419  :: INFO  :: [Logs]  :: User has clicked on Special Invite RFQs. 
+2020-04-15 21:22:37,130  :: INFO  :: [Logs]  :: 'My RFQs' is clicked. 
+2020-04-15 21:22:38,862  :: INFO  :: [Logs]  :: RFQ478352957 entered in input field. 
+2020-04-15 21:22:39,102  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-04-15 21:22:47,106  :: INFO  :: [Logs]  :: RFQ is searched by manufacturer. 
+2020-04-15 21:22:50,635  :: INFO  :: [Logs]  :: The element Element (id = 8c8e536d-4da2-4c0f-8a2d-4f9e393de561) was found on the page.. 
+2020-04-15 21:22:51,141  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-04-15 21:22:55,813  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked. 
+2020-04-15 21:22:56,108  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked again. 
+2020-04-15 21:22:58,844  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-04-15 21:22:58,844  :: INFO  :: [Logs]  :: Quantity is entered in side drawer for Per Unit Price. 
+2020-04-15 21:23:01,115  :: INFO  :: [Logs]  :: Save button is clicked from side drawer. 
+2020-04-15 21:23:06,542  :: INFO  :: [Logs]  :: Submit quote button is clicked. 
+2020-04-15 21:23:06,678  :: INFO  :: [Logs]  :: 'Submit Quote' button is clicked on popup. 
+2020-04-15 21:23:08,821  :: INFO  :: [Logs]  :: RFQ is quoted and submitted. 
+2020-04-15 21:23:09,875  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-04-15 21:23:09,875  :: INFO  :: [Logs]  :: Manufacturer logged out. 
+2020-04-15 21:23:14,878  :: INFO  :: [Logs]  :: Buyer is logged in. 
+2020-04-15 21:23:17,190  :: INFO  :: [Logs]  :: 'RFQs' is clicked from navigation panel. 
+2020-04-15 21:23:17,428  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-04-15 21:23:25,430  :: INFO  :: [Logs]  :: Successfully navigated to My RFQs. 
+2020-04-15 21:23:28,599  :: INFO  :: [Logs]  :: List View button is clicked. 
+2020-04-15 21:23:30,107  :: INFO  :: [Logs]  :: RFQ478352957 entered in input field. 
+2020-04-15 21:23:30,107  :: INFO  :: [Logs]  :: RFQ name is entered in searchbox. 
+2020-04-15 21:23:32,373  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-04-15 21:23:34,084  :: INFO  :: [Logs]  :: Record is clicked. 
+2020-04-15 21:23:34,525  :: INFO  :: [Logs]  :: User has clicked on QUOTES tab. 
+2020-04-15 21:23:36,036  :: INFO  :: [Logs]  :: Click To Expand arrow is clicked. 
+2020-04-15 21:23:38,703  :: INFO  :: [Logs]  :: Award button is clicked. 
+2020-04-15 21:23:39,656  :: INFO  :: [Logs]  :: Award Parts button is clicked. 
+2020-04-15 21:23:44,661  :: INFO  :: [Logs]  :: RFQ has been awarded a quote. 
+2020-04-15 21:23:44,750  :: INFO  :: [Logs]  :: Awarded RFQ is successfully verified. 
+2020-04-15 21:23:44,751  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2020-04-15 21:23:45,848  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-15 21:23:45,848  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22510 ============================>. 
+2020-04-15 21:23:45,848  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-15 21:23:46,778  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-15 21:23:46,784  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-15 21:23:46,784  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-15 21:23:46,784  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-15 21:24:03,202  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-15 21:24:03,202  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-15 21:24:03,207  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-15 21:24:03,207  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-15 21:24:18,640  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-15 21:24:53,657  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-15 21:24:53,832  :: INFO  :: [Logs]  :: The element Element (id = 57ba9c13-e17a-4133-93e9-80fb3c7757a5) was found on the page.. 
+2020-04-15 21:25:08,421  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-15 21:25:11,672  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-15 21:25:13,934  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-15 21:25:16,172  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-15 21:25:17,314  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-15 21:25:17,315  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-15 21:25:19,799  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-15 21:25:21,858  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-15 21:25:26,687  :: ERROR :: [Logs]  :: Unable to click on element using java sript OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:61089
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScript(String script, Object[] args)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 159. 
+2020-04-15 21:25:26,849  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:61089
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.Generics.Helper.EnterDate(Int32 expDate, Int32 expMonth, Int32 expYear) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 397
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 479. 
+2020-04-15 21:25:26,867  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-04-15 21:25:27,534  :: ERROR :: [Logs]  :: Test case failed. 
+2020-04-15 21:25:27,562  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-15 21:25:27,562  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22763_CreateRFQAwardAndDeclined ============================>. 
+2020-04-15 21:25:27,562  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-15 21:25:28,205  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-15 21:25:28,209  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-15 21:25:28,209  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-15 21:25:28,209  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

@@ -1,0 +1,261 @@
+2020-12-14 22:31:13,412  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:31:13,422  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 22:31:13,422  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:31:13,482  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 22:31:13,509  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:31:13,509  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3190_BuyerProfileUpdate started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 22:31:13,510  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:31:51,257  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 22:31:51,257  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 22:31:51,261  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 22:31:51,261  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 22:32:08,112  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 22:32:09,424  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 22:32:18,226  :: INFO  :: [Logs]  :: login with buyer. 
+2020-12-14 22:32:18,936  :: INFO  :: [Logs]  :: ----------BuyerProfileUpdate----------. 
+2020-12-14 22:32:24,432  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-12-14 22:32:24,433  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 22:32:24,433  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 22:32:30,456  :: INFO  :: [Logs]  :: Clicked on Edit button on the profile page. 
+2020-12-14 22:32:34,931  :: INFO  :: [Logs]  :: Pune MFG entered in input field. 
+2020-12-14 22:32:36,337  :: INFO  :: [Logs]  :: 1832545350 entered in input field. 
+2020-12-14 22:32:36,337  :: INFO  :: [Logs]  :: enter phone number from Excel. 
+2020-12-14 22:32:41,595  :: INFO  :: [Logs]  :: Message is Display as expected:1832545350. 
+2020-12-14 22:32:41,595  :: INFO  :: [Logs]  :: ----------End of BuyerProfileUpdate----------. 
+2020-12-14 22:32:41,595  :: INFO  :: [Logs]  :: update company Details. 
+2020-12-14 22:32:42,330  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-12-14 22:32:42,330  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 22:32:42,330  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 22:32:44,070  :: INFO  :: [Logs]  :: this is software solution company entered in input field. 
+2020-12-14 22:32:49,271  :: INFO  :: [Logs]  :: Description updated successfully. 
+2020-12-14 22:32:49,272  :: INFO  :: [Logs]  :: update buyer profile from About Us. 
+2020-12-14 22:32:53,069  :: INFO  :: [Logs]  :: Chemicalis selected From Dropdown. 
+2020-12-14 22:32:53,069  :: INFO  :: [Logs]  :: select company from company type dropdown. 
+2020-12-14 22:32:54,295  :: INFO  :: [Logs]  :: 20-50is selected From Dropdown. 
+2020-12-14 22:32:54,295  :: INFO  :: [Logs]  :: select employee count. 
+2020-12-14 22:32:55,416  :: INFO  :: [Logs]  :: Englishis selected From Dropdown. 
+2020-12-14 22:32:55,416  :: INFO  :: [Logs]  :: select first language. 
+2020-12-14 22:32:56,717  :: INFO  :: [Logs]  :: 1464340 entered in input field. 
+2020-12-14 22:32:56,717  :: INFO  :: [Logs]  :: edit D-U-N-S # number. 
+2020-12-14 22:32:57,911  :: INFO  :: [Logs]  :: 191 entered in input field. 
+2020-12-14 22:32:57,911  :: INFO  :: [Logs]  :: edit cage code. 
+2020-12-14 22:32:57,967  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-14 22:33:03,094  :: INFO  :: [Logs]  :: Message is Display as expected:Company Type:
+Chemical. 
+2020-12-14 22:33:03,135  :: INFO  :: [Logs]  :: Message is Display as expected:# of Employees:
+20-50. 
+2020-12-14 22:33:04,227  :: INFO  :: [Logs]  :: Message is Display as expected:D-U-N-S Number:
+1464340. 
+2020-12-14 22:33:04,296  :: INFO  :: [Logs]  :: Message is Display as expected:Cage Code:
+191. 
+2020-12-14 22:33:04,296  :: INFO  :: [Logs]  :: update supplier profile from About Us. 
+2020-12-14 22:33:04,831  :: INFO  :: [Logs]  :: ==========BuyerProfileContactInformationUpdate==========. 
+2020-12-14 22:33:05,014  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-12-14 22:33:05,015  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 22:33:05,444  :: INFO  :: [Logs]  :: Clicks contact Information tab. 
+2020-12-14 22:33:10,655  :: INFO  :: [Logs]  :: Click on personal Information Edit. 
+2020-12-14 22:33:11,679  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-12-14 22:33:13,162  :: INFO  :: [Logs]  :: Automation1741124024 entered in input field. 
+2020-12-14 22:33:13,162  :: INFO  :: [Logs]  :: Enter First Name. 
+2020-12-14 22:33:14,403  :: INFO  :: [Logs]  :: Buyer548298898 entered in input field. 
+2020-12-14 22:33:14,403  :: INFO  :: [Logs]  :: Enter Last Name. 
+2020-12-14 22:33:15,520  :: INFO  :: [Logs]  :: Buyeris selected From Dropdown. 
+2020-12-14 22:33:15,520  :: INFO  :: [Logs]  :: Select Title dropdown. 
+2020-12-14 22:33:16,675  :: INFO  :: [Logs]  :: Englishis selected From Dropdown. 
+2020-12-14 22:33:16,675  :: INFO  :: [Logs]  :: Select Language preferred dropdown. 
+2020-12-14 22:33:18,010  :: INFO  :: [Logs]  :: English entered in input field. 
+2020-12-14 22:33:18,010  :: INFO  :: [Logs]  :: Enter Phone Number. 
+2020-12-14 22:33:19,326  :: INFO  :: [Logs]  :: BuyerCompany963716530 entered in input field. 
+2020-12-14 22:33:19,326  :: INFO  :: [Logs]  :: Company name entered. 
+2020-12-14 22:33:20,579  :: INFO  :: [Logs]  :: 2012631 entered in input field. 
+2020-12-14 22:33:20,579  :: INFO  :: [Logs]  :: Duns entered. 
+2020-12-14 22:33:21,674  :: INFO  :: [Logs]  :: 20-50is selected From Dropdown. 
+2020-12-14 22:33:21,674  :: INFO  :: [Logs]  :: Employee number Selected. 
+2020-12-14 22:33:23,073  :: INFO  :: [Logs]  :: this is software solution company entered in input field. 
+2020-12-14 22:33:23,073  :: INFO  :: [Logs]  :: Company Description entered. 
+2020-12-14 22:33:24,566  :: INFO  :: [Logs]  :: https://www.facebook.com/ entered in input field. 
+2020-12-14 22:33:24,566  :: INFO  :: [Logs]  :: Facebook link entered. 
+2020-12-14 22:33:25,905  :: INFO  :: [Logs]  :: https://twitter.com/ entered in input field. 
+2020-12-14 22:33:25,905  :: INFO  :: [Logs]  :: twitter link entered. 
+2020-12-14 22:33:27,300  :: INFO  :: [Logs]  :: https://in.linkedin.com/ entered in input field. 
+2020-12-14 22:33:27,300  :: INFO  :: [Logs]  :: linkdin link entered. 
+2020-12-14 22:33:28,671  :: INFO  :: [Logs]  :: 890744812 entered in input field. 
+2020-12-14 22:33:28,671  :: INFO  :: [Logs]  :: Entre valid Phone No. 
+2020-12-14 22:33:33,762  :: INFO  :: [Logs]  :: Clicked on Save button. 
+2020-12-14 22:33:33,893  :: INFO  :: [Logs]  :: Message is Display as expected:First Name
+Automation1741124024. 
+2020-12-14 22:33:33,933  :: INFO  :: [Logs]  :: Message is Display as expected:Last Name
+Buyer548298898. 
+2020-12-14 22:33:33,975  :: INFO  :: [Logs]  :: Message is Display as expected:Title
+Buyer. 
+2020-12-14 22:33:34,023  :: INFO  :: [Logs]  :: Message is Display as expected:Language Preferred
+English. 
+2020-12-14 22:33:34,077  :: INFO  :: [Logs]  :: Message is Display as expected:Phone Number
+890744812. 
+2020-12-14 22:33:34,115  :: INFO  :: [Logs]  :: Message is Display as expected:Company
+BuyerCompany963716530. 
+2020-12-14 22:33:34,149  :: INFO  :: [Logs]  :: Message is Display as expected:Facebook
+https://www.facebook.com/. 
+2020-12-14 22:33:34,188  :: INFO  :: [Logs]  :: Message is Display as expected:Twitter
+https://twitter.com/. 
+2020-12-14 22:33:34,227  :: INFO  :: [Logs]  :: Message is Display as expected:LinkedIn
+https://in.linkedin.com/. 
+2020-12-14 22:33:34,227  :: INFO  :: [Logs]  :: ========== End of BuyerProfileContactInformationUpdate==========. 
+2020-12-14 22:33:34,227  :: INFO  :: [Logs]  :: update buyer profile from Contact Information. 
+2020-12-14 22:33:34,715  :: INFO  :: [Logs]  :: ==========UpdateMailingAddress==========. 
+2020-12-14 22:33:39,503  :: INFO  :: [Logs]  :: IDC573454273 entered in input field. 
+2020-12-14 22:33:39,504  :: INFO  :: [Logs]  :: Enter street address1. 
+2020-12-14 22:33:40,838  :: INFO  :: [Logs]  :: KatolNaka293178921 entered in input field. 
+2020-12-14 22:33:40,839  :: INFO  :: [Logs]  :: Enter Street address 2. 
+2020-12-14 22:33:42,155  :: INFO  :: [Logs]  :: Nagpur1462438289 entered in input field. 
+2020-12-14 22:33:42,155  :: INFO  :: [Logs]  :: Entre city. 
+2020-12-14 22:33:43,248  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-14 22:33:44,391  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-12-14 22:33:45,614  :: INFO  :: [Logs]  :: 12093923 entered in input field. 
+2020-12-14 22:33:45,614  :: INFO  :: [Logs]  :: 120939236. 
+2020-12-14 22:33:45,686  :: INFO  :: [Logs]  :: companyDefaultShilpingAddress updated successfully. 
+2020-12-14 22:33:47,898  :: INFO  :: [Logs]  :: Click on display city and state in my Profile Link. 
+2020-12-14 22:33:48,141  :: INFO  :: [Logs]  :: click on Save button. 
+2020-12-14 22:33:53,171  :: INFO  :: [Logs]  :: Mailing address updated successfully. 
+2020-12-14 22:33:53,233  :: INFO  :: [Logs]  :: Entre edit button. 
+2020-12-14 22:33:54,799  :: INFO  :: [Logs]  :: Australiais selected From Dropdown. 
+2020-12-14 22:34:00,117  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-14 22:34:02,616  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-12-14 22:34:02,882  :: INFO  :: [Logs]  :: Click on display city and state in my Profile Link. 
+2020-12-14 22:34:02,999  :: INFO  :: [Logs]  :: Click on Save action button. 
+2020-12-14 22:34:09,033  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:09,033  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:09,033  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:09,033  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:09,033  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:09,033  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:09,212  :: INFO  :: [Logs]  :: click on Contact Us tab. 
+2020-12-14 22:34:14,258  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:14,258  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:14,259  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:14,259  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:14,259  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:14,259  :: INFO  :: [Logs]  :: Message is Display as expected:IDC573454273, KatolNaka293178921,
+Nagpur1462438289, Alabama, 12093923
+United States. 
+2020-12-14 22:34:14,259  :: INFO  :: [Logs]  :: ==========End Of UpdateMailingAddress==========. 
+2020-12-14 22:34:14,259  :: INFO  :: [Logs]  :: update Mailing address. 
+2020-12-14 22:34:14,956  :: INFO  :: [Logs]  :: ==========UpdateShippingAddress==========. 
+2020-12-14 22:34:15,713  :: INFO  :: [Logs]  :: Clicks contact Information tab. 
+2020-12-14 22:34:24,469  :: INFO  :: [Logs]  :: IDC1902523554 entered in input field. 
+2020-12-14 22:34:24,470  :: INFO  :: [Logs]  :: shipping Company name. 
+2020-12-14 22:34:25,903  :: INFO  :: [Logs]  :: KatoraNagar506548601 entered in input field. 
+2020-12-14 22:34:25,903  :: INFO  :: [Logs]  :: street address. 
+2020-12-14 22:34:27,261  :: INFO  :: [Logs]  :: Address2034993341 entered in input field. 
+2020-12-14 22:34:27,261  :: INFO  :: [Logs]  :: Entre Dept/Address2. 
+2020-12-14 22:34:28,574  :: INFO  :: [Logs]  :: Pune288348609 entered in input field. 
+2020-12-14 22:34:28,575  :: INFO  :: [Logs]  :: Select shiping City. 
+2020-12-14 22:34:29,752  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-14 22:34:29,753  :: INFO  :: [Logs]  :: Select country dropdown. 
+2020-12-14 22:34:30,855  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-12-14 22:34:32,153  :: INFO  :: [Logs]  :: 9415389 entered in input field. 
+2020-12-14 22:34:32,153  :: INFO  :: [Logs]  :: shipping zip code. 
+2020-12-14 22:34:32,206  :: INFO  :: [Logs]  :: default shipping address checkbox. 
+2020-12-14 22:34:32,246  :: INFO  :: [Logs]  :: Click on save action button. 
+2020-12-14 22:34:37,360  :: INFO  :: [Logs]  :: Message is Display as expected:KatoraNagar506548601, Address2034993341,
+Pune288348609, Alabama, 9415389
+United States Edit || Delete. 
+2020-12-14 22:34:37,360  :: INFO  :: [Logs]  :: Message is Display as expected:KatoraNagar506548601, Address2034993341,
+Pune288348609, Alabama, 9415389
+United States Edit || Delete. 
+2020-12-14 22:34:37,360  :: INFO  :: [Logs]  :: Message is Display as expected:KatoraNagar506548601, Address2034993341,
+Pune288348609, Alabama, 9415389
+United States Edit || Delete. 
+2020-12-14 22:34:37,361  :: INFO  :: [Logs]  :: Message is Display as expected:KatoraNagar506548601, Address2034993341,
+Pune288348609, Alabama, 9415389
+United States Edit || Delete. 
+2020-12-14 22:34:37,361  :: INFO  :: [Logs]  :: Message is Display as expected:KatoraNagar506548601, Address2034993341,
+Pune288348609, Alabama, 9415389
+United States Edit || Delete. 
+2020-12-14 22:34:40,003  :: INFO  :: [Logs]  :: Australiais selected From Dropdown. 
+2020-12-14 22:34:45,249  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-14 22:34:46,504  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-12-14 22:34:51,551  :: INFO  :: [Logs]  :: ==========End of UpdateShippingAddress==========. 
+2020-12-14 22:34:51,551  :: INFO  :: [Logs]  :: update shipping address. 
+2020-12-14 22:34:51,966  :: INFO  :: [Logs]  :: ==========BuyerProfileContactUs==========. 
+2020-12-14 22:34:52,087  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-14 22:34:52,185  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-12-14 22:34:52,185  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 22:34:52,185  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 22:34:52,258  :: INFO  :: [Logs]  :: click on Contact Us tab. 
+2020-12-14 22:34:52,353  :: INFO  :: [Logs]  :: edit button in front of Get in touch. 
+2020-12-14 22:34:54,268  :: INFO  :: [Logs]  :: IDC417269849 entered in input field. 
+2020-12-14 22:34:54,269  :: INFO  :: [Logs]  :: Enter get in touch address1. 
+2020-12-14 22:34:55,652  :: INFO  :: [Logs]  :: Ramnagar1219475875 entered in input field. 
+2020-12-14 22:34:55,653  :: INFO  :: [Logs]  :: Enter getIn touch address2. 
+2020-12-14 22:34:56,791  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-14 22:34:57,900  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-12-14 22:34:59,237  :: INFO  :: [Logs]  :: Mumbai750575568 entered in input field. 
+2020-12-14 22:34:59,237  :: INFO  :: [Logs]  :: Enter into city textbox. 
+2020-12-14 22:35:00,463  :: INFO  :: [Logs]  :: 12975180 entered in input field. 
+2020-12-14 22:35:00,463  :: INFO  :: [Logs]  :: Enter postal code. 
+2020-12-14 22:35:01,865  :: INFO  :: [Logs]  :: Mumbai750575568 entered in input field. 
+2020-12-14 22:35:01,866  :: INFO  :: [Logs]  :: Enter Phone number. 
+2020-12-14 22:35:03,157  :: INFO  :: [Logs]  :: https://www.mfg.com/ entered in input field. 
+2020-12-14 22:35:03,157  :: INFO  :: [Logs]  :: Enter website in website Textbox. 
+2020-12-14 22:35:04,560  :: INFO  :: [Logs]  :: https://twitter.com/ entered in input field. 
+2020-12-14 22:35:04,621  :: INFO  :: [Logs]  :: Enter twitter URL. 
+2020-12-14 22:35:05,837  :: INFO  :: [Logs]  :: 59132916 entered in input field. 
+2020-12-14 22:35:05,837  :: INFO  :: [Logs]  :: Enter Phone number. 
+2020-12-14 22:35:07,298  :: INFO  :: [Logs]  :: https://www.facebook.com/ entered in input field. 
+2020-12-14 22:35:07,299  :: INFO  :: [Logs]  :: Enter facebook URL . 
+2020-12-14 22:35:08,682  :: INFO  :: [Logs]  :: https://in.linkedin.com/ entered in input field. 
+2020-12-14 22:35:08,682  :: INFO  :: [Logs]  :: Enter linkedin URL. 
+2020-12-14 22:35:08,738  :: INFO  :: [Logs]  :: Clicked on Save button. 
+2020-12-14 22:36:10,765  :: INFO  :: [Logs]  :: edit button in front of Get in touch. 
+2020-12-14 22:36:19,420  :: INFO  :: [Logs]  :: Australiais selected From Dropdown. 
+2020-12-14 22:36:23,636  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-14 22:36:24,840  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-12-14 22:36:24,950  :: INFO  :: [Logs]  :: Clicked on Save button. 
+2020-12-14 22:36:32,023  :: INFO  :: [Logs]  :: Verified address. 
+2020-12-14 22:36:50,535  :: INFO  :: [Logs]  :: Message is Display as expected:https://www.mfg.com/. 
+2020-12-14 22:36:51,263  :: INFO  :: [Logs]  :: Clicks contact Information tab. 
+2020-12-14 22:36:56,393  :: INFO  :: [Logs]  :: Verified address. 
+2020-12-14 22:36:56,393  :: INFO  :: [Logs]  :: click on updated website Link. 
+2020-12-14 22:36:56,917  :: INFO  :: [Logs]  :: ==========End of BuyerProfileContactUs==========. 
+2020-12-14 22:36:56,917  :: INFO  :: [Logs]  :: update buyer from Contact Us. 
+2020-12-14 22:36:57,501  :: INFO  :: [Logs]  :: click on Contact Us tab. 
+2020-12-14 22:37:05,065  :: INFO  :: [Logs]  :: Message is Display as expected:https://twitter.com/. 
+2020-12-14 22:37:05,640  :: INFO  :: [Logs]  :: click on Twitter Link. 
+2020-12-14 22:37:13,581  :: INFO  :: [Logs]  :: Message is Display as expected:https://www.facebook.com/. 
+2020-12-14 22:37:14,143  :: INFO  :: [Logs]  :: Verify Twitter Link. 
+2020-12-14 22:37:25,477  :: INFO  :: [Logs]  :: Message is Display as expected:https://in.linkedin.com/. 
+2020-12-14 22:37:26,107  :: INFO  :: [Logs]  :: Verify Linkdin Link. 
+2020-12-14 22:37:26,737  :: INFO  :: [Logs]  :: verify social network. 
+2020-12-14 22:37:28,796  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-14 22:37:28,796  :: INFO  :: [Logs]  :: Buyer logged out successfully. 
+2020-12-14 22:37:33,122  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2020-12-14 22:37:33,774  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:37:33,774  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3190_BuyerProfileUpdate ============================. 
+2020-12-14 22:37:33,774  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:37:35,177  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-14 22:37:35,201  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:37:35,202  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 22:37:35,202  :: INFO  :: [Logs]  :: ===============================================================================================================. 

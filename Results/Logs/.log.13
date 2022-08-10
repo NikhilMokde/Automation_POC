@@ -1,0 +1,27 @@
+2022-08-08 15:44:33,454  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:44:33,463  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2022-08-08 15:44:33,463  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:44:33,468  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2022-08-08 15:44:33,846  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Student ID]. 
+2022-08-08 15:44:33,858  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[FirstName]. 
+2022-08-08 15:44:33,859  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[LastName]. 
+2022-08-08 15:44:33,859  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Age]. 
+2022-08-08 15:44:33,859  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Student ID]. 
+2022-08-08 15:44:33,859  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[FirstName]. 
+2022-08-08 15:44:33,859  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[LastName]. 
+2022-08-08 15:44:33,859  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Age]. 
+2022-08-08 15:44:33,859  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2022-08-08 15:44:33,865  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in C:\Users\NMokade\Downloads\Automation Framework\Automation Framework\Generics\CommonActions.cs:line 159. 
+2022-08-08 15:44:33,866  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in C:\Users\NMokade\Downloads\Automation Framework\Automation Framework\Generics\CommonActions.cs:line 159. 
+2022-08-08 15:44:33,866  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in C:\Users\NMokade\Downloads\Automation Framework\Automation Framework\Generics\CommonActions.cs:line 166
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in C:\Users\NMokade\Downloads\Automation Framework\Automation Framework\Generics\CommonActions.cs:line 179. 
+2022-08-08 15:44:33,873  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:44:33,873  :: INFO  :: [Logs]  :: ====================== End of Test Case : RetriveDataFromDatabase ============================. 
+2022-08-08 15:44:33,873  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:44:33,873  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2022-08-08 15:44:33,877  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:44:33,877  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2022-08-08 15:44:33,877  :: INFO  :: [Logs]  :: ===============================================================================================================. 

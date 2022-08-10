@@ -1,0 +1,86 @@
+2020-04-13 17:31:20,957  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-13 17:31:20,969  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-13 17:31:20,969  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-13 17:31:21,019  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-13 17:31:21,037  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-13 17:31:21,037  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-13 17:31:21,038  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-13 17:31:36,926  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-13 17:31:36,926  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-13 17:31:36,932  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-13 17:31:36,932  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-13 17:31:51,077  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-13 17:32:24,085  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-13 17:32:24,164  :: INFO  :: [Logs]  :: The element Element (id = 4206aeaf-c55f-4893-95a2-935848bd5b7b) was found on the page.. 
+2020-04-13 17:32:39,301  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-13 17:32:42,841  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-13 17:32:45,121  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-13 17:32:47,338  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-13 17:32:48,492  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-13 17:32:48,492  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-13 17:32:50,946  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-13 17:32:52,982  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-13 17:32:54,523  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-13 17:32:55,146  :: INFO  :: [Logs]  :: Select process. 
+2020-04-13 17:32:55,548  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-13 17:32:55,965  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-13 17:32:58,249  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-13 17:32:58,337  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-13 17:32:58,385  :: INFO  :: [Logs]  :: The element Element (id = 4206aeaf-c55f-4893-95a2-935848bd5b7b) was found on the page.. 
+2020-04-13 17:33:13,161  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-13 17:33:16,314  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-13 17:33:18,512  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-13 17:33:20,765  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-13 17:33:21,958  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-13 17:33:21,958  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-13 17:33:24,304  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-13 17:33:26,337  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-13 17:33:27,814  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-13 17:33:28,297  :: INFO  :: [Logs]  :: Select process. 
+2020-04-13 17:33:28,699  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-13 17:33:29,160  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-13 17:33:31,460  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-13 17:33:31,589  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-13 17:33:33,579  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-04-13 17:33:33,643  :: INFO  :: [Logs]  :: The element Element (id = c684cb26-2bc9-4508-9b42-b93606904c84) was found on the page.. 
+2020-04-13 17:33:36,090  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-04-13 17:33:38,358  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-13 17:33:40,394  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-13 17:33:43,853  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-13 17:33:45,887  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-13 17:33:47,456  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-04-13 17:33:47,626  :: INFO  :: [Logs]  :: 'Mayment Method' button is clicked. 
+2020-04-13 17:33:47,845  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-04-13 17:34:02,833  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (1244, 655)
+  (Session info: chrome=81.0.4044.92)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 115. 
+2020-04-13 17:34:03,051  :: ERROR :: [Logs]  :: Failed to create RFQ System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element is not clickable at point (1244, 655)
+  (Session info: chrome=81.0.4044.92)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 120
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 547. 
+2020-04-13 17:34:03,051  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-04-13 17:34:03,649  :: ERROR :: [Logs]  :: Test case failed. 
+2020-04-13 17:34:03,671  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-13 17:34:03,671  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22763_CreateRFQAwardAndDeclined ============================>. 
+2020-04-13 17:34:03,672  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-13 17:34:05,551  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-13 17:34:05,557  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-13 17:34:05,557  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-13 17:34:05,557  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

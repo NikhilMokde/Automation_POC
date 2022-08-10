@@ -1,0 +1,124 @@
+2020-12-29 19:27:12,455  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:27:12,475  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 19:27:12,475  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:27:12,611  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-29 19:27:12,673  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:27:12,674  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3191_SupplierProfileUpdate started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 19:27:12,675  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:27:41,262  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-29 19:27:41,262  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-29 19:27:41,271  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-29 19:27:41,271  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-29 19:27:54,231  :: INFO  :: [Logs]  :: automationsupplier1@yopmail.com entered in input field. 
+2020-12-29 19:27:55,458  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 19:28:04,752  :: INFO  :: [Logs]  :: login with buyer. 
+2020-12-29 19:28:05,251  :: INFO  :: [Logs]  :: ----------BuyerProfileUpdate----------. 
+2020-12-29 19:28:08,850  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-29 19:28:10,121  :: INFO  :: [Logs]  :: Clicked on Edit button on the profile page. 
+2020-12-29 19:28:16,001  :: INFO  :: [Logs]  :: Supplier MFG entered in input field. 
+2020-12-29 19:28:19,383  :: INFO  :: [Logs]  :: 1508416032 entered in input field. 
+2020-12-29 19:28:19,383  :: INFO  :: [Logs]  :: enter phone number from Excel. 
+2020-12-29 19:28:36,304  :: INFO  :: [Logs]  :: ----------End of BuyerProfileUpdate----------. 
+2020-12-29 19:28:41,750  :: INFO  :: [Logs]  :: update company Details. 
+2020-12-29 19:28:43,478  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-29 19:28:48,781  :: INFO  :: [Logs]  :: this is software solution company entered in input field. 
+2020-12-29 19:28:56,360  :: INFO  :: [Logs]  :: Description updated successfully. 
+2020-12-29 19:28:56,629  :: INFO  :: [Logs]  :: click on Edit contacts button. 
+2020-12-29 19:28:59,563  :: INFO  :: [Logs]  :: Supplier entered in input field. 
+2020-12-29 19:28:59,563  :: INFO  :: [Logs]  :: Entre first name. 
+2020-12-29 19:29:01,126  :: INFO  :: [Logs]  :: Automation entered in input field. 
+2020-12-29 19:29:01,126  :: INFO  :: [Logs]  :: Entre Last Name. 
+2020-12-29 19:29:01,390  :: INFO  :: [Logs]  :: Clicked on Save action button. 
+2020-12-29 19:29:08,960  :: INFO  :: [Logs]  :: Message is Display as expected:Name :
+Supplier Automation. 
+2020-12-29 19:29:08,960  :: INFO  :: [Logs]  :: update buyer profile from About Us. 
+2020-12-29 19:29:18,119  :: INFO  :: [Logs]  :: Textile Millis selected From Dropdown. 
+2020-12-29 19:29:18,119  :: INFO  :: [Logs]  :: select company from company type dropdown. 
+2020-12-29 19:29:19,367  :: INFO  :: [Logs]  :: 20-50is selected From Dropdown. 
+2020-12-29 19:29:19,367  :: INFO  :: [Logs]  :: select employee count. 
+2020-12-29 19:29:20,489  :: INFO  :: [Logs]  :: Englishis selected From Dropdown. 
+2020-12-29 19:29:20,489  :: INFO  :: [Logs]  :: select first language. 
+2020-12-29 19:29:21,763  :: INFO  :: [Logs]  :: 3239133 entered in input field. 
+2020-12-29 19:29:21,763  :: INFO  :: [Logs]  :: edit D-U-N-S # number. 
+2020-12-29 19:29:22,963  :: INFO  :: [Logs]  :: 112 entered in input field. 
+2020-12-29 19:29:22,963  :: INFO  :: [Logs]  :: edit cage code. 
+2020-12-29 19:29:23,026  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-29 19:29:29,133  :: INFO  :: [Logs]  :: Message is Display as expected:Company Type:
+Textile Mill. 
+2020-12-29 19:29:29,190  :: INFO  :: [Logs]  :: Message is Display as expected:# of Employees:
+20-50. 
+2020-12-29 19:29:30,322  :: INFO  :: [Logs]  :: Message is Display as expected:D-U-N-S Number:
+3239133. 
+2020-12-29 19:29:30,388  :: INFO  :: [Logs]  :: Message is Display as expected:Cage Code:
+112. 
+2020-12-29 19:29:30,388  :: INFO  :: [Logs]  :: update supplier profile from About Us. 
+2020-12-29 19:29:38,581  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-29 19:29:38,822  :: INFO  :: [Logs]  :: click on capability Tab. 
+2020-12-29 19:29:46,064  :: INFO  :: [Logs]  :: Foodis selected From Dropdown. 
+2020-12-29 19:29:47,345  :: INFO  :: [Logs]  :: Tightis selected From Dropdown. 
+2020-12-29 19:29:48,468  :: INFO  :: [Logs]  :: Materialis selected From Dropdown. 
+2020-12-29 19:29:51,026  :: INFO  :: [Logs]  :: Alloy Steel entered in input field. 
+2020-12-29 19:29:52,220  :: INFO  :: [Logs]  :: Select Process. 
+2020-12-29 19:29:52,317  :: INFO  :: [Logs]  :: click on save button. 
+2020-12-29 19:29:57,651  :: INFO  :: [Logs]  :: update supplier profile form capabilities. 
+2020-12-29 19:30:02,960  :: INFO  :: [Logs]  :: Message is Display as expected:Food. 
+2020-12-29 19:30:04,008  :: INFO  :: [Logs]  :: Message is Display as expected:Tolerance:
+Tight(+/- .0000 in). 
+2020-12-29 19:30:05,055  :: INFO  :: [Logs]  :: Message is Display as expected:Alloy Steel. 
+2020-12-29 19:30:05,055  :: INFO  :: [Logs]  :: verify updated details of FocousOver View. 
+2020-12-29 19:30:05,859  :: INFO  :: [Logs]  :: ==========BuyerProfileContactUs==========. 
+2020-12-29 19:30:06,068  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-29 19:30:06,477  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-29 19:30:06,741  :: INFO  :: [Logs]  :: click on Contact Us tab. 
+2020-12-29 19:30:07,013  :: INFO  :: [Logs]  :: edit button in front of Get in touch. 
+2020-12-29 19:30:09,041  :: INFO  :: [Logs]  :: IDC820853042 entered in input field. 
+2020-12-29 19:30:09,041  :: INFO  :: [Logs]  :: Enter get in touch address1. 
+2020-12-29 19:30:15,010  :: INFO  :: [Logs]  :: Ramnagar538670424 entered in input field. 
+2020-12-29 19:30:15,010  :: INFO  :: [Logs]  :: Enter getIn touch address2. 
+2020-12-29 19:30:16,154  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-29 19:30:17,287  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-12-29 19:30:18,746  :: INFO  :: [Logs]  :: Mumbai380992554 entered in input field. 
+2020-12-29 19:30:18,746  :: INFO  :: [Logs]  :: Enter into city textbox. 
+2020-12-29 19:30:20,158  :: INFO  :: [Logs]  :: 16004453 entered in input field. 
+2020-12-29 19:30:20,158  :: INFO  :: [Logs]  :: Enter postal code. 
+2020-12-29 19:30:21,541  :: INFO  :: [Logs]  :: Mumbai380992554 entered in input field. 
+2020-12-29 19:30:21,541  :: INFO  :: [Logs]  :: Enter Phone number. 
+2020-12-29 19:30:23,001  :: INFO  :: [Logs]  :: https://www.mfg.com/ entered in input field. 
+2020-12-29 19:30:23,002  :: INFO  :: [Logs]  :: Enter website in website Textbox. 
+2020-12-29 19:30:24,668  :: INFO  :: [Logs]  :: https://twitter.com/getIntouch entered in input field. 
+2020-12-29 19:30:24,730  :: INFO  :: [Logs]  :: Enter twitter URL. 
+2020-12-29 19:30:26,176  :: INFO  :: [Logs]  :: 94702673 entered in input field. 
+2020-12-29 19:30:26,176  :: INFO  :: [Logs]  :: Enter Phone number. 
+2020-12-29 19:30:27,861  :: INFO  :: [Logs]  :: https://www.linkedin.com/getIntouch entered in input field. 
+2020-12-29 19:30:27,861  :: INFO  :: [Logs]  :: Enter facebook URL . 
+2020-12-29 19:30:29,411  :: INFO  :: [Logs]  :: https://www.facebook.com/getintouch entered in input field. 
+2020-12-29 19:30:29,411  :: INFO  :: [Logs]  :: Enter linkedin URL. 
+2020-12-29 19:30:29,501  :: INFO  :: [Logs]  :: Clicked on Save button. 
+2020-12-29 19:30:38,731  :: INFO  :: [Logs]  :: edit button in front of Get in touch. 
+2020-12-29 19:30:41,599  :: INFO  :: [Logs]  :: Australiais selected From Dropdown. 
+2020-12-29 19:30:45,916  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-29 19:30:47,173  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-12-29 19:30:47,259  :: INFO  :: [Logs]  :: Clicked on Save button. 
+2020-12-29 19:30:58,564  :: INFO  :: [Logs]  :: Verified address. 
+2020-12-29 19:31:13,338  :: INFO  :: [Logs]  :: Message is Display as expected:https://www.mfg.com/. 
+2020-12-29 19:31:13,895  :: INFO  :: [Logs]  :: click on updated website Link. 
+2020-12-29 19:31:14,461  :: INFO  :: [Logs]  :: ==========End of BuyerProfileContactUs==========. 
+2020-12-29 19:31:14,461  :: INFO  :: [Logs]  :: update buyer from Contact Us. 
+2020-12-29 19:31:15,169  :: INFO  :: [Logs]  :: click on Contact Us tab. 
+2020-12-29 19:31:25,968  :: INFO  :: [Logs]  :: Message is Display as expected:https://twitter.com/getIntouch. 
+2020-12-29 19:31:26,569  :: INFO  :: [Logs]  :: click on Twitter Link. 
+2020-12-29 19:31:33,098  :: INFO  :: [Logs]  :: Message is Display as expected:https://www.linkedin.com/getIntouch?_l=en_US. 
+2020-12-29 19:31:33,716  :: INFO  :: [Logs]  :: Verify Twitter Link. 
+2020-12-29 19:31:39,959  :: INFO  :: [Logs]  :: Message is Display as expected:https://www.facebook.com/getintouch. 
+2020-12-29 19:31:40,559  :: INFO  :: [Logs]  :: Verify Linkdin Link. 
+2020-12-29 19:31:41,122  :: INFO  :: [Logs]  :: verify social network. 
+2020-12-29 19:31:43,761  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-29 19:31:43,762  :: INFO  :: [Logs]  :: Buyer logged out successfully. 
+2020-12-29 19:31:47,262  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2020-12-29 19:31:47,982  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:31:47,982  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3191_SupplierProfileUpdate ============================. 
+2020-12-29 19:31:47,982  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:31:50,183  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-29 19:31:50,191  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 19:31:50,191  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 19:31:50,191  :: INFO  :: [Logs]  :: ===============================================================================================================. 

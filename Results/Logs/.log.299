@@ -1,0 +1,16 @@
+2020-12-22 17:31:46,393  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-22 17:31:46,407  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-22 17:31:46,407  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-22 17:31:46,472  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-22 17:31:46,534  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-22 17:31:46,535  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3528_RFQMarkForQuoating started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-22 17:31:46,539  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-22 17:32:32,242  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-22 17:32:32,243  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-22 17:32:32,248  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-12-22 17:32:32,248  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-22 17:32:38,713  :: ERROR :: [Logs]  :: Failed to enter the data in field System.Runtime.InteropServices.COMException (0x800A03EC): Exception from HRESULT: 0x800A03EC
+   at MFGAutomation.Generics.ReadExcelFile.ReadDataFromColumn(String colName, Int32 rowNum) in E:\MFG Code\mfg.automation\Generics\ReadExcelFile.cs:line 98
+   at MFG_Automation.Utility.RFQ.RFQUtility.M2_3528_RFQMarkForQuoating(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQ\RFQUtility.cs:line 1045. 
+2020-12-22 17:32:38,752  :: INFO  :: [Logs]  :: M2_3528_RFQMarkForQuoating. 
+2020-12-22 17:32:40,147  :: ERROR :: [Logs]  :: M2_3528_RFQMarkForQuoating Test case failed. 

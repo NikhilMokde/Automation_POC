@@ -1,0 +1,43 @@
+2021-01-15 17:34:18,339  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-15 17:34:18,374  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-15 17:34:18,374  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-15 17:34:18,475  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-15 17:34:19,416  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-15 17:34:19,417  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3575_RFQActionTrackerWithQuoatesFilter started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-15 17:34:19,417  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-15 17:35:18,422  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-15 17:35:18,422  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-15 17:35:18,450  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-15 17:35:18,450  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-15 17:36:42,821  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-15 17:36:46,194  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-15 17:36:47,398  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-15 17:36:53,089  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-15 17:40:43,182  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-15 17:40:44,894  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2021-01-15 17:40:44,996  :: INFO  :: [Logs]  :: click on RFQ button. 
+2021-01-15 17:40:45,056  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2021-01-15 17:40:45,056  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2021-01-15 17:40:45,707  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2021-01-15 17:40:46,923  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2021-01-15 17:41:08,730  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2021-01-15 17:41:10,760  :: INFO  :: [Logs]  :: click on existing port. 
+2021-01-15 17:41:12,067  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2021-01-15 17:41:12,067  :: INFO  :: [Logs]  :: Entre Part Name. 
+2021-01-15 17:41:13,261  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2021-01-15 17:41:13,261  :: INFO  :: [Logs]  :: Entre Part No. 
+2021-01-15 17:41:14,486  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2021-01-15 17:41:14,486  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2021-01-15 17:41:15,755  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2021-01-15 17:41:15,755  :: INFO  :: [Logs]  :: Select Unit. 
+2021-01-15 17:41:18,218  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-15 17:41:20,251  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-15 17:41:21,496  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-15 17:41:21,496  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-15 17:41:21,911  :: INFO  :: [Logs]  :: Select process. 
+2021-01-15 17:41:22,585  :: INFO  :: [Logs]  :: Select Material. 
+2021-01-15 17:41:22,903  :: INFO  :: [Logs]  :: Select post production process. 
+2021-01-15 17:41:24,111  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2021-01-15 17:41:24,111  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2021-01-15 17:41:24,185  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2021-01-15 17:41:25,186  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 

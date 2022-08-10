@@ -1,0 +1,110 @@
+2020-04-16 14:26:08,259  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-16 14:26:08,279  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-16 14:26:08,279  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-16 14:26:08,376  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-16 14:26:08,421  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-16 14:26:08,422  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22774_QMSUpdationAndCreation started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-16 14:26:08,423  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-16 14:26:26,434  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-16 14:26:26,434  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-16 14:26:26,440  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-16 14:26:26,440  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-16 14:26:53,072  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-16 14:27:13,217  :: INFO  :: [Logs]  :: Clicked on QMS tab. 
+2020-04-16 14:27:18,399  :: INFO  :: [Logs]  :: Clicked on create quote. 
+2020-04-16 14:27:26,763  :: INFO  :: [Logs]  :: Clicked on create new customer. 
+2020-04-16 14:27:32,682  :: INFO  :: [Logs]  :: Automation Company entered in input field. 
+2020-04-16 14:27:32,682  :: INFO  :: [Logs]  :: Enter data on company name text box. 
+2020-04-16 14:27:35,246  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115499 entered in input field. 
+2020-04-16 14:27:35,246  :: INFO  :: [Logs]  :: Enter data on first name text box. 
+2020-04-16 14:27:37,344  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115536 entered in input field. 
+2020-04-16 14:27:37,344  :: INFO  :: [Logs]  :: Enter data on last name text box. 
+2020-04-16 14:27:39,487  :: INFO  :: [Logs]  :: automanufacturer001070112115649 entered in input field. 
+2020-04-16 14:27:39,487  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-04-16 14:27:41,357  :: INFO  :: [Logs]  :: Pune Maharashtra entered in input field. 
+2020-04-16 14:27:41,357  :: INFO  :: [Logs]  :: Enter data on address text box. 
+2020-04-16 14:27:41,543  :: INFO  :: [Logs]  :: Country selected successfully. 
+2020-04-16 14:27:42,689  :: INFO  :: [Logs]  :: State selected successfully. 
+2020-04-16 14:27:45,095  :: INFO  :: [Logs]  :: Pune entered in input field. 
+2020-04-16 14:27:45,095  :: INFO  :: [Logs]  :: Enter data on city name text box. 
+2020-04-16 14:27:46,489  :: INFO  :: [Logs]  :: 152NY entered in input field. 
+2020-04-16 14:27:46,489  :: INFO  :: [Logs]  :: Enter data on zip code text box. 
+2020-04-16 14:27:48,126  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-04-16 14:27:48,126  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-04-16 14:28:46,509  :: INFO  :: [Logs]  :: mfgautomation@yopmail.com entered in input field. 
+2020-04-16 14:28:49,645  :: INFO  :: [Logs]  :: Enter valid mail address. 
+2020-04-16 14:28:51,763  :: INFO  :: [Logs]  :: abcd entered in input field. 
+2020-04-16 14:28:54,998  :: INFO  :: [Logs]  :: Enter invalid data on phone number text box. 
+2020-04-16 14:30:16,230  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-04-16 14:30:18,707  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-04-16 14:30:20,354  :: INFO  :: [Logs]  :: Clicked on save QMS customer. 
+2020-04-16 14:30:38,065  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-16 14:30:51,882  :: INFO  :: [Logs]  :: M2 - 2763_CreateRFQAwardAndUpdate entered in input field. 
+2020-04-16 14:33:21,885  :: INFO  :: [Logs]  :: M2 - 2763_CreateRFQAwardAndUpdate entered in input field. 
+2020-04-16 14:33:53,431  :: INFO  :: [Logs]  :: Clicked on Get Started. 
+2020-04-16 14:34:34,909  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2020-04-16 14:34:40,034  :: INFO  :: [Logs]  :: Clicked on Enter datails. 
+2020-04-16 14:35:22,946  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-04-16 14:35:23,612  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2020-04-16 14:35:30,449  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-04-16 14:35:31,226  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-04-16 14:35:33,875  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-04-16 14:35:34,647  :: INFO  :: [Logs]  :: Enter data on cost text box. 
+2020-04-16 14:35:43,614  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2020-04-16 14:35:48,222  :: INFO  :: [Logs]  :: Entered Post Process. 
+2020-04-16 14:35:52,140  :: INFO  :: [Logs]  :: Part Description entered in input field. 
+2020-04-16 14:35:52,893  :: INFO  :: [Logs]  :: Entered Part Description. 
+2020-04-16 14:35:59,128  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2020-04-16 14:36:08,086  :: INFO  :: [Logs]  :: Clicked on Add Quote Details. 
+2020-04-16 14:36:16,318  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span aria-hidden="true" class="ui-button-icon-left ui-clickable pi pi-calendar"></span> is not clickable at point (768, 7). Other element would receive the click: <nav _ngcontent-c6="" class="navbar header-navbar pcoded-header" header-theme="themelight5" pcoded-header-position="fixed">...</nav>
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at OpenQA.Selenium.Support.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element). 
+2020-04-16 14:36:41,496  :: INFO  :: [Logs]  :: Clicked on Quote Valid date. 
+2020-04-16 14:36:46,927  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-16 14:36:48,982  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-16 14:37:42,249  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span, or: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span, or: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span, or: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span, or: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span
+   at OpenQA.Selenium.Support.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.get_Element()
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element). 
+2020-04-16 14:38:18,575  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-16 14:38:20,632  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-16 14:39:13,849  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span, or: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span, or: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span, or: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span, or: By.XPath: //div[@class='ui-datepicker-header ui-widget-header ui-Helper-clearfix ui-corner-all']/a[2]/child::span
+   at OpenQA.Selenium.Support.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.get_Element()
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element). 
+2020-04-16 14:39:38,146  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2020-04-16 14:39:45,044  :: INFO  :: [Logs]  :: Payment term has been selected. 
+2020-04-16 14:40:14,277  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='quotesNeededBy'], or: By.XPath: //input[@name='quotesNeededBy']
+   at OpenQA.Selenium.Support.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.get_Element()
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element). 
+2020-04-16 14:40:51,412  :: INFO  :: [Logs]  :: Clicked on Review Quote. 
+2020-04-16 14:41:04,162  :: INFO  :: [Logs]  :: Clicked on Finish Quote. 
+2020-04-16 14:41:20,470  :: INFO  :: [Logs]  :: Clicked on Email to customer. 
+2020-04-16 14:41:26,191  :: INFO  :: [Logs]  :: MFG.cpm entered in input field. 
+2020-04-16 14:41:26,887  :: INFO  :: [Logs]  :: Enter data on subject text box. 
+2020-04-16 14:41:36,773  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-16 14:41:37,684  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-04-16 14:41:44,358  :: INFO  :: [Logs]  :: Clicked on Send Email. 
+2020-04-16 14:41:57,081  :: INFO  :: [Logs]  :: Email sent successfully. 

@@ -1,0 +1,220 @@
+2020-12-29 20:08:48,875  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 20:08:48,895  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 20:08:48,895  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 20:08:49,090  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-29 20:08:49,429  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 20:08:49,435  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22797_IvoiceCreation started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 20:08:49,444  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 20:09:35,128  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-29 20:09:35,128  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-29 20:09:35,197  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-29 20:09:35,197  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-29 20:09:51,691  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-29 20:09:58,258  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-12-29 20:09:59,622  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 20:10:07,078  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-29 20:10:07,114  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-12-29 20:10:27,018  :: INFO  :: [Logs]  :: Clicked on QMS tab. 
+2020-12-29 20:10:27,460  :: INFO  :: [Logs]  :: Clicked on create quote. 
+2020-12-29 20:10:32,688  :: INFO  :: [Logs]  :: Clicked on create new customer. 
+2020-12-29 20:10:34,266  :: INFO  :: [Logs]  :: Automation1829341539 entered in input field. 
+2020-12-29 20:10:34,266  :: INFO  :: [Logs]  :: Enter data on company name text box. 
+2020-12-29 20:10:38,634  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115499 entered in input field. 
+2020-12-29 20:10:38,634  :: INFO  :: [Logs]  :: Enter data on first name text box. 
+2020-12-29 20:10:40,375  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115536 entered in input field. 
+2020-12-29 20:10:40,377  :: INFO  :: [Logs]  :: Enter data on last name text box. 
+2020-12-29 20:10:42,133  :: INFO  :: [Logs]  :: automanufacturer001070112115649 entered in input field. 
+2020-12-29 20:10:42,134  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-12-29 20:10:44,022  :: INFO  :: [Logs]  :: Pune Maharashtra entered in input field. 
+2020-12-29 20:10:44,023  :: INFO  :: [Logs]  :: Enter data on address text box. 
+2020-12-29 20:10:44,248  :: INFO  :: [Logs]  :: Country selected successfully. 
+2020-12-29 20:10:46,189  :: INFO  :: [Logs]  :: State selected successfully. 
+2020-12-29 20:10:47,756  :: INFO  :: [Logs]  :: Pune entered in input field. 
+2020-12-29 20:10:47,756  :: INFO  :: [Logs]  :: Enter data on city name text box. 
+2020-12-29 20:10:49,227  :: INFO  :: [Logs]  :: 152NY entered in input field. 
+2020-12-29 20:10:49,228  :: INFO  :: [Logs]  :: Enter data on zip code text box. 
+2020-12-29 20:10:50,847  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-12-29 20:10:50,847  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-12-29 20:10:52,471  :: INFO  :: [Logs]  :: mfgautomation@yopmail.com entered in input field. 
+2020-12-29 20:10:52,471  :: INFO  :: [Logs]  :: Enter valid mail address. 
+2020-12-29 20:10:54,331  :: INFO  :: [Logs]  :: abcde entered in input field. 
+2020-12-29 20:10:54,331  :: INFO  :: [Logs]  :: Enter invalid data on phone number text box. 
+2020-12-29 20:10:55,748  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-12-29 20:10:55,748  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-12-29 20:10:56,033  :: INFO  :: [Logs]  :: Clicked on save QMS customer. 
+2020-12-29 20:11:00,601  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-12-29 20:11:10,856  :: INFO  :: [Logs]  :: QMS711761125 entered in input field. 
+2020-12-29 20:11:11,034  :: INFO  :: [Logs]  :: Clicked on Get Started. 
+2020-12-29 20:11:21,155  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2020-12-29 20:11:34,521  :: INFO  :: [Logs]  :: Clicked on Enter details. 
+2020-12-29 20:11:36,709  :: INFO  :: [Logs]  :: Pen Drive entered in input field. 
+2020-12-29 20:11:36,709  :: INFO  :: [Logs]  :: Enter data on part name text box. 
+2020-12-29 20:11:38,359  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-29 20:11:38,359  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2020-12-29 20:11:40,488  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-29 20:11:40,488  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:11:42,176  :: INFO  :: [Logs]  :: 10.15 entered in input field. 
+2020-12-29 20:11:44,600  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:11:46,240  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-12-29 20:11:49,259  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:11:50,873  :: INFO  :: [Logs]  :: 30.1 entered in input field. 
+2020-12-29 20:11:52,806  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:11:54,454  :: INFO  :: [Logs]  :: 40.2 entered in input field. 
+2020-12-29 20:11:56,601  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:11:58,115  :: INFO  :: [Logs]  :: 50 entered in input field. 
+2020-12-29 20:11:59,967  :: INFO  :: [Logs]  :: 200 entered in input field. 
+2020-12-29 20:11:59,967  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:01,653  :: INFO  :: [Logs]  :: 10.15 entered in input field. 
+2020-12-29 20:12:04,357  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:06,273  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-12-29 20:12:08,298  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:09,936  :: INFO  :: [Logs]  :: 30.1 entered in input field. 
+2020-12-29 20:12:12,117  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:13,781  :: INFO  :: [Logs]  :: 40.2 entered in input field. 
+2020-12-29 20:12:15,849  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:17,620  :: INFO  :: [Logs]  :: 50 entered in input field. 
+2020-12-29 20:12:19,686  :: INFO  :: [Logs]  :: 300 entered in input field. 
+2020-12-29 20:12:19,687  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:21,802  :: INFO  :: [Logs]  :: 10.15 entered in input field. 
+2020-12-29 20:12:24,183  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:26,025  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-12-29 20:12:28,101  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:29,752  :: INFO  :: [Logs]  :: 30.1 entered in input field. 
+2020-12-29 20:12:31,830  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:33,418  :: INFO  :: [Logs]  :: 40.2 entered in input field. 
+2020-12-29 20:12:35,525  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:37,016  :: INFO  :: [Logs]  :: 50 entered in input field. 
+2020-12-29 20:12:38,914  :: INFO  :: [Logs]  :: 400 entered in input field. 
+2020-12-29 20:12:38,914  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:40,755  :: INFO  :: [Logs]  :: 10.15 entered in input field. 
+2020-12-29 20:12:42,812  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:44,464  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-12-29 20:12:47,075  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:48,776  :: INFO  :: [Logs]  :: 30.1 entered in input field. 
+2020-12-29 20:12:51,760  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:53,494  :: INFO  :: [Logs]  :: 40.2 entered in input field. 
+2020-12-29 20:12:56,602  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:12:59,761  :: INFO  :: [Logs]  :: 50 entered in input field. 
+2020-12-29 20:13:02,105  :: INFO  :: [Logs]  :: 500 entered in input field. 
+2020-12-29 20:13:02,106  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:13:04,343  :: INFO  :: [Logs]  :: 10.15 entered in input field. 
+2020-12-29 20:13:06,675  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:13:08,272  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-12-29 20:13:10,123  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:13:11,813  :: INFO  :: [Logs]  :: 30.1 entered in input field. 
+2020-12-29 20:13:13,925  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:13:15,486  :: INFO  :: [Logs]  :: 40.2 entered in input field. 
+2020-12-29 20:13:17,975  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:13:19,528  :: INFO  :: [Logs]  :: 50 entered in input field. 
+2020-12-29 20:13:21,589  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-29 20:13:21,589  :: INFO  :: [Logs]  :: Entered Part Description. 
+2020-12-29 20:13:24,033  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2020-12-29 20:13:25,304  :: INFO  :: [Logs]  :: ? entered in input field. 
+2020-12-29 20:13:25,339  :: INFO  :: [Logs]  :: Entered Post Process. 
+2020-12-29 20:13:25,915  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2020-12-29 20:13:39,468  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2020-12-29 20:13:43,731  :: INFO  :: [Logs]  :: Clicked on Enter details. 
+2020-12-29 20:13:45,802  :: INFO  :: [Logs]  :: Pen Drive entered in input field. 
+2020-12-29 20:13:45,803  :: INFO  :: [Logs]  :: Enter data on part name text box. 
+2020-12-29 20:13:47,305  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-29 20:13:47,305  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2020-12-29 20:13:49,146  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-29 20:13:49,147  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:13:50,913  :: INFO  :: [Logs]  :: 10.15 entered in input field. 
+2020-12-29 20:13:54,250  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:13:56,027  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-12-29 20:13:58,481  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:14:00,475  :: INFO  :: [Logs]  :: 30.1 entered in input field. 
+2020-12-29 20:14:02,298  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:14:03,871  :: INFO  :: [Logs]  :: 40.2 entered in input field. 
+2020-12-29 20:14:05,575  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:14:07,497  :: INFO  :: [Logs]  :: 50 entered in input field. 
+2020-12-29 20:14:09,164  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:14:10,947  :: INFO  :: [Logs]  :: 60.1 entered in input field. 
+2020-12-29 20:14:12,960  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-29 20:14:12,960  :: INFO  :: [Logs]  :: Entered Part Description. 
+2020-12-29 20:14:15,689  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2020-12-29 20:14:16,893  :: INFO  :: [Logs]  :: ? entered in input field. 
+2020-12-29 20:14:16,893  :: INFO  :: [Logs]  :: Entered Post Process. 
+2020-12-29 20:14:17,276  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2020-12-29 20:14:25,121  :: INFO  :: [Logs]  :: Clicked on Add Quote Details. 
+2020-12-29 20:14:25,265  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2020-12-29 20:14:27,212  :: INFO  :: [Logs]  :: To select Pay For Shipping. 
+2020-12-29 20:14:29,471  :: INFO  :: [Logs]  :: Select Lead Time. 
+2020-12-29 20:14:31,153  :: INFO  :: [Logs]  :: 3 entered in input field. 
+2020-12-29 20:14:31,153  :: INFO  :: [Logs]  :: Select Lead Days. 
+2020-12-29 20:14:33,008  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-29 20:14:33,009  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2020-12-29 20:14:41,370  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-29 20:14:43,421  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-29 20:14:45,119  :: INFO  :: [Logs]  :: Clicked on next button of date picker. 
+2020-12-29 20:14:47,156  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-29 20:14:49,234  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-29 20:14:51,737  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-29 20:14:51,832  :: INFO  :: [Logs]  :: Payment term has been selected. 
+2020-12-29 20:14:51,988  :: INFO  :: [Logs]  :: Clicked on Review Quote. 
+2020-12-29 20:14:53,971  :: INFO  :: [Logs]  :: Page Navigate to QMS Details Page. 
+2020-12-29 20:14:56,125  :: INFO  :: [Logs]  :: Clicked on Finish Quote. 
+2020-12-29 20:14:56,451  :: INFO  :: [Logs]  :: Clicked on Email to customer. 
+2020-12-29 20:15:02,804  :: INFO  :: [Logs]  :: MFG.com entered in input field. 
+2020-12-29 20:15:02,804  :: INFO  :: [Logs]  :: Enter data on subject text box. 
+2020-12-29 20:15:05,131  :: INFO  :: [Logs]  :: Email to customer entered in input field. 
+2020-12-29 20:15:05,131  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-12-29 20:15:05,252  :: INFO  :: [Logs]  :: Clicked on Send Email. 
+2020-12-29 20:15:15,876  :: INFO  :: [Logs]  :: Email sent successfully. 
+2020-12-29 20:15:16,312  :: INFO  :: [Logs]  :: A new QMS is created. 
+2020-12-29 20:15:49,625  :: INFO  :: [Logs]  :: Automation1829341539 entered in input field. 
+2020-12-29 20:15:50,127  :: INFO  :: [Logs]  :: Search Company. 
+2020-12-29 20:15:52,078  :: INFO  :: [Logs]  :: click on Quoate Reference link. 
+2020-12-29 20:15:56,489  :: INFO  :: [Logs]  :: click on Invoice Tab. 
+2020-12-29 20:15:59,023  :: INFO  :: [Logs]  :: click on Create Invoice button. 
+2020-12-29 20:16:05,950  :: INFO  :: [Logs]  :: 19031992 entered in input field. 
+2020-12-29 20:17:57,049  :: INFO  :: [Logs]  :: Entre Purchase Order No. 
+2020-12-29 20:18:06,614  :: INFO  :: [Logs]  :: Select Payment Term. 
+2020-12-29 20:18:12,611  :: INFO  :: [Logs]  :: 100 Piecesis selected From Dropdown. 
+2020-12-29 20:18:13,641  :: INFO  :: [Logs]  :: Select Quantity. 
+2020-12-29 20:18:23,826  :: INFO  :: [Logs]  :: 10.15 entered in input field. 
+2020-12-29 20:18:24,721  :: INFO  :: [Logs]  :: Verify user should be able to edit unit price. 
+2020-12-29 20:18:47,733  :: INFO  :: [Logs]  :: click on +Quantity For Adding New Quantity. 
+2020-12-29 20:18:49,863  :: INFO  :: [Logs]  :: user is not able to add same party again and again. 
+2020-12-29 20:18:54,348  :: INFO  :: [Logs]  :: 200 Piecesis selected From Dropdown. 
+2020-12-29 20:18:55,847  :: INFO  :: [Logs]  :: Select 2nd Quantity. 
+2020-12-29 20:19:37,496  :: INFO  :: [Logs]  :: Shipping is selected From Dropdown. 
+2020-12-29 20:19:37,497  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:19:40,260  :: INFO  :: [Logs]  :: 10.01 entered in input field. 
+2020-12-29 20:19:52,846  :: INFO  :: [Logs]  :: Tooling is selected From Dropdown. 
+2020-12-29 20:19:52,846  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:19:56,044  :: INFO  :: [Logs]  :: 20.02 entered in input field. 
+2020-12-29 20:20:06,017  :: INFO  :: [Logs]  :: 100 Piecesis selected From Dropdown. 
+2020-12-29 20:20:06,772  :: INFO  :: [Logs]  :: Select Quantity. 
+2020-12-29 20:21:14,741  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:21:18,418  :: INFO  :: [Logs]  :: 20.02 entered in input field. 
+2020-12-29 20:21:21,384  :: INFO  :: [Logs]  :: click on +Quantity For Adding New Quantity. 
+2020-12-29 20:21:25,086  :: INFO  :: [Logs]  :: Otheris selected From Dropdown. 
+2020-12-29 20:21:25,754  :: INFO  :: [Logs]  :: Select other Quantity. 
+2020-12-29 20:21:29,942  :: INFO  :: [Logs]  :: Select Quantity. 
+2020-12-29 20:21:33,325  :: INFO  :: [Logs]  :: 50 entered in input field. 
+2020-12-29 20:21:33,997  :: INFO  :: [Logs]  :: Entre Quantity. 
+2020-12-29 20:21:49,330  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-29 20:21:52,343  :: INFO  :: [Logs]  :: 20.02 entered in input field. 
+2020-12-29 20:21:55,733  :: INFO  :: [Logs]  :: Add Quantity in other Parts. 
+2020-12-29 20:21:59,235  :: INFO  :: [Logs]  :: this is for invoice creation entered in input field. 
+2020-12-29 20:21:59,891  :: INFO  :: [Logs]  :: Add Notes. 
+2020-12-29 20:22:12,542  :: INFO  :: [Logs]  :: clear Data. 
+2020-12-29 20:22:27,328  :: INFO  :: [Logs]  :: 30.55 entered in input field. 
+2020-12-29 20:22:46,872  :: INFO  :: [Logs]  :: Entre Data in Required Field. 
+2020-12-29 20:22:51,150  :: INFO  :: [Logs]  :: click on check box part. 
+2020-12-29 20:22:58,557  :: INFO  :: [Logs]  :: click on Save Invoice Button. 
+2020-12-29 20:23:04,987  :: INFO  :: [Logs]  :: A new Invoice is created. 
+2020-12-29 20:23:21,328  :: INFO  :: [Logs]  :: click on Edit Invoice Button. 
+2020-12-29 20:23:33,428  :: INFO  :: [Logs]  :: Validation Message is present as Expected this is for invoice creation. 
+2020-12-29 20:23:35,312  :: INFO  :: [Logs]  :: Verify Notes on Preview Invoice Page. 
+2020-12-29 20:24:06,750  :: INFO  :: [Logs]  :: Verify Content in PDF. 
+2020-12-29 20:24:10,021  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2020-12-29 20:24:10,516  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 20:24:10,516  :: INFO  :: [Logs]  :: ====================== End of Test Case : M22797_IvoiceCreation ============================. 
+2020-12-29 20:24:10,516  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 20:24:13,913  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-29 20:24:13,921  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 20:24:13,921  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 20:24:13,921  :: INFO  :: [Logs]  :: ===============================================================================================================. 

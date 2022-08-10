@@ -1,0 +1,34 @@
+2020-11-18 19:31:54,347  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-18 19:31:54,372  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-18 19:31:54,372  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-18 19:31:54,494  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-18 19:31:54,548  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-18 19:31:54,552  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M23451_MyRFQFilterSupplierSide started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-18 19:31:54,553  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-18 19:32:06,293  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-18 19:32:06,293  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-18 19:32:06,306  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-11-18 19:32:06,306  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-18 19:32:12,767  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-18 19:32:35,066  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Clear()
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 41. 
+2020-11-18 19:32:35,069  :: INFO  :: [Logs]  :: Unable to login OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 49
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 212. 
+2020-11-18 19:32:35,154  :: INFO  :: [Logs]  :: Failed to Verify My RFQ  filter OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 246
+   at MFG_Atomation.Utility.Filters.FilterUtility.M23451_MyRFQFilterSupplierSide(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 49. 
+2020-11-18 19:32:35,154  :: INFO  :: [Logs]  :: M23451_MyRFQFilterSupplierSidemethod is failed. 
+2020-11-18 19:32:35,595  :: ERROR :: [Logs]  :: M23451_MyRFQFilterSupplierSide Test case failed. 
+2020-11-18 19:32:35,781  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-18 19:32:35,781  :: INFO  :: [Logs]  :: ====================== End of Test Case : M23451_MyRFQFilterSupplierSide ============================. 
+2020-11-18 19:32:35,781  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-18 19:32:36,354  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-18 19:32:36,364  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-18 19:32:36,364  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-18 19:32:36,364  :: INFO  :: [Logs]  :: ===============================================================================================================. 

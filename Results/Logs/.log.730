@@ -1,0 +1,41 @@
+2020-04-21 12:28:48,525  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-21 12:28:48,537  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-21 12:28:48,537  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-21 12:28:48,563  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-21 12:28:48,571  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-21 12:28:48,571  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22510 started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-21 12:28:48,572  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-21 12:29:38,801  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-21 12:29:38,801  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-21 12:29:38,810  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-04-21 12:29:38,810  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-21 12:29:43,988  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-21 12:30:43,728  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-21 12:30:43,822  :: INFO  :: [Logs]  :: The element Element (id = 127e2288-1e65-4c2b-b787-347141dc298d) was found on the page.. 
+2020-04-21 12:30:59,009  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-21 12:31:02,576  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-21 12:31:04,926  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-21 12:31:07,145  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-21 12:31:08,271  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-21 12:31:08,271  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-21 12:31:10,656  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-21 12:31:12,691  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-21 12:32:06,322  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted'], or: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted'], or: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted'], or: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted'], or: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted']
+   at OpenQA.Selenium.Support.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.get_Element()
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 116. 
+2020-04-21 12:32:06,559  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted'], or: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted'], or: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted'], or: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted'], or: By.XPath: //a[@class='ui-datepicker-next ui-corner-all ng-tns-c23-10 ng-star-inserted']
+   at MFG_Automation.Generics.Helper.EnterDate(Int32 expDate, Int32 expMonth, Int32 expYear) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 398
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 479. 
+2020-04-21 12:32:06,574  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-04-21 12:32:07,110  :: ERROR :: [Logs]  :: Test case failed. 
+2020-04-21 12:32:07,117  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-21 12:32:07,117  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22510 ============================>. 
+2020-04-21 12:32:07,117  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-21 12:32:08,381  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-21 12:32:08,397  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-21 12:32:08,397  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-21 12:32:08,398  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

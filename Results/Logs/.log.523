@@ -1,0 +1,52 @@
+2020-11-26 20:33:58,719  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 20:33:58,773  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 20:33:58,773  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 20:33:59,234  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 20:33:59,281  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 20:33:59,282  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerSupplierTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 20:33:59,283  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 20:34:16,145  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 20:34:16,145  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 20:34:16,150  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 20:34:16,150  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 20:34:35,227  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2020-11-26 20:34:39,316  :: INFO  :: [Logs]  :: Navigate to application. 
+2020-11-26 20:34:40,714  :: INFO  :: [Logs]  :: Automation1059649137 entered in input field. 
+2020-11-26 20:34:40,714  :: INFO  :: [Logs]  :: Enter first name. 
+2020-11-26 20:34:41,914  :: INFO  :: [Logs]  :: Buyer2115149375 entered in input field. 
+2020-11-26 20:34:41,914  :: INFO  :: [Logs]  :: Enter last name. 
+2020-11-26 20:34:43,151  :: INFO  :: [Logs]  :: Automation855419696@yopmail.com entered in input field. 
+2020-11-26 20:34:43,152  :: INFO  :: [Logs]  :: Enter email. 
+2020-11-26 20:34:44,379  :: INFO  :: [Logs]  :: supplierCompany1880612134 entered in input field. 
+2020-11-26 20:34:44,379  :: INFO  :: [Logs]  :: Enter company name. 
+2020-11-26 20:34:45,632  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-11-26 20:34:45,632  :: INFO  :: [Logs]  :: Choose country. 
+2020-11-26 20:34:46,813  :: INFO  :: [Logs]  :: 1316928746 entered in input field. 
+2020-11-26 20:34:46,813  :: INFO  :: [Logs]  :: Enter phone number. 
+2020-11-26 20:34:48,042  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 20:34:48,042  :: INFO  :: [Logs]  :: Enter password. 
+2020-11-26 20:34:49,258  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 20:34:49,258  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-26 20:34:50,480  :: INFO  :: [Logs]  :: 145368003 entered in input field. 
+2020-11-26 20:34:50,480  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-26 20:34:50,577  :: INFO  :: [Logs]  :: click on register button. 
+2020-11-26 20:34:50,577  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2020-11-26 20:34:50,577  :: INFO  :: [Logs]  :: Register New Supplier. 
+2020-11-26 20:34:55,500  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 20:35:10,915  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-26 20:35:12,168  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-26 20:35:12,300  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 20:35:12,300  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-26 20:35:17,015  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 20:35:31,899  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 20:35:35,086  :: INFO  :: [Logs]  :: clicked on New Reg  Tab. 
+2020-11-26 20:35:36,301  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-11-26 20:35:37,725  :: INFO  :: [Logs]  :: Automation855419696@yopmail.com entered in input field. 
+2020-11-26 20:35:44,064  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 20:36:42,686  :: ERROR :: [Logs]  :: failed to get text from the element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[@class='flex-container dataBox']/div[5], or: By.XPath: //div[@class='flex-container dataBox']/div[5]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Text()
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 176. 

@@ -1,0 +1,59 @@
+2020-12-18 14:36:36,697  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 14:36:36,734  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 14:36:36,734  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 14:36:36,787  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-18 14:36:36,797  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 14:36:36,797  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3527_NotAwardedFilter started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 14:36:36,798  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 14:37:35,603  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-18 14:37:35,603  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-18 14:37:35,608  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-12-18 14:37:35,608  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-18 14:37:40,958  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-18 14:37:46,873  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-18 14:37:48,087  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-18 14:38:29,984  :: ERROR :: [Logs]  :: element not loaded  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'RFQ')], or: By.XPath: //span[contains(text(),'RFQ')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 139. 
+2020-12-18 14:38:29,986  :: INFO  :: [Logs]  :: Unable to login OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'RFQ')], or: By.XPath: //span[contains(text(),'RFQ')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 144
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 217. 
+2020-12-18 14:38:29,989  :: ERROR :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'RFQ')], or: By.XPath: //span[contains(text(),'RFQ')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 246
+   at MFG_Atomation.Utility.Filters.FilterUtility.M2_3527_NotAwardedFilter(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 1015. 
+2020-12-18 14:38:30,004  :: INFO  :: [Logs]  :: M2_3527_NotAwardedFilter. 
+2020-12-18 14:38:31,384  :: ERROR :: [Logs]  :: M2_3527_AwardedNonMFGManufacturerFilter Test case failed. 
+2020-12-18 14:38:31,522  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 14:38:31,522  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3527_NotAwardedFilter ============================. 
+2020-12-18 14:38:31,522  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 14:38:32,449  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-18 14:38:32,457  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 14:38:32,457  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 14:38:32,457  :: INFO  :: [Logs]  :: ===============================================================================================================. 

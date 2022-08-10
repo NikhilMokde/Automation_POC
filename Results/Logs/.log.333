@@ -1,0 +1,76 @@
+2020-12-18 13:18:49,521  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 13:18:49,536  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 13:18:49,536  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 13:18:49,592  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-18 13:18:49,602  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 13:18:49,603  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3527_AwardedNonMFGManufacturerFilter started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 13:18:49,604  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 13:19:37,056  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-18 13:19:37,056  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-18 13:19:37,062  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-12-18 13:19:37,062  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-18 13:19:42,107  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-18 13:19:45,320  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-18 13:19:46,554  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-18 13:19:50,724  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-18 13:19:50,724  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-12-18 13:19:51,337  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-18 13:20:18,130  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-18 13:20:21,249  :: INFO  :: [Logs]  :: click on existing port. 
+2020-12-18 13:20:22,567  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-18 13:20:22,567  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-18 13:20:23,741  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-18 13:20:23,741  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-18 13:20:24,980  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-18 13:20:24,980  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-18 13:20:26,091  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-12-18 13:20:26,091  :: INFO  :: [Logs]  :: Select Unit. 
+2020-12-18 13:20:28,416  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-18 13:20:30,451  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-18 13:20:31,632  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-18 13:20:31,632  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-18 13:20:32,066  :: INFO  :: [Logs]  :: Select process. 
+2020-12-18 13:20:33,388  :: INFO  :: [Logs]  :: Select Material. 
+2020-12-18 13:20:44,104  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2020-12-18 13:20:44,107  :: ERROR :: [Logs]  :: Failed to Create RFQ Part Through Upload File System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 67
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 241. 
+2020-12-18 13:20:44,113  :: INFO  :: [Logs]  :: CreateRFQPartThroughUploadFilemethod is failed. 
+2020-12-18 13:20:44,115  :: ERROR :: [Logs]  :: Failed to enter the data in field System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 259
+   at MFG_Atomation.Utility.Filters.FilterUtility.M2_3527_AwardedNonMFGManufacturerFilter(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 912. 
+2020-12-18 13:20:44,116  :: INFO  :: [Logs]  :: M2_3527_AwardedNonMFGManufacturerFilter. 
+2020-12-18 13:20:45,085  :: ERROR :: [Logs]  :: M2_3527_AwardedNonMFGManufacturerFilter Test case failed. 
+2020-12-18 13:20:45,169  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 13:20:45,169  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3527_AwardedNonMFGManufacturerFilter ============================. 
+2020-12-18 13:20:45,169  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 13:20:45,736  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-18 13:20:45,743  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 13:20:45,743  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 13:20:45,743  :: INFO  :: [Logs]  :: ===============================================================================================================. 

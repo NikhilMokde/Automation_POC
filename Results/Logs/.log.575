@@ -1,0 +1,94 @@
+2020-11-26 15:22:29,255  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:22:29,271  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:22:29,271  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:22:29,340  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 15:22:29,377  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:22:29,379  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_SupplierResetPasswordThroughSettingTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:22:29,379  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:22:42,382  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 15:22:42,382  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 15:22:42,394  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 15:22:42,394  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 15:22:49,191  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:22:50,461  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:22:55,137  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-11-26 15:22:55,967  :: INFO  :: [Logs]  :: ========== NavigateToSettingResetPasswordButton==========. 
+2020-11-26 15:22:56,093  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-11-26 15:23:00,048  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-11-26 15:23:00,259  :: INFO  :: [Logs]  :: click on change password button. 
+2020-11-26 15:23:00,259  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingResetPasswordButton==========. 
+2020-11-26 15:23:00,259  :: INFO  :: [Logs]  :: Navigate to reset Password button. 
+2020-11-26 15:23:01,004  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:02,261  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:23:02,261  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:23:03,478  :: INFO  :: [Logs]  :: Automation123 entered in input field. 
+2020-11-26 15:23:03,479  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:23:04,739  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:23:04,739  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:23:04,799  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:23:04,799  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:05,838  :: INFO  :: [Logs]  :: Message is Display as expected:Must be 6-20 characters and contain both upper case and lower case and at least one number and symbol .. 
+2020-11-26 15:23:06,040  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:07,246  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:23:07,246  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:23:08,472  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:23:08,472  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:23:09,692  :: INFO  :: [Logs]  :: Automation12 entered in input field. 
+2020-11-26 15:23:09,692  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:23:09,736  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:23:09,736  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:10,762  :: INFO  :: [Logs]  :: Message is Display as expected:Re-Enter Password Doesn't Match. 
+2020-11-26 15:23:10,958  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:12,178  :: INFO  :: [Logs]  :: automation123 entered in input field. 
+2020-11-26 15:23:12,178  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:23:13,395  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:23:13,395  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:23:14,591  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:23:14,592  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:23:14,690  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:23:14,690  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:16,488  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+Please enter correct old password.. 
+2020-11-26 15:23:16,748  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:18,010  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:23:18,010  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:23:19,254  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:23:19,254  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:23:20,455  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:23:20,455  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:23:20,541  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:23:20,542  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:35,148  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:36,441  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:23:36,441  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:23:37,665  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:23:37,665  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:23:38,884  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:23:38,884  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:23:38,972  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:23:38,973  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:23:41,092  :: INFO  :: [Logs]  :: Message is Display as expected:Success
+Password has been changed successfully.. 
+2020-11-26 15:23:56,679  :: INFO  :: [Logs]  :: Supplier has logged out successfully. 
+2020-11-26 15:23:56,679  :: INFO  :: [Logs]  :: supplier logout. 
+2020-11-26 15:23:58,791  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:23:59,991  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:24:00,098  :: INFO  :: [Logs]  :: click on continue button. 
+2020-11-26 15:24:20,884  :: ERROR :: [Logs]  :: failed to get text from the element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[@class='input-group login-failed ng-star-inserted'], or: By.XPath: //div[@class='input-group login-failed ng-star-inserted']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Text()
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 176. 
+2020-11-26 15:24:20,992  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[@class='input-group login-failed ng-star-inserted'], or: By.XPath: //div[@class='input-group login-failed ng-star-inserted']
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 182
+   at MFG_Atomation.Utility.ResetAndForgotPassword.ResetAndForgotPasswordUtility.M23054_ResetPasswordThroughSettingTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\ResetAndForgotPassword\ResetAndForgotPasswordUtility.cs:line 144. 
+2020-11-26 15:24:21,718  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2020-11-26 15:24:22,412  :: ERROR :: [Logs]  :: Test case failed. 

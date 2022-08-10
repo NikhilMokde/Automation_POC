@@ -1,0 +1,58 @@
+2021-01-11 16:39:23,397  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:39:23,427  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 16:39:23,428  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:39:23,498  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 16:39:23,536  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:39:23,536  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_MFGContactsMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 16:39:23,539  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:40:13,956  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 16:40:13,956  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 16:40:13,961  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 16:40:13,961  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 16:40:17,937  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 16:40:20,886  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2021-01-11 16:40:22,118  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 16:40:28,087  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 16:40:28,087  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 16:40:28,668  :: INFO  :: [Logs]  :: ==========SendMessageThroughDiscoverManufactuere==========. 
+2021-01-11 16:40:29,172  :: INFO  :: [Logs]  :: User has clicked on MFG Contacts. 
+2021-01-11 16:40:29,172  :: INFO  :: [Logs]  :: Select MFG Contacts from left navigation. 
+2021-01-11 16:40:33,044  :: INFO  :: [Logs]  :: Pune MFG entered in input field. 
+2021-01-11 16:40:33,044  :: INFO  :: [Logs]  :: Search the manufacturer. 
+2021-01-11 16:40:36,575  :: INFO  :: [Logs]  :: Click on search icon. 
+2021-01-11 16:40:41,849  :: INFO  :: [Logs]  :: click on Send Message Button. 
+2021-01-11 16:40:43,306  :: INFO  :: [Logs]  ::  Thread  MFG Contacts entered in input field. 
+2021-01-11 16:40:43,306  :: INFO  :: [Logs]  :: Entre Subject. 
+2021-01-11 16:40:43,335  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2021-01-11 16:40:45,130  :: INFO  :: [Logs]  :: supplier to buyer MFG Contacts entered in input field. 
+2021-01-11 16:40:45,130  :: INFO  :: [Logs]  :: Entre Subject. 
+2021-01-11 16:40:56,309  :: INFO  :: [Logs]  :: upload data file. 
+2021-01-11 16:40:56,445  :: INFO  :: [Logs]  :: click sent button. 
+2021-01-11 16:40:58,269  :: INFO  :: [Logs]  :: Message is Display as expected:Message sent successfully.. 
+2021-01-11 16:40:58,269  :: INFO  :: [Logs]  :: ==========End of SendMessageThroughDiscoverManufactuere==========. 
+2021-01-11 16:40:58,269  :: INFO  :: [Logs]  :: Send Message through Discover Manufacture. 
+2021-01-11 16:41:01,026  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2021-01-11 16:41:01,026  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2021-01-11 16:41:01,687  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 16:41:05,887  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-11 16:41:07,102  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 16:41:11,534  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 16:41:11,534  :: INFO  :: [Logs]  :: supplier login. 
+2021-01-11 16:41:14,916  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2021-01-11 16:41:31,629  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),' Thread  MFG Contacts')]"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at MFG_Atomation.PageObjects.Messages.MessagesPageObject.VeriyMessageInGlobalTab(String sheetName, String RFQId, Int32 subjectRow, Int32 messageRow, Int32 userRow, Boolean isRFQIdPresent, String messageSubject, Boolean isattchmentPresent, Boolean isSpecialInviteMessageRowFirst, String message) in E:\MFG Code\mfg.automation\PageObjects\Messages\MessagesPageObject.cs:line 272. 
+2021-01-11 16:41:31,651  :: INFO  :: [Logs]  :: VeriyMessageInGlobalTabmethod is failed. 
+2021-01-11 16:41:31,814  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),' Thread  MFG Contacts')]"}
+  (Session info: chrome=87.0.4280.141)
+   at MFG_Atomation.PageObjects.Messages.MessagesPageObject.VeriyMessageInGlobalTab(String sheetName, String RFQId, Int32 subjectRow, Int32 messageRow, Int32 userRow, Boolean isRFQIdPresent, String messageSubject, Boolean isattchmentPresent, Boolean isSpecialInviteMessageRowFirst, String message) in E:\MFG Code\mfg.automation\PageObjects\Messages\MessagesPageObject.cs:line 339
+   at MFG_Atomation.Utility.Messages.MessagesUtility.M2_3344_MFGContactsMessaging(String sheetName) in E:\MFG Code\mfg.automation\Utility\MessageUtlity\MessagesUtility.cs:line 556. 
+2021-01-11 16:41:31,814  :: INFO  :: [Logs]  :: M2_3344_MFGContactsMessagingmethod is failed. 
+2021-01-11 16:41:32,258  :: ERROR :: [Logs]  :: MFGContactsMessagingTest case failed. 

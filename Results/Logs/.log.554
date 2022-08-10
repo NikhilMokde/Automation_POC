@@ -1,0 +1,134 @@
+2020-11-26 17:28:08,560  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 17:28:08,575  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 17:28:08,575  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 17:28:08,652  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 17:28:08,680  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 17:28:08,680  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3190_BuyerProfileUpdate started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 17:28:08,681  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 17:28:23,060  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 17:28:23,061  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 17:28:23,066  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 17:28:23,066  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 17:28:36,837  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 17:28:38,119  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 17:28:44,337  :: INFO  :: [Logs]  :: login with buyer. 
+2020-11-26 17:28:45,152  :: INFO  :: [Logs]  :: ----------BuyerProfileUpdate----------. 
+2020-11-26 17:28:50,844  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-11-26 17:28:50,844  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-11-26 17:28:50,844  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-11-26 17:28:53,037  :: INFO  :: [Logs]  :: Clicked on Edit button on the profile page. 
+2020-11-26 17:28:57,380  :: INFO  :: [Logs]  :: Pune MFG entered in input field. 
+2020-11-26 17:28:58,783  :: INFO  :: [Logs]  :: 1665023646 entered in input field. 
+2020-11-26 17:28:58,783  :: INFO  :: [Logs]  :: enter phone number from Excel. 
+2020-11-26 17:29:04,007  :: INFO  :: [Logs]  :: Message is Display as expected:1665023646. 
+2020-11-26 17:29:04,007  :: INFO  :: [Logs]  :: ----------End of BuyerProfileUpdate----------. 
+2020-11-26 17:29:04,007  :: INFO  :: [Logs]  :: update company Details. 
+2020-11-26 17:29:04,681  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-11-26 17:29:04,681  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-11-26 17:29:04,681  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-11-26 17:29:06,400  :: INFO  :: [Logs]  :: this is software solution company entered in input field. 
+2020-11-26 17:29:11,531  :: INFO  :: [Logs]  :: Description updated successfully. 
+2020-11-26 17:29:11,531  :: INFO  :: [Logs]  :: update buyer profile from About Us. 
+2020-11-26 17:29:15,124  :: INFO  :: [Logs]  :: Chemicalis selected From Dropdown. 
+2020-11-26 17:29:15,124  :: INFO  :: [Logs]  :: select company from company type dropdown. 
+2020-11-26 17:29:16,294  :: INFO  :: [Logs]  :: 20-50is selected From Dropdown. 
+2020-11-26 17:29:16,294  :: INFO  :: [Logs]  :: select employee count. 
+2020-11-26 17:29:17,400  :: INFO  :: [Logs]  :: Englishis selected From Dropdown. 
+2020-11-26 17:29:17,400  :: INFO  :: [Logs]  :: select first language. 
+2020-11-26 17:29:18,626  :: INFO  :: [Logs]  :: 9102099 entered in input field. 
+2020-11-26 17:29:18,627  :: INFO  :: [Logs]  :: edit D-U-N-S # number. 
+2020-11-26 17:29:19,897  :: INFO  :: [Logs]  :: 102 entered in input field. 
+2020-11-26 17:29:19,897  :: INFO  :: [Logs]  :: edit cage code. 
+2020-11-26 17:29:19,972  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 17:29:25,059  :: INFO  :: [Logs]  :: Message is Display as expected:Company Type:
+Chemical. 
+2020-11-26 17:29:25,092  :: INFO  :: [Logs]  :: Message is Display as expected:# of Employees:
+20-50. 
+2020-11-26 17:29:26,174  :: INFO  :: [Logs]  :: Message is Display as expected:D-U-N-S Number:
+9102099. 
+2020-11-26 17:29:26,220  :: INFO  :: [Logs]  :: Message is Display as expected:Cage Code:
+102. 
+2020-11-26 17:29:26,220  :: INFO  :: [Logs]  :: update supplier profile from About Us. 
+2020-11-26 17:29:26,646  :: INFO  :: [Logs]  :: ==========BuyerProfileContactInformationUpdate==========. 
+2020-11-26 17:29:26,855  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-11-26 17:29:26,855  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-11-26 17:29:27,214  :: INFO  :: [Logs]  :: Clicks contact Information tab. 
+2020-11-26 17:29:32,338  :: INFO  :: [Logs]  :: Click on personal Information Edit. 
+2020-11-26 17:29:33,344  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-11-26 17:29:34,619  :: INFO  :: [Logs]  :: Automation1919999784 entered in input field. 
+2020-11-26 17:29:34,619  :: INFO  :: [Logs]  :: Enter First Name. 
+2020-11-26 17:29:35,886  :: INFO  :: [Logs]  :: Buyer1556571983 entered in input field. 
+2020-11-26 17:29:35,886  :: INFO  :: [Logs]  :: Enter Last Name. 
+2020-11-26 17:29:36,986  :: INFO  :: [Logs]  :: Buyeris selected From Dropdown. 
+2020-11-26 17:29:36,986  :: INFO  :: [Logs]  :: Select Title dropdown. 
+2020-11-26 17:29:38,082  :: INFO  :: [Logs]  :: Englishis selected From Dropdown. 
+2020-11-26 17:29:38,082  :: INFO  :: [Logs]  :: Select Language preferred dropdown. 
+2020-11-26 17:29:39,323  :: INFO  :: [Logs]  :: English entered in input field. 
+2020-11-26 17:29:39,324  :: INFO  :: [Logs]  :: Enter Phone Number. 
+2020-11-26 17:29:40,619  :: INFO  :: [Logs]  :: BuyerCompany1046094057 entered in input field. 
+2020-11-26 17:29:40,619  :: INFO  :: [Logs]  :: Company name entered. 
+2020-11-26 17:29:41,894  :: INFO  :: [Logs]  :: 879410520 entered in input field. 
+2020-11-26 17:29:41,894  :: INFO  :: [Logs]  :: Duns entered. 
+2020-11-26 17:29:43,007  :: INFO  :: [Logs]  :: 20-50is selected From Dropdown. 
+2020-11-26 17:29:43,007  :: INFO  :: [Logs]  :: Employee number Selected. 
+2020-11-26 17:29:44,368  :: INFO  :: [Logs]  :: this is software solution company entered in input field. 
+2020-11-26 17:29:44,368  :: INFO  :: [Logs]  :: Company Description entered. 
+2020-11-26 17:29:45,706  :: INFO  :: [Logs]  :: https://www.facebook.com/ entered in input field. 
+2020-11-26 17:29:45,706  :: INFO  :: [Logs]  :: Facebook link entered. 
+2020-11-26 17:29:46,991  :: INFO  :: [Logs]  :: https://twitter.com/ entered in input field. 
+2020-11-26 17:29:46,991  :: INFO  :: [Logs]  :: twitter link entered. 
+2020-11-26 17:29:48,305  :: INFO  :: [Logs]  :: https://in.linkedin.com/ entered in input field. 
+2020-11-26 17:29:48,305  :: INFO  :: [Logs]  :: linkdin link entered. 
+2020-11-26 17:29:49,651  :: INFO  :: [Logs]  :: 476446270 entered in input field. 
+2020-11-26 17:29:49,651  :: INFO  :: [Logs]  :: Entre valid Phone No. 
+2020-11-26 17:29:54,731  :: INFO  :: [Logs]  :: Clicked on Save button. 
+2020-11-26 17:29:54,817  :: INFO  :: [Logs]  :: Message is Display as expected:First Name
+Automation1919999784. 
+2020-11-26 17:29:54,851  :: INFO  :: [Logs]  :: Message is Display as expected:Last Name
+Buyer1556571983. 
+2020-11-26 17:29:54,886  :: INFO  :: [Logs]  :: Message is Display as expected:Title
+Buyer. 
+2020-11-26 17:29:54,923  :: INFO  :: [Logs]  :: Message is Display as expected:Language Preferred
+English. 
+2020-11-26 17:29:54,955  :: INFO  :: [Logs]  :: Message is Display as expected:Phone Number
+476446270. 
+2020-11-26 17:29:54,988  :: INFO  :: [Logs]  :: Message is Display as expected:Company
+BuyerCompany1046094057. 
+2020-11-26 17:29:55,020  :: INFO  :: [Logs]  :: Message is Display as expected:Facebook
+https://www.facebook.com/. 
+2020-11-26 17:29:55,057  :: INFO  :: [Logs]  :: Message is Display as expected:Twitter
+https://twitter.com/. 
+2020-11-26 17:29:55,099  :: INFO  :: [Logs]  :: Message is Display as expected:LinkedIn
+https://in.linkedin.com/. 
+2020-11-26 17:29:55,100  :: INFO  :: [Logs]  :: ========== End of BuyerProfileContactInformationUpdate==========. 
+2020-11-26 17:29:55,100  :: INFO  :: [Logs]  :: update buyer profile from Contact Information. 
+2020-11-26 17:29:55,608  :: INFO  :: [Logs]  :: ==========UpdateMailingAddress==========. 
+2020-11-26 17:30:00,412  :: INFO  :: [Logs]  :: IDC1096442878 entered in input field. 
+2020-11-26 17:30:00,412  :: INFO  :: [Logs]  :: Enter street address1. 
+2020-11-26 17:30:01,667  :: INFO  :: [Logs]  :: KatolNaka1020805627 entered in input field. 
+2020-11-26 17:30:01,667  :: INFO  :: [Logs]  :: Enter Street address 2. 
+2020-11-26 17:30:02,940  :: INFO  :: [Logs]  :: Nagpur1086563886 entered in input field. 
+2020-11-26 17:30:02,940  :: INFO  :: [Logs]  :: Entre city. 
+2020-11-26 17:30:04,047  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-11-26 17:30:05,141  :: INFO  :: [Logs]  :: Alabamais selected From Dropdown. 
+2020-11-26 17:30:06,350  :: INFO  :: [Logs]  :: 10779051 entered in input field. 
+2020-11-26 17:30:06,351  :: INFO  :: [Logs]  :: 1077905160. 
+2020-11-26 17:30:06,383  :: INFO  :: [Logs]  :: companyDefaultShilpingAddress updated successfully. 
+2020-11-26 17:30:08,547  :: INFO  :: [Logs]  :: Click on display city and state in my Profile Link. 
+2020-11-26 17:30:08,732  :: INFO  :: [Logs]  :: click on Save button. 
+2020-11-26 17:30:14,302  :: ERROR :: [Logs]  :: Failed to Verify Update Mailing Address DetailsNUnit.Framework.AssertionException: Mailing address did not updated
+   at NUnit.Framework.Assert.ReportFailure(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 394
+   at NUnit.Framework.Assert.Fail(String message, Object[] args) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 145
+   at NUnit.Framework.Assert.Fail(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 155
+   at MFG_Atomation.PageObjects.ProfileUpdate.ProfileUpdatePageObject.UpdateMailingAddress(String mailingCountryFromExcel, String mailingStateFromExcel) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\ProfileUpdatePageObject.cs:line 1234. 
+2020-11-26 17:30:14,310  :: INFO  :: [Logs]  :: UpdateMailingAddressmethod is failed. 
+2020-11-26 17:30:16,236  :: ERROR :: [Logs]  :: Profile update for buyer failed {ex}. 
+2020-11-26 17:30:16,236  :: INFO  :: [Logs]  :: M2_3190_BuyerProfileUpdatemethod is failed. 
+2020-11-26 17:30:17,073  :: ERROR :: [Logs]  :: Test case failed. 
+2020-11-26 17:30:17,086  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 17:30:17,086  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3190_BuyerProfileUpdate ============================. 
+2020-11-26 17:30:17,086  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 17:30:17,929  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-26 17:30:17,936  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 17:30:17,936  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 17:30:17,936  :: INFO  :: [Logs]  :: ===============================================================================================================. 

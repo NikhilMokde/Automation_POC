@@ -1,0 +1,41 @@
+2020-12-14 13:52:43,860  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 13:52:43,886  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 13:52:43,886  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 13:52:43,960  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 13:52:43,984  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 13:52:43,985  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3410_RFQLifeCycleThroughDashboard started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 13:52:43,985  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 13:53:05,988  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 13:53:05,988  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 13:53:05,997  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 13:53:05,998  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 13:53:12,666  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 13:53:24,399  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 13:53:25,669  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 13:53:37,245  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 13:53:37,245  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-12-14 13:53:37,926  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-14 13:53:42,871  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="pointer-cursor color-blue">...</span> is not clickable at point (486, 373). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 61. 
+2020-12-14 13:53:42,890  :: ERROR :: [Logs]  :: failed to upload file System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="pointer-cursor color-blue">...</span> is not clickable at point (486, 373). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 66
+   at MFG_Automation.Generics.Helper.UploadFile(IWebElement element, String filepath) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 194. 

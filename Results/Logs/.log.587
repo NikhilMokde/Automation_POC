@@ -1,0 +1,57 @@
+2020-11-26 13:54:35,699  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:54:35,723  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 13:54:35,723  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:54:35,800  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 13:54:35,821  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:54:35,825  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_MFGContactsMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 13:54:35,828  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:54:48,658  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 13:54:48,659  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 13:54:48,662  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 13:54:48,662  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 13:54:53,143  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 13:55:01,213  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 13:55:02,489  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 13:55:07,581  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 13:55:07,581  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-11-26 13:55:08,173  :: INFO  :: [Logs]  :: ==========SendMessageThroughDiscoverManufactuere==========. 
+2020-11-26 13:55:08,694  :: INFO  :: [Logs]  :: User has clicked on MFG Contacts. 
+2020-11-26 13:55:08,694  :: INFO  :: [Logs]  :: Select MFG Contacts from left navigation. 
+2020-11-26 13:55:11,463  :: INFO  :: [Logs]  :: Pune MFG entered in input field. 
+2020-11-26 13:55:11,463  :: INFO  :: [Logs]  :: Search the manufacturer. 
+2020-11-26 13:55:15,094  :: INFO  :: [Logs]  :: Click on search icon. 
+2020-11-26 13:55:20,280  :: INFO  :: [Logs]  :: click on Send Message Button. 
+2020-11-26 13:55:21,694  :: INFO  :: [Logs]  ::  Thread  MFG Contacts entered in input field. 
+2020-11-26 13:55:21,694  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-26 13:55:21,725  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2020-11-26 13:55:23,542  :: INFO  :: [Logs]  :: supplier to buyer MFG Contacts entered in input field. 
+2020-11-26 13:55:23,543  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-26 13:55:34,840  :: INFO  :: [Logs]  :: upload data file. 
+2020-11-26 13:55:34,938  :: INFO  :: [Logs]  :: click sent button. 
+2020-11-26 13:55:37,541  :: INFO  :: [Logs]  :: Message is Display as expected:Message sent successfully.. 
+2020-11-26 13:55:37,541  :: INFO  :: [Logs]  :: ==========End of SendMessageThroughDiscoverManufactuere==========. 
+2020-11-26 13:55:37,541  :: INFO  :: [Logs]  :: Send Message through Discover Manufacture. 
+2020-11-26 13:55:39,915  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-11-26 13:55:39,915  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2020-11-26 13:55:40,540  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 13:55:43,940  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 13:55:45,187  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 13:55:48,551  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 13:55:48,551  :: INFO  :: [Logs]  :: supplier login. 
+2020-11-26 13:55:52,383  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 13:56:20,215  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-26 13:56:49,140  :: INFO  :: [Logs]  :: Message is Display as expected: Thread  MFG Contacts. 
+2020-11-26 13:56:51,133  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-26 13:57:07,432  :: INFO  :: [Logs]  :: Validation Message is present as Expected automation Supplier. 
+2020-11-26 13:57:08,037  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-11-26 13:58:22,964  :: INFO  :: [Logs]  :: Message is Display as expected:supplier to buyer MFG Contacts. 
+2020-11-26 13:58:25,568  :: INFO  :: [Logs]  :: click on download file button. 
+2020-11-26 13:58:34,343  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-11-26 13:58:34,994  :: INFO  :: [Logs]  :: MFGContactsMessagingTest case passed successfully. 
+2020-11-26 13:58:35,412  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:58:35,412  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3344_MFGContactsMessaging ============================. 
+2020-11-26 13:58:35,412  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:58:35,988  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-26 13:58:36,086  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:58:36,086  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 13:58:36,086  :: INFO  :: [Logs]  :: ===============================================================================================================. 

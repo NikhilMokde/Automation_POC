@@ -1,0 +1,26 @@
+2020-11-26 15:24:42,589  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:24:42,607  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:24:42,607  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:24:42,694  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 15:24:42,716  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:24:42,716  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3055_BuyerForgotPassword started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:24:42,717  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:24:56,899  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 15:24:56,899  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 15:24:56,906  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 15:24:56,906  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 15:25:10,138  :: INFO  :: [Logs]  :: Forgot Password link is clicked. 
+2020-11-26 15:25:12,419  :: INFO  :: [Logs]  :: b004@yopmail. entered in input field. 
+2020-11-26 15:25:12,423  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-26 15:25:12,535  :: INFO  :: [Logs]  :: click on reset password button. 
+2020-11-26 15:25:13,632  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Email Is not in Proper format. 
+2020-11-26 15:25:13,632  :: INFO  :: [Logs]  :: Email and password links are entered. 
+2020-11-26 15:25:15,641  :: INFO  :: [Logs]  :: b004@yopmail.com entered in input field. 
+2020-11-26 15:25:15,641  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-26 15:25:15,746  :: INFO  :: [Logs]  :: click on reset password button. 
+2020-11-26 15:25:26,772  :: INFO  :: [Logs]  :: Message is Display as expected:An email has been sent to b004@yopmail.com. 
+2020-11-26 15:25:26,772  :: INFO  :: [Logs]  :: Email and password links are entered. 
+2020-11-26 15:25:39,420  :: INFO  :: [Logs]  :: b004@yopmail.com entered in input field. 
+2020-11-26 15:25:40,736  :: INFO  :: [Logs]  :: Reset password link is discovered from email. 
+2020-11-26 15:25:53,233  :: INFO  :: [Logs]  :: Reset password link is clicked from email. 

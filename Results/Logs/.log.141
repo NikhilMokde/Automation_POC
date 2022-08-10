@@ -1,0 +1,90 @@
+2021-01-03 23:04:01,022  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:04:01,048  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 23:04:01,048  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:04:01,152  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-03 23:04:01,181  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:04:01,182  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3333_SupplierSetting started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 23:04:01,182  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:04:22,490  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-03 23:04:22,490  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-03 23:04:22,495  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-03 23:04:22,495  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-03 23:04:35,569  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-03 23:04:39,911  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2021-01-03 23:04:41,110  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 23:04:45,936  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-03 23:04:45,936  :: INFO  :: [Logs]  :: Login as a buyer. 
+2021-01-03 23:04:48,357  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2021-01-03 23:04:50,044  :: INFO  :: [Logs]  :: select the profile. 
+2021-01-03 23:04:50,165  :: INFO  :: [Logs]  :: click on setting tab. 
+2021-01-03 23:04:54,368  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2021-01-03 23:04:54,368  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingPage==========. 
+2021-01-03 23:04:54,368  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2021-01-03 23:04:55,127  :: INFO  :: [Logs]  :: click on LiveQuoate Tab. 
+2021-01-03 23:04:56,576  :: INFO  :: [Logs]  :: CNC Machining entered in input field. 
+2021-01-03 23:04:56,716  :: INFO  :: [Logs]  :: select processes. 
+2021-01-03 23:04:58,136  :: INFO  :: [Logs]  :: Alloy Steel entered in input field. 
+2021-01-03 23:04:58,266  :: INFO  :: [Logs]  :: select Material. 
+2021-01-03 23:04:59,756  :: INFO  :: [Logs]  :: ELECTROPLATING entered in input field. 
+2021-01-03 23:04:59,887  :: INFO  :: [Logs]  :: select Post Processes. 
+2021-01-03 23:05:01,274  :: INFO  :: [Logs]  :: Maybe entered in input field. 
+2021-01-03 23:05:01,393  :: INFO  :: [Logs]  :: select LiveQuote Probability. 
+2021-01-03 23:05:02,802  :: INFO  :: [Logs]  :: In Progress entered in input field. 
+2021-01-03 23:05:02,923  :: INFO  :: [Logs]  :: select Live Quote Status. 
+2021-01-03 23:05:04,270  :: INFO  :: [Logs]  :: COD entered in input field. 
+2021-01-03 23:05:04,401  :: INFO  :: [Logs]  :: select Payment Terms. 
+2021-01-03 23:05:05,782  :: INFO  :: [Logs]  :: Miscellaneous entered in input field. 
+2021-01-03 23:05:05,889  :: INFO  :: [Logs]  :: select Custom Costs. 
+2021-01-03 23:05:07,289  :: INFO  :: [Logs]  :: Standard Overnight entered in input field. 
+2021-01-03 23:05:07,414  :: INFO  :: [Logs]  :: select Shipping Method. 
+2021-01-03 23:05:08,921  :: INFO  :: [Logs]  :: Production Lead Time entered in input field. 
+2021-01-03 23:05:09,057  :: INFO  :: [Logs]  :: Select LeadTimes. 
+2021-01-03 23:05:10,216  :: INFO  :: [Logs]  :: .000is selected From Dropdown. 
+2021-01-03 23:05:11,436  :: INFO  :: [Logs]  :: 101 entered in input field. 
+2021-01-03 23:05:11,436  :: INFO  :: [Logs]  :: Entre starting No. 
+2021-01-03 23:05:11,436  :: INFO  :: [Logs]  :: update date form Live Quoate Page. 
+2021-01-03 23:05:15,285  :: INFO  :: [Logs]  :: Clicked on QMS tab. 
+2021-01-03 23:05:15,596  :: INFO  :: [Logs]  :: Clicked on create quote. 
+2021-01-03 23:05:19,335  :: INFO  :: [Logs]  :: Clicked on create new customer. 
+2021-01-03 23:05:20,729  :: INFO  :: [Logs]  :: Automation435817306 entered in input field. 
+2021-01-03 23:05:20,729  :: INFO  :: [Logs]  :: Enter data on company name text box. 
+2021-01-03 23:05:22,627  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115499 entered in input field. 
+2021-01-03 23:05:22,627  :: INFO  :: [Logs]  :: Enter data on first name text box. 
+2021-01-03 23:05:24,449  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115536 entered in input field. 
+2021-01-03 23:05:24,450  :: INFO  :: [Logs]  :: Enter data on last name text box. 
+2021-01-03 23:05:26,315  :: INFO  :: [Logs]  :: automanufacturer001070112115649@yopmail.com entered in input field. 
+2021-01-03 23:05:26,315  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2021-01-03 23:05:28,020  :: INFO  :: [Logs]  :: Pune Maharashtra entered in input field. 
+2021-01-03 23:05:28,020  :: INFO  :: [Logs]  :: Enter data on address text box. 
+2021-01-03 23:05:28,171  :: INFO  :: [Logs]  :: Country selected successfully. 
+2021-01-03 23:05:30,141  :: INFO  :: [Logs]  :: State selected successfully. 
+2021-01-03 23:05:31,841  :: INFO  :: [Logs]  :: Pune entered in input field. 
+2021-01-03 23:05:31,841  :: INFO  :: [Logs]  :: Enter data on city name text box. 
+2021-01-03 23:05:33,475  :: INFO  :: [Logs]  :: 152NY entered in input field. 
+2021-01-03 23:05:33,475  :: INFO  :: [Logs]  :: Enter data on zip code text box. 
+2021-01-03 23:05:35,214  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2021-01-03 23:05:35,214  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2021-01-03 23:05:35,846  :: INFO  :: [Logs]  :: Failed to enter the data in field NUnit.Framework.AssertionException: Save button is Enabled After entre invalid data
+   at NUnit.Framework.Assert.ReportFailure(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 394
+   at NUnit.Framework.Assert.Fail(String message, Object[] args) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 145
+   at NUnit.Framework.Assert.Fail(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 155
+   at MFG_Atomation.PageObjects.QMS.QMSPageObject.CreateNewCustomer(String sheetName) in E:\MFG Code\mfg.automation\PageObjects\QMS\QMSPageObject.cs:line 388. 
+2021-01-03 23:05:35,865  :: INFO  :: [Logs]  :: CreateNewCustomermethod is failed. 
+2021-01-03 23:05:35,891  :: INFO  :: [Logs]  :: unable to set apply supplier setting is failed NUnit.Framework.AssertionException: Save button is Enabled After entre invalid data
+   at MFG_Atomation.PageObjects.QMS.QMSPageObject.CreateNewCustomer(String sheetName) in E:\MFG Code\mfg.automation\PageObjects\QMS\QMSPageObject.cs:line 424
+   at MFG_Atomation.Utility.Settings.SettingUtility.SupplierSetting(String sheetName) in E:\MFG Code\mfg.automation\Utility\Settings\SettingUtility.cs:line 278. 
+2021-01-03 23:05:36,341  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-03 23:05:36,823  :: ERROR :: [Logs]  :: SupplierSettingTest case failed. 
+2021-01-03 23:05:42,639  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:05:42,640  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3333_SupplierSetting ============================. 
+2021-01-03 23:05:42,640  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:05:43,649  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-03 23:05:43,663  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:05:43,663  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 23:05:43,663  :: INFO  :: [Logs]  :: ===============================================================================================================. 

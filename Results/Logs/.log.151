@@ -1,0 +1,47 @@
+2021-01-03 17:33:10,667  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:33:10,693  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 17:33:10,694  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:33:10,823  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-03 17:33:10,945  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:33:10,946  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3055_BuyerForgotPassword started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 17:33:10,946  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:33:26,626  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-03 17:33:26,627  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-03 17:33:26,635  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-03 17:33:26,635  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-03 17:33:42,716  :: INFO  :: [Logs]  :: Forgot Password link is clicked. 
+2021-01-03 17:33:44,768  :: INFO  :: [Logs]  :: b004@yopmail. entered in input field. 
+2021-01-03 17:33:44,771  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-03 17:33:44,941  :: INFO  :: [Logs]  :: click on reset password button. 
+2021-01-03 17:33:46,028  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Email Is not in Proper format. 
+2021-01-03 17:33:46,028  :: INFO  :: [Logs]  :: Email and password links are entered. 
+2021-01-03 17:33:47,882  :: INFO  :: [Logs]  :: b004@yopmail.com entered in input field. 
+2021-01-03 17:33:47,882  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-03 17:33:47,968  :: INFO  :: [Logs]  :: click on reset password button. 
+2021-01-03 17:33:51,161  :: INFO  :: [Logs]  :: Message is Display as expected:An email has been sent to b004@yopmail.com. 
+2021-01-03 17:33:51,161  :: INFO  :: [Logs]  :: Email and password links are entered. 
+2021-01-03 17:34:00,833  :: INFO  :: [Logs]  :: b004@yopmail.com entered in input field. 
+2021-01-03 17:34:02,412  :: INFO  :: [Logs]  :: Reset password link is discovered from email. 
+2021-01-03 17:34:10,406  :: INFO  :: [Logs]  :: Reset password link is clicked from email. 
+2021-01-03 17:34:21,046  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-03 17:34:21,047  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-03 17:34:22,303  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:34:22,303  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-03 17:34:22,303  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-03 17:34:23,433  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Must be 6-20 characters long and contain both uppercase and lower case letters and atleast one number and symbol.. 
+2021-01-03 17:34:24,755  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:34:24,755  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-03 17:34:25,930  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-03 17:34:25,931  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-03 17:34:25,931  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-03 17:34:27,055  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Password mismatch. 
+2021-01-03 17:34:33,819  :: INFO  :: [Logs]  :: @Automation2042821674 entered in input field. 
+2021-01-03 17:34:33,819  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-03 17:34:35,027  :: INFO  :: [Logs]  :: @Automation2042821674 entered in input field. 
+2021-01-03 17:34:35,027  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-03 17:34:35,027  :: INFO  :: [Logs]  :: entre New and confrom password. 
+2021-01-03 17:34:41,049  :: INFO  :: [Logs]  :: b004@yopmail.com entered in input field. 
+2021-01-03 17:34:42,291  :: INFO  :: [Logs]  :: @Automation2042821674 entered in input field. 

@@ -1,0 +1,33 @@
+2020-12-14 17:45:16,763  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 17:45:16,779  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 17:45:16,779  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 17:45:17,186  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 17:45:17,278  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 17:45:17,279  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3024_BlacklistingSupplierToBuyer started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 17:45:17,279  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 17:45:37,511  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 17:45:37,511  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 17:45:37,522  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 17:45:37,522  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 17:45:45,725  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 17:45:51,455  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 17:45:52,750  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 17:46:06,333  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 17:46:06,334  :: INFO  :: [Logs]  :: Buyer has logged in. 
+2020-12-14 17:46:08,267  :: INFO  :: [Logs]  :: =========== Create RFQ ==========. 
+2020-12-14 17:46:17,510  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-14 17:46:20,944  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-14 17:46:24,174  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 61. 
+2020-12-14 17:46:25,640  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.88)
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 66
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName, String LevelOfNDA, String TypeOfPart, Boolean isBlacklistSupplierDisaplyInSpecialInvite) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 504. 
+2020-12-14 17:46:25,669  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-12-14 17:46:26,290  :: ERROR :: [Logs]  :: Test case failed. 
+2020-12-14 17:46:26,861  :: ERROR :: [Logs]  :: Test case failed. 

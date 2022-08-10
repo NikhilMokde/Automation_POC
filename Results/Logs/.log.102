@@ -1,0 +1,69 @@
+2021-01-04 15:23:23,414  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 15:23:23,436  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-04 15:23:23,436  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 15:23:23,559  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-04 15:23:23,616  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 15:23:23,616  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerSupplierTab started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-04 15:23:23,617  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 15:24:45,753  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-04 15:24:47,813  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-04 15:25:02,874  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2021-01-04 15:25:04,137  :: INFO  :: [Logs]  :: Navigate to application. 
+2021-01-04 15:25:05,334  :: INFO  :: [Logs]  :: Automation1277545794 entered in input field. 
+2021-01-04 15:25:05,334  :: INFO  :: [Logs]  :: Enter first name. 
+2021-01-04 15:25:06,513  :: INFO  :: [Logs]  :: Buyer799905478 entered in input field. 
+2021-01-04 15:25:06,514  :: INFO  :: [Logs]  :: Enter last name. 
+2021-01-04 15:25:07,740  :: INFO  :: [Logs]  :: Automation1592360805@yopmail.com entered in input field. 
+2021-01-04 15:25:07,740  :: INFO  :: [Logs]  :: Enter email. 
+2021-01-04 15:25:08,935  :: INFO  :: [Logs]  :: supplierCompany732262985 entered in input field. 
+2021-01-04 15:25:08,935  :: INFO  :: [Logs]  :: Enter company name. 
+2021-01-04 15:25:10,064  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2021-01-04 15:25:10,064  :: INFO  :: [Logs]  :: Choose country. 
+2021-01-04 15:25:11,201  :: INFO  :: [Logs]  :: 1808795896 entered in input field. 
+2021-01-04 15:25:11,201  :: INFO  :: [Logs]  :: Enter phone number. 
+2021-01-04 15:25:12,407  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-04 15:25:12,407  :: INFO  :: [Logs]  :: Enter password. 
+2021-01-04 15:25:13,593  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-04 15:25:13,593  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2021-01-04 15:25:14,733  :: INFO  :: [Logs]  :: 1014992815 entered in input field. 
+2021-01-04 15:25:14,733  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2021-01-04 15:25:14,813  :: INFO  :: [Logs]  :: click on register button. 
+2021-01-04 15:25:14,813  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2021-01-04 15:25:15,716  :: INFO  :: [Logs]  :: Register New Supplier. 
+2021-01-04 15:26:09,452  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-04 15:27:09,746  :: INFO  :: [Logs]  :: Unable to login OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:55737/session/bc4e082666f2ddb9140f5b27c86bac0b/url timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 232. 
+2021-01-04 15:27:37,187  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-04 15:27:39,261  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2021-01-04 15:27:40,548  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2021-01-04 15:27:40,688  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-04 15:27:49,426  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2021-01-04 15:27:53,684  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-04 15:28:06,546  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-04 15:28:07,783  :: INFO  :: [Logs]  :: clicked on New Reg  Tab. 
+2021-01-04 15:28:08,960  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2021-01-04 15:28:10,322  :: INFO  :: [Logs]  :: Automation1592360805@yopmail.com entered in input field. 
+2021-01-04 15:28:14,677  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2021-01-04 15:28:15,751  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1592360805@yopmail.com. 
+2021-01-04 15:28:15,751  :: INFO  :: [Logs]  :: entre search button. 
+2021-01-04 15:28:15,886  :: INFO  :: [Logs]  :: entre checked button. 
+2021-01-04 15:28:19,901  :: INFO  :: [Logs]  :: verify Register Tab in Action Tracker supplier. 
+2021-01-04 15:28:24,993  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-04 15:28:43,258  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-04 15:29:00,918  :: INFO  :: [Logs]  :: clicked on Logged In Tab. 
+2021-01-04 15:29:05,649  :: INFO  :: [Logs]  :: Checkedis selected From Dropdown. 
+2021-01-04 15:29:09,850  :: INFO  :: [Logs]  :: Automation1592360805@yopmail.com entered in input field. 
+2021-01-04 15:29:17,838  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2021-01-04 15:29:23,906  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1592360805@yopmail.com. 
+2021-01-04 15:29:24,349  :: INFO  :: [Logs]  :: entre search button. 
+2021-01-04 15:29:26,972  :: INFO  :: [Logs]  :: entre checked button. 
+2021-01-04 15:29:35,082  :: INFO  :: [Logs]  :: verify Register Tab in Action Tracker supplier. 

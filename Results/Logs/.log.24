@@ -1,0 +1,386 @@
+2021-01-11 18:42:30,766  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:42:30,782  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:42:30,782  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:42:30,846  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 18:42:30,859  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:42:30,859  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_BuyerResetPasswordThroughSettingTab started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:42:30,860  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:43:17,517  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:43:17,517  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:43:17,522  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:43:17,522  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:43:21,877  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2021-01-11 18:43:23,088  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:43:27,549  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 18:43:28,166  :: INFO  :: [Logs]  :: ========== NavigateToSettingResetPasswordButton==========. 
+2021-01-11 18:43:28,330  :: INFO  :: [Logs]  :: click on setting tab. 
+2021-01-11 18:43:37,101  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2021-01-11 18:43:37,309  :: INFO  :: [Logs]  :: click on change password button. 
+2021-01-11 18:43:37,309  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingResetPasswordButton==========. 
+2021-01-11 18:43:37,309  :: INFO  :: [Logs]  :: Navigate to reset Password button. 
+2021-01-11 18:43:37,911  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:43:39,128  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:43:39,128  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:43:40,358  :: INFO  :: [Logs]  :: Automation123 entered in input field. 
+2021-01-11 18:43:40,358  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:43:41,626  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:43:41,627  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:43:41,691  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:43:41,691  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:43:42,733  :: INFO  :: [Logs]  :: Message is Display as expected:Must be 6-20 characters and contain both upper case and lower case and at least one number and symbol .. 
+2021-01-11 18:43:42,925  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:43:44,129  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:43:44,130  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:43:45,378  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:43:45,378  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:43:46,587  :: INFO  :: [Logs]  :: Automation12 entered in input field. 
+2021-01-11 18:43:46,587  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:43:46,629  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:43:46,629  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:43:47,661  :: INFO  :: [Logs]  :: Message is Display as expected:Re-Enter Password Doesn't Match. 
+2021-01-11 18:43:47,833  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:43:49,032  :: INFO  :: [Logs]  :: automation123 entered in input field. 
+2021-01-11 18:43:49,032  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:43:50,278  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:43:50,278  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:43:51,482  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:43:51,482  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:43:51,593  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:43:51,593  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:43:55,362  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+Please enter correct old password.. 
+2021-01-11 18:43:55,578  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:43:56,758  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:43:56,759  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:43:57,952  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:43:57,953  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:43:59,182  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:43:59,183  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:43:59,262  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:43:59,262  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:44:03,391  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+Enter a new password that is not the same as the old one.. 
+2021-01-11 18:44:03,596  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:44:04,770  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:44:04,770  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:44:05,993  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:44:05,993  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:44:07,290  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:44:07,290  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:44:07,378  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:44:07,378  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:44:11,544  :: INFO  :: [Logs]  :: Message is Display as expected:Success
+Password has been changed successfully.. 
+2021-01-11 18:44:12,907  :: INFO  :: [Logs]  :: Supplier has logged out successfully. 
+2021-01-11 18:44:12,907  :: INFO  :: [Logs]  :: supplier logout. 
+2021-01-11 18:44:14,741  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2021-01-11 18:44:16,003  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:44:16,076  :: INFO  :: [Logs]  :: click on continue button. 
+2021-01-11 18:44:18,218  :: INFO  :: [Logs]  :: Message is Display as expected:Invalid email or password.. 
+2021-01-11 18:44:18,218  :: INFO  :: [Logs]  :: verify validation message with invalid credential. 
+2021-01-11 18:44:20,167  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2021-01-11 18:44:21,362  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:44:23,392  :: INFO  :: [Logs]  :: verify validation message with invalid credential. 
+2021-01-11 18:44:23,920  :: INFO  :: [Logs]  :: Test case Passed successfully. 
+2021-01-11 18:44:24,297  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:44:24,297  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3054_BuyerResetPasswordThroughSettingTab ============================. 
+2021-01-11 18:44:24,297  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:44:24,712  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:44:24,717  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:44:24,717  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_SupplierResetPasswordThroughSettingTab started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:44:24,717  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:45:07,947  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:45:07,947  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:45:07,948  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:45:07,948  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:45:11,023  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-11 18:45:12,231  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:45:20,314  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 18:45:20,961  :: INFO  :: [Logs]  :: ========== NavigateToSettingResetPasswordButton==========. 
+2021-01-11 18:45:25,121  :: ERROR :: [Logs]  :: Unable to click on element using Java script OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54857
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScript(String script, Object[] args)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 115. 
+2021-01-11 18:45:25,122  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54857
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 120
+   at MFG_Atomation.PageObjects.ResetandForgotPassword.ResetPasswordPageObject.NavigateToSettingResetPasswordButton(String uiTitle) in E:\MFG Code\mfg.automation\PageObjects\ResetandForgotPassword\ResetPasswordPageObject.cs:line 67. 
+2021-01-11 18:45:25,497  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-11 18:45:25,636  :: INFO  :: [Logs]  :: Failed to enter the data in field System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 168
+   at MFG_Automation.Generics.Logs.Pass(String message, String testName) in E:\MFG Code\mfg.automation\Generics\Logs.cs:line 96
+   at MFG_Atomation.PageObjects.ResetandForgotPassword.ResetPasswordPageObject.NavigateToSettingResetPasswordButton(String uiTitle) in E:\MFG Code\mfg.automation\PageObjects\ResetandForgotPassword\ResetPasswordPageObject.cs:line 83
+   at MFG_Atomation.Utility.ResetAndForgotPassword.ResetAndForgotPasswordUtility.M23054_ResetPasswordThroughSettingTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\ResetAndForgotPassword\ResetAndForgotPasswordUtility.cs:line 108. 
+2021-01-11 18:45:26,010  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-11 18:45:26,420  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-11 18:45:26,557  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:45:26,557  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3054_SupplierResetPasswordThroughSettingTab ============================. 
+2021-01-11 18:45:26,557  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:45:27,003  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:45:27,004  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:45:27,004  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3055_BuyerForgotPassword started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:45:27,004  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:46:08,770  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:46:08,770  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:46:08,772  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:46:08,773  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:46:15,810  :: INFO  :: [Logs]  :: Forgot Password link is clicked. 
+2021-01-11 18:46:17,566  :: INFO  :: [Logs]  :: b004@yopmail. entered in input field. 
+2021-01-11 18:46:17,566  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-11 18:46:17,700  :: INFO  :: [Logs]  :: click on reset password button. 
+2021-01-11 18:46:18,746  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Email Is not in Proper format. 
+2021-01-11 18:46:18,746  :: INFO  :: [Logs]  :: Email and password links are entered. 
+2021-01-11 18:46:21,743  :: INFO  :: [Logs]  :: b004@yopmail.com entered in input field. 
+2021-01-11 18:46:21,743  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-11 18:46:21,810  :: INFO  :: [Logs]  :: click on reset password button. 
+2021-01-11 18:46:24,368  :: INFO  :: [Logs]  :: Message is Display as expected:An email has been sent to b004@yopmail.com. 
+2021-01-11 18:46:24,368  :: INFO  :: [Logs]  :: Email and password links are entered. 
+2021-01-11 18:46:49,354  :: INFO  :: [Logs]  :: b004@yopmail.com entered in input field. 
+2021-01-11 18:46:58,328  :: INFO  :: [Logs]  :: Reset password link is discovered from email. 
+2021-01-11 18:47:06,823  :: INFO  :: [Logs]  :: Reset password link is clicked from email. 
+2021-01-11 18:47:13,358  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-11 18:47:13,358  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 18:47:14,641  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:47:14,641  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 18:47:14,641  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-11 18:47:15,803  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Must be 6-20 characters long and contain both uppercase and lower case letters and atleast one number and symbol.. 
+2021-01-11 18:47:17,136  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:47:17,136  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 18:47:18,334  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-11 18:47:18,335  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 18:47:18,335  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-11 18:47:19,503  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Password mismatch. 
+2021-01-11 18:47:20,785  :: INFO  :: [Logs]  :: @Automation141 entered in input field. 
+2021-01-11 18:47:20,785  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 18:47:22,022  :: INFO  :: [Logs]  :: @Automation141 entered in input field. 
+2021-01-11 18:47:22,022  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 18:47:22,023  :: INFO  :: [Logs]  :: entre New and confrom password. 
+2021-01-11 18:47:24,351  :: INFO  :: [Logs]  :: b004@yopmail.com entered in input field. 
+2021-01-11 18:47:25,580  :: INFO  :: [Logs]  :: @Automation141 entered in input field. 
+2021-01-11 18:47:29,751  :: INFO  :: [Logs]  :: New password is entered. 
+2021-01-11 18:47:30,420  :: INFO  :: [Logs]  :: Home page is validated after successful login. 
+2021-01-11 18:47:31,254  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2021-01-11 18:47:31,881  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:47:31,881  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3055_BuyerForgotPassword ============================. 
+2021-01-11 18:47:31,881  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:47:32,588  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:47:32,589  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:47:32,589  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3055_BuyerResetPasswordThroughVision started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:47:32,589  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:48:14,488  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:48:14,489  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:48:14,489  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:48:14,490  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:48:16,893  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 18:48:41,068  :: INFO  :: [Logs]  :: jabdi@mfg.com entered in input field. 
+2021-01-11 18:48:42,368  :: INFO  :: [Logs]  :: Password@1234 entered in input field. 
+2021-01-11 18:48:42,467  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 18:48:42,467  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 18:48:50,086  :: ERROR :: [Logs]  :: Unable to click on element using Java script OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54857
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScript(String script, Object[] args)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 115. 
+2021-01-11 18:48:50,087  :: INFO  :: [Logs]  :: Password is not reset OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54857
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 120
+   at MFG_Atomation.PageObjects.RFQVision.RFQVisionPage.ResetPassword(String user, String userType, Boolean isResetPassword, Boolean isValidateButton, Boolean isclickOnTestAccountButton) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\rFQVisionPageObject.cs:line 177. 
+2021-01-11 18:48:50,087  :: INFO  :: [Logs]  :: ResetPassword. 
+2021-01-11 18:48:50,261  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54857
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Atomation.PageObjects.RFQVision.RFQVisionPage.ResetPassword(String user, String userType, Boolean isResetPassword, Boolean isValidateButton, Boolean isclickOnTestAccountButton) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\rFQVisionPageObject.cs:line 228
+   at MFG_Atomation.Utility.ResetAndForgotPassword.ResetAndForgotPasswordUtility.M23055_ResetPasswordThroughVision(String sheetName) in E:\MFG Code\mfg.automation\Utility\ResetAndForgotPassword\ResetAndForgotPasswordUtility.cs:line 45. 
+2021-01-11 18:48:51,132  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-11 18:48:51,505  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-11 18:48:51,505  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:48:51,506  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3055_BuyerResetPasswordThroughVision ============================. 
+2021-01-11 18:48:51,506  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:48:51,941  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:48:51,943  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:48:51,948  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3055_SupplierForgotPassword started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:48:51,948  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:49:32,153  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:49:32,153  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:49:32,153  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:49:32,153  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:49:39,542  :: INFO  :: [Logs]  :: Forgot Password link is clicked. 
+2021-01-11 18:49:41,526  :: INFO  :: [Logs]  :: testsupplieryopmail.com entered in input field. 
+2021-01-11 18:49:41,526  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-11 18:49:41,641  :: INFO  :: [Logs]  :: click on reset password button. 
+2021-01-11 18:49:42,706  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Email Is not in Proper format. 
+2021-01-11 18:49:42,706  :: INFO  :: [Logs]  :: Email and password links are entered. 
+2021-01-11 18:49:44,672  :: INFO  :: [Logs]  :: testsupplier@yopmail.com entered in input field. 
+2021-01-11 18:49:44,672  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-11 18:49:44,775  :: INFO  :: [Logs]  :: click on reset password button. 
+2021-01-11 18:49:47,191  :: INFO  :: [Logs]  :: Message is Display as expected:An email has been sent to testsupplier@yopmail.com. 
+2021-01-11 18:49:47,191  :: INFO  :: [Logs]  :: Email and password links are entered. 
+2021-01-11 18:49:53,854  :: INFO  :: [Logs]  :: testsupplier@yopmail.com entered in input field. 
+2021-01-11 18:49:57,173  :: INFO  :: [Logs]  :: Reset password link is discovered from email. 
+2021-01-11 18:50:05,937  :: INFO  :: [Logs]  :: Reset password link is clicked from email. 
+2021-01-11 18:50:13,036  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-11 18:50:13,036  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 18:50:14,366  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:50:14,367  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 18:50:14,367  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-11 18:50:15,536  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Must be 6-20 characters long and contain both uppercase and lower case letters and atleast one number and symbol.. 
+2021-01-11 18:50:16,884  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:50:16,884  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 18:50:18,654  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-11 18:50:18,654  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 18:50:18,654  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-11 18:50:20,037  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Password mismatch. 
+2021-01-11 18:50:21,268  :: INFO  :: [Logs]  :: @Automation655 entered in input field. 
+2021-01-11 18:50:21,268  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 18:50:22,537  :: INFO  :: [Logs]  :: @Automation655 entered in input field. 
+2021-01-11 18:50:22,538  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 18:50:22,538  :: INFO  :: [Logs]  :: entre New and confrom password. 
+2021-01-11 18:50:24,892  :: INFO  :: [Logs]  :: testsupplier@yopmail.com entered in input field. 
+2021-01-11 18:50:26,112  :: INFO  :: [Logs]  :: @Automation655 entered in input field. 
+2021-01-11 18:50:31,312  :: INFO  :: [Logs]  :: New password is entered. 
+2021-01-11 18:50:31,853  :: INFO  :: [Logs]  :: Home page is validated after successful login. 
+2021-01-11 18:50:32,379  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2021-01-11 18:50:32,967  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:50:32,967  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3055_SupplierForgotPassword ============================. 
+2021-01-11 18:50:32,967  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:50:33,517  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:50:33,517  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:50:33,517  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3055_SupplierResetPasswordThroughVision started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:50:33,517  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:51:17,508  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:51:17,508  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:51:17,508  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:51:17,508  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:51:19,873  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 18:51:40,998  :: INFO  :: [Logs]  :: jabdi@mfg.com entered in input field. 
+2021-01-11 18:51:42,332  :: INFO  :: [Logs]  :: Password@1234 entered in input field. 
+2021-01-11 18:51:42,431  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 18:51:42,431  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 18:51:49,676  :: ERROR :: [Logs]  :: Unable to click on element using Java script OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54857
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScript(String script, Object[] args)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 115. 
+2021-01-11 18:51:49,676  :: INFO  :: [Logs]  :: Password is not reset OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54857
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Automation.Generics.Helper.JavaScriptClick(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 120
+   at MFG_Atomation.PageObjects.RFQVision.RFQVisionPage.ResetPassword(String user, String userType, Boolean isResetPassword, Boolean isValidateButton, Boolean isclickOnTestAccountButton) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\rFQVisionPageObject.cs:line 182. 
+2021-01-11 18:51:49,676  :: INFO  :: [Logs]  :: ResetPassword. 
+2021-01-11 18:51:49,845  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverException: Unexpected error. System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: No connection could be made because the target machine actively refused it 127.0.0.1:54857
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at MFG_Atomation.PageObjects.RFQVision.RFQVisionPage.ResetPassword(String user, String userType, Boolean isResetPassword, Boolean isValidateButton, Boolean isclickOnTestAccountButton) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\rFQVisionPageObject.cs:line 228
+   at MFG_Atomation.Utility.ResetAndForgotPassword.ResetAndForgotPasswordUtility.M23055_ResetPasswordThroughVision(String sheetName) in E:\MFG Code\mfg.automation\Utility\ResetAndForgotPassword\ResetAndForgotPasswordUtility.cs:line 45. 
+2021-01-11 18:51:50,315  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-11 18:51:50,688  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-11 18:51:50,690  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:51:50,690  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3055_SupplierResetPasswordThroughVision ============================. 
+2021-01-11 18:51:50,690  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:51:51,069  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:51:51,075  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:51:51,075  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:51:51,075  :: INFO  :: [Logs]  :: ===============================================================================================================. 

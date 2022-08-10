@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestData>
+  <EnvironmentSetUp>
+    <!--<parameter key="TestURL">https://uatapp.mfg.com/#/auth/login/simple</parameter>-->
+    <parameter key="TestURL">http://qa.mfg2020.com/#/auth/login/simple</parameter>
+    <parameter key="Browser">Chrome</parameter>
+  </EnvironmentSetUp>
+  <EnvironmentSetUpVision>
+   <!--<parameter key="VisionURL">https://uatvision.mfg.com/#/auth/login/simple</parameter>-->
+    <parameter key="VisionURL">http://qa.mfg2020vision.com:92/#/auth/login/simple</parameter>
+    <parameter key="Browser">Chrome</parameter>
+  </EnvironmentSetUpVision>
+  <BuyerData>
+    <parameter key="BuyerUserName">automationbuyer1@yopmail.com</parameter>
+    <parameter key="BuyerPassword">Automation123@</parameter>
+  </BuyerData>
+  <ManufacturerData>
+    <parameter key="ManufacturerUserName">automationsupplier@yopmail.com</parameter>
+    <parameter key="ManufacturerPassword">Automation123@</parameter>
+  </ManufacturerData>
+  <VisionData>
+    <parameter key="VisionUserName">jabdi@mfg.com</parameter>
+    <parameter key="VisionPassword">Password@1234</parameter>
+    <!--<parameter key="VisionUserName">dcrowder@mfg.com</parameter>
+    <parameter key="VisionPassword">JDCr0wd3rj!</parameter>-->
+  </VisionData>
+</TestData>

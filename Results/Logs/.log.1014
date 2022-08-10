@@ -1,0 +1,25 @@
+2020-04-06 13:07:09,088  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-06 13:07:09,124  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-06 13:07:09,124  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-06 13:07:09,219  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-06 13:07:09,906  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-06 13:07:09,907  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22510 started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-06 13:07:09,907  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-06 13:08:25,696  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-06 13:08:25,697  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-06 13:08:25,731  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-06 13:08:25,731  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-06 13:08:49,972  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-06 13:09:36,674  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-06 13:09:51,893  :: INFO  :: [Logs]  :: The element Element (id = 0.16052303959610925-6) was found on the page.. 
+2020-04-06 13:10:25,118  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //button[contains(.,'Enter Details')], or: By.XPath: //button[contains(.,'Enter Details')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 115. 
+2020-04-06 13:10:25,897  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //button[contains(.,'Enter Details')], or: By.XPath: //button[contains(.,'Enter Details')]
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 120
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 426. 
+2020-04-06 13:10:25,968  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 

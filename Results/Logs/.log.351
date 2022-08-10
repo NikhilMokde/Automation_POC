@@ -1,0 +1,100 @@
+2020-12-15 09:10:55,603  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-15 09:10:55,632  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-15 09:10:55,633  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-15 09:10:55,753  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-15 09:10:55,784  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-15 09:10:55,785  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3081_CloneRFQThroughUpperMenuCloneButton started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-15 09:10:55,785  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-15 09:11:16,290  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-15 09:11:16,290  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-15 09:11:16,299  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-15 09:11:16,299  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-15 09:11:24,101  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-15 09:11:27,571  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-15 09:11:28,832  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-15 09:11:34,545  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-15 09:11:34,545  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-12-15 09:11:35,181  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-12-15 09:11:39,499  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-12-15 09:11:39,578  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-15 09:11:39,579  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-12-15 09:11:39,579  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-15 09:11:40,131  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughPartLibeary==========. 
+2020-12-15 09:11:44,923  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-15 09:11:52,683  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-12-15 09:11:54,057  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-15 09:11:56,232  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-15 09:11:56,232  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-15 09:11:58,632  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-15 09:12:00,748  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-15 09:12:02,046  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-15 09:12:02,378  :: INFO  :: [Logs]  :: Select process. 
+2020-12-15 09:12:07,480  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-15 09:12:07,480  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughPartLibeary==========. 
+2020-12-15 09:12:07,480  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-15 09:12:08,148  :: INFO  :: [Logs]  :: ==========ClonePart==========. 
+2020-12-15 09:12:09,304  :: INFO  :: [Logs]  :: Message is Display as expected:Clone Part. 
+2020-12-15 09:12:09,510  :: INFO  :: [Logs]  :: click on yes button. 
+2020-12-15 09:12:09,510  :: INFO  :: [Logs]  :: ==========End of ClonePart==========. 
+2020-12-15 09:12:09,510  :: INFO  :: [Logs]  :: clone part. 
+2020-12-15 09:12:11,961  :: INFO  :: [Logs]  :: ==========VerifyDetailsFromClonePart==========. 
+2020-12-15 09:12:13,991  :: INFO  :: [Logs]  :: Message is Display as expected:ScrewDriver. 
+2020-12-15 09:12:16,002  :: INFO  :: [Logs]  :: Message is Display as expected:12345. 
+2020-12-15 09:12:17,552  :: INFO  :: [Logs]  :: Message is Display as expected:                          Engineering & Design Services. 
+2020-12-15 09:12:17,552  :: INFO  :: [Logs]  :: ==========End of VerifyDetailsFromClonePart==========. 
+2020-12-15 09:12:17,552  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-15 09:12:18,490  :: INFO  :: [Logs]  :: ==========UpdatePartDetails==========. 
+2020-12-15 09:12:19,855  :: INFO  :: [Logs]  :: Hammer entered in input field. 
+2020-12-15 09:12:19,855  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-15 09:12:21,166  :: INFO  :: [Logs]  :: 1432 entered in input field. 
+2020-12-15 09:12:21,166  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-15 09:12:25,021  :: INFO  :: [Logs]  :: Engineering & Design Servicesis selected From Dropdown. 
+2020-12-15 09:12:25,021  :: INFO  :: [Logs]  :: Select process. 
+2020-12-15 09:12:30,154  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-15 09:12:30,154  :: INFO  :: [Logs]  :: ==========End of UpdatePartDetails==========. 
+2020-12-15 09:12:30,154  :: INFO  :: [Logs]  :: edit data from clone part. 
+2020-12-15 09:12:30,778  :: INFO  :: [Logs]  :: ==========VerifyDetailsFromClonePart==========. 
+2020-12-15 09:12:32,800  :: INFO  :: [Logs]  :: Message is Display as expected:Hammer. 
+2020-12-15 09:12:34,822  :: INFO  :: [Logs]  :: Message is Display as expected:1432. 
+2020-12-15 09:12:36,136  :: INFO  :: [Logs]  :: Message is Display as expected:                          Engineering & Design Services. 
+2020-12-15 09:12:36,136  :: INFO  :: [Logs]  :: ==========End of VerifyDetailsFromClonePart==========. 
+2020-12-15 09:12:36,136  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-15 09:12:36,739  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-15 09:13:19,718  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-15 09:13:22,839  :: INFO  :: [Logs]  :: click on existing port. 
+2020-12-15 09:13:24,083  :: INFO  :: [Logs]  :: Hammer entered in input field. 
+2020-12-15 09:13:24,083  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-15 09:13:25,312  :: INFO  :: [Logs]  :: 1432 entered in input field. 
+2020-12-15 09:13:25,312  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-15 09:13:26,561  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-15 09:13:26,562  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-15 09:13:27,722  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-12-15 09:13:27,723  :: INFO  :: [Logs]  :: Select Unit. 
+2020-12-15 09:13:30,134  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-15 09:13:32,171  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-15 09:13:33,389  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-15 09:13:33,389  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-15 09:13:33,863  :: INFO  :: [Logs]  :: Select process. 
+2020-12-15 09:13:34,720  :: INFO  :: [Logs]  :: Select Material. 
+2020-12-15 09:13:35,054  :: INFO  :: [Logs]  :: Select post production process. 
+2020-12-15 09:13:36,404  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-12-15 09:13:36,404  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-12-15 09:13:36,501  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-15 09:13:41,503  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-12-15 09:13:41,503  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-15 09:13:43,173  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <td _ngcontent-c29="" class="editdelete tablefixedwidth ng-star-inserted" container="body" ngbtooltip="Clone Part" placement="top">...</td> is not clickable at point (1286, 574). Other element would receive the click: <iframe src="https://app.hubspot.com/conversations-visitor/7872785/threads/utk/351aecf679f3413481d19b706520a91d?uuid=2452107cc01243f6a287be2ee6647154&amp;mobile=false&amp;mobileSafari=false&amp;hideWelcomeMessage=false&amp;hstc=34961406.511a724dd20a8814225300ff61074cab.1608003676202.1608003676202.1608003676202.1&amp;domain=uatapp.mfg.com&amp;inApp53=false&amp;messagesUtk=351aecf679f3413481d19b706520a91d&amp;url=https%3A%2F%2Fuatapp.mfg.com%2F%23%2Fauth%2Flogin%2Fsimple&amp;inline=false&amp;isFullscreen=false&amp;globalCookieOptOut=null&amp;isFirstVisitorSession=false&amp;isAttachmentDisabled=false&amp;enableWidgetCookieBanner=false&amp;isInCMS=false&amp;hubspotUtk=511a724dd20a8814225300ff61074cab" title="chat widget"></iframe>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 61. 
+2020-12-15 09:13:43,858  :: ERROR :: [Logs]  :: Test case failed. 

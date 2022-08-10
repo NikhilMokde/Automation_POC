@@ -1,0 +1,93 @@
+2020-11-26 16:06:53,761  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 16:06:53,825  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 16:06:53,825  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 16:06:53,912  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 16:06:53,939  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 16:06:53,939  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22965_InternalMessageLeadStream started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 16:06:53,940  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 16:07:07,826  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 16:07:07,826  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 16:07:07,834  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 16:07:07,834  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 16:07:08,134  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 16:07:17,820  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 16:07:19,053  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 16:07:25,867  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 16:07:25,867  :: INFO  :: [Logs]  :: Login supplier. 
+2020-11-26 16:07:26,645  :: INFO  :: [Logs]  :: ==========LeadStreamCreation==========. 
+2020-11-26 16:07:33,366  :: INFO  :: [Logs]  :: User has clicked on Discover Manufacturer. 
+2020-11-26 16:07:33,367  :: INFO  :: [Logs]  :: Select Discover Manufacturer from left navigation. 
+2020-11-26 16:07:38,184  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2020-11-26 16:07:38,184  :: INFO  :: [Logs]  :: Search the manufacturer. 
+2020-11-26 16:07:41,922  :: INFO  :: [Logs]  :: Click on search icon. 
+2020-11-26 16:07:47,750  :: INFO  :: [Logs]  :: click on company Name. 
+2020-11-26 16:07:51,945  :: INFO  :: [Logs]  :: click on View Profile Link. 
+2020-11-26 16:07:57,978  :: INFO  :: [Logs]  :: Automation entered in input field. 
+2020-11-26 16:07:57,978  :: INFO  :: [Logs]  :: Entre First Name. 
+2020-11-26 16:07:59,381  :: INFO  :: [Logs]  :: supplier entered in input field. 
+2020-11-26 16:07:59,381  :: INFO  :: [Logs]  :: Entre last Name. 
+2020-11-26 16:08:00,927  :: INFO  :: [Logs]  :: AutomationSupplierCompany1569320988 entered in input field. 
+2020-11-26 16:08:00,927  :: INFO  :: [Logs]  :: Entre company. 
+2020-11-26 16:08:02,662  :: INFO  :: [Logs]  :: automationsupplier.com entered in input field. 
+2020-11-26 16:08:02,662  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-26 16:08:04,313  :: INFO  :: [Logs]  :: 123456789 entered in input field. 
+2020-11-26 16:08:04,313  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-26 16:08:09,899  :: INFO  :: [Logs]  :: Validation Message is present as Expected Email is required. 
+2020-11-26 16:08:15,939  :: INFO  :: [Logs]  :: LeadStream Testing entered in input field. 
+2020-11-26 16:08:15,939  :: INFO  :: [Logs]  :: Entre  subject. 
+2020-11-26 16:08:17,808  :: INFO  :: [Logs]  :: This is for LeadStream Testing  entered in input field. 
+2020-11-26 16:08:17,808  :: INFO  :: [Logs]  :: Entre Message. 
+2020-11-26 16:08:17,846  :: INFO  :: [Logs]  :: Send button is disabled. 
+2020-11-26 16:08:19,457  :: INFO  :: [Logs]  :: automationsupplier2@yopmail.com entered in input field. 
+2020-11-26 16:08:19,458  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-26 16:08:21,026  :: INFO  :: [Logs]  :: abcdefd entered in input field. 
+2020-11-26 16:08:21,026  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-26 16:08:28,760  :: INFO  :: [Logs]  :: Validation Message is present as Expected Please enter a valid phone number.. 
+2020-11-26 16:08:28,796  :: INFO  :: [Logs]  :: Send button is disabled. 
+2020-11-26 16:08:30,147  :: INFO  :: [Logs]  :: 123456789 entered in input field. 
+2020-11-26 16:08:30,147  :: INFO  :: [Logs]  :: Entre Email. 
+2020-11-26 16:08:32,372  :: INFO  :: [Logs]  :: click on Send button. 
+2020-11-26 16:08:33,408  :: INFO  :: [Logs]  :: ==========EndLeadStreamCreation==========. 
+2020-11-26 16:08:33,408  :: INFO  :: [Logs]  :: create Leadstream. 
+2020-11-26 16:08:35,709  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-26 16:08:35,710  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-11-26 16:08:36,427  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 16:08:46,043  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-26 16:08:47,274  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-26 16:08:47,392  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 16:08:47,392  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-26 16:08:55,249  :: INFO  :: [Logs]  :: ==========ReleaseLeadStreamMessage==========. 
+2020-11-26 16:08:57,246  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 16:09:13,733  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 16:09:14,815  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 16:09:28,688  :: INFO  :: [Logs]  :: AutomationSupplierCompany1569320988 entered in input field. 
+2020-11-26 16:09:31,047  :: INFO  :: [Logs]  :: Entre company Name in search Textbox. 
+2020-11-26 16:10:11,735  :: INFO  :: [Logs]  :: Entre company Name in search Textbox. 
+2020-11-26 16:10:23,549  :: INFO  :: [Logs]  :: click on Message Release button. 
+2020-11-26 16:10:24,452  :: INFO  :: [Logs]  :: click on yes button. 
+2020-11-26 16:10:24,800  :: INFO  :: [Logs]  :: ==========EndOfReleaseLeadStreamMessage==========. 
+2020-11-26 16:10:27,523  :: INFO  :: [Logs]  :: Release LeadStream Message. 
+2020-11-26 16:10:29,571  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-11-26 16:10:33,775  :: INFO  :: [Logs]  :: vision is logged out successfully. 
+2020-11-26 16:10:34,189  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 16:10:37,400  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 16:10:38,652  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 16:10:42,176  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 16:10:42,176  :: INFO  :: [Logs]  :: supplier login. 
+2020-11-26 16:10:45,595  :: INFO  :: [Logs]  :: ==========Verify Leadstream Details==========. 
+2020-11-26 16:10:55,161  :: INFO  :: [Logs]  :: click on LeadStream Activity Email button. 
+2020-11-26 16:11:02,472  :: INFO  :: [Logs]  :: Validation Message is present as Expected LeadStream Activity. 
+2020-11-26 16:11:05,241  :: INFO  :: [Logs]  :: click on interaction link. 
+2020-11-26 16:11:08,360  :: INFO  :: [Logs]  :: Validation Message is present as Expected AutomationSupplierCompany1569320988. 
+2020-11-26 16:11:18,529  :: INFO  :: [Logs]  :: Validation Message is present as Expected LeadStream Testing. 
+2020-11-26 16:11:21,844  :: INFO  :: [Logs]  :: Message is Display as expected:This is for LeadStream Testing . 
+2020-11-26 16:11:24,039  :: INFO  :: [Logs]  :: ==========End of Verify Leadstream Details==========. 
+2020-11-26 16:11:25,551  :: INFO  :: [Logs]  :: verify leadstream Details. 
+2020-11-26 16:11:29,299  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2020-11-26 16:11:29,837  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 16:11:29,837  :: INFO  :: [Logs]  :: ====================== End of Test Case : M22965_InternalMessageLeadStream ============================. 
+2020-11-26 16:11:29,838  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 16:11:30,768  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-26 16:11:30,781  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 16:11:30,781  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 16:11:30,781  :: INFO  :: [Logs]  :: ===============================================================================================================. 

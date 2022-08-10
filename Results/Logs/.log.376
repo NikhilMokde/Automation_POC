@@ -1,0 +1,181 @@
+2020-12-14 21:32:12,501  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 21:32:12,518  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 21:32:12,518  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 21:32:12,629  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 21:32:12,719  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 21:32:12,719  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerBuyerTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 21:32:12,721  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 21:32:42,608  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 21:32:42,608  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 21:32:42,613  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 21:32:42,613  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 21:33:18,562  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2020-12-14 21:33:25,571  :: INFO  :: [Logs]  :: Navigate to application. 
+2020-12-14 21:33:27,016  :: INFO  :: [Logs]  :: Automation1249305148 entered in input field. 
+2020-12-14 21:33:27,016  :: INFO  :: [Logs]  :: Enter first name. 
+2020-12-14 21:33:28,237  :: INFO  :: [Logs]  :: Buyer1135297822 entered in input field. 
+2020-12-14 21:33:28,237  :: INFO  :: [Logs]  :: Enter last name. 
+2020-12-14 21:33:29,471  :: INFO  :: [Logs]  :: Automation1259221492@yopmail.com entered in input field. 
+2020-12-14 21:33:29,472  :: INFO  :: [Logs]  :: Enter email. 
+2020-12-14 21:33:30,699  :: INFO  :: [Logs]  :: supplierCompany1655218471 entered in input field. 
+2020-12-14 21:33:30,699  :: INFO  :: [Logs]  :: Enter company name. 
+2020-12-14 21:33:32,094  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-14 21:33:32,095  :: INFO  :: [Logs]  :: Choose country. 
+2020-12-14 21:33:33,280  :: INFO  :: [Logs]  :: 1044821942 entered in input field. 
+2020-12-14 21:33:33,280  :: INFO  :: [Logs]  :: Enter phone number. 
+2020-12-14 21:33:34,469  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 21:33:34,469  :: INFO  :: [Logs]  :: Enter password. 
+2020-12-14 21:33:35,746  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 21:33:35,746  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-12-14 21:33:36,949  :: INFO  :: [Logs]  :: 374938456 entered in input field. 
+2020-12-14 21:33:36,949  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-12-14 21:33:37,052  :: INFO  :: [Logs]  :: click on register button. 
+2020-12-14 21:33:37,052  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2020-12-14 21:33:37,053  :: INFO  :: [Logs]  :: Register New Supplier. 
+2020-12-14 21:33:45,631  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 21:34:12,397  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-12-14 21:34:13,711  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-12-14 21:34:13,827  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 21:34:13,827  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-12-14 21:34:24,319  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-14 21:34:44,640  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-14 21:34:47,863  :: INFO  :: [Logs]  :: clicked on New Reg  Tab. 
+2020-12-14 21:34:49,096  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-12-14 21:34:50,540  :: INFO  :: [Logs]  :: Automation1259221492 entered in input field. 
+2020-12-14 21:34:57,083  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-12-14 21:34:59,284  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1259221492@yopmail.c.... 
+2020-12-14 21:34:59,461  :: INFO  :: [Logs]  :: entre checked button. 
+2020-12-14 21:35:02,669  :: INFO  :: [Logs]  :: Checkedis selected From Dropdown. 
+2020-12-14 21:35:04,002  :: INFO  :: [Logs]  :: Automation1259221492 entered in input field. 
+2020-12-14 21:35:06,360  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-12-14 21:35:08,448  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1259221492@yopmail.c.... 
+2020-12-14 21:35:08,448  :: INFO  :: [Logs]  :: entre search button. 
+2020-12-14 21:35:08,448  :: INFO  :: [Logs]  :: verify Register Tab in Action Tracker supplier. 
+2020-12-14 21:35:09,399  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-14 21:35:25,948  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-14 21:35:26,109  :: INFO  :: [Logs]  :: clicked on Logged In Tab. 
+2020-12-14 21:35:27,370  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-12-14 21:35:28,646  :: INFO  :: [Logs]  :: Automation1259221492 entered in input field. 
+2020-12-14 21:35:34,731  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-12-14 21:35:36,884  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1259221492@yopmail.c.... 
+2020-12-14 21:35:36,972  :: INFO  :: [Logs]  :: entre checked button. 
+2020-12-14 21:35:40,145  :: INFO  :: [Logs]  :: Checkedis selected From Dropdown. 
+2020-12-14 21:35:41,419  :: INFO  :: [Logs]  :: Automation1259221492 entered in input field. 
+2020-12-14 21:35:43,504  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-12-14 21:35:45,628  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1259221492@yopmail.c.... 
+2020-12-14 21:35:45,628  :: INFO  :: [Logs]  :: entre search button. 
+2020-12-14 21:35:46,233  :: INFO  :: [Logs]  :: verify Register Tab in Action Tracker supplier. 
+2020-12-14 21:35:47,843  :: INFO  :: [Logs]  :: Message is Display as expected:Select Your Industry. 
+2020-12-14 21:35:49,072  :: INFO  :: [Logs]  :: Architectureis selected From Dropdown. 
+2020-12-14 21:35:49,191  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-14 21:35:49,191  :: INFO  :: [Logs]  :: Select Industry Focous. 
+2020-12-14 21:35:49,768  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-12-14 21:35:49,875  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-12-14 21:35:49,957  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-14 21:35:49,957  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-12-14 21:35:49,957  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-14 21:35:50,450  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-14 21:36:20,285  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-14 21:36:23,421  :: INFO  :: [Logs]  :: click on existing port. 
+2020-12-14 21:36:24,805  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-14 21:36:24,805  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-14 21:36:26,045  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-14 21:36:26,045  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-14 21:36:27,331  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-14 21:36:27,332  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-14 21:36:28,472  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-12-14 21:36:28,472  :: INFO  :: [Logs]  :: Select Unit. 
+2020-12-14 21:36:30,994  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 21:36:33,038  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 21:36:34,262  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 21:36:34,262  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 21:36:35,234  :: INFO  :: [Logs]  :: Select process. 
+2020-12-14 21:36:37,674  :: INFO  :: [Logs]  :: Select Material. 
+2020-12-14 21:36:38,022  :: INFO  :: [Logs]  :: Select post production process. 
+2020-12-14 21:36:39,258  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-12-14 21:36:39,259  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-12-14 21:36:39,323  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-14 21:36:44,324  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-12-14 21:36:44,324  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-14 21:36:44,689  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2020-12-14 21:36:45,197  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-12-14 21:36:45,305  :: INFO  :: [Logs]  :: The element Element (id = 92653f98-b5cf-43d2-8abb-fd67a4a0e6f5) was found on the page.. 
+2020-12-14 21:36:46,612  :: INFO  :: [Logs]  :: RFQ1260241082 entered in input field. 
+2020-12-14 21:36:46,612  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-12-14 21:36:47,762  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-12-14 21:36:47,762  :: INFO  :: [Logs]  :: select Purpose. 
+2020-12-14 21:36:49,932  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 21:36:52,028  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 21:36:53,184  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 21:36:53,184  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-12-14 21:36:55,387  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 21:36:57,423  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 21:36:58,579  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 21:36:58,579  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-12-14 21:36:58,794  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-12-14 21:36:59,364  :: INFO  :: [Logs]  :: click on + Add New Address Button. 
+2020-12-14 21:37:00,768  :: INFO  :: [Logs]  :: automationuser1394197207 entered in input field. 
+2020-12-14 21:37:00,768  :: INFO  :: [Logs]  :: Entre Nick Name. 
+2020-12-14 21:37:02,243  :: INFO  :: [Logs]  :: automationuser854351464 entered in input field. 
+2020-12-14 21:37:02,243  :: INFO  :: [Logs]  :: Entre company Name. 
+2020-12-14 21:37:03,560  :: INFO  :: [Logs]  :: RamNagar2118282774 entered in input field. 
+2020-12-14 21:37:03,560  :: INFO  :: [Logs]  :: Entre address1. 
+2020-12-14 21:37:04,893  :: INFO  :: [Logs]  :: NewYork1100793962 entered in input field. 
+2020-12-14 21:37:04,893  :: INFO  :: [Logs]  :: Entre address2. 
+2020-12-14 21:37:06,209  :: INFO  :: [Logs]  :: London1677306991 entered in input field. 
+2020-12-14 21:37:06,209  :: INFO  :: [Logs]  :: Entre city. 
+2020-12-14 21:37:07,466  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-14 21:37:07,466  :: INFO  :: [Logs]  :: Select country. 
+2020-12-14 21:37:10,063  :: INFO  :: [Logs]  :: Alaskais selected From Dropdown. 
+2020-12-14 21:37:10,063  :: INFO  :: [Logs]  :: Select State. 
+2020-12-14 21:37:11,464  :: INFO  :: [Logs]  :: 43212382 entered in input field. 
+2020-12-14 21:37:11,464  :: INFO  :: [Logs]  :: Entre Postal Code . 
+2020-12-14 21:37:11,521  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-12-14 21:37:11,689  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-12-14 21:37:12,135  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2020-12-14 21:37:12,224  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-12-14 21:37:19,603  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-12-14 21:37:19,947  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-12-14 21:37:21,744  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-14 21:37:21,744  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-12-14 21:37:21,969  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-12-14 21:37:24,259  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-12-14 21:37:27,340  :: INFO  :: [Logs]  :: click on submit RFQ button on Popup. 
+2020-12-14 21:37:29,325  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2020-12-14 21:37:29,325  :: INFO  :: [Logs]  :: add RFQ Details. 
+2020-12-14 21:37:32,281  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-14 21:37:32,281  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-12-14 21:37:32,954  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 21:37:47,204  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-12-14 21:37:48,429  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-12-14 21:37:48,545  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 21:37:48,546  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-12-14 21:37:57,264  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-14 21:38:11,216  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-14 21:38:11,414  :: INFO  :: [Logs]  :: clicked on Unval / Create RFQ Tab. 
+2020-12-14 21:38:12,678  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-12-14 21:38:13,987  :: INFO  :: [Logs]  :: Automation1259221492 entered in input field. 
+2020-12-14 21:38:31,869  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-12-14 21:38:40,327  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1259221492@yopmail.c.... 
+2020-12-14 21:38:42,715  :: INFO  :: [Logs]  :: entre checked button. 
+2020-12-14 21:38:47,536  :: INFO  :: [Logs]  :: Checkedis selected From Dropdown. 
+2020-12-14 21:38:49,623  :: INFO  :: [Logs]  :: Automation1259221492 entered in input field. 
+2020-12-14 21:38:53,853  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-12-14 21:38:59,831  :: INFO  :: [Logs]  :: Message is Display as expected:Automation1259221492@yopmail.c.... 
+2020-12-14 21:39:00,423  :: INFO  :: [Logs]  :: entre search button. 
+2020-12-14 21:39:02,353  :: INFO  :: [Logs]  :: verify Register Tab in Action Tracker supplier. 
+2020-12-14 21:39:04,663  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-14 21:39:17,672  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-14 21:39:22,368  :: INFO  :: [Logs]  :: clicked on All Tab. 
+2020-12-14 21:39:24,615  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-12-14 21:39:26,723  :: INFO  :: [Logs]  :: Automation1259221492 entered in input field. 
+2020-12-14 21:39:37,697  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-12-14 21:40:53,244  :: INFO  :: [Logs]  :: verify Register Tab in Action Tracker supplier. 
+2020-12-14 21:41:04,117  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2020-12-14 21:41:06,326  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 21:41:06,326  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3394_ActionTrackerBuyerTab ============================. 
+2020-12-14 21:41:06,326  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 21:41:10,405  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-14 21:41:10,421  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 21:41:10,422  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 21:41:10,422  :: INFO  :: [Logs]  :: ===============================================================================================================. 

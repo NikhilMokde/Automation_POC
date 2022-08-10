@@ -1,0 +1,76 @@
+2021-01-03 17:25:35,367  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:25:35,384  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 17:25:35,384  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:25:35,487  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-03 17:25:35,644  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:25:35,645  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_SupplierResetPasswordThroughSettingTab started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 17:25:35,646  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:25:50,179  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-03 17:25:50,179  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-03 17:25:50,195  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-03 17:25:50,195  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-03 17:25:57,953  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-03 17:25:59,214  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:26:08,537  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-03 17:26:09,363  :: INFO  :: [Logs]  :: ========== NavigateToSettingResetPasswordButton==========. 
+2021-01-03 17:26:09,558  :: INFO  :: [Logs]  :: click on setting tab. 
+2021-01-03 17:26:11,659  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2021-01-03 17:26:11,846  :: INFO  :: [Logs]  :: click on change password button. 
+2021-01-03 17:26:11,846  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingResetPasswordButton==========. 
+2021-01-03 17:26:11,846  :: INFO  :: [Logs]  :: Navigate to reset Password button. 
+2021-01-03 17:26:12,869  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:14,125  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:26:14,125  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-03 17:26:15,412  :: INFO  :: [Logs]  :: Automation123 entered in input field. 
+2021-01-03 17:26:15,412  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-03 17:26:16,793  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-03 17:26:16,793  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-03 17:26:16,860  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-03 17:26:16,860  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:17,905  :: INFO  :: [Logs]  :: Message is Display as expected:Must be 6-20 characters and contain both upper case and lower case and at least one number and symbol .. 
+2021-01-03 17:26:18,107  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:19,340  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:26:19,340  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-03 17:26:20,644  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-03 17:26:20,644  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-03 17:26:21,917  :: INFO  :: [Logs]  :: Automation12 entered in input field. 
+2021-01-03 17:26:21,917  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-03 17:26:22,012  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-03 17:26:22,012  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:23,057  :: INFO  :: [Logs]  :: Message is Display as expected:Re-Enter Password Doesn't Match. 
+2021-01-03 17:26:23,290  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:24,604  :: INFO  :: [Logs]  :: automation123 entered in input field. 
+2021-01-03 17:26:24,604  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-03 17:26:25,924  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-03 17:26:25,924  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-03 17:26:27,208  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-03 17:26:27,208  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-03 17:26:27,410  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-03 17:26:27,410  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:29,089  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+Please enter correct old password.. 
+2021-01-03 17:26:29,356  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:30,624  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:26:30,626  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-03 17:26:31,905  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:26:31,905  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-03 17:26:33,163  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:26:33,163  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-03 17:26:33,271  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-03 17:26:33,271  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:34,893  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+Enter a new password that is not the same as the old one.. 
+2021-01-03 17:26:35,141  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-03 17:26:36,368  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:26:36,368  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-03 17:26:37,608  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-03 17:26:37,608  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-03 17:26:38,823  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-03 17:26:38,824  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-03 17:26:38,919  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-03 17:26:38,919  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-03 17:28:43,355  :: INFO  :: [Logs]  :: Supplier has logged out successfully. 
+2021-01-03 17:28:43,355  :: INFO  :: [Logs]  :: supplier logout. 
+2021-01-03 17:28:59,856  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-03 17:29:01,091  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:29:01,187  :: INFO  :: [Logs]  :: click on continue button. 

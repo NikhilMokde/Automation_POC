@@ -1,0 +1,64 @@
+2021-01-02 20:10:56,118  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 20:10:56,141  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 20:10:56,141  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 20:10:56,465  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-02 20:10:56,785  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 20:10:56,786  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22965_ExternalMessagesWithLeadstream started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 20:10:56,786  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 20:11:20,322  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-02 20:11:20,322  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-02 20:11:20,367  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-02 20:11:20,367  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-02 20:11:47,037  :: INFO  :: [Logs]  :: ==========LeadStreamCreation==========. 
+2021-01-02 20:12:07,740  :: INFO  :: [Logs]  :: Automation entered in input field. 
+2021-01-02 20:12:07,743  :: INFO  :: [Logs]  :: Entre First Name. 
+2021-01-02 20:12:09,084  :: INFO  :: [Logs]  :: supplier entered in input field. 
+2021-01-02 20:12:09,084  :: INFO  :: [Logs]  :: Entre last Name. 
+2021-01-02 20:12:10,632  :: INFO  :: [Logs]  :: AutomationSupplierCompany140852411 entered in input field. 
+2021-01-02 20:12:10,632  :: INFO  :: [Logs]  :: Entre company. 
+2021-01-02 20:12:12,476  :: INFO  :: [Logs]  :: automationsupplier.com entered in input field. 
+2021-01-02 20:12:12,476  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 20:12:14,455  :: INFO  :: [Logs]  :: 123456789 entered in input field. 
+2021-01-02 20:12:14,455  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 20:12:16,100  :: INFO  :: [Logs]  :: Validation Message is present as Expected Email is required. 
+2021-01-02 20:12:17,857  :: INFO  :: [Logs]  :: LeadStream Testing entered in input field. 
+2021-01-02 20:12:17,857  :: INFO  :: [Logs]  :: Entre  subject. 
+2021-01-02 20:12:17,902  :: INFO  :: [Logs]  :: Send button is disabled. 
+2021-01-02 20:12:19,592  :: INFO  :: [Logs]  :: automationsupplier2@yopmail.com entered in input field. 
+2021-01-02 20:12:19,594  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 20:12:21,556  :: INFO  :: [Logs]  :: abcdefd entered in input field. 
+2021-01-02 20:12:21,556  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 20:12:24,365  :: INFO  :: [Logs]  :: Validation Message is present as Expected Please enter a valid phone number.. 
+2021-01-02 20:12:24,685  :: INFO  :: [Logs]  :: Send button is disabled. 
+2021-01-02 20:12:26,348  :: INFO  :: [Logs]  :: 123456789 entered in input field. 
+2021-01-02 20:12:26,348  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 20:12:28,871  :: INFO  :: [Logs]  :: This is for LeadStream Testing  entered in input field. 
+2021-01-02 20:12:28,872  :: INFO  :: [Logs]  :: Entre Message. 
+2021-01-02 20:12:29,199  :: INFO  :: [Logs]  :: Entre Message. 
+2021-01-02 20:13:02,278  :: INFO  :: [Logs]  :: upload file. 
+2021-01-02 20:13:21,192  :: INFO  :: [Logs]  :: click on Send button. 
+2021-01-02 20:13:21,192  :: INFO  :: [Logs]  :: ==========EndLeadStreamCreation==========. 
+2021-01-02 20:13:29,816  :: INFO  :: [Logs]  :: Send Lead stream message externally. 
+2021-01-02 20:13:30,397  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 20:13:37,086  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2021-01-02 20:13:38,408  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2021-01-02 20:13:38,622  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 20:13:38,622  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2021-01-02 20:13:46,788  :: INFO  :: [Logs]  :: ==========ReleaseLeadStreamMessage==========. 
+2021-01-02 20:13:47,483  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-02 20:14:09,546  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-02 20:14:09,744  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-02 20:14:40,851  :: ERROR :: [Logs]  :: element not visible  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 30 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.WaitTillVisibilityOfLoader() in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 119. 
+2021-01-02 20:14:41,441  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-02 20:14:42,490  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-02 20:14:42,838  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-02 20:14:48,455  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 20:14:48,455  :: INFO  :: [Logs]  :: ====================== End of Test Case : M22965_ExternalMessagesWithLeadstream ============================. 
+2021-01-02 20:14:48,455  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 20:14:50,283  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-02 20:14:50,317  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 20:14:50,318  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 20:14:50,318  :: INFO  :: [Logs]  :: ===============================================================================================================. 

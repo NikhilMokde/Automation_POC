@@ -1,0 +1,69 @@
+2021-01-02 14:25:29,074  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:25:29,100  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 14:25:29,100  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:25:29,220  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-02 14:25:29,267  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:25:29,267  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3462_InCompleteRFQFilter started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 14:25:29,268  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:25:44,482  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-02 14:25:44,482  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-02 14:25:44,497  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-02 14:25:44,497  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-02 14:25:52,495  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 14:25:56,362  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-02 14:25:57,666  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-02 14:26:01,531  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 14:26:01,531  :: INFO  :: [Logs]  :: login as a buyer. 
+2021-01-02 14:26:02,408  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2021-01-02 14:26:09,086  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="pointer-cursor color-blue">...</span> is not clickable at point (486, 373). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2021-01-02 14:26:09,089  :: ERROR :: [Logs]  :: failed to upload file System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="pointer-cursor color-blue">...</span> is not clickable at point (486, 373). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 67
+   at MFG_Automation.Generics.Helper.UploadFile(IWebElement element, String filepath) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 195. 
+2021-01-02 14:26:09,093  :: ERROR :: [Logs]  :: Failed to Create RFQ Part Through Upload File System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="pointer-cursor color-blue">...</span> is not clickable at point (486, 373). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.UploadFile(IWebElement element, String filepath) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 206
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 181. 
+2021-01-02 14:26:09,119  :: INFO  :: [Logs]  :: CreateRFQPartThroughUploadFilemethod is failed. 
+2021-01-02 14:26:09,280  :: INFO  :: [Logs]  :: Failed to enter the data in field System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="pointer-cursor color-blue">...</span> is not clickable at point (486, 373). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 262
+   at MFG_Atomation.Utility.Filters.FilterUtility.M2_3462_InCompleteFilter(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 534. 
+2021-01-02 14:26:09,280  :: INFO  :: [Logs]  :: M2_3462_InCompleteFiltermethod is failed. 
+2021-01-02 14:26:09,855  :: ERROR :: [Logs]  :: M2_3462_InCompleteRFQFilter Test case failed. 
+2021-01-02 14:26:10,047  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:26:10,047  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3462_InCompleteRFQFilter ============================. 
+2021-01-02 14:26:10,048  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:26:10,900  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-02 14:26:10,909  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:26:10,910  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 14:26:10,910  :: INFO  :: [Logs]  :: ===============================================================================================================. 

@@ -1,0 +1,57 @@
+2021-01-11 16:30:35,408  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:30:35,446  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 16:30:35,446  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:30:35,525  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 16:30:35,564  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:30:35,565  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_DiscoverManufacturerMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 16:30:35,566  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:31:20,055  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 16:31:20,055  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 16:31:20,061  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 16:31:20,062  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 16:31:24,314  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 16:31:27,397  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-11 16:31:28,679  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 16:31:33,040  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 16:31:33,041  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 16:31:33,665  :: INFO  :: [Logs]  :: ==========SendMessageThroughDiscoverManufactuere==========. 
+2021-01-11 16:31:34,063  :: INFO  :: [Logs]  :: User has clicked on Discover Manufacturer. 
+2021-01-11 16:31:34,063  :: INFO  :: [Logs]  :: Select Discover Manufacturer from left navigation. 
+2021-01-11 16:31:38,767  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2021-01-11 16:31:38,767  :: INFO  :: [Logs]  :: Search the manufacturer. 
+2021-01-11 16:31:42,242  :: INFO  :: [Logs]  :: Click on search icon. 
+2021-01-11 16:31:48,561  :: INFO  :: [Logs]  :: click on Send Message Button. 
+2021-01-11 16:31:50,212  :: INFO  :: [Logs]  :: Supplier Thread Discover  entered in input field. 
+2021-01-11 16:31:50,212  :: INFO  :: [Logs]  :: Entre Subject. 
+2021-01-11 16:31:50,244  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2021-01-11 16:31:51,749  :: INFO  :: [Logs]  :: Buyer to supplier entered in input field. 
+2021-01-11 16:31:51,749  :: INFO  :: [Logs]  :: Entre Subject. 
+2021-01-11 16:32:02,656  :: INFO  :: [Logs]  :: upload data file. 
+2021-01-11 16:32:02,777  :: INFO  :: [Logs]  :: click sent button. 
+2021-01-11 16:32:04,544  :: INFO  :: [Logs]  :: Message is Display as expected:Message sent successfully.. 
+2021-01-11 16:32:04,544  :: INFO  :: [Logs]  :: ==========End of SendMessageThroughDiscoverManufactuere==========. 
+2021-01-11 16:32:04,544  :: INFO  :: [Logs]  :: Send Message through Discover Manufacture. 
+2021-01-11 16:32:06,571  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2021-01-11 16:32:06,572  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2021-01-11 16:32:07,255  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 16:32:10,725  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2021-01-11 16:32:11,929  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 16:32:15,988  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 16:32:15,988  :: INFO  :: [Logs]  :: supplier login. 
+2021-01-11 16:32:19,017  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2021-01-11 16:32:27,274  :: INFO  :: [Logs]  :: click on Received Message . 
+2021-01-11 16:32:29,456  :: INFO  :: [Logs]  :: Message is Display as expected:Supplier Thread Discover . 
+2021-01-11 16:32:29,456  :: INFO  :: [Logs]  :: verify Message Subject. 
+2021-01-11 16:32:30,632  :: INFO  :: [Logs]  :: Validation Message is present as Expected Automation Buyer1. 
+2021-01-11 16:32:30,632  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2021-01-11 16:32:35,564  :: INFO  :: [Logs]  :: Message is Display as expected:Buyer to supplier. 
+2021-01-11 16:32:41,472  :: INFO  :: [Logs]  :: click on download file button. 
+2021-01-11 16:32:46,063  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2021-01-11 16:32:46,458  :: INFO  :: [Logs]  :: DiscoverManufacturerMessagingTest case passed successfully. 
+2021-01-11 16:32:46,917  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:32:46,917  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3344_DiscoverManufacturerMessaging ============================. 
+2021-01-11 16:32:46,917  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:32:47,534  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 16:32:47,558  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:32:47,558  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 16:32:47,558  :: INFO  :: [Logs]  :: ===============================================================================================================. 

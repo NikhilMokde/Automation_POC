@@ -1,0 +1,49 @@
+2020-11-26 15:47:45,630  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:47:45,646  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:47:45,646  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:47:45,792  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 15:47:45,853  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:47:45,854  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3024_BlacklistingSupplierToBuyer started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:47:45,855  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:48:00,511  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 15:48:00,511  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 15:48:00,519  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 15:48:00,519  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 15:48:08,721  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 15:48:12,625  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 15:48:13,915  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:48:23,851  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 15:48:23,851  :: INFO  :: [Logs]  :: Buyer has logged in. 
+2020-11-26 15:48:24,549  :: INFO  :: [Logs]  :: =========== Create RFQ ==========. 
+2020-11-26 15:48:31,366  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-11-26 15:48:36,615  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-26 15:48:40,051  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-11-26 15:48:41,730  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-26 15:48:44,126  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-11-26 15:48:44,126  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-11-26 15:48:46,615  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 15:48:48,659  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 15:48:49,943  :: INFO  :: [Logs]  :: Clicked on next button of date picker. 
+2020-11-26 15:48:51,981  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 15:48:54,011  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 15:48:55,476  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 15:48:55,567  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-11-26 15:48:59,032  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-11-26 15:48:59,108  :: INFO  :: [Logs]  :: The element Element (id = 16d344e9-d038-46ad-83b2-2e53cf9f71e3) was found on the page.. 
+2020-11-26 15:49:00,641  :: INFO  :: [Logs]  :: RFQ36188292 entered in input field. 
+2020-11-26 15:49:00,641  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-11-26 15:49:01,895  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-11-26 15:49:01,895  :: INFO  :: [Logs]  :: select Purpose. 
+2020-11-26 15:49:06,094  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 15:49:08,132  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 15:49:09,409  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 15:49:09,409  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-26 15:49:13,589  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-26 15:49:15,636  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-26 15:49:16,911  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-26 15:49:16,911  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-26 15:49:17,129  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-11-26 15:49:17,291  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-11-26 15:49:19,083  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2020-11-26 15:49:26,439  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-11-26 15:49:30,898  :: INFO  :: [Logs]  ::  entered in input field. 

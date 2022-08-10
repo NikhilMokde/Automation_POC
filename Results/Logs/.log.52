@@ -1,0 +1,108 @@
+2021-01-11 18:29:28,505  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:29:28,523  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:29:28,523  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:29:28,599  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 18:29:28,612  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:29:28,613  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_ThreadMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:29:28,613  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:30:19,079  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:30:19,080  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:30:19,087  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:30:19,087  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:30:19,312  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 18:30:22,119  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-11 18:30:23,318  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:30:27,092  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 18:30:27,092  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 18:30:27,658  :: INFO  :: [Logs]  :: =========== Create RFQ ==========. 
+2021-01-11 18:30:36,289  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2021-01-11 18:30:42,558  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2021-01-11 18:30:45,073  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2021-01-11 18:30:46,301  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2021-01-11 18:30:48,298  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2021-01-11 18:30:48,298  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2021-01-11 18:30:50,674  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-11 18:30:52,719  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-11 18:30:54,266  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-11 18:30:54,371  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2021-01-11 18:30:56,204  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2021-01-11 18:30:56,258  :: INFO  :: [Logs]  :: The element Element (id = 20d85789-0355-4592-9d83-ddb3011cc4c9) was found on the page.. 
+2021-01-11 18:30:57,486  :: INFO  :: [Logs]  :: RFQ81237775 entered in input field. 
+2021-01-11 18:30:57,486  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2021-01-11 18:30:58,661  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2021-01-11 18:30:58,661  :: INFO  :: [Logs]  :: select Purpose. 
+2021-01-11 18:31:01,814  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-11 18:31:03,849  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-11 18:31:05,054  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-11 18:31:05,054  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-11 18:31:09,227  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-11 18:31:11,259  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-11 18:31:12,478  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-11 18:31:12,478  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-11 18:31:12,673  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2021-01-11 18:31:12,801  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2021-01-11 18:31:14,433  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2021-01-11 18:31:21,931  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2021-01-11 18:31:23,565  :: INFO  :: [Logs]  :: pune supplier entered in input field. 
+2021-01-11 18:31:30,924  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2021-01-11 18:31:39,170  :: INFO  :: [Logs]  :: 'Non-Disclosed ' button is clicked. 
+2021-01-11 18:31:39,263  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2021-01-11 18:31:45,054  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2021-01-11 18:31:45,345  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2021-01-11 18:31:46,787  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2021-01-11 18:31:46,787  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2021-01-11 18:31:46,977  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2021-01-11 18:31:48,172  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2021-01-11 18:31:49,795  :: INFO  :: [Logs]  :: ============ End of Function Create RFQ ==========. 
+2021-01-11 18:31:49,795  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2021-01-11 18:31:50,215  :: INFO  :: [Logs]  :: ==========SearchRFQFromMyRFQsTabThroughDashboard==========. 
+2021-01-11 18:31:50,487  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2021-01-11 18:31:50,590  :: INFO  :: [Logs]  :: click on MY RFQ button On Dashboard. 
+2021-01-11 18:31:53,906  :: INFO  :: [Logs]  :: RFQ81237775 entered in input field. 
+2021-01-11 18:31:53,906  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2021-01-11 18:32:06,163  :: ERROR :: [Logs]  :: element not loaded  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //h2[@class='pointerCursor text-truncate']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 139. 
+2021-01-11 18:32:06,164  :: ERROR :: [Logs]  :: Search RFQ From MyRFQs Tab Through Dashboard is failed OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //h2[@class='pointerCursor text-truncate']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 144
+   at MFG_Atomation.PageObjects.Dashboard.DashboardPageObject.SearchRFQFromMyRFQsTabThroughDashboard(String rFQName) in E:\MFG Code\mfg.automation\PageObjects\Dashboard\DashboardPageObject.cs:line 184. 
+2021-01-11 18:32:06,164  :: INFO  :: [Logs]  :: SearchRFQFromMyRFQsTabThroughDashboard. 
+2021-01-11 18:32:06,165  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //h2[@class='pointerCursor text-truncate']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Dashboard.DashboardPageObject.SearchRFQFromMyRFQsTabThroughDashboard(String rFQName) in E:\MFG Code\mfg.automation\PageObjects\Dashboard\DashboardPageObject.cs:line 192
+   at MFG_Atomation.Utility.Messages.MessagesUtility.M2_3344_ThreadMessaging(String sheetName) in E:\MFG Code\mfg.automation\Utility\MessageUtlity\MessagesUtility.cs:line 216. 
+2021-01-11 18:32:06,166  :: INFO  :: [Logs]  :: M2_3344_ThreadMessagingmethod is failed. 
+2021-01-11 18:32:06,562  :: ERROR :: [Logs]  :: ThreadMessagesTest case failed. 
+2021-01-11 18:32:06,688  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:32:06,688  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3344_ThreadMessaging ============================. 
+2021-01-11 18:32:06,688  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:32:07,167  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:32:07,172  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:32:07,172  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:32:07,172  :: INFO  :: [Logs]  :: ===============================================================================================================. 

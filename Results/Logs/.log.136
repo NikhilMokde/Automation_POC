@@ -1,0 +1,129 @@
+2021-01-04 10:42:54,853  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 10:42:54,922  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-04 10:42:54,922  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 10:42:54,990  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-04 10:42:55,095  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 10:42:55,096  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3333_SupplierSetting started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-04 10:42:55,097  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 10:43:17,228  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-04 10:43:17,229  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-04 10:43:17,251  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-04 10:43:17,251  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-04 10:43:39,606  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-04 10:43:45,250  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2021-01-04 10:43:46,563  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-04 10:43:51,070  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-04 10:43:51,070  :: INFO  :: [Logs]  :: Login as a buyer. 
+2021-01-04 10:43:53,890  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2021-01-04 10:43:54,084  :: INFO  :: [Logs]  :: select the profile. 
+2021-01-04 10:43:54,249  :: INFO  :: [Logs]  :: click on setting tab. 
+2021-01-04 10:43:57,781  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2021-01-04 10:43:57,781  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingPage==========. 
+2021-01-04 10:43:57,781  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2021-01-04 10:43:58,443  :: INFO  :: [Logs]  :: click on LiveQuoate Tab. 
+2021-01-04 10:43:59,938  :: INFO  :: [Logs]  :: CNC Machining entered in input field. 
+2021-01-04 10:44:00,077  :: INFO  :: [Logs]  :: select processes. 
+2021-01-04 10:44:01,452  :: INFO  :: [Logs]  :: Alloy Steel entered in input field. 
+2021-01-04 10:44:01,583  :: INFO  :: [Logs]  :: select Material. 
+2021-01-04 10:44:03,039  :: INFO  :: [Logs]  :: ELECTROPLATING entered in input field. 
+2021-01-04 10:44:03,142  :: INFO  :: [Logs]  :: select Post Processes. 
+2021-01-04 10:44:04,475  :: INFO  :: [Logs]  :: Maybe entered in input field. 
+2021-01-04 10:44:04,664  :: INFO  :: [Logs]  :: select LiveQuote Probability. 
+2021-01-04 10:44:06,047  :: INFO  :: [Logs]  :: In Progress entered in input field. 
+2021-01-04 10:44:06,154  :: INFO  :: [Logs]  :: select Live Quote Status. 
+2021-01-04 10:44:07,439  :: INFO  :: [Logs]  :: COD entered in input field. 
+2021-01-04 10:44:07,539  :: INFO  :: [Logs]  :: select Payment Terms. 
+2021-01-04 10:44:08,947  :: INFO  :: [Logs]  :: Miscellaneous entered in input field. 
+2021-01-04 10:44:09,083  :: INFO  :: [Logs]  :: select Custom Costs. 
+2021-01-04 10:44:10,529  :: INFO  :: [Logs]  :: Standard Overnight entered in input field. 
+2021-01-04 10:44:10,646  :: INFO  :: [Logs]  :: select Shipping Method. 
+2021-01-04 10:44:12,073  :: INFO  :: [Logs]  :: Production Lead Time entered in input field. 
+2021-01-04 10:44:12,182  :: INFO  :: [Logs]  :: Select LeadTimes. 
+2021-01-04 10:44:13,467  :: INFO  :: [Logs]  :: .000is selected From Dropdown. 
+2021-01-04 10:44:14,681  :: INFO  :: [Logs]  :: 101 entered in input field. 
+2021-01-04 10:44:14,682  :: INFO  :: [Logs]  :: Entre starting No. 
+2021-01-04 10:44:14,682  :: INFO  :: [Logs]  :: update date form Live Quoate Page. 
+2021-01-04 10:44:18,357  :: INFO  :: [Logs]  :: Clicked on QMS tab. 
+2021-01-04 10:44:18,664  :: INFO  :: [Logs]  :: Clicked on create quote. 
+2021-01-04 10:44:20,023  :: INFO  :: [Logs]  :: Clicked on create new customer. 
+2021-01-04 10:44:21,477  :: INFO  :: [Logs]  :: Automation1709512873 entered in input field. 
+2021-01-04 10:44:21,477  :: INFO  :: [Logs]  :: Enter data on company name text box. 
+2021-01-04 10:44:23,393  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115499 entered in input field. 
+2021-01-04 10:44:23,393  :: INFO  :: [Logs]  :: Enter data on first name text box. 
+2021-01-04 10:44:25,226  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115536 entered in input field. 
+2021-01-04 10:44:25,227  :: INFO  :: [Logs]  :: Enter data on last name text box. 
+2021-01-04 10:44:26,994  :: INFO  :: [Logs]  :: automanufacturer001070112115649 entered in input field. 
+2021-01-04 10:44:26,994  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2021-01-04 10:44:28,735  :: INFO  :: [Logs]  :: Pune Maharashtra entered in input field. 
+2021-01-04 10:44:28,735  :: INFO  :: [Logs]  :: Enter data on address text box. 
+2021-01-04 10:44:28,866  :: INFO  :: [Logs]  :: Country selected successfully. 
+2021-01-04 10:44:29,495  :: INFO  :: [Logs]  :: State selected successfully. 
+2021-01-04 10:44:31,232  :: INFO  :: [Logs]  :: Pune entered in input field. 
+2021-01-04 10:44:31,232  :: INFO  :: [Logs]  :: Enter data on city name text box. 
+2021-01-04 10:44:32,793  :: INFO  :: [Logs]  :: 152NY entered in input field. 
+2021-01-04 10:44:32,793  :: INFO  :: [Logs]  :: Enter data on zip code text box. 
+2021-01-04 10:44:34,491  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2021-01-04 10:44:34,492  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2021-01-04 10:44:38,293  :: INFO  :: [Logs]  :: automationmfg@gmail.com entered in input field. 
+2021-01-04 10:44:38,293  :: INFO  :: [Logs]  :: Enter valid mail address. 
+2021-01-04 10:44:39,819  :: INFO  :: [Logs]  :: abcde entered in input field. 
+2021-01-04 10:44:39,819  :: INFO  :: [Logs]  :: Enter invalid data on phone number text box. 
+2021-01-04 10:44:44,826  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2021-01-04 10:44:45,399  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2021-01-04 10:44:46,453  :: INFO  :: [Logs]  :: Clicked on save QMS customer. 
+2021-01-04 10:44:49,439  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2021-01-04 10:44:58,470  :: INFO  :: [Logs]  :: M2 - 2763_CreateRFQAwardAndUpdate entered in input field. 
+2021-01-04 10:44:59,027  :: INFO  :: [Logs]  :: Enter invalid  QMS Reference. 
+2021-01-04 10:45:02,373  :: INFO  :: [Logs]  :: QMS1541415676 entered in input field. 
+2021-01-04 10:45:03,008  :: INFO  :: [Logs]  :: Entre Valid QMS Ref. 
+2021-01-04 10:45:04,379  :: INFO  :: [Logs]  :: Clicked on Get Started. 
+2021-01-04 10:45:34,741  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2021-01-04 10:45:45,484  :: INFO  :: [Logs]  :: Clicked on Enter details. 
+2021-01-04 10:45:51,959  :: INFO  :: [Logs]  :: Message is Display as expected:CNC Machining. 
+2021-01-04 10:45:53,432  :: INFO  :: [Logs]  :: Pen Drive entered in input field. 
+2021-01-04 10:45:53,432  :: INFO  :: [Logs]  :: Enter data on part name text box. 
+2021-01-04 10:45:54,840  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2021-01-04 10:45:54,840  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2021-01-04 10:45:56,265  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2021-01-04 10:45:56,265  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2021-01-04 10:45:57,830  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2021-01-04 10:45:57,830  :: INFO  :: [Logs]  :: Entered Part Description. 
+2021-01-04 10:45:59,263  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2021-01-04 10:45:59,263  :: INFO  :: [Logs]  :: Enter data on cost text box. 
+2021-01-04 10:46:00,761  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2021-01-04 10:46:01,966  :: INFO  :: [Logs]  :: ? entered in input field. 
+2021-01-04 10:46:01,995  :: INFO  :: [Logs]  :: Entered Post Process. 
+2021-01-04 10:46:02,205  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2021-01-04 10:46:04,668  :: INFO  :: [Logs]  :: Clicked on Add Quote Details. 
+2021-01-04 10:46:07,159  :: INFO  :: [Logs]  :: Message is Display as expected:                              Standard Overnight
+                            . 
+2021-01-04 10:46:07,282  :: INFO  :: [Logs]  :: Message is Display as expected:                              COD
+                            . 
+2021-01-04 10:46:07,409  :: INFO  :: [Logs]  :: Message is Display as expected:                                    Production Lead Time
+                                  . 
+2021-01-04 10:46:07,508  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2021-01-04 10:46:46,646  :: INFO  :: [Logs]  :: Failed to enter the data in field NUnit.Framework.AssertionException: Message is not present expected:Standard Overnight
+   at NUnit.Framework.Assert.ReportFailure(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 394
+   at NUnit.Framework.Assert.Fail(String message, Object[] args) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 145
+   at NUnit.Framework.Assert.Fail(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 155
+   at MFG_Automation.Generics.Helper.VerifyMessage(String actualMessage, String exepctedMessage)
+   at MFG_Atomation.PageObjects.QMS.QMSPageObject.CreateQMS(String sheetName, String expectedProcess, String material, String postProcessbool, Boolean isverifySettingValue). 
+2021-01-04 10:46:46,671  :: INFO  :: [Logs]  :: CreateQMSmethod is failed. 
+2021-01-04 10:46:46,686  :: INFO  :: [Logs]  :: unable to set apply supplier setting is failed NUnit.Framework.AssertionException: Message is not present expected:Standard Overnight
+   at MFG_Atomation.PageObjects.QMS.QMSPageObject.CreateQMS(String sheetName, String expectedProcess, String material, String postProcessbool, Boolean isverifySettingValue)
+   at MFG_Atomation.Utility.Settings.SettingUtility.SupplierSetting(String sheetName). 
+2021-01-04 10:46:47,142  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName). 
+2021-01-04 10:46:47,580  :: ERROR :: [Logs]  :: SupplierSettingTest case failed. 
+2021-01-04 10:46:50,180  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 10:46:50,180  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3333_SupplierSetting ============================. 
+2021-01-04 10:46:50,180  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 10:46:50,910  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-04 10:46:50,928  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-04 10:46:50,928  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-04 10:46:50,928  :: INFO  :: [Logs]  :: ===============================================================================================================. 

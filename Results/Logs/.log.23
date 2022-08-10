@@ -1,0 +1,124 @@
+2021-01-11 18:54:58,436  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:54:58,447  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:54:58,447  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:54:58,525  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 18:54:58,545  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:54:58,546  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_SupplierResetPasswordThroughSettingTab started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:54:58,546  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:55:51,518  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:55:51,518  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:55:51,531  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:55:51,531  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:56:04,508  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-11 18:56:09,199  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:56:15,348  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 18:56:18,364  :: INFO  :: [Logs]  :: ========== NavigateToSettingResetPasswordButton==========. 
+2021-01-11 18:56:19,222  :: INFO  :: [Logs]  :: click on setting tab. 
+2021-01-11 18:56:22,947  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2021-01-11 18:56:23,646  :: INFO  :: [Logs]  :: click on change password button. 
+2021-01-11 18:56:23,647  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingResetPasswordButton==========. 
+2021-01-11 18:56:23,647  :: INFO  :: [Logs]  :: Navigate to reset Password button. 
+2021-01-11 18:56:24,987  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:26,895  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:56:26,895  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:56:28,427  :: INFO  :: [Logs]  :: Automation123 entered in input field. 
+2021-01-11 18:56:28,427  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:56:30,062  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:56:30,062  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:56:30,242  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:56:30,242  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:31,348  :: INFO  :: [Logs]  :: Message is Display as expected:Must be 6-20 characters and contain both upper case and lower case and at least one number and symbol .. 
+2021-01-11 18:56:31,916  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:33,494  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:56:33,494  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:56:34,928  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:56:34,929  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:56:36,444  :: INFO  :: [Logs]  :: Automation12 entered in input field. 
+2021-01-11 18:56:36,444  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:56:36,578  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:56:36,578  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:37,655  :: INFO  :: [Logs]  :: Message is Display as expected:Re-Enter Password Doesn't Match. 
+2021-01-11 18:56:38,320  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:39,699  :: INFO  :: [Logs]  :: automation123 entered in input field. 
+2021-01-11 18:56:39,699  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:56:41,341  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:56:41,341  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:56:42,754  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:56:42,754  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:56:43,008  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:56:43,008  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:47,024  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+Please enter correct old password.. 
+2021-01-11 18:56:47,460  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:48,866  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:56:48,866  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:56:50,290  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:56:50,290  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:56:52,260  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:56:52,260  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:56:52,473  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:56:52,474  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:56,272  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+Enter a new password that is not the same as the old one.. 
+2021-01-11 18:56:56,705  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2021-01-11 18:56:58,200  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:56:58,201  :: INFO  :: [Logs]  :: Entre old password. 
+2021-01-11 18:56:59,588  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:56:59,588  :: INFO  :: [Logs]  :: Entre new password. 
+2021-01-11 18:57:01,470  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2021-01-11 18:57:01,470  :: INFO  :: [Logs]  :: Entre conform Password. 
+2021-01-11 18:57:01,660  :: INFO  :: [Logs]  :: click on save button. 
+2021-01-11 18:57:01,660  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2021-01-11 18:57:06,284  :: INFO  :: [Logs]  :: Message is Display as expected:Success
+Password has been changed successfully.. 
+2021-01-11 18:57:33,907  :: ERROR :: [Logs]  :: element not loaded  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 5 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 139. 
+2021-01-11 18:57:33,907  :: INFO  :: [Logs]  :: Failed to logout {ex}. 
+2021-01-11 18:57:33,907  :: INFO  :: [Logs]  :: ClickOnLogoutmethod is failed. 
+2021-01-11 18:57:33,930  :: INFO  :: [Logs]  :: Unable to logout OpenQA.Selenium.WebDriverTimeoutException: Timed out after 5 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage.ClickOnLogout(String user) in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 890
+   at MFGAutomation.Generics.CommonActions.Logout(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 265. 
+2021-01-11 18:57:34,124  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverTimeoutException: Timed out after 5 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at MFGAutomation.Generics.CommonActions.Logout(String user) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 270
+   at MFG_Atomation.Utility.ResetAndForgotPassword.ResetAndForgotPasswordUtility.M23054_ResetPasswordThroughSettingTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\ResetAndForgotPassword\ResetAndForgotPasswordUtility.cs:line 134. 
+2021-01-11 18:57:34,546  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-11 18:57:34,932  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-11 18:57:35,124  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:57:35,124  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3054_SupplierResetPasswordThroughSettingTab ============================. 
+2021-01-11 18:57:35,124  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:57:35,643  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:57:35,649  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:57:35,649  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:57:35,649  :: INFO  :: [Logs]  :: ===============================================================================================================. 

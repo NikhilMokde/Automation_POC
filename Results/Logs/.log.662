@@ -1,0 +1,136 @@
+2020-11-20 17:29:46,976  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 17:29:46,989  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-20 17:29:46,989  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 17:29:47,090  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-20 17:29:47,634  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 17:29:47,636  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M23451_MyRFQFilterSupplierSide started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-20 17:29:47,636  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 17:30:06,739  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-20 17:30:06,740  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-20 17:30:06,747  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-20 17:30:06,747  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-20 17:30:20,767  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-20 17:30:25,867  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-20 17:30:27,129  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-20 17:30:34,066  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-20 17:30:34,067  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-11-20 17:30:35,229  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-11-20 17:31:01,661  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-20 17:31:04,739  :: INFO  :: [Logs]  :: click on existing port. 
+2020-11-20 17:31:06,244  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-20 17:31:06,244  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-11-20 17:31:07,490  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-11-20 17:31:07,490  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-11-20 17:31:08,788  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-11-20 17:31:08,788  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-11-20 17:31:10,100  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-11-20 17:31:10,100  :: INFO  :: [Logs]  :: Select Unit. 
+2020-11-20 17:31:12,473  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-20 17:31:14,515  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-20 17:31:16,104  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 17:31:16,104  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 17:31:16,527  :: INFO  :: [Logs]  :: Select process. 
+2020-11-20 17:31:18,742  :: INFO  :: [Logs]  :: Select Material. 
+2020-11-20 17:31:19,254  :: INFO  :: [Logs]  :: Select post production process. 
+2020-11-20 17:31:20,508  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-11-20 17:31:20,508  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-11-20 17:31:20,615  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-11-20 17:31:25,616  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-11-20 17:31:25,616  :: INFO  :: [Logs]  :: Click On browse file button On DashBoard and add parts. 
+2020-11-20 17:31:26,102  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2020-11-20 17:31:27,236  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-11-20 17:31:27,339  :: INFO  :: [Logs]  :: The element Element (id = ae1b32f9-45d6-4526-9f94-bec417baaf57) was found on the page.. 
+2020-11-20 17:31:28,724  :: INFO  :: [Logs]  :: RFQ1890506030 entered in input field. 
+2020-11-20 17:31:28,724  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-11-20 17:31:30,072  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-11-20 17:31:30,072  :: INFO  :: [Logs]  :: select Purpose. 
+2020-11-20 17:31:32,306  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-20 17:31:34,354  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-20 17:31:35,643  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 17:31:35,644  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-20 17:31:37,852  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-20 17:31:39,885  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-20 17:31:41,151  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 17:31:41,151  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-20 17:31:41,406  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-11-20 17:31:41,556  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-11-20 17:31:41,932  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2020-11-20 17:31:42,048  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-11-20 17:31:48,725  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-11-20 17:31:49,115  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-11-20 17:31:50,699  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-11-20 17:31:50,700  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-11-20 17:31:50,904  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-11-20 17:31:52,203  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-11-20 17:31:53,802  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2020-11-20 17:31:53,802  :: INFO  :: [Logs]  :: Add RFQ Details. 
+2020-11-20 17:31:55,685  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-20 17:31:55,685  :: INFO  :: [Logs]  :: Buyer logged out successfully. 
+2020-11-20 17:31:56,377  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-20 17:32:05,527  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-20 17:32:06,731  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-20 17:32:06,844  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-20 17:32:06,844  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-20 17:32:20,556  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-11-20 17:32:22,156  :: INFO  :: [Logs]  :: RFQ1890506030 entered in input field. 
+2020-11-20 17:32:22,156  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2020-11-20 17:32:22,389  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-11-20 17:32:30,422  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-11-20 17:32:37,338  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-11-20 17:32:39,339  :: INFO  :: [Logs]  :: RFQ is released. 
+2020-11-20 17:32:40,654  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-11-20 17:32:40,654  :: INFO  :: [Logs]  :: Vision has logged out. 
+2020-11-20 17:32:40,991  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-20 17:32:44,887  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-20 17:32:46,109  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-20 17:32:51,401  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-20 17:32:51,401  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2020-11-20 17:32:52,186  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-20 17:32:52,186  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 17:32:58,207  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 17:32:58,717  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-20 17:33:05,139  :: INFO  :: [Logs]  :: RFQs with no quotesis selected From Dropdown. 
+2020-11-20 17:33:08,911  :: INFO  :: [Logs]  :: RFQ1890506030 entered in input field. 
+2020-11-20 17:33:18,401  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-20 17:33:38,511  :: INFO  :: [Logs]  :: The element Element (id = 12fecf3b-5628-4585-9ad9-b8f3a71438b8) was found on the page.. 
+2020-11-20 17:33:38,512  :: INFO  :: [Logs]  :: click on RFQ Company Name. 
+2020-11-20 17:33:38,512  :: INFO  :: [Logs]  :: Select RFQs with no quotes filter value from ALL RFQ Dropdown. 
+2020-11-20 17:33:38,991  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-20 17:33:38,992  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 17:33:39,106  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 17:33:39,409  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-20 17:33:43,899  :: INFO  :: [Logs]  :: Recently Viewedis selected From Dropdown. 
+2020-11-20 17:33:47,604  :: INFO  :: [Logs]  :: RFQ1890506030 entered in input field. 
+2020-11-20 17:33:56,521  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-20 17:34:27,082  :: ERROR :: [Logs]  :: element not loaded  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[@class='img-logo']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 139. 
+2020-11-20 17:34:28,218  :: INFO  :: [Logs]  :: Failed to Verify My RFQ  filter OpenQA.Selenium.WebDriverTimeoutException: Timed out after 10 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[@class='img-logo']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Filters.FiltersPageObject.SelectFilterValue(String rFQName, String FilterName, Boolean isRFQPresent) in E:\MFG Code\mfg.automation\PageObjects\Filters\FiltersPageObject.cs:line 96
+   at MFG_Atomation.Utility.Filters.FilterUtility.M23451_MyRFQFilterSupplierSide(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 85. 
+2020-11-20 17:34:28,238  :: INFO  :: [Logs]  :: M23451_MyRFQFilterSupplierSidemethod is failed. 
+2020-11-20 17:34:28,747  :: ERROR :: [Logs]  :: M23451_MyRFQFilterSupplierSide Test case failed. 
+2020-11-20 17:34:28,912  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 17:34:28,912  :: INFO  :: [Logs]  :: ====================== End of Test Case : M23451_MyRFQFilterSupplierSide ============================. 
+2020-11-20 17:34:28,912  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 17:34:30,819  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-20 17:34:30,829  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 17:34:30,829  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-20 17:34:30,829  :: INFO  :: [Logs]  :: ===============================================================================================================. 

@@ -1,0 +1,72 @@
+2020-11-24 15:52:04,813  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:52:04,828  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 15:52:04,828  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:52:04,931  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-24 15:52:05,037  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:52:05,038  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3333_SupplierSetting started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 15:52:05,038  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 15:52:17,483  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 15:52:17,484  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 15:52:17,491  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 15:52:17,491  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 15:54:25,840  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 15:54:31,848  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-24 15:54:33,084  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 15:54:39,837  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 15:54:41,060  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-11-24 15:54:43,557  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2020-11-24 15:54:47,636  :: INFO  :: [Logs]  :: select the profile. 
+2020-11-24 15:54:51,884  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-11-24 15:55:05,241  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2020-11-24 15:55:06,668  :: INFO  :: [Logs]  :: click on LiveQuoate Tab. 
+2020-11-24 15:55:08,151  :: INFO  :: [Logs]  :: CNC Machining entered in input field. 
+2020-11-24 15:55:08,270  :: INFO  :: [Logs]  :: select processes. 
+2020-11-24 15:55:09,634  :: INFO  :: [Logs]  :: Alloy Steel entered in input field. 
+2020-11-24 15:55:09,748  :: INFO  :: [Logs]  :: select Material. 
+2020-11-24 15:55:11,280  :: INFO  :: [Logs]  :: ELECTROPLATING entered in input field. 
+2020-11-24 15:55:11,381  :: INFO  :: [Logs]  :: select Post Processes. 
+2020-11-24 15:55:12,694  :: INFO  :: [Logs]  :: Maybe entered in input field. 
+2020-11-24 15:55:12,827  :: INFO  :: [Logs]  :: select LiveQuote Probability. 
+2020-11-24 15:55:14,175  :: INFO  :: [Logs]  :: In Progress entered in input field. 
+2020-11-24 15:55:14,279  :: INFO  :: [Logs]  :: select Live Quote Status. 
+2020-11-24 15:55:15,580  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <label _ngcontent-c33="" class="form-control ng-star-inserted" style="cursor: pointer; color: inherit;">...</label> is not clickable at point (987, 17). Other element would receive the click: <img _ngcontent-c4="" class="img-circle logo-size1" alt="User-Profile-Image" onerror="this.src='assets/company/avatar-manu-basic-circle.svg'" style=" background-color: #fff; " src="https://s3.us-east-2.amazonaws.com/mfg.mp2020/logos/637400807998469255_S3_image_2020_03_30T08_02_30_015Z.png">
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2020-11-24 15:55:49,260  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@formcontrolname= 'QmsQuoteName'], or: By.XPath: //input[@formcontrolname= 'QmsQuoteName']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Clear()
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 41. 
+2020-11-24 15:55:49,390  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@formcontrolname= 'QmsQuoteName'], or: By.XPath: //input[@formcontrolname= 'QmsQuoteName']
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 49
+   at MFG_Atomation.PageObjects.QMS.QMSPageObject.CreateQMS(String sheetName, String expectedProcess, String material, String postProcessbool, Boolean isverifySettingValue) in E:\MFG Code\mfg.automation\PageObjects\QMS\QMSPageObject.cs:line 441. 
+2020-11-24 15:55:49,408  :: INFO  :: [Logs]  :: CreateQMSmethod is failed. 
+2020-11-24 15:56:00,537  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a _ngcontent-c27="" class="custom-a width-30 active show" data-toggle="tab" href="#tab4default">...</a> is not clickable at point (366, 11). Other element would receive the click: <nav _ngcontent-c4="" class="navbar header-navbar pcoded-header" header-theme="themelight5" pcoded-header-position="fixed">...</nav>
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 

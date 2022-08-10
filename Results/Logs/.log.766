@@ -1,0 +1,84 @@
+2020-04-17 17:19:11,160  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-17 17:19:11,172  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-17 17:19:11,172  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-17 17:19:11,180  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-17 17:19:11,187  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-17 17:19:11,188  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22774_QMSUpdationAndCreation started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-17 17:19:11,189  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-17 17:19:59,478  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-17 17:19:59,479  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-17 17:19:59,488  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-04-17 17:19:59,488  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-17 17:20:04,920  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-17 17:20:30,331  :: INFO  :: [Logs]  :: Clicked on QMS tab. 
+2020-04-17 17:20:32,884  :: INFO  :: [Logs]  :: Clicked on create quote. 
+2020-04-17 17:20:40,817  :: INFO  :: [Logs]  :: Clicked on create new customer. 
+2020-04-17 17:20:45,806  :: INFO  :: [Logs]  :: Automation Company entered in input field. 
+2020-04-17 17:20:45,807  :: INFO  :: [Logs]  :: Enter data on company name text box. 
+2020-04-17 17:20:47,664  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115499 entered in input field. 
+2020-04-17 17:20:47,664  :: INFO  :: [Logs]  :: Enter data on first name text box. 
+2020-04-17 17:20:49,327  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115536 entered in input field. 
+2020-04-17 17:20:49,328  :: INFO  :: [Logs]  :: Enter data on last name text box. 
+2020-04-17 17:20:51,039  :: INFO  :: [Logs]  :: automanufacturer001070112115649 entered in input field. 
+2020-04-17 17:20:51,039  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-04-17 17:20:52,588  :: INFO  :: [Logs]  :: Pune Maharashtra entered in input field. 
+2020-04-17 17:20:52,588  :: INFO  :: [Logs]  :: Enter data on address text box. 
+2020-04-17 17:20:52,735  :: INFO  :: [Logs]  :: Country selected successfully. 
+2020-04-17 17:20:54,751  :: INFO  :: [Logs]  :: State selected successfully. 
+2020-04-17 17:20:56,182  :: INFO  :: [Logs]  :: Pune entered in input field. 
+2020-04-17 17:20:56,183  :: INFO  :: [Logs]  :: Enter data on city name text box. 
+2020-04-17 17:20:57,567  :: INFO  :: [Logs]  :: 152NY entered in input field. 
+2020-04-17 17:20:57,567  :: INFO  :: [Logs]  :: Enter data on zip code text box. 
+2020-04-17 17:20:59,847  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-04-17 17:20:59,847  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-04-17 17:21:01,695  :: INFO  :: [Logs]  :: mfgautomation@yopmail.com entered in input field. 
+2020-04-17 17:21:01,695  :: INFO  :: [Logs]  :: Enter valid mail address. 
+2020-04-17 17:21:03,044  :: INFO  :: [Logs]  :: abcd entered in input field. 
+2020-04-17 17:21:03,045  :: INFO  :: [Logs]  :: Enter invalid data on phone number text box. 
+2020-04-17 17:21:04,537  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-04-17 17:21:04,537  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-04-17 17:21:04,745  :: INFO  :: [Logs]  :: Clicked on save QMS customer. 
+2020-04-17 17:21:16,884  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-17 17:21:25,674  :: INFO  :: [Logs]  :: M2 - 2763_CreateRFQAwardAndUpdate entered in input field. 
+2020-04-17 17:21:26,993  :: INFO  :: [Logs]  :: QMS1426745767 entered in input field. 
+2020-04-17 17:21:27,111  :: INFO  :: [Logs]  :: Clicked on Get Started. 
+2020-04-17 17:21:41,103  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2020-04-17 17:21:50,760  :: INFO  :: [Logs]  :: Clicked on Enter datails. 
+2020-04-17 17:21:52,015  :: INFO  :: [Logs]  :: 123 entered in input field. 
+2020-04-17 17:21:52,015  :: INFO  :: [Logs]  :: Enter data on part name text box. 
+2020-04-17 17:21:53,353  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-04-17 17:21:53,353  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2020-04-17 17:21:54,637  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-04-17 17:21:54,637  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-04-17 17:21:56,052  :: INFO  :: [Logs]  :: Part Description entered in input field. 
+2020-04-17 17:21:56,052  :: INFO  :: [Logs]  :: Entered Part Description. 
+2020-04-17 17:21:57,325  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-04-17 17:21:57,325  :: INFO  :: [Logs]  :: Enter data on cost text box. 
+2020-04-17 17:21:58,837  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2020-04-17 17:21:59,948  :: INFO  :: [Logs]  :: ? entered in input field. 
+2020-04-17 17:21:59,954  :: INFO  :: [Logs]  :: Entered Post Process. 
+2020-04-17 17:22:00,217  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2020-04-17 17:22:02,474  :: INFO  :: [Logs]  :: Clicked on Add Quote Details. 
+2020-04-17 17:22:02,569  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2020-04-17 17:22:12,587  :: INFO  :: [Logs]  :: 3 entered in input field. 
+2020-04-17 17:22:14,588  :: INFO  :: [Logs]  :: This is for Testing  entered in input field. 
+2020-04-17 17:22:17,164  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-17 17:22:19,213  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-17 17:22:20,943  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-17 17:22:21,033  :: INFO  :: [Logs]  :: Payment term has been selected. 
+2020-04-17 17:22:21,249  :: INFO  :: [Logs]  :: Clicked on Review Quote. 
+2020-04-17 17:22:23,245  :: INFO  :: [Logs]  :: Page Navigate to QMS Details Page. 
+2020-04-17 17:22:23,398  :: INFO  :: [Logs]  :: Clicked on Finish Quote. 
+2020-04-17 17:22:23,564  :: INFO  :: [Logs]  :: Clicked on Email to customer. 
+2020-04-17 17:22:40,183  :: INFO  :: [Logs]  :: MFG.cpm entered in input field. 
+2020-04-17 17:22:40,183  :: INFO  :: [Logs]  :: Enter data on subject text box. 
+2020-04-17 17:22:41,895  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-17 17:22:41,895  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-04-17 17:22:42,032  :: INFO  :: [Logs]  :: Clicked on Send Email. 
+2020-04-17 17:22:49,622  :: INFO  :: [Logs]  :: Email sent successfully. 
+2020-04-17 17:22:52,222  :: INFO  :: [Logs]  :: A new QMS is created. 
+2020-04-17 17:23:01,904  :: INFO  :: [Logs]  :: mfgautomation@yopmail.com entered in input field. 
+2020-04-17 17:23:10,881  :: INFO  :: [Logs]  :: Email Recived by Customer. 
+2020-04-17 17:23:12,686  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-17 17:23:12,686  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-04-17 17:23:12,687  :: INFO  :: [Logs]  :: Test case passed successfully. 

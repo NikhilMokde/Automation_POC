@@ -1,0 +1,173 @@
+2020-12-15 08:56:34,129  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-15 08:56:34,144  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-15 08:56:34,144  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-15 08:56:34,245  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-15 08:56:34,276  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-15 08:56:34,277  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3081_CloneRFQThroughUpperMenuCloneButton started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-15 08:56:34,278  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-15 08:56:52,064  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-15 08:56:52,064  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-15 08:56:52,072  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-15 08:56:52,072  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-15 08:56:58,936  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-15 08:57:02,540  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-15 08:57:03,920  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-15 08:57:09,297  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-15 08:57:09,299  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-12-15 08:57:09,851  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-12-15 08:57:13,945  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-12-15 08:57:14,044  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-15 08:57:14,044  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-12-15 08:57:14,044  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-15 08:57:14,604  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughPartLibeary==========. 
+2020-12-15 08:57:19,071  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-15 08:57:26,699  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-12-15 08:57:28,841  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-15 08:57:30,963  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-15 08:57:30,963  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-15 08:57:33,352  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-15 08:57:35,437  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-15 08:57:36,668  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-15 08:57:37,051  :: INFO  :: [Logs]  :: Select process. 
+2020-12-15 08:57:42,134  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-15 08:57:42,134  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughPartLibeary==========. 
+2020-12-15 08:57:42,134  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-15 08:57:42,823  :: INFO  :: [Logs]  :: ==========ClonePart==========. 
+2020-12-15 08:57:43,951  :: INFO  :: [Logs]  :: Message is Display as expected:Clone Part. 
+2020-12-15 08:57:44,086  :: INFO  :: [Logs]  :: click on yes button. 
+2020-12-15 08:57:44,086  :: INFO  :: [Logs]  :: ==========End of ClonePart==========. 
+2020-12-15 08:57:44,086  :: INFO  :: [Logs]  :: clone part. 
+2020-12-15 08:57:46,290  :: INFO  :: [Logs]  :: ==========VerifyDetailsFromClonePart==========. 
+2020-12-15 08:57:48,333  :: INFO  :: [Logs]  :: Message is Display as expected:ScrewDriver. 
+2020-12-15 08:57:50,354  :: INFO  :: [Logs]  :: Message is Display as expected:12345. 
+2020-12-15 08:57:51,715  :: INFO  :: [Logs]  :: Message is Display as expected:                          Engineering & Design Services. 
+2020-12-15 08:57:51,715  :: INFO  :: [Logs]  :: ==========End of VerifyDetailsFromClonePart==========. 
+2020-12-15 08:57:51,715  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-15 08:57:52,615  :: INFO  :: [Logs]  :: ==========UpdatePartDetails==========. 
+2020-12-15 08:57:54,049  :: INFO  :: [Logs]  :: Hammer entered in input field. 
+2020-12-15 08:57:54,049  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-15 08:57:55,338  :: INFO  :: [Logs]  :: 1432 entered in input field. 
+2020-12-15 08:57:55,339  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-15 08:58:16,022  :: INFO  :: [Logs]  :: Engineering & Design Servicesis selected From Dropdown. 
+2020-12-15 08:58:16,023  :: INFO  :: [Logs]  :: Select process. 
+2020-12-15 08:58:21,089  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-15 08:58:21,090  :: INFO  :: [Logs]  :: ==========End of UpdatePartDetails==========. 
+2020-12-15 08:58:21,090  :: INFO  :: [Logs]  :: edit data from clone part. 
+2020-12-15 08:58:21,725  :: INFO  :: [Logs]  :: ==========VerifyDetailsFromClonePart==========. 
+2020-12-15 08:58:23,740  :: INFO  :: [Logs]  :: Message is Display as expected:Hammer. 
+2020-12-15 08:58:25,748  :: INFO  :: [Logs]  :: Message is Display as expected:1432. 
+2020-12-15 08:58:27,047  :: INFO  :: [Logs]  :: Message is Display as expected:                          Engineering & Design Services. 
+2020-12-15 08:58:27,047  :: INFO  :: [Logs]  :: ==========End of VerifyDetailsFromClonePart==========. 
+2020-12-15 08:58:27,047  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-15 08:58:27,561  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-15 08:58:42,975  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-15 08:58:46,172  :: INFO  :: [Logs]  :: click on existing port. 
+2020-12-15 08:58:47,432  :: INFO  :: [Logs]  :: Hammer entered in input field. 
+2020-12-15 08:58:47,432  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-15 08:58:48,636  :: INFO  :: [Logs]  :: 1432 entered in input field. 
+2020-12-15 08:58:48,636  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-15 08:58:49,935  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-15 08:58:49,935  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-15 08:58:51,099  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-12-15 08:58:51,099  :: INFO  :: [Logs]  :: Select Unit. 
+2020-12-15 08:58:53,536  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-15 08:58:55,620  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-15 08:58:56,902  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-15 08:58:56,903  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-15 08:58:57,364  :: INFO  :: [Logs]  :: Select process. 
+2020-12-15 08:58:58,823  :: INFO  :: [Logs]  :: Select Material. 
+2020-12-15 08:58:59,132  :: INFO  :: [Logs]  :: Select post production process. 
+2020-12-15 08:59:00,338  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-12-15 08:59:00,338  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-12-15 08:59:00,418  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-15 08:59:05,419  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-12-15 08:59:05,419  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-15 08:59:21,418  :: INFO  :: [Logs]  :: ==========ClonePart==========. 
+2020-12-15 08:59:22,555  :: INFO  :: [Logs]  :: Message is Display as expected:Clone Part. 
+2020-12-15 08:59:22,686  :: INFO  :: [Logs]  :: click on yes button. 
+2020-12-15 08:59:22,686  :: INFO  :: [Logs]  :: ==========End of ClonePart==========. 
+2020-12-15 08:59:22,686  :: INFO  :: [Logs]  :: clone part. 
+2020-12-15 08:59:23,151  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-12-15 08:59:25,192  :: INFO  :: [Logs]  :: ==========VerifyDetailsFromClonePart==========. 
+2020-12-15 08:59:27,211  :: INFO  :: [Logs]  :: Message is Display as expected:Hammer. 
+2020-12-15 08:59:29,228  :: INFO  :: [Logs]  :: Message is Display as expected:1432. 
+2020-12-15 08:59:30,485  :: INFO  :: [Logs]  :: Message is Display as expected:                          Engineering & Design Services. 
+2020-12-15 08:59:30,485  :: INFO  :: [Logs]  :: ==========End of VerifyDetailsFromClonePart==========. 
+2020-12-15 08:59:30,485  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-15 08:59:31,415  :: INFO  :: [Logs]  :: ==========UpdatePartDetails==========. 
+2020-12-15 08:59:32,716  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-15 08:59:32,716  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-15 08:59:33,994  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-15 08:59:33,994  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-15 08:59:49,637  :: INFO  :: [Logs]  :: Engineering & Design Servicesis selected From Dropdown. 
+2020-12-15 08:59:49,637  :: INFO  :: [Logs]  :: Select process. 
+2020-12-15 08:59:54,759  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-15 08:59:54,759  :: INFO  :: [Logs]  :: ==========End of UpdatePartDetails==========. 
+2020-12-15 08:59:54,759  :: INFO  :: [Logs]  :: edit data from clone part. 
+2020-12-15 08:59:55,316  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-12-15 08:59:55,455  :: INFO  :: [Logs]  :: ==========VerifyDetailsFromClonePart==========. 
+2020-12-15 08:59:57,470  :: INFO  :: [Logs]  :: Message is Display as expected:ScrewDriver. 
+2020-12-15 08:59:59,489  :: INFO  :: [Logs]  :: Message is Display as expected:12345. 
+2020-12-15 09:00:00,828  :: INFO  :: [Logs]  :: Message is Display as expected:                          Engineering & Design Services. 
+2020-12-15 09:00:00,828  :: INFO  :: [Logs]  :: ==========End of VerifyDetailsFromClonePart==========. 
+2020-12-15 09:00:00,828  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2020-12-15 09:00:01,332  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2020-12-15 09:00:01,625  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-12-15 09:00:01,705  :: INFO  :: [Logs]  :: The element Element (id = 4f5ab40e-328b-4f19-96b7-70feac31faf7) was found on the page.. 
+2020-12-15 09:00:02,998  :: INFO  :: [Logs]  :: RFQ1378619160 entered in input field. 
+2020-12-15 09:00:02,999  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-12-15 09:00:04,260  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-12-15 09:00:04,260  :: INFO  :: [Logs]  :: select Purpose. 
+2020-12-15 09:00:06,460  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-15 09:00:08,556  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-15 09:00:09,829  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-15 09:00:09,829  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-12-15 09:00:12,124  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-15 09:00:14,221  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-15 09:00:15,492  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-15 09:00:15,492  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-12-15 09:00:15,733  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-12-15 09:00:15,834  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-12-15 09:00:17,397  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2020-12-15 09:00:23,632  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-12-15 09:00:32,002  :: INFO  :: [Logs]  :: 'Non-Disclosed ' button is clicked. 
+2020-12-15 09:00:32,096  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-12-15 09:00:38,009  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-12-15 09:00:38,335  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-12-15 09:00:39,756  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-15 09:00:39,756  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-12-15 09:00:39,966  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-12-15 09:00:41,319  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-12-15 09:00:43,152  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2020-12-15 09:00:43,152  :: INFO  :: [Logs]  :: add RFQ Details. 
+2020-12-15 09:00:43,915  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-12-15 09:00:43,915  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-12-15 09:00:44,116  :: INFO  :: [Logs]  :: click on RFQ Tab. 
+2020-12-15 09:00:44,212  :: INFO  :: [Logs]  :: 'My RFQs' is clicked. 
+2020-12-15 09:00:47,446  :: INFO  :: [Logs]  :: RFQ1378619160 entered in input field. 
+2020-12-15 09:00:47,446  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-12-15 09:00:49,619  :: INFO  :: [Logs]  :: User has navigated to 'My RFQ's'. 
+2020-12-15 09:00:50,089  :: INFO  :: [Logs]  :: ==========NavigateToRFQDetailsPage==========. 
+2020-12-15 09:00:50,248  :: INFO  :: [Logs]  :: Searched RFQ is clicked. 
+2020-12-15 09:00:52,485  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQDetailsPage==========. 
+2020-12-15 09:00:52,485  :: INFO  :: [Logs]  :: Navigate to RFQ Details Page. 
+2020-12-15 09:00:53,068  :: INFO  :: [Logs]  :: ==========CloneRFQ==========. 
+2020-12-15 09:00:54,482  :: INFO  :: [Logs]  :: Clone RFQ1742849611 entered in input field. 
+2020-12-15 09:00:54,482  :: INFO  :: [Logs]  :: Entre RFQ Name. 
+2020-12-15 09:00:58,695  :: INFO  :: [Logs]  :: Europeis selected From Dropdown. 
+2020-12-15 09:00:59,593  :: INFO  :: [Logs]  :: select Region. 
+2020-12-15 09:01:03,037  :: INFO  :: [Logs]  :: click on submit button. 
+2020-12-15 09:01:03,632  :: INFO  :: [Logs]  :: ==========End of CloneRFQ==========. 
+2020-12-15 09:01:06,557  :: INFO  :: [Logs]  :: clone RFQ button. 
+2020-12-15 09:01:10,690  :: INFO  :: [Logs]  :: Failed to click on Menu OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <ul _ngcontent-c4="" appaccordionlink="" class="pcoded-item pcoded-left-item ng-tns-c4-0 ng-star-inserted" group="dashboard" item-border="true" item-border-style="none" subitem-border="true">...</ul> is not clickable at point (119, 76). Other element would receive the click: <ngb-modal-window role="dialog" style="display: block;" tabindex="-1" class="modal fade show">...</ngb-modal-window>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at MFG_Atomation.Generics.LeftNavigation.LeftTabNavigation(String menuName) in E:\MFG Code\mfg.automation\Generics\LeftNavigation.cs:line 30. 
+2020-12-15 09:01:10,706  :: INFO  :: [Logs]  :: Unable to search the RFQ OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <ul _ngcontent-c4="" appaccordionlink="" class="pcoded-item pcoded-left-item ng-tns-c4-0 ng-star-inserted" group="dashboard" item-border="true" item-border-style="none" subitem-border="true">...</ul> is not clickable at point (119, 76). Other element would receive the click: <ngb-modal-window role="dialog" style="display: block;" tabindex="-1" class="modal fade show">...</ngb-modal-window>
+  (Session info: chrome=87.0.4280.88)
+   at MFG_Atomation.Generics.LeftNavigation.LeftTabNavigation(String menuName) in E:\MFG Code\mfg.automation\Generics\LeftNavigation.cs:line 39
+   at MFG_Atomation.PageObjects.RFQManufacturer.RFQMainPageObject.SearchRFQ(String rFQName, String typeOfUser, String value, Boolean isFilterVerification) in E:\MFG Code\mfg.automation\PageObjects\RFQManufacturer\RFQMainPageObject.cs:line 145. 
+2020-12-15 09:01:10,706  :: INFO  :: [Logs]  :: SearchRFQmethod is failed. 

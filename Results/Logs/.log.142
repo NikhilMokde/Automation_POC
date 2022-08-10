@@ -1,0 +1,29 @@
+2021-01-03 23:02:03,722  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:02:03,743  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 23:02:03,744  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:02:03,852  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-03 23:02:03,909  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:02:03,910  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3333_SupplierSetting started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 23:02:03,911  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:03:23,302  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-03 23:03:25,572  :: INFO  :: [Logs]  :: unable to set apply supplier setting is failed System.ArgumentException: The SearchContext of the locator object cannot be null
+Parameter name: locator
+   at SeleniumExtras.PageObjects.PageFactory.InitElements(Object page, IElementLocator locator, IPageObjectMemberDecorator decorator)
+   at SeleniumExtras.PageObjects.PageFactory.InitElements(Object page, IElementLocator locator)
+   at MFG_Atomation.PageObjects.RFQManufacturer.RFQMainPageObject..ctor() in E:\MFG Code\mfg.automation\PageObjects\RFQManufacturer\RFQMainPageObject.cs:line 24
+   at MFG_Atomation.PageObjects.SaveSearches.SaveSearchPageObject..ctor() in E:\MFG Code\mfg.automation\PageObjects\SaveSearch\SaveSearchPageObject.cs:line 219
+   at MFG_Atomation.PageObjects.Settings.BuyerSettingPageObject..ctor() in E:\MFG Code\mfg.automation\PageObjects\Settings\BuyerSettingPageObject.cs:line 89
+   at MFG_Atomation.Utility.Settings.SettingUtility.SupplierSetting(String sheetName) in E:\MFG Code\mfg.automation\Utility\Settings\SettingUtility.cs:line 241. 
+2021-01-03 23:03:25,702  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2021-01-03 23:03:25,777  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2021-01-03 23:03:25,794  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 168
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 181. 
+2021-01-03 23:03:28,967  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:03:28,967  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3333_SupplierSetting ============================. 
+2021-01-03 23:03:28,967  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:03:30,359  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 23:03:30,359  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 23:03:30,359  :: INFO  :: [Logs]  :: ===============================================================================================================. 

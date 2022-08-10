@@ -1,0 +1,50 @@
+2020-12-14 12:23:29,445  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 12:23:29,467  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 12:23:29,467  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 12:23:29,571  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 12:23:29,628  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 12:23:29,628  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_ThreadMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 12:23:29,629  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 12:23:46,083  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 12:23:46,083  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 12:23:46,087  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 12:23:46,087  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 12:23:46,526  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 12:23:51,480  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 12:23:52,700  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 12:24:00,757  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 12:24:00,757  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-12-14 12:24:01,331  :: INFO  :: [Logs]  :: =========== Create RFQ ==========. 
+2020-12-14 12:24:06,600  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-14 12:24:10,029  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-14 12:24:12,768  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-12-14 12:24:14,521  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-14 12:24:16,984  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-14 12:24:16,984  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-14 12:24:19,484  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 12:24:21,517  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 12:24:23,050  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 12:24:23,133  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-14 12:24:25,750  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-12-14 12:25:09,100  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[contains(text(),'Add RFQ Details')], or: By.XPath: //div[contains(text(),'Add RFQ Details')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.Object.ToString()
+   at System.String.Concat(Object arg0, Object arg1, Object arg2)
+   at MFG_Automation.Generics.Helper.IsElementDisplayed(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 226
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName, String LevelOfNDA, String TypeOfPart, Boolean isBlacklistSupplierDisaplyInSpecialInvite) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 602. 
+2020-12-14 12:25:09,108  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-12-14 12:25:09,122  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[contains(text(),'Add RFQ Details')], or: By.XPath: //div[contains(text(),'Add RFQ Details')]
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName, String LevelOfNDA, String TypeOfPart, Boolean isBlacklistSupplierDisaplyInSpecialInvite) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 703
+   at MFG_Atomation.Utility.Messages.MessagesUtility.M2_3344_ThreadMessaging(String sheetName) in E:\MFG Code\mfg.automation\Utility\MessageUtlity\MessagesUtility.cs:line 212. 
+2020-12-14 12:25:09,122  :: INFO  :: [Logs]  :: M2_3344_ThreadMessagingmethod is failed. 
+2020-12-14 12:25:09,584  :: ERROR :: [Logs]  :: ThreadMessagesTest case failed. 
+2020-12-14 12:25:35,598  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 12:25:35,598  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3344_ThreadMessaging ============================. 
+2020-12-14 12:25:35,598  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 12:25:36,035  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-14 12:25:36,043  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 12:25:36,043  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 12:25:36,043  :: INFO  :: [Logs]  :: ===============================================================================================================. 

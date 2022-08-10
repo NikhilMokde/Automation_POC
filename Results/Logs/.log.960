@@ -1,0 +1,48 @@
+2020-04-07 20:57:43,922  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-07 20:57:43,939  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-07 20:57:43,939  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-07 20:57:44,016  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-07 20:57:44,102  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-07 20:57:44,107  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763 started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-07 20:57:44,107  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-07 20:58:32,687  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-07 20:58:32,688  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-07 20:58:32,695  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-07 20:58:32,695  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-07 20:59:16,981  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-07 21:00:25,703  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-07 21:00:33,228  :: INFO  :: [Logs]  :: The element Element (id = 346decaf-4a10-4246-b593-d56fae549589) was found on the page.. 
+2020-04-07 21:00:49,095  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-07 21:00:52,962  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-07 21:00:55,260  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-07 21:00:57,481  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-07 21:01:02,205  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-07 21:01:04,711  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-07 21:01:06,773  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-07 21:01:08,493  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-07 21:01:09,038  :: INFO  :: [Logs]  :: Select process. 
+2020-04-07 21:01:09,427  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-07 21:01:09,919  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-07 21:01:12,219  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-07 21:01:12,357  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-07 21:01:12,464  :: INFO  :: [Logs]  :: The element Element (id = 346decaf-4a10-4246-b593-d56fae549589) was found on the page.. 
+2020-04-07 21:01:24,449  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-07 21:01:26,958  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-07 21:01:29,189  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-07 21:01:31,387  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-07 21:01:35,623  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-07 21:01:37,971  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-07 21:01:40,032  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-07 21:01:42,614  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-07 21:01:43,153  :: INFO  :: [Logs]  :: Select process. 
+2020-04-07 21:01:43,552  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-07 21:01:43,982  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-07 21:01:46,266  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-07 21:01:46,318  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-07 21:02:24,419  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.WebDriverTimeoutException: Timed out after 20 seconds
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 124
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 502. 
+2020-04-07 21:02:24,444  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-04-07 21:02:25,269  :: ERROR :: [Logs]  :: Test case failed. 

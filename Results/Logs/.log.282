@@ -1,0 +1,93 @@
+2020-12-28 12:38:44,740  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 12:38:44,750  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-28 12:38:44,751  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 12:38:44,817  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-28 12:38:44,823  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 12:38:44,824  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerBuyerTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-28 12:38:44,824  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 12:38:58,301  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-28 12:38:58,302  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-28 12:38:58,308  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-28 12:38:58,308  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-28 12:39:10,031  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2020-12-28 12:39:13,451  :: INFO  :: [Logs]  :: Navigate to application. 
+2020-12-28 12:39:14,794  :: INFO  :: [Logs]  :: Automation1587683531 entered in input field. 
+2020-12-28 12:39:14,794  :: INFO  :: [Logs]  :: Enter first name. 
+2020-12-28 12:39:15,965  :: INFO  :: [Logs]  :: Buyer1705213443 entered in input field. 
+2020-12-28 12:39:15,965  :: INFO  :: [Logs]  :: Enter last name. 
+2020-12-28 12:39:17,190  :: INFO  :: [Logs]  :: Automation885106464@yopmail.com entered in input field. 
+2020-12-28 12:39:17,190  :: INFO  :: [Logs]  :: Enter email. 
+2020-12-28 12:39:18,399  :: INFO  :: [Logs]  :: supplierCompany61783615 entered in input field. 
+2020-12-28 12:39:18,399  :: INFO  :: [Logs]  :: Enter company name. 
+2020-12-28 12:39:19,753  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-28 12:39:19,753  :: INFO  :: [Logs]  :: Choose country. 
+2020-12-28 12:39:20,914  :: INFO  :: [Logs]  :: 1267940469 entered in input field. 
+2020-12-28 12:39:20,914  :: INFO  :: [Logs]  :: Enter phone number. 
+2020-12-28 12:39:22,100  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-28 12:39:22,100  :: INFO  :: [Logs]  :: Enter password. 
+2020-12-28 12:39:23,272  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-28 12:39:23,272  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-12-28 12:39:24,419  :: INFO  :: [Logs]  :: 2122516789 entered in input field. 
+2020-12-28 12:39:24,419  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-12-28 12:39:24,574  :: INFO  :: [Logs]  :: click on register button. 
+2020-12-28 12:39:24,575  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2020-12-28 12:39:24,575  :: INFO  :: [Logs]  :: Register New Supplier. 
+2020-12-28 12:39:28,211  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-28 12:39:34,127  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-12-28 12:39:35,377  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-12-28 12:39:35,522  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-28 12:39:35,522  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-12-28 12:39:37,547  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-28 12:39:47,138  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-12-28 12:39:50,300  :: INFO  :: [Logs]  :: clicked on New Reg  Tab. 
+2020-12-28 12:39:51,491  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-12-28 12:39:52,800  :: INFO  :: [Logs]  :: Automation885106464@ entered in input field. 
+2020-12-28 12:39:57,339  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <i _ngcontent-c16="" class="fa fa-search icon-search" container="body" ngbtooltip="Search by Contact name, Company name, Email" placement="top"></i> is not clickable at point (828, 488). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2020-12-28 12:39:57,342  :: ERROR :: [Logs]  :: Failed to create RFQ System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <i _ngcontent-c16="" class="fa fa-search icon-search" container="body" ngbtooltip="Search by Contact name, Company name, Email" placement="top"></i> is not clickable at point (828, 488). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 67
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email, String typeOfUser) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 216. 
+2020-12-28 12:39:57,345  :: INFO  :: [Logs]  :: ManufacturersActionTrackermethod is failed. 
+2020-12-28 12:39:59,345  :: INFO  :: [Logs]  :: Login with supplier is failed System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <i _ngcontent-c16="" class="fa fa-search icon-search" container="body" ngbtooltip="Search by Contact name, Company name, Email" placement="top"></i> is not clickable at point (828, 488). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email, String typeOfUser) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 288
+   at MFG_Atomation.Utility.RFQVision.ActionTrackerUtility.M2_3444_BuyerActionTrackerTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQVision\ActionTrackerUtility.cs:line 204. 
+2020-12-28 12:39:59,826  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2020-12-28 12:40:00,237  :: ERROR :: [Logs]  :: Test case failed. 
+2020-12-28 12:40:00,396  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 12:40:00,396  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3394_ActionTrackerBuyerTab ============================. 
+2020-12-28 12:40:00,396  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 12:40:01,221  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-28 12:40:01,238  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 12:40:01,238  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-28 12:40:01,238  :: INFO  :: [Logs]  :: ===============================================================================================================. 

@@ -1,0 +1,85 @@
+2020-04-08 13:17:46,848  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-08 13:17:46,860  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-08 13:17:46,860  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-08 13:17:46,911  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-08 13:17:46,921  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-08 13:17:46,921  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763 started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-08 13:17:46,922  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-08 13:18:04,015  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-08 13:18:04,015  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-08 13:18:04,020  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-08 13:18:04,020  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-08 13:18:27,600  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-08 13:19:06,740  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-08 13:19:06,830  :: INFO  :: [Logs]  :: The element Element (id = 5862c9ba-f89e-4e70-b428-6eea20e208f2) was found on the page.. 
+2020-04-08 13:19:21,920  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-08 13:19:25,305  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-08 13:19:27,477  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-08 13:19:29,654  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-08 13:19:33,786  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-08 13:19:36,158  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-08 13:19:38,221  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-08 13:19:39,748  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-08 13:19:40,204  :: INFO  :: [Logs]  :: Select process. 
+2020-04-08 13:19:40,541  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-08 13:19:40,965  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-08 13:19:43,194  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-08 13:19:43,271  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-08 13:19:43,319  :: INFO  :: [Logs]  :: The element Element (id = 5862c9ba-f89e-4e70-b428-6eea20e208f2) was found on the page.. 
+2020-04-08 13:19:57,688  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-08 13:20:01,007  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-08 13:20:03,190  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-08 13:20:05,453  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-08 13:20:09,550  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-08 13:20:11,901  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-08 13:20:13,966  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-08 13:20:15,482  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-08 13:20:15,919  :: INFO  :: [Logs]  :: Select process. 
+2020-04-08 13:20:16,232  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-08 13:20:16,709  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-08 13:20:18,968  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-08 13:20:19,061  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-08 13:20:21,494  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-04-08 13:20:21,543  :: INFO  :: [Logs]  :: The element Element (id = 0eb8e389-2abd-4bcc-b657-317d231df32a) was found on the page.. 
+2020-04-08 13:20:23,902  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-04-08 13:20:26,148  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-08 13:20:28,193  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-08 13:20:31,581  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-08 13:20:33,639  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-08 13:20:35,009  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-04-08 13:20:35,208  :: INFO  :: [Logs]  :: 'Mayment Method' button is clicked. 
+2020-04-08 13:20:35,306  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-04-08 13:20:51,904  :: INFO  :: [Logs]  :: 'Non-Disclousre ' button is clicked. 
+2020-04-08 13:20:52,016  :: INFO  :: [Logs]  :: 'communication' button is clicked. 
+2020-04-08 13:21:03,152  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-04-08 13:21:03,420  :: INFO  :: [Logs]  :: 'special certificatio' button is clicked. 
+2020-04-08 13:21:04,824  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-08 13:21:04,824  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-04-08 13:21:04,974  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-04-08 13:21:06,218  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-04-08 13:21:08,339  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-08 13:21:09,316  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-08 13:21:09,317  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-04-08 13:21:52,239  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-04-08 13:22:02,402  :: INFO  :: [Logs]  :: RFQ is not released System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementListProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.Collections.Generic.IList`1.get_Item(Int32 index)
+   at MFG_Atomation.PageObjects.RFQVision.rFQVisionPage.ReleaseRFQ(String rFQName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQVision\rFQVisionPage.cs:line 71. 
+2020-04-08 13:22:02,402  :: INFO  :: [Logs]  :: ReleaseRFQ. 
+2020-04-08 13:22:03,296  :: ERROR :: [Logs]  :: Test case failed. 
+2020-04-08 13:22:03,323  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-08 13:22:03,323  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22763 ============================>. 
+2020-04-08 13:22:03,323  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-08 13:22:04,035  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-08 13:22:04,044  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-08 13:22:04,044  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-08 13:22:04,044  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

@@ -1,0 +1,61 @@
+2020-12-28 17:41:02,064  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 17:41:02,076  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-28 17:41:02,076  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 17:41:02,200  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-28 17:41:02,271  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 17:41:02,271  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerBuyerTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-28 17:41:02,272  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-28 17:41:24,253  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-28 17:41:24,254  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-28 17:41:24,267  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-28 17:41:24,267  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-28 17:42:14,841  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2020-12-28 17:42:17,441  :: INFO  :: [Logs]  :: Navigate to application. 
+2020-12-28 17:42:18,722  :: INFO  :: [Logs]  :: Automation1080373349 entered in input field. 
+2020-12-28 17:42:18,722  :: INFO  :: [Logs]  :: Enter first name. 
+2020-12-28 17:42:19,902  :: INFO  :: [Logs]  :: Buyer1068435685 entered in input field. 
+2020-12-28 17:42:19,902  :: INFO  :: [Logs]  :: Enter last name. 
+2020-12-28 17:42:21,103  :: INFO  :: [Logs]  :: Automation913635304@yopmail.com entered in input field. 
+2020-12-28 17:42:21,103  :: INFO  :: [Logs]  :: Enter email. 
+2020-12-28 17:42:22,280  :: INFO  :: [Logs]  :: supplierCompany384633051 entered in input field. 
+2020-12-28 17:42:22,280  :: INFO  :: [Logs]  :: Enter company name. 
+2020-12-28 17:42:23,462  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-12-28 17:42:23,462  :: INFO  :: [Logs]  :: Choose country. 
+2020-12-28 17:42:24,629  :: INFO  :: [Logs]  :: 1428022025 entered in input field. 
+2020-12-28 17:42:24,629  :: INFO  :: [Logs]  :: Enter phone number. 
+2020-12-28 17:42:25,821  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-28 17:42:25,821  :: INFO  :: [Logs]  :: Enter password. 
+2020-12-28 17:42:26,984  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-28 17:42:26,984  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-12-28 17:42:28,171  :: INFO  :: [Logs]  :: 703824855 entered in input field. 
+2020-12-28 17:42:28,171  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-12-28 17:42:28,272  :: INFO  :: [Logs]  :: click on register button. 
+2020-12-28 17:42:28,272  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2020-12-28 17:42:36,764  :: INFO  :: [Logs]  :: Register New Supplier. 
+2020-12-28 17:43:05,664  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-12-28 17:43:06,054  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-12-28 17:43:06,187  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-28 17:43:06,187  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-12-28 17:43:07,026  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-28 17:43:08,460  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-28 17:43:33,955  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-28 17:43:37,860  :: INFO  :: [Logs]  :: click on existing port. 
+2020-12-28 17:43:39,644  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-28 17:43:39,644  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-28 17:43:40,828  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-28 17:43:40,828  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-28 17:43:42,201  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-28 17:43:42,201  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-28 17:43:43,328  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-12-28 17:43:43,328  :: INFO  :: [Logs]  :: Select Unit. 
+2020-12-28 17:43:45,788  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-28 17:43:47,821  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-28 17:43:49,031  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-28 17:43:49,031  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-28 17:43:49,572  :: INFO  :: [Logs]  :: Select process. 
+2020-12-28 17:43:51,211  :: INFO  :: [Logs]  :: Select Material. 
+2020-12-28 17:43:51,588  :: INFO  :: [Logs]  :: Select post production process. 
+2020-12-28 17:43:52,858  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-12-28 17:43:52,858  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-12-28 17:43:52,923  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-28 17:43:57,924  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 

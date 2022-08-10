@@ -1,0 +1,49 @@
+2020-04-16 12:45:17,031  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-16 12:45:17,045  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-16 12:45:17,045  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-16 12:45:17,096  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-16 12:45:17,110  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-16 12:45:17,111  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-16 12:45:17,112  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-16 12:45:32,711  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-16 12:45:32,711  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-16 12:45:32,717  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-16 12:45:32,717  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-16 12:46:04,525  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-16 12:46:59,421  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-16 12:46:59,495  :: INFO  :: [Logs]  :: The element Element (id = 509f74de-c789-465e-8d4c-ef9bc0a16419) was found on the page.. 
+2020-04-16 12:47:24,157  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetException: Non-static method requires a target.
+   at System.Reflection.RuntimeMethodInfo.CheckConsistency(Object target)
+   at System.Reflection.RuntimeMethodInfo.InvokeArgumentsCheck(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 115. 
+2020-04-16 12:47:24,387  :: ERROR :: [Logs]  :: Failed to create RFQ System.Reflection.TargetException: Non-static method requires a target.
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 120
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 454. 
+2020-04-16 12:47:24,387  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-04-16 12:47:24,511  :: ERROR :: [Logs]  :: Unable to capture screenshot OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 141. 
+2020-04-16 12:47:24,511  :: ERROR :: [Logs]  :: Unable to capture screenshot OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 150
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 163. 
+2020-04-16 12:47:24,543  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-16 12:47:24,543  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22763_CreateRFQAwardAndDeclined ============================>. 
+2020-04-16 12:47:24,543  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-16 12:47:25,653  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-16 12:47:25,668  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-16 12:47:25,668  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-16 12:47:25,668  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

@@ -1,0 +1,58 @@
+2021-01-03 17:44:16,812  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:44:16,829  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 17:44:16,829  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:44:16,909  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-03 17:44:16,923  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:44:16,924  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3055_SupplierResetPasswordThroughVision started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 17:44:17,015  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:44:32,522  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-03 17:44:32,522  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-03 17:44:32,531  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-03 17:44:32,532  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-03 17:44:42,148  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-03 17:44:48,654  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2021-01-03 17:44:49,885  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2021-01-03 17:44:50,003  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-03 17:44:50,003  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-03 17:44:52,967  :: INFO  :: [Logs]  :: clicked on buyer list button. 
+2021-01-03 17:44:56,075  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-03 17:44:59,378  :: INFO  :: [Logs]  :: List view is enabled. 
+2021-01-03 17:45:04,714  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2021-01-03 17:45:06,988  :: INFO  :: [Logs]  :: Search button is clicked. 
+2021-01-03 17:45:06,988  :: INFO  :: [Logs]  :: Reset Password through vision. 
+2021-01-03 17:45:08,508  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2021-01-03 17:45:08,508  :: INFO  :: [Logs]  :: Manufacturer logged out. 
+2021-01-03 17:45:13,156  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-03 17:45:14,797  :: INFO  :: [Logs]  :: Reset password link is discovered from email. 
+2021-01-03 17:45:22,549  :: INFO  :: [Logs]  :: Reset password link is clicked from email. 
+2021-01-03 17:45:34,640  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-03 17:45:34,640  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-03 17:45:35,938  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:45:35,938  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-03 17:45:35,938  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-03 17:45:37,117  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Must be 6-20 characters long and contain both uppercase and lower case letters and atleast one number and symbol.. 
+2021-01-03 17:45:38,458  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 17:45:38,458  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-03 17:45:39,687  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-03 17:45:39,688  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-03 17:45:39,688  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-03 17:45:40,826  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Password mismatch. 
+2021-01-03 17:45:42,089  :: INFO  :: [Logs]  :: @Automation173 entered in input field. 
+2021-01-03 17:45:42,089  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-03 17:45:43,344  :: INFO  :: [Logs]  :: @Automation173 entered in input field. 
+2021-01-03 17:45:43,344  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-03 17:45:43,344  :: INFO  :: [Logs]  :: entre New and confrom password. 
+2021-01-03 17:45:49,469  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-03 17:45:50,715  :: INFO  :: [Logs]  :: @Automation173 entered in input field. 
+2021-01-03 17:45:55,920  :: INFO  :: [Logs]  :: New password is entered. 
+2021-01-03 17:45:56,539  :: INFO  :: [Logs]  :: Home page is validated after successful login. 
+2021-01-03 17:45:57,223  :: INFO  :: [Logs]  :: Test case Passed successfully. 
+2021-01-03 17:45:57,723  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:45:57,723  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3055_SupplierResetPasswordThroughVision ============================. 
+2021-01-03 17:45:57,723  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:45:58,654  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-03 17:45:58,665  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 17:45:58,665  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 17:45:58,665  :: INFO  :: [Logs]  :: ===============================================================================================================. 

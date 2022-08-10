@@ -1,0 +1,63 @@
+2020-12-18 17:35:13,771  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 17:35:13,785  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 17:35:13,786  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 17:35:13,843  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-18 17:35:13,857  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 17:35:13,858  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3527_VerifyTabInMyQuoatePage started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 17:35:13,858  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 17:36:19,282  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-18 17:36:19,282  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-18 17:36:19,291  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-12-18 17:36:19,291  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-18 17:36:27,227  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-18 17:36:33,158  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-18 17:36:34,509  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-18 17:36:40,846  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-18 17:36:40,846  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-12-18 17:36:41,505  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-18 17:37:13,127  :: ERROR :: [Logs]  :: element not loaded  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 20 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //button[contains(.,'Enter Details')], or: By.XPath: //button[contains(.,'Enter Details')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 139. 
+2020-12-18 17:37:13,132  :: ERROR :: [Logs]  :: Failed to Create RFQ Part Through Upload File OpenQA.Selenium.WebDriverTimeoutException: Timed out after 20 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //button[contains(.,'Enter Details')], or: By.XPath: //button[contains(.,'Enter Details')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 144
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 189. 
+2020-12-18 17:37:13,160  :: INFO  :: [Logs]  :: CreateRFQPartThroughUploadFilemethod is failed. 
+2020-12-18 17:37:13,162  :: ERROR :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverTimeoutException: Timed out after 20 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //button[contains(.,'Enter Details')], or: By.XPath: //button[contains(.,'Enter Details')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 259
+   at MFG_Atomation.Utility.Filters.FilterUtility.M2_3527_VerifyTabInMyQuoatePage(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 1121. 
+2020-12-18 17:37:13,162  :: INFO  :: [Logs]  :: M2_3527_VerifyTabInMyQuoatePage. 
+2020-12-18 17:37:14,184  :: ERROR :: [Logs]  :: M2_3527_AwardedNonMFGManufacturerFilter Test case failed. 
+2020-12-18 17:37:14,399  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 17:37:14,399  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3527_VerifyTabInMyQuoatePage ============================. 
+2020-12-18 17:37:14,399  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 17:37:15,200  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-18 17:37:15,207  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-18 17:37:15,207  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-18 17:37:15,207  :: INFO  :: [Logs]  :: ===============================================================================================================. 

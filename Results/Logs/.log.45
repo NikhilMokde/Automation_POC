@@ -1,0 +1,69 @@
+2021-01-11 19:05:09,002  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 19:05:09,018  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 19:05:09,018  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 19:05:09,080  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 19:05:09,089  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 19:05:09,089  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3055_SupplierResetPasswordThroughVision started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 19:05:09,090  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 19:06:00,413  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 19:06:00,413  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 19:06:00,428  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 19:06:00,428  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 19:06:03,291  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 19:06:24,208  :: INFO  :: [Logs]  :: jabdi@mfg.com entered in input field. 
+2021-01-11 19:06:25,409  :: INFO  :: [Logs]  :: Password@1234 entered in input field. 
+2021-01-11 19:06:25,491  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 19:06:25,491  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 19:06:28,591  :: INFO  :: [Logs]  :: clicked on buyer list button. 
+2021-01-11 19:06:32,487  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-11 19:06:35,617  :: INFO  :: [Logs]  :: List view is enabled. 
+2021-01-11 19:06:41,463  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2021-01-11 19:06:42,385  :: INFO  :: [Logs]  :: Search button is clicked. 
+2021-01-11 19:06:42,386  :: INFO  :: [Logs]  :: Reset Password through vision. 
+2021-01-11 19:06:43,795  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2021-01-11 19:06:43,795  :: INFO  :: [Logs]  :: Manufacturer logged out. 
+2021-01-11 19:06:57,852  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2021-01-11 19:07:02,149  :: INFO  :: [Logs]  :: Reset password link is discovered from email. 
+2021-01-11 19:07:09,999  :: INFO  :: [Logs]  :: Reset password link is clicked from email. 
+2021-01-11 19:07:30,679  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-11 19:07:30,679  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 19:07:31,940  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 19:07:31,941  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 19:07:31,941  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-11 19:07:33,089  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Must be 6-20 characters long and contain both uppercase and lower case letters and atleast one number and symbol.. 
+2021-01-11 19:07:34,389  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 19:07:34,389  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 19:07:35,578  :: INFO  :: [Logs]  :: automation123@ entered in input field. 
+2021-01-11 19:07:35,578  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 19:07:35,578  :: INFO  :: [Logs]  :: entre New and conform password. 
+2021-01-11 19:07:36,691  :: INFO  :: [Logs]  :: Message is Display as expected:(error)
+Password mismatch. 
+2021-01-11 19:07:37,873  :: INFO  :: [Logs]  :: @Automation187 entered in input field. 
+2021-01-11 19:07:37,873  :: INFO  :: [Logs]  :: entre new password. 
+2021-01-11 19:07:39,067  :: INFO  :: [Logs]  :: @Automation187 entered in input field. 
+2021-01-11 19:07:39,068  :: INFO  :: [Logs]  :: entre conform password. 
+2021-01-11 19:07:39,068  :: INFO  :: [Logs]  :: entre New and confrom password. 
+2021-01-11 19:07:59,859  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Clear()
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 41. 
+2021-01-11 19:07:59,861  :: INFO  :: [Logs]  :: Unable to hit reset password button OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 49
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage.ClickResetButtonAndLogin(String email, String password, Boolean ButtonResetPasswordIsPresent) in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 820. 
+2021-01-11 19:07:59,861  :: INFO  :: [Logs]  :: ClickResetButtonAndLoginmethod is failed. 
+2021-01-11 19:07:59,972  :: INFO  :: [Logs]  :: Unable to reset password OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@name='username'], or: By.XPath: //input[@name='username']
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage.ClickResetButtonAndLogin(String email, String password, Boolean ButtonResetPasswordIsPresent) in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 829
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage.EnterNewPassword(String sheetName) in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 792. 
+2021-01-11 19:07:59,972  :: INFO  :: [Logs]  :: EnterNewPasswordmethod is failed. 
+2021-01-11 19:08:00,622  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-11 19:08:00,688  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 19:08:00,688  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3055_SupplierResetPasswordThroughVision ============================. 
+2021-01-11 19:08:00,688  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 19:08:01,244  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 19:08:01,252  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 19:08:01,253  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 19:08:01,253  :: INFO  :: [Logs]  :: ===============================================================================================================. 

@@ -1,0 +1,89 @@
+2020-11-26 15:20:03,403  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:20:03,418  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:20:03,418  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:20:03,516  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 15:20:03,595  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:20:03,596  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_BuyerResetPasswordThroughSettingTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:20:03,597  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:20:17,813  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 15:20:17,813  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 15:20:17,819  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 15:20:17,819  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 15:20:34,677  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2020-11-26 15:20:35,918  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:20:40,460  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-11-26 15:20:41,455  :: INFO  :: [Logs]  :: ========== NavigateToSettingResetPasswordButton==========. 
+2020-11-26 15:20:41,577  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-11-26 15:20:47,123  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-11-26 15:20:47,284  :: INFO  :: [Logs]  :: click on change password button. 
+2020-11-26 15:20:47,284  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingResetPasswordButton==========. 
+2020-11-26 15:20:47,284  :: INFO  :: [Logs]  :: Navigate to reset Password button. 
+2020-11-26 15:20:47,901  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:20:49,150  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:20:49,151  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:20:50,384  :: INFO  :: [Logs]  :: Automation123 entered in input field. 
+2020-11-26 15:20:50,384  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:20:51,639  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:20:51,639  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:20:51,697  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:20:51,697  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:20:52,732  :: INFO  :: [Logs]  :: Message is Display as expected:Must be 6-20 characters and contain both upper case and lower case and at least one number and symbol .. 
+2020-11-26 15:20:52,922  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:20:54,115  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:20:54,115  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:20:55,324  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:20:55,324  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:20:56,541  :: INFO  :: [Logs]  :: Automation12 entered in input field. 
+2020-11-26 15:20:56,541  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:20:56,586  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:20:56,586  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:20:57,617  :: INFO  :: [Logs]  :: Message is Display as expected:Re-Enter Password Doesn't Match. 
+2020-11-26 15:20:57,790  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:20:58,949  :: INFO  :: [Logs]  :: automation123 entered in input field. 
+2020-11-26 15:20:58,949  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:21:00,157  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:21:00,157  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:21:01,384  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:21:01,384  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:21:01,480  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:21:01,481  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:21:03,270  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+Please enter correct old password.. 
+2020-11-26 15:21:03,443  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:21:04,646  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:21:04,646  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:21:05,881  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:21:05,881  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:21:07,132  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:21:07,132  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:21:07,228  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:21:07,229  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:21:26,288  :: INFO  :: [Logs]  :: ========== EntrePasswordAndConformPassword==========. 
+2020-11-26 15:21:27,520  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:21:27,520  :: INFO  :: [Logs]  :: Entre old password. 
+2020-11-26 15:21:28,739  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:21:28,740  :: INFO  :: [Logs]  :: Entre new password. 
+2020-11-26 15:21:29,955  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:21:29,955  :: INFO  :: [Logs]  :: Entre conform Password. 
+2020-11-26 15:21:30,031  :: INFO  :: [Logs]  :: click on save button. 
+2020-11-26 15:21:30,031  :: INFO  :: [Logs]  :: ========== End Of EntrePasswordAndConformPassword==========. 
+2020-11-26 15:21:37,306  :: INFO  :: [Logs]  :: Message is Display as expected:Success
+Password has been changed successfully.. 
+2020-11-26 15:21:41,691  :: INFO  :: [Logs]  :: Supplier has logged out successfully. 
+2020-11-26 15:21:46,122  :: INFO  :: [Logs]  :: supplier logout. 
+2020-11-26 15:21:48,031  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2020-11-26 15:21:49,220  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:21:49,309  :: INFO  :: [Logs]  :: click on continue button. 
+2020-11-26 15:21:51,539  :: INFO  :: [Logs]  :: Message is Display as expected:Invalid email or password.. 
+2020-11-26 15:21:51,539  :: INFO  :: [Logs]  :: verify validation message with invalid credential. 
+2020-11-26 15:21:53,383  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2020-11-26 15:21:54,545  :: INFO  :: [Logs]  :: Automation1234@ entered in input field. 
+2020-11-26 15:21:56,553  :: INFO  :: [Logs]  :: verify validation message with invalid credential. 
+2020-11-26 15:21:57,152  :: INFO  :: [Logs]  :: Test case Passed successfully. 
+2020-11-26 15:21:57,593  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:21:57,594  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3054_BuyerResetPasswordThroughSettingTab ============================. 
+2020-11-26 15:21:57,594  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:21:58,172  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-26 15:21:58,179  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:21:58,179  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:21:58,179  :: INFO  :: [Logs]  :: ===============================================================================================================. 

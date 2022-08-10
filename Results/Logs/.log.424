@@ -1,0 +1,37 @@
+2020-12-14 16:39:23,921  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 16:39:23,941  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 16:39:23,941  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 16:39:24,051  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 16:39:24,133  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 16:39:24,134  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22922_Messaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 16:39:24,134  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 16:39:43,227  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 16:39:43,227  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 16:39:43,235  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 16:39:43,235  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 16:39:43,611  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 16:39:47,023  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 16:39:48,293  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 16:39:52,780  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 16:39:52,781  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-12-14 16:39:53,431  :: INFO  :: [Logs]  :: =========== Create RFQ ==========. 
+2020-12-14 16:40:02,883  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-14 16:40:08,108  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-14 16:40:11,889  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 61. 
+2020-12-14 16:40:12,215  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.88)
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 66
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName, String LevelOfNDA, String TypeOfPart, Boolean isBlacklistSupplierDisaplyInSpecialInvite) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 504. 
+2020-12-14 16:40:12,215  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-12-14 16:40:12,264  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.88)
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName, String LevelOfNDA, String TypeOfPart, Boolean isBlacklistSupplierDisaplyInSpecialInvite) in E:\MFG Code\mfg.automation\PageObjects\RFQBuyer\RFQPageObject.cs:line 703
+   at MFG_Atomation.Utility.Messages.MessagesUtility.M22922_Messaging(String sheetName) in E:\MFG Code\mfg.automation\Utility\MessageUtlity\MessagesUtility.cs:line 45. 
+2020-12-14 16:40:12,265  :: INFO  :: [Logs]  :: M22922_Messagingmethod is failed. 
+2020-12-14 16:40:12,856  :: ERROR :: [Logs]  :: Test case failed. 

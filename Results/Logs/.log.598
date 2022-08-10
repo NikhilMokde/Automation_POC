@@ -1,0 +1,49 @@
+2020-11-26 13:00:27,087  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:00:27,100  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 13:00:27,100  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:00:27,168  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 13:00:27,219  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:00:27,220  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3294_SupplierUserRating started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 13:00:27,220  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:00:39,456  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 13:00:39,456  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 13:00:39,463  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 13:00:39,463  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 13:00:44,057  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 13:00:49,454  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 13:00:50,762  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 13:00:55,879  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 13:00:55,880  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-11-26 13:00:56,558  :: INFO  :: [Logs]  :: ==========GetRatingCount==========. 
+2020-11-26 13:01:02,449  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-11-26 13:01:05,602  :: INFO  :: [Logs]  :: click on Rating button. 
+2020-11-26 13:01:08,785  :: INFO  :: [Logs]  :: ==========End of GetRatingCount==========. 
+2020-11-26 13:01:08,786  :: INFO  :: [Logs]  :: Get Rating count of Supplier. 
+2020-11-26 13:01:12,549  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-11-26 13:01:12,549  :: INFO  :: [Logs]  :: Logout Buyer. 
+2020-11-26 13:01:13,274  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 13:01:16,850  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-26 13:01:18,051  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 13:01:21,064  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 13:01:21,064  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-11-26 13:01:21,537  :: INFO  :: [Logs]  :: ==========RateToUser==========. 
+2020-11-26 13:01:21,944  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-26 13:01:22,279  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-26 13:01:41,162  :: INFO  :: [Logs]  :: clicked on Rating Message in Global Message. 
+2020-11-26 13:01:43,356  :: INFO  :: [Logs]  :: Message is Display as expected:AutomationSupplierCompany1. 
+2020-11-26 13:01:43,551  :: INFO  :: [Logs]  :: click on Rating Radio button. 
+2020-11-26 13:01:44,880  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-11-26 13:01:44,880  :: INFO  :: [Logs]  :: Entre comment. 
+2020-11-26 13:01:45,005  :: INFO  :: [Logs]  :: click on submit button. 
+2020-11-26 13:01:45,005  :: INFO  :: [Logs]  :: ==========End of RateToUser==========. 
+2020-11-26 13:01:45,005  :: INFO  :: [Logs]  :: Rate to supplier. 
+2020-11-26 13:01:47,067  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-26 13:01:47,067  :: INFO  :: [Logs]  :: Logout Buyer. 
+2020-11-26 13:01:47,749  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 13:01:51,400  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 13:01:52,674  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 13:01:59,581  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 13:01:59,581  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-11-26 13:01:59,973  :: INFO  :: [Logs]  :: ==========VerifyRating==========. 
+2020-11-26 13:02:01,401  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-11-26 13:02:04,670  :: INFO  :: [Logs]  :: click on Rating button. 

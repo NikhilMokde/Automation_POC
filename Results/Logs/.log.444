@@ -1,0 +1,80 @@
+2020-12-14 14:34:24,551  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:34:24,565  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 14:34:24,565  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:34:24,642  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 14:34:24,678  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:34:24,679  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3294_BuyerUserRating started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 14:34:24,685  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:34:44,743  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 14:34:44,743  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 14:34:44,758  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 14:34:44,758  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 14:34:48,780  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 14:34:51,727  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 14:34:52,977  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 14:34:57,174  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 14:34:57,175  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-12-14 14:34:57,799  :: INFO  :: [Logs]  :: ==========GetRatingCount==========. 
+2020-12-14 14:34:59,822  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-12-14 14:34:59,823  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 14:34:59,841  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-12-14 14:35:03,091  :: INFO  :: [Logs]  :: click on Rating button. 
+2020-12-14 14:35:06,252  :: INFO  :: [Logs]  :: ==========End of GetRatingCount==========. 
+2020-12-14 14:35:06,253  :: INFO  :: [Logs]  :: Get Rating count of Supplier. 
+2020-12-14 14:35:08,166  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-14 14:35:08,166  :: INFO  :: [Logs]  :: Logout Buyer. 
+2020-12-14 14:35:08,848  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 14:35:12,706  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-12-14 14:35:14,011  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 14:35:19,405  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 14:35:19,406  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-12-14 14:35:19,994  :: INFO  :: [Logs]  :: ==========RateToUser==========. 
+2020-12-14 14:35:20,313  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-12-14 14:35:20,376  :: INFO  :: [Logs]  :: Notification Icon is clicked. 
+2020-12-14 14:35:20,607  :: INFO  :: [Logs]  :: Message is clicked. 
+2020-12-14 14:35:24,534  :: INFO  :: [Logs]  :: Message is Display as expected:Pune MFG. 
+2020-12-14 14:35:24,872  :: INFO  :: [Logs]  :: click on Rating Radio button. 
+2020-12-14 14:35:26,587  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-14 14:35:26,587  :: INFO  :: [Logs]  :: Entre comment. 
+2020-12-14 14:35:26,880  :: INFO  :: [Logs]  :: click on submit button. 
+2020-12-14 14:35:26,880  :: INFO  :: [Logs]  :: ==========End of RateToUser==========. 
+2020-12-14 14:35:26,880  :: INFO  :: [Logs]  :: Rate to supplier. 
+2020-12-14 14:35:29,431  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-12-14 14:35:29,432  :: INFO  :: [Logs]  :: Logout manufacturer. 
+2020-12-14 14:35:30,099  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 14:35:35,587  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 14:35:36,846  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 14:35:41,866  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 14:35:41,866  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-12-14 14:35:42,277  :: INFO  :: [Logs]  :: ==========VerifyRating==========. 
+2020-12-14 14:35:42,651  :: INFO  :: [Logs]  :: Buyer has Clicked on Profile successfully. 
+2020-12-14 14:35:42,651  :: INFO  :: [Logs]  :: Buyer profile page is launched. 
+2020-12-14 14:35:42,683  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-12-14 14:35:46,383  :: INFO  :: [Logs]  :: click on Rating button. 
+2020-12-14 14:36:20,286  :: INFO  :: [Logs]  :: Message is Display as expected:2
+(*)
+?
+?
+(*)
+?
+?
+( )
+?
+( )
+?
+( )
+?
+this is for testing. 
+2020-12-14 14:37:09,479  :: INFO  :: [Logs]  :: Message is Display as expected:automation supplier. 
+2020-12-14 14:37:28,427  :: INFO  :: [Logs]  :: ==========End of VerifyRating==========. 
+2020-12-14 14:37:31,008  :: INFO  :: [Logs]  :: Verify Rating to supplier side. 
+2020-12-14 14:37:33,296  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-14 14:37:33,297  :: INFO  :: [Logs]  :: Logout Buyer. 
+2020-12-14 14:37:34,173  :: INFO  :: [Logs]  :: Test case Passed successfully. 
+2020-12-14 14:37:34,906  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:37:34,906  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3294_BuyerUserRating ============================. 
+2020-12-14 14:37:34,906  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:37:35,453  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-14 14:37:35,460  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 14:37:35,460  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 14:37:35,460  :: INFO  :: [Logs]  :: ===============================================================================================================. 

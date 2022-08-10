@@ -1,0 +1,92 @@
+2020-11-26 20:06:58,940  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 20:06:58,957  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 20:06:58,957  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 20:06:59,075  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 20:06:59,195  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 20:06:59,196  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerBuyerTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 20:06:59,196  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 20:07:17,096  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 20:07:17,096  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 20:07:17,106  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 20:07:17,106  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 20:07:46,299  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2020-11-26 20:07:50,920  :: INFO  :: [Logs]  :: Navigate to application. 
+2020-11-26 20:07:52,232  :: INFO  :: [Logs]  :: Automation1846284018 entered in input field. 
+2020-11-26 20:07:52,232  :: INFO  :: [Logs]  :: Enter first name. 
+2020-11-26 20:07:53,446  :: INFO  :: [Logs]  :: Buyer1614722109 entered in input field. 
+2020-11-26 20:07:53,446  :: INFO  :: [Logs]  :: Enter last name. 
+2020-11-26 20:07:54,722  :: INFO  :: [Logs]  :: Automation747664894@yopmail.com entered in input field. 
+2020-11-26 20:07:54,722  :: INFO  :: [Logs]  :: Enter email. 
+2020-11-26 20:07:56,098  :: INFO  :: [Logs]  :: supplierCompany1116798791 entered in input field. 
+2020-11-26 20:07:56,098  :: INFO  :: [Logs]  :: Enter company name. 
+2020-11-26 20:07:57,299  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-11-26 20:07:57,299  :: INFO  :: [Logs]  :: Choose country. 
+2020-11-26 20:07:58,518  :: INFO  :: [Logs]  :: 1336255930 entered in input field. 
+2020-11-26 20:07:58,518  :: INFO  :: [Logs]  :: Enter phone number. 
+2020-11-26 20:07:59,714  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 20:07:59,714  :: INFO  :: [Logs]  :: Enter password. 
+2020-11-26 20:08:00,902  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 20:08:00,902  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-26 20:08:02,081  :: INFO  :: [Logs]  :: 557302395 entered in input field. 
+2020-11-26 20:08:02,082  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-26 20:08:02,186  :: INFO  :: [Logs]  :: click on register button. 
+2020-11-26 20:08:02,187  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2020-11-26 20:08:02,187  :: INFO  :: [Logs]  :: Register New Supplier. 
+2020-11-26 20:08:08,475  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 20:08:28,875  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-26 20:08:30,129  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-26 20:08:30,262  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 20:08:30,262  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-26 20:08:36,530  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 20:08:52,358  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 20:08:55,552  :: INFO  :: [Logs]  :: clicked on New Reg  Tab. 
+2020-11-26 20:08:56,753  :: INFO  :: [Logs]  :: Uncheckedis selected From Dropdown. 
+2020-11-26 20:08:58,349  :: INFO  :: [Logs]  :: Automation747664894@ entered in input field. 
+2020-11-26 20:09:04,478  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 20:09:06,582  :: INFO  :: [Logs]  :: Message is Display as expected:Automation747664894@yopmail.co.... 
+2020-11-26 20:09:06,788  :: INFO  :: [Logs]  :: entre checked button. 
+2020-11-26 20:09:10,004  :: INFO  :: [Logs]  :: Checkedis selected From Dropdown. 
+2020-11-26 20:09:11,314  :: INFO  :: [Logs]  :: Automation747664894@ entered in input field. 
+2020-11-26 20:09:13,434  :: INFO  :: [Logs]  :: entre email in Search Box. 
+2020-11-26 20:09:15,931  :: ERROR :: [Logs]  :: failed to get text from the element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.get_Text()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Text()
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 176. 
+2020-11-26 20:09:15,982  :: ERROR :: [Logs]  :: Failed to create RFQ System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.get_Text()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 182
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email, String typeOfUser) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 267. 
+2020-11-26 20:09:16,015  :: INFO  :: [Logs]  :: ManufacturersActionTrackermethod is failed. 
+2020-11-26 20:09:21,513  :: INFO  :: [Logs]  :: Login with supplier is failed System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.get_Text()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email, String typeOfUser) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 288
+   at MFG_Atomation.Utility.RFQVision.ActionTrackerUtility.M2_3444_BuyerActionTrackerTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQVision\ActionTrackerUtility.cs:line 204. 
+2020-11-26 20:09:22,042  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2020-11-26 20:09:22,479  :: ERROR :: [Logs]  :: Test case failed. 

@@ -1,0 +1,171 @@
+2021-01-11 18:36:14,373  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:36:14,389  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:36:14,389  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:36:14,457  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 18:36:14,469  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:36:14,469  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_BuyerResetEmail started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:36:14,470  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:37:00,895  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:37:00,895  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:37:00,899  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:37:00,899  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:37:05,328  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2021-01-11 18:37:06,547  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:37:10,889  :: INFO  :: [Logs]  :: login with buyer. 
+2021-01-11 18:37:11,626  :: INFO  :: [Logs]  :: ========== NavigateToChangeEmailPage==========. 
+2021-01-11 18:37:11,809  :: INFO  :: [Logs]  :: click on setting tab. 
+2021-01-11 18:37:17,152  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2021-01-11 18:37:20,824  :: INFO  :: [Logs]  :: click on change password button. 
+2021-01-11 18:37:20,824  :: INFO  :: [Logs]  :: ========== End of NavigateToChangeEmailPage==========. 
+2021-01-11 18:37:20,824  :: INFO  :: [Logs]  :: Navigate To Change Email Page. 
+2021-01-11 18:37:21,308  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2021-01-11 18:37:22,605  :: INFO  :: [Logs]  :: buyertest@yopmail entered in input field. 
+2021-01-11 18:37:22,605  :: INFO  :: [Logs]  :: Entre New Email. 
+2021-01-11 18:37:23,893  :: INFO  :: [Logs]  :: buyertest1@yopmail.com entered in input field. 
+2021-01-11 18:37:23,893  :: INFO  :: [Logs]  :: Entre conform Email. 
+2021-01-11 18:37:23,975  :: INFO  :: [Logs]  :: click on Save Button. 
+2021-01-11 18:37:23,976  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2021-01-11 18:37:25,019  :: INFO  :: [Logs]  :: Message is Display as expected:Invalid E-mail. 
+2021-01-11 18:37:25,019  :: INFO  :: [Logs]  :: Verify Error Message2. 
+2021-01-11 18:37:25,459  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2021-01-11 18:37:26,770  :: INFO  :: [Logs]  :: buyertest1@yopmail.com entered in input field. 
+2021-01-11 18:37:26,770  :: INFO  :: [Logs]  :: Entre New Email. 
+2021-01-11 18:37:28,103  :: INFO  :: [Logs]  :: buyertest@yopmail entered in input field. 
+2021-01-11 18:37:28,103  :: INFO  :: [Logs]  :: Entre conform Email. 
+2021-01-11 18:37:28,174  :: INFO  :: [Logs]  :: click on Save Button. 
+2021-01-11 18:37:28,174  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2021-01-11 18:37:29,220  :: INFO  :: [Logs]  :: Message is Display as expected:E-mail does not match. 
+2021-01-11 18:37:29,220  :: INFO  :: [Logs]  :: Verify Error Message3. 
+2021-01-11 18:37:29,686  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2021-01-11 18:37:30,973  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2021-01-11 18:37:30,973  :: INFO  :: [Logs]  :: Entre New Email. 
+2021-01-11 18:37:32,241  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2021-01-11 18:37:32,241  :: INFO  :: [Logs]  :: Entre conform Email. 
+2021-01-11 18:37:32,286  :: INFO  :: [Logs]  :: click on Save Button. 
+2021-01-11 18:37:32,286  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2021-01-11 18:37:33,312  :: INFO  :: [Logs]  :: Message is Display as expected:Email cannot be same as previous. 
+2021-01-11 18:37:33,312  :: INFO  :: [Logs]  :: Verify Error Message4. 
+2021-01-11 18:37:33,786  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2021-01-11 18:37:34,905  :: INFO  :: [Logs]  ::  entered in input field. 
+2021-01-11 18:37:34,905  :: INFO  :: [Logs]  :: Entre New Email. 
+2021-01-11 18:37:36,171  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2021-01-11 18:37:36,171  :: INFO  :: [Logs]  :: Entre conform Email. 
+2021-01-11 18:37:36,248  :: INFO  :: [Logs]  :: click on Save Button. 
+2021-01-11 18:37:36,248  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2021-01-11 18:37:37,280  :: INFO  :: [Logs]  :: Message is Display as expected:Email cannot be same as previous. 
+2021-01-11 18:37:37,280  :: INFO  :: [Logs]  :: Verify Error Message5. 
+2021-01-11 18:37:37,757  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2021-01-11 18:37:39,002  :: INFO  :: [Logs]  :: buyertest1@yopmail.com entered in input field. 
+2021-01-11 18:37:39,002  :: INFO  :: [Logs]  :: Entre New Email. 
+2021-01-11 18:37:40,335  :: INFO  :: [Logs]  :: buyertest1@yopmail.com entered in input field. 
+2021-01-11 18:37:40,335  :: INFO  :: [Logs]  :: Entre conform Email. 
+2021-01-11 18:37:40,632  :: INFO  :: [Logs]  :: click on Save Button. 
+2021-01-11 18:37:40,632  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2021-01-11 18:37:40,836  :: INFO  :: [Logs]  :: ==========ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2021-01-11 18:37:42,125  :: INFO  :: [Logs]  :: Message is Display as expected:Update Username. 
+2021-01-11 18:37:43,231  :: INFO  :: [Logs]  :: click on yes button. 
+2021-01-11 18:37:43,231  :: INFO  :: [Logs]  :: ==========End of ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2021-01-11 18:37:45,073  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+That email is already being used by another User. Enter a different Username.. 
+2021-01-11 18:37:45,073  :: INFO  :: [Logs]  :: Verify Error Message6. 
+2021-01-11 18:37:45,545  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2021-01-11 18:37:46,789  :: INFO  :: [Logs]  :: buyertest10@yopmail.com entered in input field. 
+2021-01-11 18:37:46,790  :: INFO  :: [Logs]  :: Entre New Email. 
+2021-01-11 18:37:48,099  :: INFO  :: [Logs]  :: buyertest10@yopmail.com entered in input field. 
+2021-01-11 18:37:48,099  :: INFO  :: [Logs]  :: Entre conform Email. 
+2021-01-11 18:37:48,253  :: INFO  :: [Logs]  :: click on Save Button. 
+2021-01-11 18:37:48,253  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2021-01-11 18:37:48,350  :: INFO  :: [Logs]  :: ==========ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2021-01-11 18:37:49,518  :: INFO  :: [Logs]  :: Message is Display as expected:Update Username. 
+2021-01-11 18:37:50,612  :: INFO  :: [Logs]  :: click on yes button. 
+2021-01-11 18:37:50,612  :: INFO  :: [Logs]  :: ==========End of ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2021-01-11 18:37:52,744  :: INFO  :: [Logs]  :: Message is Display as expected:Warning
+The application is going to logout, Please login again
+Success
+User details updated successfully!. 
+2021-01-11 18:37:52,744  :: INFO  :: [Logs]  :: Verify Error Message7. 
+2021-01-11 18:37:54,865  :: INFO  :: [Logs]  :: buyertest@yopmail.com entered in input field. 
+2021-01-11 18:37:56,086  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 18:37:56,167  :: INFO  :: [Logs]  :: click on continue button. 
+2021-01-11 18:38:16,832  :: ERROR :: [Logs]  :: failed to get text from the element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[contains(text(),' Invalid email or password.')], or: By.XPath: //div[contains(text(),' Invalid email or password.')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Text()
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 176. 
+2021-01-11 18:38:16,910  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //div[contains(text(),' Invalid email or password.')], or: By.XPath: //div[contains(text(),' Invalid email or password.')]
+   at MFG_Automation.Generics.Helper.GetText(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 182
+   at MFG_Atomation.Utility.ResetAndForgotPassword.ResetAndForgotPasswordUtility.M2_3054_ResetEmailAddress(String sheetName) in E:\MFG Code\mfg.automation\Utility\ResetAndForgotPassword\ResetAndForgotPasswordUtility.cs:line 226. 
+2021-01-11 18:38:17,615  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-11 18:38:18,290  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-11 18:38:18,425  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:38:18,425  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3054_BuyerResetEmail ============================. 
+2021-01-11 18:38:18,425  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:38:18,957  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-11 18:38:18,962  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:38:18,962  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_BuyerResetPasswordThroughSettingTab started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 18:38:18,962  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:38:26,548  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 18:38:26,548  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 18:38:26,553  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 18:38:26,553  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 18:38:28,668  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Clear()
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 41. 
+2021-01-11 18:38:28,669  :: INFO  :: [Logs]  :: Unable to hit reset password button OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.141)
+   at MFG_Automation.Generics.Helper.InputText(IWebElement element, String text) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 49
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage.ClickResetButtonAndLogin(String email, String password, Boolean ButtonResetPasswordIsPresent) in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 820. 
+2021-01-11 18:38:28,670  :: INFO  :: [Logs]  :: ClickResetButtonAndLoginmethod is failed. 
+2021-01-11 18:38:28,764  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.141)
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage.ClickResetButtonAndLogin(String email, String password, Boolean ButtonResetPasswordIsPresent) in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 829
+   at MFG_Atomation.Utility.ResetAndForgotPassword.ResetAndForgotPasswordUtility.M23054_ResetPasswordThroughSettingTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\ResetAndForgotPassword\ResetAndForgotPasswordUtility.cs:line 103. 
+2021-01-11 18:38:28,766  :: ERROR :: [Logs]  :: Unable to capture screen shot OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2021-01-11 18:38:28,768  :: ERROR :: [Logs]  :: Unable to capture screen shot OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2021-01-11 18:38:28,769  :: ERROR :: [Logs]  :: Unable to capture screen shot OpenQA.Selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 168
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 181. 
+2021-01-11 18:38:28,770  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:38:28,770  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3054_BuyerResetPasswordThroughSettingTab ============================. 
+2021-01-11 18:38:28,770  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 18:38:28,895  :: INFO  :: [Logs]  :: Browser is closed successfully. 

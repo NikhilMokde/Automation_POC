@@ -1,0 +1,58 @@
+2020-04-17 14:31:52,202  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-17 14:31:52,214  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-17 14:31:52,214  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-17 14:31:52,222  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-17 14:31:52,230  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-17 14:31:52,230  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22510 started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-17 14:31:52,234  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-17 14:32:33,235  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-17 14:32:33,235  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-17 14:32:33,239  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-04-17 14:32:33,243  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-17 14:32:38,388  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-17 14:33:36,358  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-17 14:33:36,442  :: INFO  :: [Logs]  :: The element Element (id = 37a6f81c-7388-48d2-8d5c-2747115dd00f) was found on the page.. 
+2020-04-17 14:34:00,302  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 116. 
+2020-04-17 14:34:00,450  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=81.0.4044.113)
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 121
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 454. 
+2020-04-17 14:34:00,470  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-04-17 14:34:12,554  :: ERROR :: [Logs]  :: Unable to capture screenshot OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 141. 
+2020-04-17 14:34:12,554  :: ERROR :: [Logs]  :: Unable to capture screenshot OpenQA.Selenium.WebDriverException: chrome not reachable
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.GetScreenshot()
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 150
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 163. 
+2020-04-17 14:34:12,582  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-17 14:34:12,582  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22510 ============================>. 
+2020-04-17 14:34:12,582  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-17 14:34:12,922  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-17 14:34:12,938  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-17 14:34:12,938  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-17 14:34:12,938  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-17 14:34:27,204  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-17 14:34:27,204  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-17 14:34:27,204  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-04-17 14:34:27,204  :: INFO  :: [Logs]  :: Browser is initialized successfully. 

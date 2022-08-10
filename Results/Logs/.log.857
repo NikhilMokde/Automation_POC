@@ -1,0 +1,22 @@
+2020-04-15 10:19:07,281  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-15 10:19:07,369  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-15 10:19:07,370  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-15 10:19:07,529  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-15 10:19:07,570  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-15 10:19:07,572  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-15 10:19:07,572  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-15 10:19:27,524  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-15 10:19:27,524  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-15 10:19:27,535  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-15 10:19:27,535  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-15 10:20:29,325  :: INFO  :: [Logs]  :: Unable to login OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:51815/session/4de3f43313848591d1e3280559cafda5/url timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 192. 

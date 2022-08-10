@@ -1,0 +1,27 @@
+2020-04-16 14:45:52,751  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-16 14:45:52,770  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-16 14:45:52,770  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-16 14:45:52,849  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-16 14:45:52,866  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-16 14:45:52,867  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22774_QMSUpdationAndCreation started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-16 14:45:52,868  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-16 14:46:21,216  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-16 14:46:21,216  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-16 14:46:21,220  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-16 14:46:21,221  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-16 14:46:49,242  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-16 14:47:15,908  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverTimeoutException: Timed out after 20 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[text()='LiveQuote '], or: By.XPath: //span[text()='LiveQuote ']
+   at OpenQA.Selenium.Support.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.get_Element()
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 124
+   at MFG_Atomation.PageObjects.QMS.QMSQuoate.CreateNewCustomer(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\QMS\QMSQuoate.cs:line 176. 
+2020-04-16 14:47:15,948  :: INFO  :: [Logs]  :: CreateNewCustomermethod is failed. 
+2020-04-16 14:47:17,117  :: ERROR :: [Logs]  :: Test case failed. 

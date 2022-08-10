@@ -1,0 +1,21 @@
+2020-12-14 23:03:27,607  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 23:03:27,628  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 23:03:27,628  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 23:03:27,782  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 23:03:27,844  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 23:03:27,844  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3025_TransferRFQ started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 23:03:27,845  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 23:07:02,209  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 23:07:04,327  :: INFO  :: [Logs]  :: Transfer RFQ process is failed System.ArgumentException: The SearchContext of the locator object cannot be null
+Parameter name: locator
+   at SeleniumExtras.PageObjects.PageFactory.InitElements(Object page, IElementLocator locator, IPageObjectMemberDecorator decorator)
+   at SeleniumExtras.PageObjects.PageFactory.InitElements(Object page, IElementLocator locator)
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage..ctor() in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 18
+   at MFG_Atomation.Utility.Transfer_RFQ.TransferRFQUtility.M2_3025_TransferRFQ(String sheetName) in E:\MFG Code\mfg.automation\Utility\Transfer RFQ\TransferRFQUtility.cs:line 38. 
+2020-12-14 23:07:04,401  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2020-12-14 23:07:04,513  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 161. 
+2020-12-14 23:07:04,531  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 168
+   at MFGAutomation.Generics.CommonActions.TestFailed(String testName, Exception e) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 181. 

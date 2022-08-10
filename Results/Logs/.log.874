@@ -1,0 +1,95 @@
+2020-04-14 16:00:05,612  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-14 16:00:05,624  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-14 16:00:05,624  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-14 16:00:05,683  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-14 16:00:05,696  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-14 16:00:05,697  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-14 16:00:05,701  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-14 16:00:19,194  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-14 16:00:19,194  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-14 16:00:19,201  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-14 16:00:19,201  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-14 16:00:32,500  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-14 16:00:52,176  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-14 16:00:52,242  :: INFO  :: [Logs]  :: The element Element (id = aa40e1ce-d62f-48e2-8ffa-d36d7f26030e) was found on the page.. 
+2020-04-14 16:01:06,136  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-14 16:01:09,447  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-14 16:01:11,687  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-14 16:01:13,879  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-14 16:01:15,001  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-14 16:01:15,001  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-14 16:01:17,321  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-14 16:01:19,400  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-14 16:01:20,853  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-14 16:01:21,311  :: INFO  :: [Logs]  :: Select process. 
+2020-04-14 16:01:21,598  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-14 16:01:21,912  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-14 16:01:24,198  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-14 16:01:24,290  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-14 16:01:24,330  :: INFO  :: [Logs]  :: The element Element (id = aa40e1ce-d62f-48e2-8ffa-d36d7f26030e) was found on the page.. 
+2020-04-14 16:01:38,281  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-14 16:01:41,591  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-14 16:01:43,787  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-14 16:01:46,061  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-14 16:01:47,174  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-14 16:01:47,174  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-14 16:01:49,460  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-14 16:01:51,491  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-14 16:01:53,019  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-14 16:01:53,344  :: INFO  :: [Logs]  :: Select process. 
+2020-04-14 16:01:53,626  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-14 16:01:53,885  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-14 16:01:56,183  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-14 16:01:56,272  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-14 16:01:58,171  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-04-14 16:01:58,216  :: INFO  :: [Logs]  :: The element Element (id = 1903b5e5-a717-46d5-b587-b8319a959e81) was found on the page.. 
+2020-04-14 16:02:00,506  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-04-14 16:02:02,664  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-14 16:02:04,727  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-14 16:02:08,144  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-14 16:02:10,189  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-14 16:02:11,529  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-04-14 16:02:11,641  :: INFO  :: [Logs]  :: 'Mayment Method' button is clicked. 
+2020-04-14 16:02:14,655  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-04-14 16:02:28,078  :: INFO  :: [Logs]  :: 'Non-Disclousre ' button is clicked. 
+2020-04-14 16:02:28,180  :: INFO  :: [Logs]  :: 'communication' button is clicked. 
+2020-04-14 16:02:39,239  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-04-14 16:02:39,494  :: INFO  :: [Logs]  :: 'special certificatio' button is clicked. 
+2020-04-14 16:02:40,914  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-14 16:02:40,914  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-04-14 16:02:41,079  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-04-14 16:02:42,334  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-04-14 16:02:51,635  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-14 16:02:52,574  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-14 16:02:52,574  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-04-14 16:03:19,428  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-04-14 16:03:26,898  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-04-14 16:03:28,468  :: INFO  :: [Logs]  :: RFQ1945798832 entered in input field. 
+2020-04-14 16:03:28,469  :: INFO  :: [Logs]  :: RFQ name is entered in searchbar. 
+2020-04-14 16:03:28,679  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-04-14 16:03:30,069  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-04-14 16:03:35,937  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-04-14 16:03:37,938  :: INFO  :: [Logs]  :: RFQ is released. 
+2020-04-14 16:03:38,599  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-04-14 16:03:38,599  :: INFO  :: [Logs]  :: Vision has logged out. 
+2020-04-14 16:03:49,102  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2020-04-14 16:03:55,793  :: INFO  :: [Logs]  :: Failed to click on Menu OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <ul _ngcontent-c6="" appaccordionlink="" class="pcoded-item pcoded-left-item ng-tns-c6-0 ng-star-inserted" group="dashboard" item-border="true" item-border-style="none" subitem-border="true">...</ul> is not clickable at point (119, 76). Other element would receive the click: <ngb-modal-window role="dialog" style="display: block;" tabindex="-1" class="modal fade show">...</ngb-modal-window>
+  (Session info: chrome=81.0.4044.92)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at MFG_Atomation.Generics.LeftNavigation.LeftTabNavigation(String menuName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\LeftNavigation.cs:line 40. 
+2020-04-14 16:03:55,828  :: INFO  :: [Logs]  :: Unable to search the RFQ OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <ul _ngcontent-c6="" appaccordionlink="" class="pcoded-item pcoded-left-item ng-tns-c6-0 ng-star-inserted" group="dashboard" item-border="true" item-border-style="none" subitem-border="true">...</ul> is not clickable at point (119, 76). Other element would receive the click: <ngb-modal-window role="dialog" style="display: block;" tabindex="-1" class="modal fade show">...</ngb-modal-window>
+  (Session info: chrome=81.0.4044.92)
+   at MFG_Atomation.Generics.LeftNavigation.LeftTabNavigation(String menuName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\LeftNavigation.cs:line 49
+   at MFG_Atomation.PageObjects.RFQManufacturer.RFQMainPage.SearchRFQ(String rFQName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQManufacturer\RFQMainPage.cs:line 118. 
+2020-04-14 16:03:55,828  :: INFO  :: [Logs]  :: SearchRFQmethod is failed. 
+2020-04-14 16:03:56,319  :: ERROR :: [Logs]  :: Test case failed. 
+2020-04-14 16:03:56,333  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-14 16:03:56,334  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22763_CreateRFQAwardAndDeclined ============================>. 
+2020-04-14 16:03:56,334  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-14 16:03:56,762  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-14 16:03:56,771  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-14 16:03:56,771  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-14 16:03:56,771  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

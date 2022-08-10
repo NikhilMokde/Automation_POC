@@ -1,0 +1,64 @@
+2021-01-03 22:53:07,782  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 22:53:07,793  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 22:53:07,793  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 22:53:07,845  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-03 22:53:07,881  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 22:53:07,881  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3333_SupplierSetting started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-03 22:53:07,884  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-03 22:53:24,581  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-03 22:53:24,581  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-03 22:53:24,586  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-03 22:53:24,587  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-03 22:54:14,769  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-03 22:54:18,342  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2021-01-03 22:54:19,583  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-03 22:54:26,699  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-03 22:54:26,699  :: INFO  :: [Logs]  :: Login as a buyer. 
+2021-01-03 22:54:31,366  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2021-01-03 22:54:31,624  :: INFO  :: [Logs]  :: select the profile. 
+2021-01-03 22:54:31,843  :: INFO  :: [Logs]  :: click on setting tab. 
+2021-01-03 22:54:35,374  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2021-01-03 22:54:35,374  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingPage==========. 
+2021-01-03 22:54:35,374  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2021-01-03 22:54:36,123  :: INFO  :: [Logs]  :: click on LiveQuoate Tab. 
+2021-01-03 22:54:37,722  :: INFO  :: [Logs]  :: CNC Machining entered in input field. 
+2021-01-03 22:54:37,831  :: INFO  :: [Logs]  :: select processes. 
+2021-01-03 22:54:39,263  :: INFO  :: [Logs]  :: Alloy Steel entered in input field. 
+2021-01-03 22:54:39,402  :: INFO  :: [Logs]  :: select Material. 
+2021-01-03 22:54:40,871  :: INFO  :: [Logs]  :: ELECTROPLATING entered in input field. 
+2021-01-03 22:54:40,957  :: INFO  :: [Logs]  :: select Post Processes. 
+2021-01-03 22:54:42,279  :: INFO  :: [Logs]  :: Maybe entered in input field. 
+2021-01-03 22:54:42,389  :: INFO  :: [Logs]  :: select LiveQuote Probability. 
+2021-01-03 22:54:43,793  :: INFO  :: [Logs]  :: In Progress entered in input field. 
+2021-01-03 22:54:43,890  :: INFO  :: [Logs]  :: select Live Quote Status. 
+2021-01-03 22:54:45,193  :: INFO  :: [Logs]  :: COD entered in input field. 
+2021-01-03 22:54:45,292  :: INFO  :: [Logs]  :: select Payment Terms. 
+2021-01-03 22:54:46,660  :: INFO  :: [Logs]  :: Miscellaneous entered in input field. 
+2021-01-03 22:54:46,747  :: INFO  :: [Logs]  :: select Custom Costs. 
+2021-01-03 22:54:48,128  :: INFO  :: [Logs]  :: Standard Overnight entered in input field. 
+2021-01-03 22:54:48,260  :: INFO  :: [Logs]  :: select Shipping Method. 
+2021-01-03 22:54:49,733  :: INFO  :: [Logs]  :: Production Lead Time entered in input field. 
+2021-01-03 22:54:49,814  :: INFO  :: [Logs]  :: Select LeadTimes. 
+2021-01-03 22:54:51,002  :: INFO  :: [Logs]  :: .000is selected From Dropdown. 
+2021-01-03 22:54:52,323  :: INFO  :: [Logs]  :: 101 entered in input field. 
+2021-01-03 22:54:52,323  :: INFO  :: [Logs]  :: Entre starting No. 
+2021-01-03 22:54:52,323  :: INFO  :: [Logs]  :: update date form Live Quoate Page. 
+2021-01-03 22:54:55,511  :: INFO  :: [Logs]  :: Clicked on QMS tab. 
+2021-01-03 22:54:55,728  :: INFO  :: [Logs]  :: Clicked on create quote. 
+2021-01-03 22:54:56,870  :: INFO  :: [Logs]  :: Clicked on create new customer. 
+2021-01-03 22:54:58,185  :: INFO  :: [Logs]  :: Automation507524256 entered in input field. 
+2021-01-03 22:54:58,185  :: INFO  :: [Logs]  :: Enter data on company name text box. 
+2021-01-03 22:54:59,656  :: INFO  :: [Logs]  :: unable to set apply supplier setting is failed System.Runtime.InteropServices.InvalidComObjectException: COM object that has been separated from its underlying RCW cannot be used.
+   at System.StubHelpers.StubHelpers.StubRegisterRCW(Object pThis)
+   at Microsoft.Office.Interop.Excel._Workbook.Close(Object SaveChanges, Object Filename, Object RouteWorkbook)
+   at MFGAutomation.Generics.ReadExcelFile.CloseExcelFile() in E:\MFG Code\mfg.automation\Generics\ReadExcelFile.cs:line 141
+   at MFG_Atomation.PageObjects.QMS.QMSPageObject.CreateNewCustomer(String sheetName) in E:\MFG Code\mfg.automation\PageObjects\QMS\QMSPageObject.cs:line 421
+   at MFG_Atomation.Utility.Settings.SettingUtility.SupplierSetting(String sheetName) in E:\MFG Code\mfg.automation\Utility\Settings\SettingUtility.cs:line 278. 
+2021-01-03 22:55:00,187  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-03 22:55:00,777  :: ERROR :: [Logs]  :: SupplierSettingTest case failed. 

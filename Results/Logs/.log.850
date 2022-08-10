@@ -1,0 +1,20 @@
+2020-04-15 15:06:29,094  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-15 15:06:29,109  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-15 15:06:29,110  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-15 15:06:29,219  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-15 15:06:29,259  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-15 15:06:29,259  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22774_QMSUpdationAndCreation started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-15 15:06:29,260  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-15 15:06:50,840  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-15 15:06:50,841  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-15 15:06:50,846  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-15 15:06:50,846  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-15 15:07:00,528  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-15 15:09:13,844  :: ERROR :: [Logs]  :: Unable to click on element System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 115. 
+2020-04-15 15:12:20,193  :: ERROR :: [Logs]  :: Unable to click on element System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 115. 
+2020-04-15 15:12:38,119  :: INFO  :: [Logs]  :: Failed to enter the data in field System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 120
+   at MFG_Atomation.PageObjects.QMS.QMSQuoate.CreateNewCustomer(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\QMS\QMSQuoate.cs:line 178. 
+2020-04-15 15:12:38,534  :: INFO  :: [Logs]  :: CreateNewCustomermethod is failed. 

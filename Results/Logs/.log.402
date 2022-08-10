@@ -1,0 +1,132 @@
+2020-12-14 19:02:27,400  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 19:02:27,410  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 19:02:27,410  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 19:02:27,473  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 19:02:27,575  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 19:02:27,585  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3462_DraftBeforeReleaseFilter started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 19:02:27,587  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 19:02:51,038  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 19:02:51,038  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 19:02:51,044  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 19:02:51,044  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 19:03:10,323  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 19:03:16,165  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 19:03:17,413  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 19:03:26,795  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 19:03:26,795  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-12-14 19:03:33,694  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-14 19:04:20,685  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-14 19:04:23,763  :: INFO  :: [Logs]  :: click on existing port. 
+2020-12-14 19:04:25,104  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-14 19:04:25,104  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-14 19:04:26,354  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-14 19:04:26,354  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-14 19:04:27,636  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-14 19:04:27,636  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-14 19:04:28,900  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-12-14 19:04:28,900  :: INFO  :: [Logs]  :: Select Unit. 
+2020-12-14 19:04:31,280  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 19:04:33,315  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 19:04:34,517  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 19:04:34,517  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 19:04:35,278  :: INFO  :: [Logs]  :: Select process. 
+2020-12-14 19:04:36,311  :: INFO  :: [Logs]  :: Select Material. 
+2020-12-14 19:04:36,674  :: INFO  :: [Logs]  :: Select post production process. 
+2020-12-14 19:04:37,905  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-12-14 19:04:37,905  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-12-14 19:04:37,980  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-14 19:04:42,981  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-12-14 19:04:42,981  :: INFO  :: [Logs]  :: Click On browse file button On DashBoard and add parts. 
+2020-12-14 19:04:43,462  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2020-12-14 19:04:43,922  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-12-14 19:04:43,996  :: INFO  :: [Logs]  :: The element Element (id = d04bb70c-aa8b-45f4-8da9-4785ce85d53f) was found on the page.. 
+2020-12-14 19:04:45,332  :: INFO  :: [Logs]  :: RFQ1900485653 entered in input field. 
+2020-12-14 19:04:45,332  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-12-14 19:04:46,547  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-12-14 19:04:46,547  :: INFO  :: [Logs]  :: select Purpose. 
+2020-12-14 19:04:48,698  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 19:04:50,731  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 19:04:51,903  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 19:04:51,903  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-12-14 19:04:54,025  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 19:04:56,057  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 19:04:57,220  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 19:04:57,220  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-12-14 19:04:57,491  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-12-14 19:04:57,628  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-12-14 19:04:58,008  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2020-12-14 19:04:58,107  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-12-14 19:05:04,862  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-12-14 19:05:05,589  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-12-14 19:05:07,292  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-14 19:05:07,292  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-12-14 19:05:07,536  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-12-14 19:05:09,426  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-12-14 19:05:11,620  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2020-12-14 19:05:11,620  :: INFO  :: [Logs]  :: Add RFQ Details. 
+2020-12-14 19:05:18,272  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-12-14 19:05:18,272  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-12-14 19:05:18,419  :: INFO  :: [Logs]  :: click on RFQ Tab. 
+2020-12-14 19:05:18,647  :: INFO  :: [Logs]  :: 'My RFQs' is clicked. 
+2020-12-14 19:05:22,519  :: INFO  :: [Logs]  :: RFQ1900485653 entered in input field. 
+2020-12-14 19:05:22,519  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-12-14 19:05:24,741  :: INFO  :: [Logs]  :: User has navigated to 'My RFQ's'. 
+2020-12-14 19:05:25,187  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-12-14 19:05:25,241  :: INFO  :: [Logs]  :: ==========ClickOnEditRFQButton==========. 
+2020-12-14 19:05:27,522  :: INFO  :: [Logs]  :: click on Edit button. 
+2020-12-14 19:05:27,522  :: INFO  :: [Logs]  :: ==========End of ClickOnEditRFQButton==========. 
+2020-12-14 19:05:27,522  :: INFO  :: [Logs]  :: click on Edit RFQ button. 
+2020-12-14 19:05:28,013  :: INFO  :: [Logs]  :: Page is loaded successfully. 
+2020-12-14 19:05:29,891  :: INFO  :: [Logs]  :: click on back to add part link. 
+2020-12-14 19:05:29,891  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-12-14 19:05:48,911  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-14 19:05:52,055  :: INFO  :: [Logs]  :: click on existing port. 
+2020-12-14 19:05:53,432  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-14 19:05:53,432  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-12-14 19:05:54,675  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-14 19:05:54,676  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-12-14 19:05:55,995  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-14 19:05:55,995  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-14 19:05:57,096  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-12-14 19:05:57,096  :: INFO  :: [Logs]  :: Select Unit. 
+2020-12-14 19:05:59,451  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 19:06:01,501  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 19:06:02,792  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 19:06:02,792  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 19:06:03,708  :: INFO  :: [Logs]  :: Select process. 
+2020-12-14 19:06:06,071  :: INFO  :: [Logs]  :: Select Material. 
+2020-12-14 19:06:06,465  :: INFO  :: [Logs]  :: Select post production process. 
+2020-12-14 19:06:07,756  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-12-14 19:06:07,757  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-12-14 19:06:07,872  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-14 19:06:12,874  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-12-14 19:06:12,874  :: INFO  :: [Logs]  :: Click On browse file button On DashBoard and add parts. 
+2020-12-14 19:06:13,342  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2020-12-14 19:06:13,531  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-14 19:06:13,888  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-12-14 19:06:22,896  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-12-14 19:06:25,228  :: INFO  :: [Logs]  :: ==========End of NavigateToSettingPage==========. 
+2020-12-14 19:06:28,004  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2020-12-14 19:06:30,554  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-14 19:06:30,555  :: INFO  :: [Logs]  :: Buyer logged out successfully. 
+2020-12-14 19:06:31,287  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 19:06:42,290  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-12-14 19:06:43,520  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-12-14 19:06:43,630  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 19:06:43,630  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-12-14 19:06:46,423  :: INFO  :: [Logs]  :: click on RFQ List Button. 
+2020-12-14 19:06:57,350  :: INFO  :: [Logs]  :: Draft Before Releaseis selected From Dropdown. 
+2020-12-14 19:07:03,769  :: INFO  :: [Logs]  :: RFQ1900485653 entered in input field. 
+2020-12-14 19:07:03,769  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2020-12-14 19:07:03,925  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-12-14 19:07:05,730  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-12-14 19:07:09,049  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-12-14 19:07:09,049  :: INFO  :: [Logs]  :: Vision has logged out. 
+2020-12-14 19:07:09,428  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2020-12-14 19:07:09,761  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 19:07:09,761  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3462_DraftBeforeReleaseFilter ============================. 
+2020-12-14 19:07:09,761  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 19:07:11,058  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-14 19:07:11,067  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 19:07:11,067  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 19:07:11,067  :: INFO  :: [Logs]  :: ===============================================================================================================. 

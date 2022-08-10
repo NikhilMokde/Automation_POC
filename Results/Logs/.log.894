@@ -1,0 +1,189 @@
+2020-04-13 17:17:15,936  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-13 17:17:15,946  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-13 17:17:15,947  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-13 17:17:16,008  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-13 17:17:16,025  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-13 17:17:16,025  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-13 17:17:16,026  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-13 17:17:32,709  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-13 17:17:32,709  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-13 17:17:32,716  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-13 17:17:32,716  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-13 17:17:49,619  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-13 17:18:21,442  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-13 17:18:21,562  :: INFO  :: [Logs]  :: The element Element (id = a6a0d3ce-868c-4550-8822-39c94bb054f9) was found on the page.. 
+2020-04-13 17:18:36,136  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-13 17:18:39,522  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-13 17:18:41,762  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-13 17:18:43,964  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-13 17:18:45,079  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-13 17:18:45,079  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-13 17:18:47,553  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-13 17:18:49,595  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-13 17:18:51,412  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-13 17:18:52,122  :: INFO  :: [Logs]  :: Select process. 
+2020-04-13 17:18:52,641  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-13 17:18:53,185  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-13 17:18:55,555  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-13 17:18:55,642  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-13 17:18:55,717  :: INFO  :: [Logs]  :: The element Element (id = a6a0d3ce-868c-4550-8822-39c94bb054f9) was found on the page.. 
+2020-04-13 17:19:10,132  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-13 17:19:13,322  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-13 17:19:15,634  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-13 17:19:17,941  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-13 17:19:19,075  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-13 17:19:19,075  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-13 17:19:21,479  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-13 17:19:23,528  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-13 17:19:25,213  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-13 17:19:25,798  :: INFO  :: [Logs]  :: Select process. 
+2020-04-13 17:19:26,206  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-13 17:19:26,594  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-13 17:19:28,852  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-13 17:19:28,948  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-13 17:19:30,994  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-04-13 17:19:31,130  :: INFO  :: [Logs]  :: The element Element (id = 4c497313-bafc-4bd2-a71b-5a481dbe4bb1) was found on the page.. 
+2020-04-13 17:19:33,585  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-04-13 17:19:35,875  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-13 17:19:37,926  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-13 17:19:41,533  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-13 17:19:43,578  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-13 17:19:45,613  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-04-13 17:19:45,827  :: INFO  :: [Logs]  :: 'Mayment Method' button is clicked. 
+2020-04-13 17:19:45,974  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-04-13 17:19:59,977  :: INFO  :: [Logs]  :: 'Non-Disclousre ' button is clicked. 
+2020-04-13 17:20:00,144  :: INFO  :: [Logs]  :: 'communication' button is clicked. 
+2020-04-13 17:20:11,535  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-04-13 17:20:11,939  :: INFO  :: [Logs]  :: 'special certificatio' button is clicked. 
+2020-04-13 17:20:13,605  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-13 17:20:13,605  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-04-13 17:20:13,860  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-04-13 17:20:15,206  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-04-13 17:20:17,148  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-13 17:20:19,226  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-13 17:20:19,226  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-04-13 17:20:57,618  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-04-13 17:21:07,059  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-04-13 17:21:08,806  :: INFO  :: [Logs]  :: RFQ849742244 entered in input field. 
+2020-04-13 17:21:08,806  :: INFO  :: [Logs]  :: RFQ name is entered in searchbar. 
+2020-04-13 17:21:09,160  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-04-13 17:21:10,648  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-04-13 17:21:25,654  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-04-13 17:21:27,655  :: INFO  :: [Logs]  :: RFQ is released. 
+2020-04-13 17:21:28,605  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-04-13 17:21:28,605  :: INFO  :: [Logs]  :: Vision has logged out. 
+2020-04-13 17:21:41,355  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2020-04-13 17:21:47,669  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-04-13 17:21:48,403  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-04-13 17:21:48,623  :: INFO  :: [Logs]  :: User has clicked on My RFQs. 
+2020-04-13 17:21:48,862  :: INFO  :: [Logs]  :: 'My RFQs' is clicked. 
+2020-04-13 17:21:55,205  :: INFO  :: [Logs]  :: RFQ849742244 entered in input field. 
+2020-04-13 17:21:55,205  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-04-13 17:22:03,206  :: INFO  :: [Logs]  :: RFQ is searched by manufacturer. 
+2020-04-13 17:22:04,621  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-04-13 17:22:15,551  :: INFO  :: [Logs]  :: 'Read NDA' button is clicked on NDA Agreement popup. 
+2020-04-13 17:22:19,413  :: INFO  :: [Logs]  :: 'Accept' button is clicked on NDA Agreement popup. 
+2020-04-13 17:22:21,414  :: INFO  :: [Logs]  :: 2nd Level NDA is accepted. 
+2020-04-13 17:22:22,452  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-04-13 17:22:22,452  :: INFO  :: [Logs]  :: Manufacturer logged out. 
+2020-04-13 17:22:27,210  :: INFO  :: [Logs]  :: Buyer has logged in. 
+2020-04-13 17:22:35,108  :: INFO  :: [Logs]  :: User has clicked on RFQ. 
+2020-04-13 17:22:35,423  :: INFO  :: [Logs]  :: Clicked on RFQs from left navigation. 
+2020-04-13 17:22:35,706  :: INFO  :: [Logs]  :: User has clicked on NDA's to Approve. 
+2020-04-13 17:22:35,706  :: INFO  :: [Logs]  :: Clicked on NDAs to Approve from left navigation. 
+2020-04-13 17:22:35,706  :: INFO  :: [Logs]  :: Successfully navigated to NDAs To Approve. 
+2020-04-13 17:22:39,295  :: INFO  :: [Logs]  :: RFQ849742244 entered in input field. 
+2020-04-13 17:22:39,295  :: INFO  :: [Logs]  :: RFQ is seached for approving 2nd Level NDA. 
+2020-04-13 17:22:39,425  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-04-13 17:22:39,676  :: INFO  :: [Logs]  :: Button is clicked for approving 2nd Level NDA. 
+2020-04-13 17:22:42,677  :: INFO  :: [Logs]  :: RFQ is approved for 2nd Level NDA from buyer. 
+2020-04-13 17:22:43,578  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-13 17:22:43,578  :: INFO  :: [Logs]  :: Buyer has logged out successfully. 
+2020-04-13 17:22:48,411  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2020-04-13 17:22:51,002  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-04-13 17:22:51,753  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-04-13 17:22:52,070  :: INFO  :: [Logs]  :: User has clicked on My RFQs. 
+2020-04-13 17:22:52,406  :: INFO  :: [Logs]  :: 'My RFQs' is clicked. 
+2020-04-13 17:22:54,036  :: INFO  :: [Logs]  :: RFQ849742244 entered in input field. 
+2020-04-13 17:22:54,036  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-04-13 17:23:02,038  :: INFO  :: [Logs]  :: RFQ is searched by manufacturer. 
+2020-04-13 17:23:05,806  :: INFO  :: [Logs]  :: The element Element (id = 5abbf83b-beaf-4e7a-a899-fd0e6bb5fb33) was found on the page.. 
+2020-04-13 17:23:06,229  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-04-13 17:24:18,783  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked. 
+2020-04-13 17:24:26,622  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked again. 
+2020-04-13 17:24:32,415  :: INFO  :: [Logs]  :: 2 entered in input field. 
+2020-04-13 17:24:34,573  :: INFO  :: [Logs]  :: Quantity is entered in side drawer for Per Unit Price. 
+2020-04-13 17:24:41,003  :: INFO  :: [Logs]  :: Save button is clicked from side drawer. 
+2020-04-13 17:24:46,615  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked. 
+2020-04-13 17:24:49,786  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked again. 
+2020-04-13 17:24:52,120  :: INFO  :: [Logs]  :: 2 entered in input field. 
+2020-04-13 17:24:52,778  :: INFO  :: [Logs]  :: Quantity is entered in side drawer for Per Unit Price. 
+2020-04-13 17:24:56,323  :: INFO  :: [Logs]  :: Save button is clicked from side drawer. 
+2020-04-13 17:25:10,523  :: INFO  :: [Logs]  :: Submit quote button is clicked. 
+2020-04-13 17:25:10,649  :: INFO  :: [Logs]  :: 'Submit Quote' button is clicked on popup. 
+2020-04-13 17:25:12,823  :: INFO  :: [Logs]  :: RFQ is quoted and submitted. 
+2020-04-13 17:25:13,826  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-04-13 17:25:13,826  :: INFO  :: [Logs]  :: Manufacturer logged out. 
+2020-04-13 17:25:18,725  :: INFO  :: [Logs]  :: Buyer is logged in. 
+2020-04-13 17:25:21,100  :: INFO  :: [Logs]  :: 'RFQs' is clicked from navigation panel. 
+2020-04-13 17:25:21,281  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-04-13 17:25:29,284  :: INFO  :: [Logs]  :: Successfully navigated to My RFQs. 
+2020-04-13 17:25:30,658  :: INFO  :: [Logs]  :: RFQ849742244 entered in input field. 
+2020-04-13 17:25:30,659  :: INFO  :: [Logs]  :: RFQ name is entered in searchbox. 
+2020-04-13 17:25:32,851  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-04-13 17:25:33,837  :: INFO  :: [Logs]  :: Record is clicked. 
+2020-04-13 17:25:34,312  :: INFO  :: [Logs]  :: User has clicked on QUOTES tab. 
+2020-04-13 17:25:35,209  :: INFO  :: [Logs]  :: Declined button is clicked. 
+2020-04-13 17:25:37,327  :: INFO  :: [Logs]  :: Declined Popup button is clicked. 
+2020-04-13 17:25:38,328  :: INFO  :: [Logs]  :: Decline process is completed and verified successfully. 
+2020-04-13 17:25:39,419  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-13 17:25:39,420  :: INFO  :: [Logs]  :: Buyer has logged out successfully. 
+2020-04-13 17:25:44,218  :: INFO  :: [Logs]  :: Manufacturer logged in. 
+2020-04-13 17:25:46,781  :: INFO  :: [Logs]  :: User has clicked on RFQs. 
+2020-04-13 17:25:47,358  :: INFO  :: [Logs]  :: Clicked on RFQs from left navigation. 
+2020-04-13 17:25:49,632  :: INFO  :: [Logs]  :: User has clicked on My Quotes. 
+2020-04-13 17:25:49,864  :: INFO  :: [Logs]  :: Clicked on My Quotes from left navigation. 
+2020-04-13 17:25:49,864  :: INFO  :: [Logs]  :: Navigate to My Quotes Tab. 
+2020-04-13 17:25:52,568  :: INFO  :: [Logs]  :: RFQ is selected From Dropdown. 
+2020-04-13 17:25:52,568  :: INFO  :: [Logs]  :: Select Decliend RFQ from All RFQ Dropdown. 
+2020-04-13 17:25:56,351  :: INFO  :: [Logs]  :: RFQ849742244 entered in input field. 
+2020-04-13 17:25:56,644  :: INFO  :: [Logs]  :: RFQ is verified successfully after awarding. 
+2020-04-13 17:25:59,431  :: INFO  :: [Logs]  :: The element Element (id = 76771519-c9f1-4bee-9a3e-c542248d9443) was found on the page.. 
+2020-04-13 17:25:59,746  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-04-13 17:28:23,596  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked. 
+2020-04-13 17:28:23,822  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked again. 
+2020-04-13 17:28:27,099  :: INFO  :: [Logs]  :: 2 entered in input field. 
+2020-04-13 17:28:27,100  :: INFO  :: [Logs]  :: Quantity is entered in side drawer for Per Unit Price. 
+2020-04-13 17:28:29,257  :: INFO  :: [Logs]  :: Save button is clicked from side drawer. 
+2020-04-13 17:28:32,467  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked. 
+2020-04-13 17:28:32,646  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked again. 
+2020-04-13 17:29:00,857  :: INFO  :: [Logs]  :: 2 entered in input field. 
+2020-04-13 17:29:00,857  :: INFO  :: [Logs]  :: Quantity is entered in side drawer for Per Unit Price. 
+2020-04-13 17:29:03,018  :: INFO  :: [Logs]  :: Save button is clicked from side drawer. 
+2020-04-13 17:29:29,422  :: INFO  :: [Logs]  :: Submit quote button is clicked. 
+2020-04-13 17:29:29,567  :: INFO  :: [Logs]  :: 'Submit Quote' button is clicked on popup. 
+2020-04-13 17:29:31,876  :: INFO  :: [Logs]  :: RFQ is quoted and submitted. 
+2020-04-13 17:29:33,045  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2020-04-13 17:29:33,045  :: INFO  :: [Logs]  :: Manufacturer logged out. 
+2020-04-13 17:29:38,035  :: INFO  :: [Logs]  :: Buyer is logged in. 
+2020-04-13 17:29:41,537  :: INFO  :: [Logs]  :: 'RFQs' is clicked from navigation panel. 
+2020-04-13 17:29:42,171  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-04-13 17:29:50,172  :: INFO  :: [Logs]  :: Successfully navigated to My RFQs. 
+2020-04-13 17:29:58,373  :: INFO  :: [Logs]  :: List View button is clicked. 
+2020-04-13 17:29:59,694  :: INFO  :: [Logs]  :: RFQ849742244 entered in input field. 
+2020-04-13 17:29:59,695  :: INFO  :: [Logs]  :: RFQ name is entered in searchbox. 
+2020-04-13 17:30:06,855  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-04-13 17:30:12,878  :: INFO  :: [Logs]  :: Record is clicked. 
+2020-04-13 17:30:18,064  :: INFO  :: [Logs]  :: User has clicked on QUOTES tab. 
+2020-04-13 17:30:38,746  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //i[@ngbtooltip='Click To Expand'], or: By.XPath: //i[@ngbtooltip='Click To Expand']
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element). 
+2020-04-13 17:30:38,764  :: ERROR :: [Logs]  :: Quote award process is failed OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //i[@ngbtooltip='Click To Expand'], or: By.XPath: //i[@ngbtooltip='Click To Expand']
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element)
+   at MFG_Automation.PageObjects.RFQ.RFQPage.AwardQuote(String rFQName, String sheetName). 
+2020-04-13 17:30:38,771  :: INFO  :: [Logs]  :: AwardQuote. 
+2020-04-13 17:30:40,099  :: ERROR :: [Logs]  :: Test case failed. 

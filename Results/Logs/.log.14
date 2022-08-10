@@ -1,0 +1,25 @@
+2022-08-08 15:37:33,366  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:37:33,375  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2022-08-08 15:37:33,375  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:37:33,388  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2022-08-08 15:40:16,550  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Student ID]. 
+2022-08-08 15:40:17,515  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[FirstName]. 
+2022-08-08 15:40:18,224  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[LastName]. 
+2022-08-08 15:40:18,998  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Age]. 
+2022-08-08 15:40:21,071  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Student ID]. 
+2022-08-08 15:40:21,525  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[FirstName]. 
+2022-08-08 15:40:21,991  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[LastName]. 
+2022-08-08 15:40:22,418  :: INFO  :: [Logs]  :: MySql.Data.MySqlClient.MySqlDataReader[Age]. 
+2022-08-08 15:40:32,010  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2022-08-08 15:40:32,044  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName). 
+2022-08-08 15:40:43,020  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2022-08-08 15:40:43,679  :: ERROR :: [Logs]  :: Unable to capture screen shot System.NullReferenceException: Object reference not set to an instance of an object.
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName). 
+2022-08-08 15:41:02,032  :: INFO  :: [Logs]  :: Test case passed successfully. 
+2022-08-08 15:41:25,042  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:41:25,042  :: INFO  :: [Logs]  :: ====================== End of Test Case : RetriveDataFromDatabase ============================. 
+2022-08-08 15:41:25,042  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:41:32,829  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2022-08-08 15:41:32,829  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2022-08-08 15:41:32,829  :: INFO  :: [Logs]  :: ===============================================================================================================. 

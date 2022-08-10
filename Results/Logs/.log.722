@@ -1,0 +1,111 @@
+2020-04-21 17:42:39,365  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-21 17:42:39,374  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-21 17:42:39,375  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-21 17:42:39,380  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-21 17:42:39,500  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-21 17:42:39,500  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22774_QMSUpdationAndCreation started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-21 17:42:39,501  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-21 17:43:27,382  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-21 17:43:27,382  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-21 17:43:27,394  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2020-04-21 17:43:27,394  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-21 17:43:33,918  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-21 17:44:14,291  :: INFO  :: [Logs]  :: Clicked on QMS tab. 
+2020-04-21 17:44:17,088  :: INFO  :: [Logs]  :: Clicked on create quote. 
+2020-04-21 17:44:24,358  :: INFO  :: [Logs]  :: Clicked on create new customer. 
+2020-04-21 17:44:26,302  :: INFO  :: [Logs]  :: Automation851151618 entered in input field. 
+2020-04-21 17:44:26,302  :: INFO  :: [Logs]  :: Enter data on company name text box. 
+2020-04-21 17:44:28,655  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115499 entered in input field. 
+2020-04-21 17:44:28,655  :: INFO  :: [Logs]  :: Enter data on first name text box. 
+2020-04-21 17:44:30,308  :: INFO  :: [Logs]  :: Auto_Test_Manufacturer001070112115536 entered in input field. 
+2020-04-21 17:44:30,308  :: INFO  :: [Logs]  :: Enter data on last name text box. 
+2020-04-21 17:44:31,908  :: INFO  :: [Logs]  :: automanufacturer001070112115649 entered in input field. 
+2020-04-21 17:44:31,908  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-04-21 17:44:33,456  :: INFO  :: [Logs]  :: Pune Maharashtra entered in input field. 
+2020-04-21 17:44:33,456  :: INFO  :: [Logs]  :: Enter data on address text box. 
+2020-04-21 17:44:33,586  :: INFO  :: [Logs]  :: Country selected successfully. 
+2020-04-21 17:44:34,334  :: INFO  :: [Logs]  :: State selected successfully. 
+2020-04-21 17:44:35,666  :: INFO  :: [Logs]  :: Pune entered in input field. 
+2020-04-21 17:44:35,666  :: INFO  :: [Logs]  :: Enter data on city name text box. 
+2020-04-21 17:44:36,966  :: INFO  :: [Logs]  :: 152NY entered in input field. 
+2020-04-21 17:44:36,966  :: INFO  :: [Logs]  :: Enter data on zip code text box. 
+2020-04-21 17:44:38,504  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-04-21 17:44:38,504  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-04-21 17:44:40,322  :: INFO  :: [Logs]  :: mfgautomation@yopmail.com entered in input field. 
+2020-04-21 17:44:40,322  :: INFO  :: [Logs]  :: Enter valid mail address. 
+2020-04-21 17:44:41,762  :: INFO  :: [Logs]  :: abcde entered in input field. 
+2020-04-21 17:44:41,762  :: INFO  :: [Logs]  :: Enter invalid data on phone number text box. 
+2020-04-21 17:44:43,103  :: INFO  :: [Logs]  :: 1234567890 entered in input field. 
+2020-04-21 17:44:43,103  :: INFO  :: [Logs]  :: Enter data on phone number text box. 
+2020-04-21 17:44:43,236  :: INFO  :: [Logs]  :: Clicked on save QMS customer. 
+2020-04-21 17:44:47,117  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-21 17:44:52,064  :: INFO  :: [Logs]  :: M2 - 2763_CreateRFQAwardAndUpdate entered in input field. 
+2020-04-21 17:44:53,354  :: INFO  :: [Logs]  :: QMS636396011 entered in input field. 
+2020-04-21 17:44:53,471  :: INFO  :: [Logs]  :: Clicked on Get Started. 
+2020-04-21 17:45:06,465  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2020-04-21 17:45:10,621  :: INFO  :: [Logs]  :: Clicked on Enter datails. 
+2020-04-21 17:45:12,495  :: INFO  :: [Logs]  :: Pen Drive entered in input field. 
+2020-04-21 17:45:12,496  :: INFO  :: [Logs]  :: Enter data on part name text box. 
+2020-04-21 17:45:13,923  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-04-21 17:45:13,923  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2020-04-21 17:45:15,407  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-04-21 17:45:15,407  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-04-21 17:45:17,094  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-21 17:45:17,094  :: INFO  :: [Logs]  :: Entered Part Description. 
+2020-04-21 17:45:18,520  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-04-21 17:45:18,520  :: INFO  :: [Logs]  :: Enter data on cost text box. 
+2020-04-21 17:45:20,130  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2020-04-21 17:45:21,348  :: INFO  :: [Logs]  :: ? entered in input field. 
+2020-04-21 17:45:21,362  :: INFO  :: [Logs]  :: Entered Post Process. 
+2020-04-21 17:45:21,607  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2020-04-21 17:45:23,972  :: INFO  :: [Logs]  :: Clicked on Add Quote Details. 
+2020-04-21 17:45:24,081  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2020-04-21 17:45:37,977  :: INFO  :: [Logs]  :: 3 entered in input field. 
+2020-04-21 17:45:50,882  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-21 17:45:53,336  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-21 17:45:55,372  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-21 17:45:56,766  :: INFO  :: [Logs]  :: Clicked on next button of date picker. 
+2020-04-21 17:45:58,799  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-21 17:46:00,841  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-21 17:46:02,979  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-21 17:46:03,067  :: INFO  :: [Logs]  :: Payment term has been selected. 
+2020-04-21 17:46:03,270  :: INFO  :: [Logs]  :: Clicked on Review Quote. 
+2020-04-21 17:46:04,337  :: INFO  :: [Logs]  :: Page Navigate to QMS Details Page. 
+2020-04-21 17:46:06,503  :: INFO  :: [Logs]  :: Clicked on Finish Quote. 
+2020-04-21 17:46:06,659  :: INFO  :: [Logs]  :: Clicked on Email to customer. 
+2020-04-21 17:46:11,202  :: INFO  :: [Logs]  :: MFG.com entered in input field. 
+2020-04-21 17:46:11,202  :: INFO  :: [Logs]  :: Enter data on subject text box. 
+2020-04-21 17:46:12,654  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-21 17:46:12,654  :: INFO  :: [Logs]  :: Enter data on email text box. 
+2020-04-21 17:46:12,786  :: INFO  :: [Logs]  :: Clicked on Send Email. 
+2020-04-21 17:46:23,746  :: INFO  :: [Logs]  :: Email sent successfully. 
+2020-04-21 17:46:24,943  :: INFO  :: [Logs]  :: A new QMS is created. 
+2020-04-21 17:46:43,630  :: INFO  :: [Logs]  :: mfgautomation@yopmail.com entered in input field. 
+2020-04-21 17:46:50,493  :: ERROR :: [Logs]  :: Unable to click on element OpenQA.Selenium.NoSuchWindowException: no such window
+  (Session info: chrome=81.0.4044.113)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at OpenQA.Selenium.Support.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.get_Element()
+   at OpenQA.Selenium.Support.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 112. 
+2020-04-21 17:46:50,579  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchWindowException: no such window
+  (Session info: chrome=81.0.4044.113)
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 117
+   at MFG_Atomation.PageObjects.QMS.QMSQuoate.EmailVerification(String Email, String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\QMS\QMSQuoate.cs:line 610. 
+2020-04-21 17:46:50,616  :: INFO  :: [Logs]  :: EmailVerificationmethod is failed. 
+2020-04-21 17:46:51,324  :: ERROR :: [Logs]  :: Test case failed. 
+2020-04-21 17:46:51,372  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-21 17:46:51,372  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22774_QMSUpdationAndCreation ============================>. 
+2020-04-21 17:46:51,372  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-21 17:46:52,403  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-21 17:46:52,412  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-21 17:46:52,412  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-21 17:46:52,412  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

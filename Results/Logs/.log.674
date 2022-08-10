@@ -1,0 +1,162 @@
+2020-11-20 14:40:03,222  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 14:40:03,241  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-20 14:40:03,241  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 14:40:03,390  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-20 14:40:03,439  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 14:40:03,441  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M23451_MyRFQFilterSupplierSide started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-20 14:40:03,442  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 14:40:20,453  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-20 14:40:20,453  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-20 14:40:20,467  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-20 14:40:20,468  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-20 14:40:58,191  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-20 14:41:06,063  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-20 14:41:07,494  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-20 14:41:17,762  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-20 14:41:17,762  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-11-20 14:41:24,037  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-11-20 14:42:10,094  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-20 14:42:14,217  :: INFO  :: [Logs]  :: click on existing port. 
+2020-11-20 14:42:15,766  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-20 14:42:15,766  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-11-20 14:42:17,142  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-11-20 14:42:17,142  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-11-20 14:42:18,482  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-11-20 14:42:18,482  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-11-20 14:42:19,745  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-11-20 14:42:19,745  :: INFO  :: [Logs]  :: Select Unit. 
+2020-11-20 14:42:22,473  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-20 14:42:24,529  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-20 14:42:26,604  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 14:42:26,604  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 14:42:27,396  :: INFO  :: [Logs]  :: Select process. 
+2020-11-20 14:42:39,773  :: INFO  :: [Logs]  :: Select Material. 
+2020-11-20 14:42:40,410  :: INFO  :: [Logs]  :: Select post production process. 
+2020-11-20 14:42:41,811  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2020-11-20 14:42:41,811  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-11-20 14:42:41,977  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-11-20 14:42:46,978  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2020-11-20 14:42:46,978  :: INFO  :: [Logs]  :: Click On browse file button On DashBoard and add parts. 
+2020-11-20 14:42:47,741  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2020-11-20 14:42:51,576  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-11-20 14:42:51,911  :: INFO  :: [Logs]  :: The element Element (id = 0fca1efc-4945-47c2-986e-7b463e2606ae) was found on the page.. 
+2020-11-20 14:42:53,389  :: INFO  :: [Logs]  :: RFQ1464651 entered in input field. 
+2020-11-20 14:42:53,389  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-11-20 14:42:54,689  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-11-20 14:42:54,689  :: INFO  :: [Logs]  :: select Purpose. 
+2020-11-20 14:42:57,018  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-20 14:42:59,085  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-20 14:43:00,475  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 14:43:00,475  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-20 14:43:02,649  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-20 14:43:04,696  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-20 14:43:06,101  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 14:43:06,101  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-20 14:43:06,356  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-11-20 14:43:06,554  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-11-20 14:43:07,255  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2020-11-20 14:43:07,472  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-11-20 14:43:15,282  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-11-20 14:43:15,834  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-11-20 14:43:17,597  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-11-20 14:43:17,597  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-11-20 14:43:17,983  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-11-20 14:43:19,547  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-11-20 14:43:21,897  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2020-11-20 14:43:21,898  :: INFO  :: [Logs]  :: Add RFQ Details. 
+2020-11-20 14:43:24,645  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-20 14:43:24,645  :: INFO  :: [Logs]  :: Buyer logged out successfully. 
+2020-11-20 14:43:25,414  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-20 14:43:53,877  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-20 14:43:55,172  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-20 14:43:55,308  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-20 14:43:55,308  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-20 14:44:13,207  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-11-20 14:44:14,858  :: INFO  :: [Logs]  :: RFQ1464651 entered in input field. 
+2020-11-20 14:44:14,858  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2020-11-20 14:44:15,136  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-11-20 14:44:22,984  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-11-20 14:44:31,757  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-11-20 14:44:33,761  :: INFO  :: [Logs]  :: RFQ is released. 
+2020-11-20 14:44:35,502  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-11-20 14:44:35,502  :: INFO  :: [Logs]  :: Vision has logged out. 
+2020-11-20 14:44:35,950  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-20 14:44:49,900  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-20 14:44:51,301  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-20 14:44:57,978  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-20 14:44:57,978  :: INFO  :: [Logs]  :: Manufacturer has successfully logged in. 
+2020-11-20 14:45:21,911  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-20 14:45:22,637  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:45:24,337  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:45:25,935  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-20 14:45:33,325  :: INFO  :: [Logs]  :: RFQs with no quotesis selected From Dropdown. 
+2020-11-20 14:45:39,435  :: INFO  :: [Logs]  :: RFQ1464651 entered in input field. 
+2020-11-20 14:45:40,170  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-20 14:46:38,278  :: INFO  :: [Logs]  :: The element Element (id = 8335b102-f76a-490e-9260-cbaf61db5fb4) was found on the page.. 
+2020-11-20 14:46:39,690  :: INFO  :: [Logs]  :: click on RFQ Company Name. 
+2020-11-20 14:46:41,241  :: INFO  :: [Logs]  :: Select RFQs with no quotes filter value from ALL RFQ Dropdown. 
+2020-11-20 14:46:43,728  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-11-20 14:46:46,118  :: INFO  :: [Logs]  :: Failed to click on Menu OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <ul _ngcontent-c4="" appaccordionlink="" class="pcoded-item pcoded-left-item ng-tns-c4-0 ng-star-inserted" group="dashboard" item-border="true" item-border-style="none" subitem-border="true">...</ul> is not clickable at point (119, 76). Other element would receive the click: <div class="loader-bg">...</div>
+  (Session info: chrome=86.0.4240.193)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   at MFG_Atomation.Generics.LeftNavigation.LeftTabNavigation(String menuName). 
+2020-11-20 14:47:13,171  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-20 14:47:13,753  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:47:14,671  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:47:16,635  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-20 14:47:21,387  :: INFO  :: [Logs]  :: Recently Viewedis selected From Dropdown. 
+2020-11-20 14:47:27,150  :: INFO  :: [Logs]  :: RFQ1464651 entered in input field. 
+2020-11-20 14:47:27,719  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-20 14:47:51,645  :: INFO  :: [Logs]  :: The element Element (id = 9babeff4-63ab-4b53-99e4-282d4e71d84a) was found on the page.. 
+2020-11-20 14:47:52,173  :: INFO  :: [Logs]  :: click on RFQ Company Name. 
+2020-11-20 14:47:54,641  :: INFO  :: [Logs]  :: Select Recently Viewed filter value from ALL RFQ Dropdown. 
+2020-11-20 14:47:56,046  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-20 14:47:56,046  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:47:56,292  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:47:56,713  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-20 14:48:02,441  :: INFO  :: [Logs]  :: Followed Buyersis selected From Dropdown. 
+2020-11-20 14:48:06,424  :: INFO  :: [Logs]  :: RFQ1464651 entered in input field. 
+2020-11-20 14:48:06,424  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-20 14:48:26,575  :: INFO  :: [Logs]  :: The element Element (id = b3d93e75-b242-423d-8c20-d9b97a906846) was found on the page.. 
+2020-11-20 14:48:26,575  :: INFO  :: [Logs]  :: click on RFQ Company Name. 
+2020-11-20 14:48:34,864  :: INFO  :: [Logs]  :: Select Followed Buyers filter value from ALL RFQ Dropdown. 
+2020-11-20 14:48:36,017  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-20 14:48:36,017  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:48:36,190  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:48:36,631  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-20 14:48:42,233  :: INFO  :: [Logs]  :: RFQs with less than 3 quotesis selected From Dropdown. 
+2020-11-20 14:48:46,015  :: INFO  :: [Logs]  :: RFQ1464651 entered in input field. 
+2020-11-20 14:48:46,015  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-20 14:49:06,163  :: INFO  :: [Logs]  :: The element Element (id = aa51701e-fa28-45b5-88d5-5af83f2f4702) was found on the page.. 
+2020-11-20 14:49:06,164  :: INFO  :: [Logs]  :: click on RFQ Company Name. 
+2020-11-20 14:50:32,259  :: INFO  :: [Logs]  :: Select RFQs with less than 3 quotes filter value from ALL RFQ Dropdown. 
+2020-11-20 14:50:39,864  :: INFO  :: [Logs]  :: The element Element (id = ed0100b0-3133-4380-92c4-369b36b73acc) was found on the page.. 
+2020-11-20 14:50:40,277  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-11-20 14:50:48,650  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked. 
+2020-11-20 14:50:49,024  :: INFO  :: [Logs]  :: 'Quote Now' button is clicked again. 
+2020-11-20 14:50:51,751  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-11-20 14:50:51,751  :: INFO  :: [Logs]  :: Quantity is entered in side drawer for Per Unit Price. 
+2020-11-20 14:50:53,893  :: INFO  :: [Logs]  :: Save button is clicked from side drawer. 
+2020-11-20 14:50:59,243  :: INFO  :: [Logs]  :: Submit quote button is clicked. 
+2020-11-20 14:51:00,320  :: INFO  :: [Logs]  :: 'Submit Quote' button is clicked on popup. 
+2020-11-20 14:51:09,752  :: INFO  :: [Logs]  :: RFQ is quoted and submitted. 
+2020-11-20 14:51:20,738  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-20 14:51:20,738  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:51:20,866  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:51:21,237  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-20 14:51:26,604  :: INFO  :: [Logs]  :: Quotedis selected From Dropdown. 
+2020-11-20 14:51:30,300  :: INFO  :: [Logs]  :: RFQ1464651 entered in input field. 
+2020-11-20 14:51:30,301  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-20 14:51:50,443  :: INFO  :: [Logs]  :: The element Element (id = 34711e1a-64f9-42e1-880f-c50a38d4dba1) was found on the page.. 
+2020-11-20 14:51:50,443  :: INFO  :: [Logs]  :: click on RFQ Company Name. 
+2020-11-20 14:51:52,677  :: INFO  :: [Logs]  :: Select Quoted filter value from ALL RFQ Dropdown. 
+2020-11-20 14:51:53,812  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-20 14:51:53,812  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:51:53,960  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-20 14:51:54,414  :: INFO  :: [Logs]  :: 'My RFQs' is clicked from navigation panel. 
+2020-11-20 14:52:00,093  :: INFO  :: [Logs]  :: RFQs with less than 3 quotesis selected From Dropdown. 
+2020-11-20 14:52:03,815  :: INFO  :: [Logs]  :: RFQ1464651 entered in input field. 
+2020-11-20 14:52:03,815  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 

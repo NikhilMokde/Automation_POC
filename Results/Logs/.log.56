@@ -1,0 +1,58 @@
+2021-01-11 16:46:02,339  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:46:02,358  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 16:46:02,358  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:46:02,478  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 16:46:02,588  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:46:02,589  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_MFGContactsMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 16:46:02,590  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 16:47:02,572  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 16:47:02,572  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 16:47:02,580  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 16:47:02,580  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 16:47:06,763  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 16:47:10,211  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2021-01-11 16:47:11,452  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 16:47:17,150  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 16:47:17,150  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 16:47:23,957  :: INFO  :: [Logs]  :: ==========SendMessageThroughDiscoverManufactuere==========. 
+2021-01-11 16:47:29,504  :: INFO  :: [Logs]  :: User has clicked on MFG Contacts. 
+2021-01-11 16:47:30,218  :: INFO  :: [Logs]  :: Select MFG Contacts from left navigation. 
+2021-01-11 16:47:34,740  :: INFO  :: [Logs]  :: Pune MFG entered in input field. 
+2021-01-11 16:47:35,559  :: INFO  :: [Logs]  :: Search the manufacturer. 
+2021-01-11 16:51:02,476  :: INFO  :: [Logs]  :: Click on search icon. 
+2021-01-11 17:07:02,988  :: INFO  :: [Logs]  :: click on Send Message Button. 
+2021-01-11 17:07:05,682  :: INFO  :: [Logs]  ::  Thread  MFG Contacts entered in input field. 
+2021-01-11 17:07:08,702  :: INFO  :: [Logs]  :: Entre Subject. 
+2021-01-11 17:07:09,957  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2021-01-11 17:07:12,547  :: INFO  :: [Logs]  :: supplier to buyer MFG Contacts entered in input field. 
+2021-01-11 17:07:21,832  :: INFO  :: [Logs]  :: Entre Subject. 
+2021-01-11 17:07:49,437  :: INFO  :: [Logs]  :: upload data file. 
+2021-01-11 17:07:51,591  :: INFO  :: [Logs]  :: click sent button. 
+2021-01-11 17:07:55,649  :: INFO  :: [Logs]  :: Message is Display as expected:Message sent successfully.. 
+2021-01-11 17:07:56,237  :: INFO  :: [Logs]  :: ==========End of SendMessageThroughDiscoverManufactuere==========. 
+2021-01-11 17:08:00,231  :: INFO  :: [Logs]  :: Send Message through Discover Manufacture. 
+2021-01-11 17:08:05,386  :: INFO  :: [Logs]  :: manufacturer has logged out successfully. 
+2021-01-11 17:08:06,314  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2021-01-11 17:08:11,268  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 17:08:15,408  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-11 17:08:16,620  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 17:08:20,365  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 17:08:21,085  :: INFO  :: [Logs]  :: supplier login. 
+2021-01-11 17:08:28,061  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2021-01-11 17:08:51,268  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),' Thread  MFG Contacts')]"}
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at MFG_Atomation.PageObjects.Messages.MessagesPageObject.VeriyMessageInGlobalTab(String sheetName, String RFQId, Int32 subjectRow, Int32 messageRow, Int32 userRow, Boolean isRFQIdPresent, String messageSubject, Boolean isattchmentPresent, Boolean isSpecialInviteMessageRowFirst, String message). 
+2021-01-11 17:08:51,268  :: INFO  :: [Logs]  :: VeriyMessageInGlobalTabmethod is failed. 
+2021-01-11 17:08:51,403  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//span[contains(text(),' Thread  MFG Contacts')]"}
+  (Session info: chrome=87.0.4280.141)
+   at MFG_Atomation.PageObjects.Messages.MessagesPageObject.VeriyMessageInGlobalTab(String sheetName, String RFQId, Int32 subjectRow, Int32 messageRow, Int32 userRow, Boolean isRFQIdPresent, String messageSubject, Boolean isattchmentPresent, Boolean isSpecialInviteMessageRowFirst, String message)
+   at MFG_Atomation.Utility.Messages.MessagesUtility.M2_3344_MFGContactsMessaging(String sheetName). 
+2021-01-11 17:08:51,403  :: INFO  :: [Logs]  :: M2_3344_MFGContactsMessagingmethod is failed. 
+2021-01-11 17:08:51,914  :: ERROR :: [Logs]  :: MFGContactsMessagingTest case failed. 

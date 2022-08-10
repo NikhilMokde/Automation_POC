@@ -1,0 +1,61 @@
+2020-12-14 18:18:04,787  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 18:18:04,821  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 18:18:04,822  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 18:18:04,981  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 18:18:05,098  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 18:18:05,099  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3081_CloneRFQThroughMyRFQCloneButton started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 18:18:05,099  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 18:18:28,024  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 18:18:28,024  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 18:18:28,029  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 18:18:28,029  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 18:18:44,152  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 18:18:52,686  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-14 18:18:53,982  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 18:19:00,683  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 18:19:00,684  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-12-14 18:19:02,067  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2020-12-14 18:19:08,165  :: INFO  :: [Logs]  :: click on RFQ button. 
+2020-12-14 18:19:08,263  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-12-14 18:19:08,263  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2020-12-14 18:19:08,263  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-14 18:19:09,037  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughPartLibeary==========. 
+2020-12-14 18:19:14,043  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-12-14 18:19:21,919  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-12-14 18:19:23,614  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-12-14 18:19:27,742  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-14 18:19:27,742  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-12-14 18:19:30,475  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-12-14 18:19:32,526  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-12-14 18:19:33,880  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-12-14 18:19:34,632  :: INFO  :: [Logs]  :: Select process. 
+2020-12-14 18:19:39,728  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-12-14 18:19:39,728  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughPartLibeary==========. 
+2020-12-14 18:19:39,728  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2020-12-14 18:19:40,488  :: INFO  :: [Logs]  :: ==========ClonePart==========. 
+2020-12-14 18:19:41,627  :: INFO  :: [Logs]  :: Message is Display as expected:Clone Part. 
+2020-12-14 18:19:41,778  :: INFO  :: [Logs]  :: click on yes button. 
+2020-12-14 18:19:41,778  :: INFO  :: [Logs]  :: ==========End of ClonePart==========. 
+2020-12-14 18:19:41,778  :: INFO  :: [Logs]  :: clone part. 
+2020-12-14 18:19:43,923  :: INFO  :: [Logs]  :: ==========VerifyDetailsFromClonePart==========. 
+2020-12-14 18:19:46,555  :: ERROR :: [Logs]  :: Failed to Verify Details From ClonePart OpenQA.Selenium.WebDriverException: javascript error: Cannot read property 'value' of null
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScriptCommand(String script, String commandName, Object[] args)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.ExecuteScript(String script, Object[] args)
+   at MFG_Automation.Generics.Helper.GetValueFromTextBoxUsingJavaScript(String id) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 565
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.VerifyDetailsFromClonePart(String partName, String partNumber, String process, String technique, String TypeOfUser) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 358. 
+2020-12-14 18:19:46,567  :: INFO  :: [Logs]  :: VerifyDetailsFromClonePartmethod is failed. 
+2020-12-14 18:19:49,468  :: INFO  :: [Logs]  :: Login with supplier is failed OpenQA.Selenium.WebDriverException: javascript error: Cannot read property 'value' of null
+  (Session info: chrome=87.0.4280.88)
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.VerifyDetailsFromClonePart(String partName, String partNumber, String process, String technique, String TypeOfUser) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 391
+   at MFG_Atomation.Utility.Clone_RFQ.CloneRFQUtility.CloneRFQThroughMyRFQCloneButton(String sheetName) in E:\MFG Code\mfg.automation\Utility\Clone RFQ\CloneRFQUtility.cs:line 668. 
+2020-12-14 18:19:50,105  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2020-12-14 18:19:50,662  :: ERROR :: [Logs]  :: Test case failed. 

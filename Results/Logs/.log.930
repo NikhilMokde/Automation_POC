@@ -1,0 +1,27 @@
+2020-04-09 17:30:02,521  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-09 17:30:02,535  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-09 17:30:02,535  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-09 17:30:02,591  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-09 17:30:02,612  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-09 17:30:02,613  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-09 17:30:02,617  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-09 17:30:33,713  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-09 17:30:33,714  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-09 17:30:33,719  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-09 17:30:33,719  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-09 17:33:27,498  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-09 17:34:44,529  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //label[contains(text(),'browse your files')], or: By.XPath: //label[contains(text(),'browse your files')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 124
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 428. 
+2020-04-09 17:34:44,542  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-04-09 17:34:45,177  :: ERROR :: [Logs]  :: Test case failed. 

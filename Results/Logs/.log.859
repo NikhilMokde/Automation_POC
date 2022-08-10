@@ -1,0 +1,22 @@
+2020-04-14 21:03:48,712  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-14 21:03:48,726  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-14 21:03:48,726  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-14 21:03:48,776  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-14 21:03:48,783  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-14 21:03:48,783  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763_CreateRFQAwardAndDeclined started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-14 21:03:48,785  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-14 21:04:03,449  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-14 21:04:03,450  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-14 21:04:03,455  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-14 21:04:03,455  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-14 21:05:03,758  :: INFO  :: [Logs]  :: Unable to login OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //input[@formcontrolname='emailId'], or: By.XPath: //input[@formcontrolname='emailId']
+   at MFG_Automation.Generics.Helper.ClearAndInputText(IWebElement element, String text) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\Helper.cs:line 102
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 194. 
+2020-04-14 21:05:04,147  :: ERROR :: [Logs]  :: Test case failed. 
+2020-04-14 21:05:04,167  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-14 21:05:04,167  :: INFO  :: [Logs]  :: <====================== End of Test Case : M22763_CreateRFQAwardAndDeclined ============================>. 
+2020-04-14 21:05:04,167  :: INFO  :: [Logs]  :: <======================================================================================>. 
+2020-04-14 21:05:04,854  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-04-14 21:05:04,869  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-14 21:05:04,869  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-04-14 21:05:04,869  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 

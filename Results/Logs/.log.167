@@ -1,0 +1,127 @@
+2021-01-02 14:41:20,544  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:41:20,562  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 14:41:20,562  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:41:20,655  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-02 14:41:20,694  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:41:20,696  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3462_VerifyFilterVisionSide started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 14:41:20,696  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:41:36,256  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-02 14:41:36,256  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-02 14:41:36,269  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-02 14:41:36,269  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-02 14:41:43,478  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 14:41:48,106  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-02 14:41:49,456  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-02 14:41:53,575  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 14:41:53,577  :: INFO  :: [Logs]  :: login as a buyer. 
+2021-01-02 14:41:54,536  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2021-01-02 14:42:13,945  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2021-01-02 14:42:17,053  :: INFO  :: [Logs]  :: click on existing port. 
+2021-01-02 14:42:18,480  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2021-01-02 14:42:18,480  :: INFO  :: [Logs]  :: Entre Part Name. 
+2021-01-02 14:42:19,753  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2021-01-02 14:42:19,753  :: INFO  :: [Logs]  :: Entre Part No. 
+2021-01-02 14:42:21,158  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2021-01-02 14:42:21,158  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2021-01-02 14:42:22,315  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2021-01-02 14:42:22,315  :: INFO  :: [Logs]  :: Select Unit. 
+2021-01-02 14:42:24,865  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 14:42:26,918  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 14:42:28,278  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 14:42:28,278  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 14:42:28,796  :: INFO  :: [Logs]  :: Select process. 
+2021-01-02 14:42:29,462  :: INFO  :: [Logs]  :: Select Material. 
+2021-01-02 14:42:30,212  :: INFO  :: [Logs]  :: Select post production process. 
+2021-01-02 14:42:31,561  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2021-01-02 14:42:31,561  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2021-01-02 14:42:31,667  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2021-01-02 14:42:36,669  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2021-01-02 14:42:36,669  :: INFO  :: [Logs]  :: Click On browse file button On DashBoard and add parts. 
+2021-01-02 14:42:37,162  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2021-01-02 14:42:37,789  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2021-01-02 14:42:37,959  :: INFO  :: [Logs]  :: The element Element (id = 4558636d-6d99-4c4b-9ad7-b1703a2183dc) was found on the page.. 
+2021-01-02 14:42:39,363  :: INFO  :: [Logs]  :: RFQ1982351108 entered in input field. 
+2021-01-02 14:42:39,363  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2021-01-02 14:42:40,594  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2021-01-02 14:42:40,594  :: INFO  :: [Logs]  :: select Purpose. 
+2021-01-02 14:42:42,874  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 14:42:44,925  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 14:42:46,146  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 14:42:46,146  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-02 14:42:48,278  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 14:42:50,322  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 14:42:51,592  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 14:42:51,592  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-02 14:42:51,856  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2021-01-02 14:42:52,025  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2021-01-02 14:42:56,967  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2021-01-02 14:43:02,989  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2021-01-02 14:43:03,403  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2021-01-02 14:43:03,586  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2021-01-02 14:43:10,435  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2021-01-02 14:43:10,972  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2021-01-02 14:43:12,889  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2021-01-02 14:43:12,889  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2021-01-02 14:43:13,169  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2021-01-02 14:43:14,055  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2021-01-02 14:43:15,220  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2021-01-02 14:43:15,220  :: INFO  :: [Logs]  :: Add RFQ Details. 
+2021-01-02 14:43:17,501  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2021-01-02 14:43:17,502  :: INFO  :: [Logs]  :: Buyer logged out successfully. 
+2021-01-02 14:43:18,307  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 14:43:23,435  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2021-01-02 14:43:24,801  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2021-01-02 14:43:24,932  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 14:43:24,933  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2021-01-02 14:43:43,800  :: INFO  :: [Logs]  :: List view is enabled. 
+2021-01-02 14:43:45,710  :: INFO  :: [Logs]  :: RFQ1982351108 entered in input field. 
+2021-01-02 14:43:45,710  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2021-01-02 14:43:45,952  :: INFO  :: [Logs]  :: Search button is clicked. 
+2021-01-02 14:43:50,514  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2021-01-02 14:43:54,471  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2021-01-02 14:43:56,472  :: INFO  :: [Logs]  :: RFQ is released. 
+2021-01-02 14:43:57,181  :: INFO  :: [Logs]  :: click on RFQ List Button. 
+2021-01-02 14:44:00,466  :: INFO  :: [Logs]  :: United States entered in input field. 
+2021-01-02 14:44:11,641  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2021-01-02 14:44:11,642  :: INFO  :: [Logs]  :: value not selected System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 67
+   at MFG_Atomation.PageObjects.Filters.FiltersPageObject.SelectValueformFilter(String value, String rFQName, String typeofDropdown) in E:\MFG Code\mfg.automation\PageObjects\Filters\FiltersPageObject.cs:line 194. 
+2021-01-02 14:44:11,642  :: INFO  :: [Logs]  :: SelectValueformFilter. 
+2021-01-02 14:44:11,855  :: INFO  :: [Logs]  :: Failed to enter the data in field System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Filters.FiltersPageObject.SelectValueformFilter(String value, String rFQName, String typeofDropdown) in E:\MFG Code\mfg.automation\PageObjects\Filters\FiltersPageObject.cs:line 239
+   at MFG_Atomation.Utility.Filters.FilterUtility.M2_3462_VerifyFilterVisionSide(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 308. 
+2021-01-02 14:44:11,856  :: INFO  :: [Logs]  :: M2_3462_VerifyFilterVisionSidemethod is failed. 
+2021-01-02 14:44:12,330  :: ERROR :: [Logs]  :: M2-3462 VerifyFilterVisionSide Test case failed. 
+2021-01-02 14:44:12,411  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:44:12,412  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3462_VerifyFilterVisionSide ============================. 
+2021-01-02 14:44:12,412  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:44:13,464  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-02 14:44:13,476  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:44:13,476  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 14:44:13,476  :: INFO  :: [Logs]  :: ===============================================================================================================. 

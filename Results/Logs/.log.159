@@ -1,0 +1,67 @@
+2021-01-02 18:52:05,671  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 18:52:05,705  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 18:52:05,705  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 18:52:05,835  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-02 18:52:05,908  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 18:52:05,909  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22965_ExternalMessagesWithLeadstream started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 18:52:05,909  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 18:52:23,036  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-02 18:52:23,036  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-02 18:52:23,048  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-02 18:52:23,048  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-02 18:52:32,049  :: INFO  :: [Logs]  :: ==========LeadStreamCreation==========. 
+2021-01-02 18:52:53,249  :: INFO  :: [Logs]  :: Automation entered in input field. 
+2021-01-02 18:52:53,254  :: INFO  :: [Logs]  :: Entre First Name. 
+2021-01-02 18:52:54,532  :: INFO  :: [Logs]  :: supplier entered in input field. 
+2021-01-02 18:52:54,532  :: INFO  :: [Logs]  :: Entre last Name. 
+2021-01-02 18:52:56,149  :: INFO  :: [Logs]  :: AutomationSupplierCompany379223183 entered in input field. 
+2021-01-02 18:52:56,150  :: INFO  :: [Logs]  :: Entre company. 
+2021-01-02 18:52:57,716  :: INFO  :: [Logs]  :: automationsupplier.com entered in input field. 
+2021-01-02 18:52:57,716  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 18:52:59,256  :: INFO  :: [Logs]  :: 123456789 entered in input field. 
+2021-01-02 18:52:59,256  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 18:53:08,258  :: INFO  :: [Logs]  :: Validation Message is present as Expected Email is required. 
+2021-01-02 18:53:09,913  :: INFO  :: [Logs]  :: LeadStream Testing entered in input field. 
+2021-01-02 18:53:09,913  :: INFO  :: [Logs]  :: Entre  subject. 
+2021-01-02 18:53:09,953  :: INFO  :: [Logs]  :: Send button is disabled. 
+2021-01-02 18:53:11,460  :: INFO  :: [Logs]  :: automationsupplier2@yopmail.com entered in input field. 
+2021-01-02 18:53:11,460  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 18:53:12,778  :: INFO  :: [Logs]  :: abcdefd entered in input field. 
+2021-01-02 18:53:12,778  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 18:53:19,113  :: INFO  :: [Logs]  :: Validation Message is present as Expected Please enter a valid phone number.. 
+2021-01-02 18:53:19,138  :: INFO  :: [Logs]  :: Send button is disabled. 
+2021-01-02 18:53:20,608  :: INFO  :: [Logs]  :: 123456789 entered in input field. 
+2021-01-02 18:53:20,608  :: INFO  :: [Logs]  :: Entre Email. 
+2021-01-02 18:53:22,275  :: INFO  :: [Logs]  :: This is for LeadStream Testing  entered in input field. 
+2021-01-02 18:53:22,275  :: INFO  :: [Logs]  :: Entre Message. 
+2021-01-02 18:53:22,555  :: INFO  :: [Logs]  :: Entre Message. 
+2021-01-02 18:53:36,986  :: INFO  :: [Logs]  :: upload file. 
+2021-01-02 18:53:50,266  :: INFO  :: [Logs]  :: click on Send button. 
+2021-01-02 18:53:50,266  :: INFO  :: [Logs]  :: ==========EndLeadStreamCreation==========. 
+2021-01-02 18:53:50,938  :: INFO  :: [Logs]  :: Send Lead stream message externally. 
+2021-01-02 18:53:51,565  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 18:53:56,972  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2021-01-02 18:53:58,230  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2021-01-02 18:53:58,378  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 18:53:58,378  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2021-01-02 18:54:04,764  :: INFO  :: [Logs]  :: ==========ReleaseLeadStreamMessage==========. 
+2021-01-02 18:54:07,519  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-02 18:54:58,397  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-02 18:55:02,719  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2021-01-02 18:56:44,382  :: INFO  :: [Logs]  :: AutomationSupplierCompany379223183 entered in input field. 
+2021-01-02 18:56:45,118  :: INFO  :: [Logs]  :: Entre company Name in search Textbox. 
+2021-01-02 18:56:54,957  :: INFO  :: [Logs]  :: Entre company Name in search Textbox. 
+2021-01-02 18:57:14,440  :: INFO  :: [Logs]  :: click on Message Release button. 
+2021-01-02 18:57:16,829  :: INFO  :: [Logs]  :: click on yes button. 
+2021-01-02 18:57:17,804  :: INFO  :: [Logs]  :: ==========EndOfReleaseLeadStreamMessage==========. 
+2021-01-02 18:57:22,001  :: INFO  :: [Logs]  :: Release LeadStream Message. 
+2021-01-02 18:57:25,178  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2021-01-02 18:57:26,144  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2021-01-02 18:57:27,273  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 18:57:33,069  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2021-01-02 18:57:34,389  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-02 18:57:39,689  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 18:57:41,007  :: INFO  :: [Logs]  :: manufacturer is successfully logged in. 
+2021-01-02 18:57:42,142  :: INFO  :: [Logs]  :: ==========Verify Leadstream Details==========. 
+2021-01-02 18:57:47,886  :: INFO  :: [Logs]  :: click on LeadStream Activity Email button. 
+2021-01-02 18:57:54,782  :: INFO  :: [Logs]  :: Validation Message is present as Expected LeadStream Activity. 

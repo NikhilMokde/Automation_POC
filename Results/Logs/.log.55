@@ -1,0 +1,25 @@
+2021-01-11 17:10:42,711  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 17:10:42,732  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 17:10:42,732  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 17:10:42,878  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-11 17:10:42,944  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 17:10:42,955  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_ManufacturerViewsMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-11 17:10:42,956  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-11 17:11:42,525  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-11 17:11:42,525  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-11 17:11:42,530  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-11 17:11:42,530  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-11 17:11:45,579  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-11 17:11:48,548  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-11 17:11:49,780  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-11 17:11:56,547  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-11 17:11:56,549  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-11 17:12:10,865  :: INFO  :: [Logs]  :: ==========SendMessageThroughDiscoverManufactuere==========. 
+2021-01-11 17:12:11,372  :: INFO  :: [Logs]  :: User has clicked on Manufacturer Views. 
+2021-01-11 17:12:11,372  :: INFO  :: [Logs]  :: Select Manufacturer Views from left navigation. 
+2021-01-11 17:12:18,021  :: INFO  :: [Logs]  :: click on Send Message Button. 
+2021-01-11 17:12:19,588  :: INFO  :: [Logs]  :: Supplier Thread Manufacturer Views entered in input field. 
+2021-01-11 17:12:19,588  :: INFO  :: [Logs]  :: Entre Subject. 
+2021-01-11 17:12:19,621  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2021-01-11 17:12:21,465  :: INFO  :: [Logs]  :: Buyer to supplier Manufacturer Views entered in input field. 
+2021-01-11 17:12:21,465  :: INFO  :: [Logs]  :: Entre Subject. 

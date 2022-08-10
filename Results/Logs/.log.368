@@ -1,0 +1,91 @@
+2020-12-14 22:49:07,714  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:49:07,732  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 22:49:07,732  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:49:07,868  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-14 22:49:07,942  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:49:07,942  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3333_SupplierSetting started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-14 22:49:07,943  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-14 22:49:37,655  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-14 22:49:37,655  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-14 22:49:37,660  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-14 22:49:37,660  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-14 22:50:01,888  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-14 22:50:07,649  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-12-14 22:50:08,921  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-14 22:50:15,864  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-14 22:50:15,865  :: INFO  :: [Logs]  :: Login as a buyer. 
+2020-12-14 22:50:23,298  :: INFO  :: [Logs]  :: ==========NavigateToSettingPage==========. 
+2020-12-14 22:50:28,182  :: INFO  :: [Logs]  :: select the profile. 
+2020-12-14 22:50:31,077  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-12-14 22:50:42,977  :: INFO  :: [Logs]  :: Navigate to setting Page. 
+2020-12-14 22:51:05,355  :: INFO  :: [Logs]  :: click on LiveQuoate Tab. 
+2020-12-14 22:51:08,579  :: INFO  :: [Logs]  :: CNC Machining entered in input field. 
+2020-12-14 22:51:10,084  :: INFO  :: [Logs]  :: select processes. 
+2020-12-14 22:51:13,334  :: INFO  :: [Logs]  :: Alloy Steel entered in input field. 
+2020-12-14 22:51:15,437  :: INFO  :: [Logs]  :: select Material. 
+2020-12-14 22:51:21,085  :: INFO  :: [Logs]  :: ELECTROPLATING entered in input field. 
+2020-12-14 22:51:25,283  :: INFO  :: [Logs]  :: select Post Processes. 
+2020-12-14 22:51:28,897  :: INFO  :: [Logs]  :: Maybe entered in input field. 
+2020-12-14 22:51:37,503  :: INFO  :: [Logs]  :: select LiveQuote Probability. 
+2020-12-14 22:51:40,677  :: INFO  :: [Logs]  :: In Progress entered in input field. 
+2020-12-14 22:51:43,828  :: INFO  :: [Logs]  :: select Live Quote Status. 
+2020-12-14 22:51:54,846  :: INFO  :: [Logs]  :: COD entered in input field. 
+2020-12-14 22:51:56,353  :: INFO  :: [Logs]  :: select Payment Terms. 
+2020-12-14 22:52:01,395  :: INFO  :: [Logs]  :: Miscellaneous entered in input field. 
+2020-12-14 22:52:05,606  :: INFO  :: [Logs]  :: select Custom Costs. 
+2020-12-14 22:52:09,065  :: INFO  :: [Logs]  :: Standard Overnight entered in input field. 
+2020-12-14 22:52:10,443  :: INFO  :: [Logs]  :: select Shipping Method. 
+2020-12-14 22:52:18,599  :: INFO  :: [Logs]  :: Production Lead Time entered in input field. 
+2020-12-14 22:52:20,126  :: INFO  :: [Logs]  :: Select LeadTimes. 
+2020-12-14 22:52:22,127  :: INFO  :: [Logs]  :: .000is selected From Dropdown. 
+2020-12-14 22:52:24,388  :: INFO  :: [Logs]  :: 101 entered in input field. 
+2020-12-14 22:52:25,210  :: INFO  :: [Logs]  :: Entre starting No. 
+2020-12-14 22:53:04,404  :: INFO  :: [Logs]  :: M2 - 2763_CreateRFQAwardAndUpdate entered in input field. 
+2020-12-14 22:53:12,059  :: INFO  :: [Logs]  :: Enter invalid  QMS Reference. 
+2020-12-14 22:53:16,266  :: INFO  :: [Logs]  :: QMS633573933 entered in input field. 
+2020-12-14 22:53:17,147  :: INFO  :: [Logs]  :: Entre Valid QMS Ref. 
+2020-12-14 22:53:18,724  :: INFO  :: [Logs]  :: Clicked on Get Started. 
+2020-12-14 22:53:51,308  :: INFO  :: [Logs]  :: Clicked on Browse your file. 
+2020-12-14 22:53:55,918  :: INFO  :: [Logs]  :: Clicked on Enter details. 
+2020-12-14 22:53:58,151  :: INFO  :: [Logs]  :: Message is Display as expected:CNC Machining. 
+2020-12-14 22:54:01,861  :: INFO  :: [Logs]  :: Pen Drive entered in input field. 
+2020-12-14 22:54:02,583  :: INFO  :: [Logs]  :: Enter data on part name text box. 
+2020-12-14 22:54:05,215  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-12-14 22:54:05,837  :: INFO  :: [Logs]  :: Enter data on part number text box. 
+2020-12-14 22:54:08,210  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-12-14 22:54:08,806  :: INFO  :: [Logs]  :: Enter data on quantity text box. 
+2020-12-14 22:54:11,223  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-14 22:54:11,903  :: INFO  :: [Logs]  :: Entered Part Description. 
+2020-12-14 22:54:16,400  :: INFO  :: [Logs]  :: 20 entered in input field. 
+2020-12-14 22:54:17,033  :: INFO  :: [Logs]  :: Enter data on cost text box. 
+2020-12-14 22:54:19,631  :: INFO  :: [Logs]  :: PostProcess entered in input field. 
+2020-12-14 22:54:21,420  :: INFO  :: [Logs]  :: ? entered in input field. 
+2020-12-14 22:54:22,946  :: INFO  :: [Logs]  :: Entered Post Process. 
+2020-12-14 22:54:44,147  :: INFO  :: [Logs]  :: Clicked on Save part details. 
+2020-12-14 22:54:49,711  :: INFO  :: [Logs]  :: Clicked on Add Quote Details. 
+2020-12-14 22:54:53,167  :: INFO  :: [Logs]  :: Message is Display as expected:                              Standard Overnight
+                            . 
+2020-12-14 22:54:54,837  :: INFO  :: [Logs]  :: Message is Display as expected:                              COD
+                            . 
+2020-12-14 22:54:56,321  :: INFO  :: [Logs]  :: Message is Display as expected:                                    Production Lead Time
+                                  . 
+2020-12-14 22:54:58,023  :: INFO  :: [Logs]  :: Clicked on Shipping Method. 
+2020-12-14 22:55:08,332  :: INFO  :: [Logs]  :: 3 entered in input field. 
+2020-12-14 22:55:10,025  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-12-14 22:55:12,245  :: INFO  :: [Logs]  :: Failed to enter the data in field NUnit.Framework.AssertionException: Review Quoate Button is Enabled after entre blank data
+   at NUnit.Framework.Assert.ReportFailure(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 394
+   at NUnit.Framework.Assert.Fail(String message, Object[] args) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 145
+   at NUnit.Framework.Assert.Fail(String message) in D:\a\1\s\src\NUnitFramework\framework\Assert.cs:line 155
+   at MFG_Atomation.PageObjects.QMS.QMSPageObject.CreateQMS(String sheetName, String expectedProcess, String material, String postProcessbool, Boolean isverifySettingValue) in E:\MFG Code\mfg.automation\PageObjects\QMS\QMSPageObject.cs:line 575. 
+2020-12-14 22:55:12,260  :: INFO  :: [Logs]  :: CreateQMSmethod is failed. 
+2020-12-14 22:55:12,291  :: INFO  :: [Logs]  :: unable to set apply supplier setting is failed NUnit.Framework.AssertionException: Review Quoate Button is Enabled after entre blank data
+   at MFG_Atomation.PageObjects.QMS.QMSPageObject.CreateQMS(String sheetName, String expectedProcess, String material, String postProcessbool, Boolean isverifySettingValue) in E:\MFG Code\mfg.automation\PageObjects\QMS\QMSPageObject.cs:line 646
+   at MFG_Atomation.Utility.Settings.SettingUtility.SupplierSetting(String sheetName) in E:\MFG Code\mfg.automation\Utility\Settings\SettingUtility.cs:line 278. 
+2020-12-14 22:55:12,865  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2020-12-14 22:55:13,431  :: ERROR :: [Logs]  :: SupplierSettingTest case failed. 

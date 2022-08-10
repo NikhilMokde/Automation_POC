@@ -1,0 +1,52 @@
+2021-01-02 14:04:26,844  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:04:26,858  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 14:04:26,858  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:04:26,967  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-02 14:04:27,167  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:04:27,168  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3215_DashboardFunctionality started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-02 14:04:27,169  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-02 14:04:46,540  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-02 14:04:46,540  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-02 14:04:46,548  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-02 14:04:46,548  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-02 14:04:58,701  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-02 14:05:02,714  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-02 14:05:04,034  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-02 14:05:08,829  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-02 14:05:08,830  :: INFO  :: [Logs]  :: Login As a Buyer. 
+2021-01-02 14:05:09,568  :: INFO  :: [Logs]  :: ==========ClickOnCreateanRFQButtonOnDashBoard==========. 
+2021-01-02 14:05:26,781  :: INFO  :: [Logs]  :: click on Create RFQ Button On Dashboard. 
+2021-01-02 14:05:26,781  :: INFO  :: [Logs]  :: ==========End of ClickOnCreateanRFQButtonOnDashBoard==========. 
+2021-01-02 14:05:26,781  :: INFO  :: [Logs]  :: Click On Create an RFQButton On DashBoard. 
+2021-01-02 14:05:27,422  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughPartLibeary==========. 
+2021-01-02 14:05:33,038  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2021-01-02 14:05:41,027  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2021-01-02 14:05:42,212  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2021-01-02 14:05:44,508  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2021-01-02 14:05:44,508  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2021-01-02 14:05:47,148  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 14:05:49,192  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 14:05:50,489  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 14:05:51,086  :: INFO  :: [Logs]  :: Select process. 
+2021-01-02 14:05:56,206  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2021-01-02 14:05:56,206  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughPartLibeary==========. 
+2021-01-02 14:05:56,206  :: INFO  :: [Logs]  ::  Create RFQ Part Through Upload File. 
+2021-01-02 14:05:56,673  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2021-01-02 14:05:57,969  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2021-01-02 14:05:58,037  :: INFO  :: [Logs]  :: The element Element (id = c0767d61-be50-49bf-9724-642fad207309) was found on the page.. 
+2021-01-02 14:05:59,334  :: INFO  :: [Logs]  :: RFQ41298220 entered in input field. 
+2021-01-02 14:05:59,334  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2021-01-02 14:06:00,872  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2021-01-02 14:06:00,872  :: INFO  :: [Logs]  :: select Purpose. 
+2021-01-02 14:06:03,273  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 14:06:05,319  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 14:06:06,517  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 14:06:06,517  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-02 14:06:08,702  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-02 14:06:10,749  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-02 14:06:11,974  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-02 14:06:11,974  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-02 14:06:12,216  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2021-01-02 14:06:12,364  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2021-01-02 14:06:14,203  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2021-01-02 14:06:24,198  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 

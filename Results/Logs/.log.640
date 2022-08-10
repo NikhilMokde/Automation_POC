@@ -1,0 +1,65 @@
+2020-11-23 15:26:06,487  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-23 15:26:07,934  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-23 15:26:07,934  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-23 15:26:07,979  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-23 15:26:07,986  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-23 15:26:07,986  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_SupplierResetPasswordThroughSettingTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-23 15:26:08,071  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-23 15:26:21,100  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-23 15:26:21,100  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-23 15:26:21,105  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-23 15:26:21,106  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-23 15:26:50,247  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-23 15:26:51,810  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-23 15:27:35,139  :: ERROR :: [Logs]  :: element not loaded  OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'RFQ')], or: By.XPath: //span[contains(text(),'RFQ')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 139. 
+2020-11-23 15:27:35,144  :: INFO  :: [Logs]  :: Unable to hit reset password button OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'RFQ')], or: By.XPath: //span[contains(text(),'RFQ')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 144
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage.ClickResetButtonAndLogin(String email, String password, Boolean ButtonResetPasswordIsPresent) in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 822. 
+2020-11-23 15:27:35,155  :: INFO  :: [Logs]  :: ClickResetButtonAndLoginmethod is failed. 
+2020-11-23 15:27:37,171  :: INFO  :: [Logs]  :: Failed to enter the data in field OpenQA.Selenium.WebDriverTimeoutException: Timed out after 40 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'RFQ')], or: By.XPath: //span[contains(text(),'RFQ')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at SeleniumExtras.WaitHelpers.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at MFGAutomation.PageObjects.BuyerManufacurerLoginRegPage.ClickResetButtonAndLogin(String email, String password, Boolean ButtonResetPasswordIsPresent) in E:\MFG Code\mfg.automation\PageObjects\BuyerSupplierLoginScreen\BuyerManufacurerLoginRegPageObject.cs:line 828
+   at MFG_Atomation.Utility.ResetAndForgotPassword.ResetAndForgotPasswordUtility.M23054_ResetPasswordThroughSettingTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\ResetAndForgotPassword\ResetAndForgotPasswordUtility.cs:line 103. 
+2020-11-23 15:27:38,187  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2020-11-23 15:27:39,042  :: ERROR :: [Logs]  :: Test case failed. 
+2020-11-23 15:27:39,200  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-23 15:27:39,200  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3054_SupplierResetPasswordThroughSettingTab ============================. 
+2020-11-23 15:27:39,200  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-23 15:27:39,820  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-23 15:27:39,834  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-23 15:27:39,834  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-23 15:27:39,834  :: INFO  :: [Logs]  :: ===============================================================================================================. 

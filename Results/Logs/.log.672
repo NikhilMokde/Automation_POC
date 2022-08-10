@@ -1,0 +1,67 @@
+2020-11-20 14:59:49,510  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 14:59:49,532  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-20 14:59:49,532  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 14:59:49,662  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-20 14:59:49,729  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 14:59:49,730  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M23451_MyRFQFilterSupplierSide started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-20 14:59:49,730  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-20 15:00:08,561  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-20 15:00:08,562  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-20 15:00:08,574  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-20 15:00:08,574  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-20 15:00:52,891  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-20 15:01:00,386  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-20 15:01:01,683  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-20 15:01:09,053  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-20 15:01:09,054  :: INFO  :: [Logs]  :: login as a buyer. 
+2020-11-20 15:01:12,112  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2020-11-20 15:01:30,296  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-20 15:01:33,583  :: INFO  :: [Logs]  :: click on existing port. 
+2020-11-20 15:01:35,112  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-20 15:01:35,112  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-11-20 15:01:36,396  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2020-11-20 15:01:36,396  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-11-20 15:01:37,795  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-11-20 15:01:37,795  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-11-20 15:01:39,105  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2020-11-20 15:01:39,106  :: INFO  :: [Logs]  :: Select Unit. 
+2020-11-20 15:01:41,672  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-20 15:01:43,722  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-20 15:01:45,746  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 15:01:45,746  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-20 15:01:47,347  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <select _ngcontent-c28="" class="form-control ng-untouched ng-pristine ng-valid" name="parentProcess1">...</select> is not clickable at point (1151, 90). Other element would receive the click: <div toast-component="" class="toast-info toast ng-trigger ng-trigger-flyInOut" style="">...</div>
+  (Session info: chrome=86.0.4240.193)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2020-11-20 15:01:47,372  :: ERROR :: [Logs]  :: Failed to Create RFQ Part Through Upload File System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <select _ngcontent-c28="" class="form-control ng-untouched ng-pristine ng-valid" name="parentProcess1">...</select> is not clickable at point (1151, 90). Other element would receive the click: <div toast-component="" class="toast-info toast ng-trigger ng-trigger-flyInOut" style="">...</div>
+  (Session info: chrome=86.0.4240.193)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 67
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 221. 
+2020-11-20 15:01:47,396  :: INFO  :: [Logs]  :: CreateRFQPartThroughUploadFilemethod is failed. 
+2020-11-20 15:01:48,784  :: INFO  :: [Logs]  :: Failed to Verify My RFQ  filter System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <select _ngcontent-c28="" class="form-control ng-untouched ng-pristine ng-valid" name="parentProcess1">...</select> is not clickable at point (1151, 90). Other element would receive the click: <div toast-component="" class="toast-info toast ng-trigger ng-trigger-flyInOut" style="">...</div>
+  (Session info: chrome=86.0.4240.193)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Clone_RFQ.CloneRFQPageObject.CreateRFQPartThroughUploadFile(String desc, String partnames, String firstQuantitys, String units, String partnumber, Int32 numberOfPart, String pageName) in E:\MFG Code\mfg.automation\PageObjects\Clone RFQ\CloneRFQPageObject.cs:line 257
+   at MFG_Atomation.Utility.Filters.FilterUtility.M23451_MyRFQFilterSupplierSide(String sheetName) in E:\MFG Code\mfg.automation\Utility\Filters\FilterUtility.cs:line 53. 
+2020-11-20 15:01:48,785  :: INFO  :: [Logs]  :: M23451_MyRFQFilterSupplierSidemethod is failed. 
+2020-11-20 15:01:49,469  :: ERROR :: [Logs]  :: M23451_MyRFQFilterSupplierSide Test case failed. 

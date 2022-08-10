@@ -1,0 +1,54 @@
+2020-12-29 12:47:52,799  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:47:52,845  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 12:47:52,845  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:47:52,945  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-12-29 12:47:52,971  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:47:52,971  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_ManufacturerViewsMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 12:47:52,972  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:48:12,219  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-12-29 12:48:12,219  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-12-29 12:48:12,225  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-12-29 12:48:12,225  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-12-29 12:48:17,887  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-29 12:48:21,369  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-12-29 12:48:22,605  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 12:48:26,850  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-29 12:48:26,850  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-12-29 12:48:27,521  :: INFO  :: [Logs]  :: ==========SendMessageThroughDiscoverManufactuere==========. 
+2020-12-29 12:48:28,174  :: INFO  :: [Logs]  :: User has clicked on Manufacturer Views. 
+2020-12-29 12:48:28,174  :: INFO  :: [Logs]  :: Select Manufacturer Views from left navigation. 
+2020-12-29 12:48:34,809  :: INFO  :: [Logs]  :: click on Send Message Button. 
+2020-12-29 12:48:36,351  :: INFO  :: [Logs]  :: Supplier Thread Manufacturer Views entered in input field. 
+2020-12-29 12:48:36,351  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-12-29 12:48:36,390  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2020-12-29 12:48:38,193  :: INFO  :: [Logs]  :: Buyer to supplier Manufacturer Views entered in input field. 
+2020-12-29 12:48:38,193  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-12-29 12:48:49,803  :: INFO  :: [Logs]  :: upload data file. 
+2020-12-29 12:48:49,876  :: INFO  :: [Logs]  :: click sent button. 
+2020-12-29 12:48:52,492  :: INFO  :: [Logs]  :: Message is Display as expected:Message sent successfully.. 
+2020-12-29 12:48:52,492  :: INFO  :: [Logs]  :: ==========End of SendMessageThroughDiscoverManufactuere==========. 
+2020-12-29 12:48:52,492  :: INFO  :: [Logs]  :: Send Message through Discover Manufacture. 
+2020-12-29 12:48:54,532  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-12-29 12:48:54,532  :: INFO  :: [Logs]  :: Log out as a Supplier. 
+2020-12-29 12:48:55,185  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-12-29 12:48:58,959  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-12-29 12:49:00,232  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-12-29 12:49:04,711  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-12-29 12:49:04,711  :: INFO  :: [Logs]  :: supplier login. 
+2020-12-29 12:49:10,308  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-12-29 12:49:35,392  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-12-29 12:49:38,775  :: INFO  :: [Logs]  :: Message is Display as expected:Supplier Thread Manufacturer Views. 
+2020-12-29 12:49:38,775  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-12-29 12:49:55,537  :: INFO  :: [Logs]  :: Validation Message is present as Expected Automation Buyer1. 
+2020-12-29 12:49:56,564  :: INFO  :: [Logs]  :: Verify Contact Name. 
+2020-12-29 12:50:01,494  :: INFO  :: [Logs]  :: Message is Display as expected:Buyer to supplier Manufacturer Views. 
+2020-12-29 12:50:08,296  :: INFO  :: [Logs]  :: click on download file button. 
+2020-12-29 12:50:11,053  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-12-29 12:50:11,688  :: INFO  :: [Logs]  :: ManufacturerViewsMessagingTest case passed successfully. 
+2020-12-29 12:50:12,231  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:50:12,231  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3344_ManufacturerViewsMessaging ============================. 
+2020-12-29 12:50:12,231  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:50:13,384  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-12-29 12:50:13,392  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-12-29 12:50:13,392  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-12-29 12:50:13,392  :: INFO  :: [Logs]  :: ===============================================================================================================. 

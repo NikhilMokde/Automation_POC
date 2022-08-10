@@ -1,0 +1,153 @@
+2020-11-24 17:52:38,249  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:52:38,271  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 17:52:38,271  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:52:38,416  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-24 17:52:38,488  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:52:38,489  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3344_ThreadMessaging started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-24 17:52:38,496  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-24 17:52:56,418  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-24 17:52:56,418  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-24 17:52:56,427  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-24 17:52:56,427  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-24 17:52:57,267  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 17:53:03,412  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2020-11-24 17:53:04,698  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 17:53:13,348  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 17:53:13,349  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2020-11-24 17:53:16,080  :: INFO  :: [Logs]  :: =========== Create RFQ ==========. 
+2020-11-24 17:53:40,306  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-11-24 17:53:47,305  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2020-11-24 17:53:53,716  :: INFO  :: [Logs]  :: File is uploaded from parts library. 
+2020-11-24 17:53:55,757  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-11-24 17:53:58,849  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2020-11-24 17:53:58,849  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-11-24 17:54:01,552  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-24 17:54:03,619  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-24 17:54:05,036  :: INFO  :: [Logs]  :: Clicked on next button of date picker. 
+2020-11-24 17:54:07,084  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-24 17:54:09,137  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-24 17:54:10,653  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-24 17:54:10,770  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-11-24 17:54:15,120  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-11-24 17:54:15,267  :: INFO  :: [Logs]  :: The element Element (id = 30e330ef-cf6f-40a6-a253-2fee6913f25a) was found on the page.. 
+2020-11-24 17:54:16,612  :: INFO  :: [Logs]  :: RFQ255378819 entered in input field. 
+2020-11-24 17:54:16,612  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-11-24 17:54:18,066  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2020-11-24 17:54:18,066  :: INFO  :: [Logs]  :: select Purpose. 
+2020-11-24 17:54:22,344  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-24 17:54:24,426  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-24 17:54:25,732  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-24 17:54:25,732  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-24 17:54:30,010  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-11-24 17:54:32,047  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-11-24 17:54:33,425  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-11-24 17:54:33,425  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2020-11-24 17:54:33,749  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-11-24 17:54:34,146  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2020-11-24 17:54:36,191  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2020-11-24 17:54:44,464  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-11-24 17:54:46,710  :: INFO  :: [Logs]  :: pune supplier entered in input field. 
+2020-11-24 17:54:54,310  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-11-24 17:55:05,076  :: INFO  :: [Logs]  :: 'Non-Disclosed ' button is clicked. 
+2020-11-24 17:55:05,276  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2020-11-24 17:55:12,772  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-11-24 17:55:13,268  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2020-11-24 17:55:14,974  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-11-24 17:55:14,975  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-11-24 17:55:15,305  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-11-24 17:55:18,273  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-11-24 17:55:22,169  :: INFO  :: [Logs]  :: ============ End of Function Create RFQ ==========. 
+2020-11-24 17:55:22,170  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-11-24 18:00:42,186  :: INFO  :: [Logs]  :: ==========SearchRFQFromMyRFQsTabThroughDashboard==========. 
+2020-11-24 18:00:43,189  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-24 18:00:43,437  :: INFO  :: [Logs]  :: click on MY RFQ button On Dashboard. 
+2020-11-24 18:00:49,666  :: INFO  :: [Logs]  :: RFQ255378819 entered in input field. 
+2020-11-24 18:00:49,666  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-24 18:00:53,550  :: INFO  :: [Logs]  :: ==========End of SearchRFQFromMyRFQsTabThroughDashboard==========. 
+2020-11-24 18:00:58,701  :: INFO  :: [Logs]  :: Search RFQ From DashBoard From My RFQ Tab. 
+2020-11-24 18:01:01,165  :: INFO  :: [Logs]  :: ==========SendMessageThroughRFQInsightTab==========. 
+2020-11-24 18:01:09,412  :: INFO  :: [Logs]  :: RFQ is Search. 
+2020-11-24 18:01:13,934  :: INFO  :: [Logs]  :: click on RFQInsight Button. 
+2020-11-24 18:01:17,409  :: INFO  :: [Logs]  :: click on Company checkbox. 
+2020-11-24 18:01:22,110  :: INFO  :: [Logs]  :: click on Company checkbox. 
+2020-11-24 18:01:42,553  :: INFO  :: [Logs]  :: click on Message All Button. 
+2020-11-24 18:01:46,771  :: INFO  :: [Logs]  :: Supplier Thread 1 entered in input field. 
+2020-11-24 18:01:47,355  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-24 18:01:48,170  :: INFO  :: [Logs]  :: Send button is disable after not adding Message. 
+2020-11-24 18:01:51,443  :: INFO  :: [Logs]  :: Buyer to supplier entered in input field. 
+2020-11-24 18:01:52,017  :: INFO  :: [Logs]  :: Entre Subject. 
+2020-11-24 18:01:52,595  :: INFO  :: [Logs]  :: click sent button. 
+2020-11-24 18:01:58,283  :: INFO  :: [Logs]  :: Message is Display as expected:Message sent successfully.. 
+2020-11-24 18:01:59,322  :: INFO  :: [Logs]  :: ==========End of SendMessageThroughRFQInsightTab==========. 
+2020-11-24 18:02:01,274  :: INFO  :: [Logs]  :: Send Message through RFQ Insight Tab. 
+2020-11-24 18:02:03,573  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-11-24 18:02:04,488  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-11-24 18:02:06,224  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 18:02:19,381  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-24 18:02:20,668  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-24 18:02:20,770  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 18:02:36,201  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-24 18:02:38,498  :: INFO  :: [Logs]  :: List view is enabled. 
+2020-11-24 18:02:40,075  :: INFO  :: [Logs]  :: RFQ255378819 entered in input field. 
+2020-11-24 18:02:40,075  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2020-11-24 18:02:40,208  :: INFO  :: [Logs]  :: Search button is clicked. 
+2020-11-24 18:02:47,878  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2020-11-24 18:02:52,605  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2020-11-24 18:02:56,094  :: INFO  :: [Logs]  :: Release RFQ. 
+2020-11-24 18:02:58,110  :: INFO  :: [Logs]  :: 'Vision has successfully logged out'. 
+2020-11-24 18:02:58,890  :: INFO  :: [Logs]  :: Logout as a vision. 
+2020-11-24 18:02:59,929  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-24 18:03:05,755  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-24 18:03:07,022  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-24 18:03:10,304  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-24 18:03:45,331  :: INFO  :: [Logs]  :: supplier login. 
+2020-11-24 18:03:57,601  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-24 18:08:02,297  :: INFO  :: [Logs]  :: click on Received Message . 
+2020-11-24 18:08:06,039  :: INFO  :: [Logs]  :: Message is Display as expected:RFQ # 1154611 - Supplier Thread 1. 
+2020-11-24 18:08:06,411  :: INFO  :: [Logs]  :: verify Message Subject. 
+2020-11-24 18:08:10,656  :: ERROR :: [Logs]  :: Validation Message is not present as Expected automation buyer. 
+2020-11-24 18:09:30,659  :: INFO  :: [Logs]  :: Verify Message on Global Tab. 
+2020-11-24 18:09:50,823  :: INFO  :: [Logs]  :: click on Messages Tab. 
+2020-11-24 18:10:22,517  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <a _ngcontent-c38="" class="liacus" data-toggle="tab" href="#messages">...</a> is not clickable at point (895, 273). Other element would receive the click: <div _ngcontent-c38="" class="col-md-12 ng-star-inserted">...</div>
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element). 
+2020-11-24 18:10:31,856  :: INFO  :: [Logs]  :: Verify Message on RFQ Details Tab. 
+2020-11-24 18:10:36,821  :: INFO  :: [Logs]  :: User has clicked on Dashboard. 
+2020-11-24 18:10:36,821  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-24 18:10:37,096  :: INFO  :: [Logs]  :: 'RFQs' is clicked from left navigation tab. 
+2020-11-24 18:10:37,483  :: INFO  :: [Logs]  :: 'My RFQs' is clicked. 
+2020-11-24 18:10:40,631  :: INFO  :: [Logs]  :: RFQ255378819 entered in input field. 
+2020-11-24 18:10:40,836  :: INFO  :: [Logs]  :: RFQ is entered in search bar. 
+2020-11-24 18:10:45,131  :: INFO  :: [Logs]  :: RFQ is searched by manufacturer. 
+2020-11-24 18:19:37,592  :: INFO  :: [Logs]  :: Record is clicked for quoting. 
+2020-11-24 18:19:41,271  :: INFO  :: [Logs]  :: 'Read NDA' button is clicked on NDA Agreement popup. 
+2020-11-24 18:19:43,553  :: INFO  :: [Logs]  :: 'Accept' button is clicked on NDA Agreement popup. 
+2020-11-24 18:19:46,699  :: INFO  :: [Logs]  :: 2nd Level NDA is accepted. 
+2020-11-24 18:20:07,045  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=86.0.4240.198)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element). 
+2020-11-24 18:20:40,529  :: INFO  :: [Logs]  :: click on Messages Tab. 

@@ -1,0 +1,137 @@
+2021-01-14 18:53:47,581  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-14 18:53:47,593  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-14 18:53:47,593  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-14 18:53:47,647  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-14 18:53:47,657  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-14 18:53:47,657  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3575_RFQActionTracker started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-14 18:53:47,661  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-14 18:54:32,752  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-14 18:54:32,752  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-14 18:54:32,757  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple. 
+2021-01-14 18:54:32,757  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-14 18:54:36,280  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-14 18:54:39,566  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-14 18:54:40,805  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-14 18:54:45,356  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-14 18:54:45,356  :: INFO  :: [Logs]  :: Buyer Should be able to login successfully. 
+2021-01-14 18:54:45,938  :: INFO  :: [Logs]  :: ==========NavigateToRFQPartsPage==========. 
+2021-01-14 18:54:48,972  :: INFO  :: [Logs]  :: click on RFQ button. 
+2021-01-14 18:54:49,023  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2021-01-14 18:54:49,023  :: INFO  :: [Logs]  :: ==========End of NavigateToRFQPartsPage==========. 
+2021-01-14 18:54:49,023  :: INFO  :: [Logs]  :: Navigate To RFQ Parts Page. 
+2021-01-14 18:54:49,487  :: INFO  :: [Logs]  :: ==========CreateRFQPartThroughUploadFile==========. 
+2021-01-14 18:55:07,036  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2021-01-14 18:55:08,904  :: INFO  :: [Logs]  :: click on existing port. 
+2021-01-14 18:55:10,305  :: INFO  :: [Logs]  :: ScrewDriver entered in input field. 
+2021-01-14 18:55:10,305  :: INFO  :: [Logs]  :: Entre Part Name. 
+2021-01-14 18:55:11,480  :: INFO  :: [Logs]  :: 12345 entered in input field. 
+2021-01-14 18:55:11,480  :: INFO  :: [Logs]  :: Entre Part No. 
+2021-01-14 18:55:12,704  :: INFO  :: [Logs]  :: 100 entered in input field. 
+2021-01-14 18:55:12,704  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2021-01-14 18:55:13,805  :: INFO  :: [Logs]  :: Piecesis selected From Dropdown. 
+2021-01-14 18:55:13,805  :: INFO  :: [Logs]  :: Select Unit. 
+2021-01-14 18:55:16,133  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-14 18:55:18,177  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-14 18:55:19,448  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-14 18:55:19,448  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-14 18:55:19,764  :: INFO  :: [Logs]  :: Select process. 
+2021-01-14 18:55:20,488  :: INFO  :: [Logs]  :: Select Material. 
+2021-01-14 18:55:20,799  :: INFO  :: [Logs]  :: Select post production process. 
+2021-01-14 18:55:21,999  :: INFO  :: [Logs]  :: Parts to buy entered in input field. 
+2021-01-14 18:55:21,999  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2021-01-14 18:55:22,072  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2021-01-14 18:55:23,072  :: INFO  :: [Logs]  :: ==========End of CreateRFQPartThroughUploadFile==========. 
+2021-01-14 18:55:23,072  :: INFO  :: [Logs]  :: verify Details in Clone Part. 
+2021-01-14 18:55:23,544  :: INFO  :: [Logs]  :: ==========AddDetailsInRFQ==========. 
+2021-01-14 18:55:23,844  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2021-01-14 18:55:23,891  :: INFO  :: [Logs]  :: The element Element (id = c23f6531-f5c1-47fe-84b4-c658fab5cb2c) was found on the page.. 
+2021-01-14 18:55:25,108  :: INFO  :: [Logs]  :: RFQ936237292 entered in input field. 
+2021-01-14 18:55:25,108  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2021-01-14 18:55:26,259  :: INFO  :: [Logs]  :: Looking for a new manufactureris selected From Dropdown. 
+2021-01-14 18:55:26,259  :: INFO  :: [Logs]  :: select Purpose. 
+2021-01-14 18:55:28,388  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-14 18:55:30,422  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-14 18:55:31,598  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-14 18:55:31,598  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-14 18:55:33,799  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2021-01-14 18:55:35,855  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2021-01-14 18:55:37,005  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2021-01-14 18:55:37,005  :: INFO  :: [Logs]  :: Select Estimate Award by date:. 
+2021-01-14 18:55:37,202  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2021-01-14 18:55:37,293  :: INFO  :: [Logs]  :: 'Payment Method' button is clicked. 
+2021-01-14 18:55:38,835  :: INFO  :: [Logs]  :: AutomationSupplierCompany1 entered in input field. 
+2021-01-14 18:55:42,330  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2021-01-14 18:55:42,536  :: INFO  :: [Logs]  :: Click on button No NDA Needed. 
+2021-01-14 18:55:42,625  :: INFO  :: [Logs]  :: 'Click on button Second Level NDA. 
+2021-01-14 18:55:48,510  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2021-01-14 18:55:48,802  :: INFO  :: [Logs]  :: 'special certification' button is clicked. 
+2021-01-14 18:55:50,225  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2021-01-14 18:55:50,226  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2021-01-14 18:55:50,374  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2021-01-14 18:55:51,135  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2021-01-14 18:55:52,485  :: INFO  :: [Logs]  :: ==========End of AddDetailsInRFQ==========. 
+2021-01-14 18:55:52,485  :: INFO  :: [Logs]  :: add RFQ Details. 
+2021-01-14 18:55:54,314  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2021-01-14 18:55:54,314  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2021-01-14 18:55:54,941  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-14 18:56:14,163  :: INFO  :: [Logs]  :: jabdi@mfg.com entered in input field. 
+2021-01-14 18:56:15,385  :: INFO  :: [Logs]  :: Password@1234 entered in input field. 
+2021-01-14 18:56:15,465  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-14 18:56:15,465  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2021-01-14 18:56:21,439  :: INFO  :: [Logs]  :: List view is enabled. 
+2021-01-14 18:56:22,826  :: INFO  :: [Logs]  :: RFQ936237292 entered in input field. 
+2021-01-14 18:56:22,826  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2021-01-14 18:56:22,957  :: INFO  :: [Logs]  :: Search button is clicked. 
+2021-01-14 18:56:26,129  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2021-01-14 18:56:33,465  :: INFO  :: [Logs]  :: RFQ is released. 
+2021-01-14 18:56:38,599  :: INFO  :: [Logs]  :: List view is enabled. 
+2021-01-14 18:56:39,868  :: INFO  :: [Logs]  :: 1193076 entered in input field. 
+2021-01-14 18:56:39,869  :: INFO  :: [Logs]  :: RFQ name is entered in search bar. 
+2021-01-14 18:56:39,958  :: INFO  :: [Logs]  :: Search button is clicked. 
+2021-01-14 18:56:43,318  :: INFO  :: [Logs]  :: Edit button is clicked for the searched RFQ. 
+2021-01-14 18:56:46,658  :: INFO  :: [Logs]  :: 'Release RFQ' button is clicked. 
+2021-01-14 18:56:46,658  :: INFO  :: [Logs]  :: RFQ is released. 
+2021-01-14 18:56:48,074  :: INFO  :: [Logs]  :: click on RFQ tracker Button. 
+2021-01-14 18:56:56,680  :: ERROR :: [Logs]  :: Unable to select the Quoting value from the Element (id = 9d16f4e9-5514-4c1c-83d9-195588fb34f0) drop down.. 
+2021-01-14 18:56:56,790  :: ERROR :: [Logs]  :: Failed to Select new value System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.FindElements(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebElement.FindElementsByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__1(ISearchContext context)
+   at OpenQA.Selenium.By.FindElements(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebElement.FindElements(By by)
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ElementSelectFromDropDown(IWebElement element, String value) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 250
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.RFQActionTracker(String value, String RFQName, String dropDownName) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 512. 
+2021-01-14 18:56:56,790  :: INFO  :: [Logs]  :: RFQActionTrackermethod is failed. 
+2021-01-14 18:56:56,944  :: INFO  :: [Logs]  :: Login with supplier is failed System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.StaleElementReferenceException: stale element reference: element is not attached to the page document
+  (Session info: chrome=87.0.4280.141)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.FindElements(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebElement.FindElementsByXPath(String xpath)
+   at OpenQA.Selenium.By.<>c__DisplayClass19_0.<XPath>b__1(ISearchContext context)
+   at OpenQA.Selenium.By.FindElements(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebElement.FindElements(By by)
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.RFQActionTracker(String value, String RFQName, String dropDownName) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 537
+   at MFG_Atomation.Utility.RFQVision.ActionTrackerUtility.M2_3575_RFQActionTrackerTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQVision\ActionTrackerUtility.cs:line 330. 
+2021-01-14 18:56:57,321  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2021-01-14 18:56:57,748  :: ERROR :: [Logs]  :: M2-3575 RFQActionTrackerTest case failed. 
+2021-01-14 18:56:57,804  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-14 18:56:57,804  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3575_RFQActionTracker ============================. 
+2021-01-14 18:56:57,804  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-14 18:56:58,456  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-14 18:56:58,461  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-14 18:56:58,461  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-14 18:56:58,461  :: INFO  :: [Logs]  :: ===============================================================================================================. 

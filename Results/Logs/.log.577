@@ -1,0 +1,118 @@
+2020-11-26 15:18:20,177  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:18:20,200  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:18:20,200  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:18:20,273  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 15:18:20,296  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:18:20,297  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3054_SupplierResetEmail started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:18:20,297  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:18:32,049  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 15:18:32,049  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 15:18:32,053  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 15:18:32,053  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 15:18:40,285  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:18:41,560  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:18:46,171  :: INFO  :: [Logs]  :: login with buyer. 
+2020-11-26 15:18:47,026  :: INFO  :: [Logs]  :: ========== NavigateToChangeEmailPage==========. 
+2020-11-26 15:18:47,147  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-11-26 15:18:50,128  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-11-26 15:18:53,878  :: INFO  :: [Logs]  :: click on change password button. 
+2020-11-26 15:18:53,878  :: INFO  :: [Logs]  :: ========== End of NavigateToChangeEmailPage==========. 
+2020-11-26 15:18:53,878  :: INFO  :: [Logs]  :: Navigate To Change Email Page. 
+2020-11-26 15:18:54,390  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2020-11-26 15:18:55,711  :: INFO  :: [Logs]  :: automationsupplier3@yopmail entered in input field. 
+2020-11-26 15:18:55,711  :: INFO  :: [Logs]  :: Entre New Email. 
+2020-11-26 15:18:57,037  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:18:57,037  :: INFO  :: [Logs]  :: Entre conform Email. 
+2020-11-26 15:18:57,108  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 15:18:57,109  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2020-11-26 15:18:58,144  :: INFO  :: [Logs]  :: Message is Display as expected:Invalid E-mail. 
+2020-11-26 15:18:58,144  :: INFO  :: [Logs]  :: Verify Error Message2. 
+2020-11-26 15:18:58,668  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2020-11-26 15:18:59,950  :: INFO  :: [Logs]  :: automationsupplier14@yopmail.com entered in input field. 
+2020-11-26 15:18:59,950  :: INFO  :: [Logs]  :: Entre New Email. 
+2020-11-26 15:19:01,205  :: INFO  :: [Logs]  :: automationsupplier3@yopmai entered in input field. 
+2020-11-26 15:19:01,205  :: INFO  :: [Logs]  :: Entre conform Email. 
+2020-11-26 15:19:01,253  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 15:19:01,253  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2020-11-26 15:19:02,282  :: INFO  :: [Logs]  :: Message is Display as expected:E-mail does not match. 
+2020-11-26 15:19:02,282  :: INFO  :: [Logs]  :: Verify Error Message3. 
+2020-11-26 15:19:02,789  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2020-11-26 15:19:04,075  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:19:04,075  :: INFO  :: [Logs]  :: Entre New Email. 
+2020-11-26 15:19:05,338  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:19:05,338  :: INFO  :: [Logs]  :: Entre conform Email. 
+2020-11-26 15:19:05,379  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 15:19:05,379  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2020-11-26 15:19:06,410  :: INFO  :: [Logs]  :: Message is Display as expected:Email cannot be same as previous. 
+2020-11-26 15:19:06,410  :: INFO  :: [Logs]  :: Verify Error Message4. 
+2020-11-26 15:19:06,928  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2020-11-26 15:19:08,027  :: INFO  :: [Logs]  ::  entered in input field. 
+2020-11-26 15:19:08,027  :: INFO  :: [Logs]  :: Entre New Email. 
+2020-11-26 15:19:09,310  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:19:09,310  :: INFO  :: [Logs]  :: Entre conform Email. 
+2020-11-26 15:19:09,355  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 15:19:09,355  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2020-11-26 15:19:10,379  :: INFO  :: [Logs]  :: Message is Display as expected:Email cannot be same as previous. 
+2020-11-26 15:19:10,379  :: INFO  :: [Logs]  :: Verify Error Message5. 
+2020-11-26 15:19:10,887  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2020-11-26 15:19:12,191  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 15:19:12,191  :: INFO  :: [Logs]  :: Entre New Email. 
+2020-11-26 15:19:13,481  :: INFO  :: [Logs]  :: automationsupplier@yopmail.com entered in input field. 
+2020-11-26 15:19:13,481  :: INFO  :: [Logs]  :: Entre conform Email. 
+2020-11-26 15:19:13,618  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 15:19:13,618  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2020-11-26 15:19:13,643  :: INFO  :: [Logs]  :: ==========ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2020-11-26 15:19:14,739  :: INFO  :: [Logs]  :: Message is Display as expected:Update Username. 
+2020-11-26 15:19:15,831  :: INFO  :: [Logs]  :: click on yes button. 
+2020-11-26 15:19:15,831  :: INFO  :: [Logs]  :: ==========End of ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2020-11-26 15:19:17,621  :: INFO  :: [Logs]  :: Message is Display as expected:Error!
+That email is already being used by another User. Enter a different Username.. 
+2020-11-26 15:19:17,621  :: INFO  :: [Logs]  :: Verify Error Message6. 
+2020-11-26 15:19:18,117  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2020-11-26 15:19:19,465  :: INFO  :: [Logs]  :: automationsupplier14@yopmail.com entered in input field. 
+2020-11-26 15:19:19,466  :: INFO  :: [Logs]  :: Entre New Email. 
+2020-11-26 15:19:20,770  :: INFO  :: [Logs]  :: automationsupplier14@yopmail.com entered in input field. 
+2020-11-26 15:19:20,770  :: INFO  :: [Logs]  :: Entre conform Email. 
+2020-11-26 15:19:20,892  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 15:19:20,892  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2020-11-26 15:19:20,925  :: INFO  :: [Logs]  :: ==========ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2020-11-26 15:19:22,019  :: INFO  :: [Logs]  :: Message is Display as expected:Update Username. 
+2020-11-26 15:19:23,105  :: INFO  :: [Logs]  :: click on yes button. 
+2020-11-26 15:19:23,105  :: INFO  :: [Logs]  :: ==========End of ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2020-11-26 15:19:25,238  :: INFO  :: [Logs]  :: Message is Display as expected:Warning
+The application is going to logout, Please login again
+Success
+User details updated successfully!. 
+2020-11-26 15:19:25,238  :: INFO  :: [Logs]  :: Verify Error Message7. 
+2020-11-26 15:19:27,274  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:19:28,471  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:19:28,554  :: INFO  :: [Logs]  :: click on continue button. 
+2020-11-26 15:19:30,795  :: INFO  :: [Logs]  :: Message is Display as expected:Invalid Email. 
+2020-11-26 15:19:30,795  :: INFO  :: [Logs]  :: verify validation message with invalid credential. 
+2020-11-26 15:19:32,654  :: INFO  :: [Logs]  :: automationsupplier14@yopmail.com entered in input field. 
+2020-11-26 15:19:33,819  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 15:19:36,789  :: INFO  :: [Logs]  :: ========== NavigateToChangeEmailPage==========. 
+2020-11-26 15:19:36,983  :: INFO  :: [Logs]  :: click on setting tab. 
+2020-11-26 15:19:38,115  :: INFO  :: [Logs]  :: Validation Message is present as Expected Settings. 
+2020-11-26 15:19:39,346  :: INFO  :: [Logs]  :: click on change password button. 
+2020-11-26 15:19:39,346  :: INFO  :: [Logs]  :: ========== End of NavigateToChangeEmailPage==========. 
+2020-11-26 15:19:39,420  :: INFO  :: [Logs]  :: ==========EntreNewAndConformEmail==========. 
+2020-11-26 15:19:40,769  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:19:40,769  :: INFO  :: [Logs]  :: Entre New Email. 
+2020-11-26 15:19:42,052  :: INFO  :: [Logs]  :: automationsupplier3@yopmail.com entered in input field. 
+2020-11-26 15:19:42,052  :: INFO  :: [Logs]  :: Entre conform Email. 
+2020-11-26 15:19:42,148  :: INFO  :: [Logs]  :: click on Save Button. 
+2020-11-26 15:19:42,148  :: INFO  :: [Logs]  :: ==========End of EntreNewAndConformEmail==========. 
+2020-11-26 15:19:42,176  :: INFO  :: [Logs]  :: ==========ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2020-11-26 15:19:43,269  :: INFO  :: [Logs]  :: Message is Display as expected:Update Username. 
+2020-11-26 15:19:44,359  :: INFO  :: [Logs]  :: click on yes button. 
+2020-11-26 15:19:44,360  :: INFO  :: [Logs]  :: ==========End of ClickOnYesButtonOnUpdateUserNamePopup==========. 
+2020-11-26 15:19:44,360  :: INFO  :: [Logs]  :: verify validation message with invalid credential. 
+2020-11-26 15:19:44,909  :: INFO  :: [Logs]  :: Test case Passed successfully. 
+2020-11-26 15:19:45,305  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:19:45,305  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3054_SupplierResetEmail ============================. 
+2020-11-26 15:19:45,305  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:19:45,782  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2020-11-26 15:19:45,788  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 15:19:45,788  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 15:19:45,788  :: INFO  :: [Logs]  :: ===============================================================================================================. 

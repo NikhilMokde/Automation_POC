@@ -1,0 +1,87 @@
+2020-04-06 14:37:29,304  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-06 14:37:29,321  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-06 14:37:29,321  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-06 14:37:29,378  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-06 14:37:29,439  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-06 14:37:29,440  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22510 started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-06 14:37:29,441  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-06 14:40:58,288  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-06 14:40:58,288  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-06 14:40:58,303  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-06 14:40:58,303  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-06 14:41:06,770  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-06 14:42:02,946  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.WebDriverTimeoutException: Timed out after 30 seconds ---> OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //span[contains(text(),'RFQ')], or: By.XPath: //span[contains(text(),'RFQ')]
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.get_Displayed()
+   at OpenQA.Selenium.Support.UI.ExpectedConditions.<>c__DisplayClass20_0.<ElementToBeClickable>b__0(IWebDriver driver)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.ThrowTimeoutException(String exceptionMessage, Exception lastException)
+   at OpenQA.Selenium.Support.UI.DefaultWait`1.Until[TResult](Func`2 condition)
+   at MFGAutomation.Generics.CommonActions.ElementWait(IWebElement element, Int32 time) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 124
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\PageObjects\RFQBuyer\RFQPage.cs:line 410. 
+2020-04-06 14:42:02,967  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
+2020-04-06 14:43:41,317  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-06 14:43:57,698  :: INFO  :: [Logs]  :: The element Element (id = 0.7960070118947655-6) was found on the page.. 
+2020-04-06 14:44:13,830  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-06 14:44:17,923  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-06 14:44:20,126  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-06 14:44:22,271  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-06 14:44:26,413  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-06 14:44:28,887  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-06 14:44:30,964  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-06 14:44:32,702  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-06 14:44:33,222  :: INFO  :: [Logs]  :: Select process. 
+2020-04-06 14:44:33,706  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-06 14:44:34,138  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-06 14:44:36,486  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-06 14:44:36,638  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-06 14:44:36,707  :: INFO  :: [Logs]  :: The element Element (id = 0.7960070118947655-6) was found on the page.. 
+2020-04-06 14:44:52,723  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-06 14:44:55,866  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-06 14:44:58,052  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-06 14:45:00,198  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-06 14:45:04,304  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-06 14:45:06,644  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-06 14:45:08,682  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-06 14:45:10,282  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-06 14:45:10,799  :: INFO  :: [Logs]  :: Select process. 
+2020-04-06 14:45:11,147  :: INFO  :: [Logs]  :: Select Material. 
+2020-04-06 14:45:11,502  :: INFO  :: [Logs]  :: Select post production process. 
+2020-04-06 14:45:13,737  :: INFO  :: [Logs]  :: 'Description' is entered. 
+2020-04-06 14:45:13,830  :: INFO  :: [Logs]  :: 'Part detail' is added. 
+2020-04-06 14:45:15,877  :: INFO  :: [Logs]  :: 'Add RFQ Details' button is clicked. 
+2020-04-06 14:45:15,940  :: INFO  :: [Logs]  :: The element Element (id = 0.7960070118947655-98) was found on the page.. 
+2020-04-06 14:45:18,165  :: INFO  :: [Logs]  :: RFQ name is entre. 
+2020-04-06 14:45:20,363  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-06 14:45:22,420  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-06 14:45:26,011  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-06 14:45:28,045  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-06 14:45:29,499  :: INFO  :: [Logs]  :: 'Manufacture Location' button is clicked. 
+2020-04-06 14:45:29,679  :: INFO  :: [Logs]  :: 'Mayment Method' button is clicked. 
+2020-04-06 14:45:29,796  :: INFO  :: [Logs]  :: 'Eligible Manufacture' button is clicked. 
+2020-04-06 14:45:46,224  :: INFO  :: [Logs]  :: 'Non-Disclousre ' button is clicked. 
+2020-04-06 14:45:46,358  :: INFO  :: [Logs]  :: 'communication' button is clicked. 
+2020-04-06 14:45:57,386  :: INFO  :: [Logs]  :: 'upload General attachment' button is clicked. 
+2020-04-06 14:45:57,825  :: INFO  :: [Logs]  :: 'special certificatio' button is clicked. 
+2020-04-06 14:45:59,292  :: INFO  :: [Logs]  :: this is for testing entered in input field. 
+2020-04-06 14:45:59,292  :: INFO  :: [Logs]  :: 'Special Instruction' button is clicked. 
+2020-04-06 14:45:59,509  :: INFO  :: [Logs]  :: 'Review RFQ' button is clicked. 
+2020-04-06 14:46:00,757  :: INFO  :: [Logs]  :: 'Submit RFQ' is clicked and RFQ has been submitted. 
+2020-04-06 14:46:03,805  :: INFO  :: [Logs]  :: A new RFQ is created. 
+2020-04-06 14:46:04,907  :: INFO  :: [Logs]  :: buyer has logged out successfully. 
+2020-04-06 14:46:04,907  :: INFO  :: [Logs]  :: Buyer is logged out successfully. 
+2020-04-06 14:47:05,752  :: INFO  :: [Logs]  :: Unable to login OpenQA.Selenium.WebDriverException: The HTTP request to the remote WebDriver server for URL http://localhost:64966/session/17aaae85b8b07e186677826a14003b95/url timed out after 60 seconds. ---> System.Net.WebException: The request was aborted: The operation has timed out.
+   at System.Net.HttpWebRequest.GetResponse()
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   --- End of inner exception stack trace ---
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.MakeHttpRequest(HttpRequestInfo requestInfo)
+   at OpenQA.Selenium.Remote.HttpCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.DriverServiceCommandExecutor.Execute(Command commandToExecute)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.set_Url(String value)
+   at OpenQA.Selenium.Remote.RemoteNavigator.GoToUrl(String url)
+   at MFGAutomation.Generics.CommonActions.Login(String user) in E:\MFG Automation\pmahant-mfg.automation-1e1ddb438106\Generics\CommonActions.cs:line 213. 

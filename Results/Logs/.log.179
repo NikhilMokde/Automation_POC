@@ -1,0 +1,60 @@
+2021-01-01 20:12:39,708  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-01 20:12:39,734  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2021-01-01 20:12:39,734  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-01 20:12:39,883  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2021-01-01 20:12:40,103  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-01 20:12:40,104  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3215_DashboardFunctionality started XXXXXXXXXXXXXXXXXXXX. 
+2021-01-01 20:12:40,105  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-01 20:12:57,699  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2021-01-01 20:12:57,699  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2021-01-01 20:12:57,707  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2021-01-01 20:12:57,707  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2021-01-01 20:13:08,763  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2021-01-01 20:13:15,237  :: INFO  :: [Logs]  :: automationbuyer1@yopmail.com entered in input field. 
+2021-01-01 20:13:16,498  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2021-01-01 20:13:21,443  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2021-01-01 20:13:21,444  :: INFO  :: [Logs]  :: Login As a Buyer. 
+2021-01-01 20:13:22,137  :: INFO  :: [Logs]  :: ==========ClickOnCreateanRFQButtonOnDashBoard==========. 
+2021-01-01 20:13:28,737  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="myRFQ-create-Rfq-btn-text-dash">...</span> is not clickable at point (1035, 93). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 62. 
+2021-01-01 20:13:28,783  :: ERROR :: [Logs]  :: Click to Create an RFQ Button On DashBoard is failed System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="myRFQ-create-Rfq-btn-text-dash">...</span> is not clickable at point (1035, 93). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 67
+   at MFG_Atomation.PageObjects.Dashboard.DashboardPageObject.ClickOnCreateanRFQButtonOnDashBoard() in E:\MFG Code\mfg.automation\PageObjects\Dashboard\DashboardPageObject.cs:line 137. 
+2021-01-01 20:13:28,817  :: INFO  :: [Logs]  :: ClickOnCreateanRFQButtonOnDashBoard. 
+2021-01-01 20:13:35,479  :: INFO  :: [Logs]  :: Failed to enter the data in field System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <span class="myRFQ-create-Rfq-btn-text-dash">...</span> is not clickable at point (1035, 93). Other element would receive the click: <div _ngcontent-c16="" class="loading ng-star-inserted">...</div>
+  (Session info: chrome=87.0.4280.88)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Atomation.PageObjects.Dashboard.DashboardPageObject.ClickOnCreateanRFQButtonOnDashBoard() in E:\MFG Code\mfg.automation\PageObjects\Dashboard\DashboardPageObject.cs:line 147
+   at MFG_Atomation.Utility.Dashboard.DashboardUtility.M2_3215_DashboardFunctionality(String sheetname) in E:\MFG Code\mfg.automation\Utility\Dashboard\DashboardUtility.cs:line 61. 
+2021-01-01 20:13:35,479  :: INFO  :: [Logs]  :: M2_3215_DashboardFunctionalitymethod is failed. 
+2021-01-01 20:13:36,121  :: ERROR :: [Logs]  :: Test case failed. 
+2021-01-01 20:13:36,419  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-01 20:13:36,419  :: INFO  :: [Logs]  :: ====================== End of Test Case : M2_3215_DashboardFunctionality ============================. 
+2021-01-01 20:13:36,419  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-01 20:13:38,003  :: INFO  :: [Logs]  :: Browser is closed successfully. 
+2021-01-01 20:13:38,014  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2021-01-01 20:13:38,014  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX     E.N.D     XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX. 
+2021-01-01 20:13:38,014  :: INFO  :: [Logs]  :: ===============================================================================================================. 

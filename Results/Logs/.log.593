@@ -1,0 +1,63 @@
+2020-11-26 13:26:11,297  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:26:11,328  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 13:26:11,328  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:26:11,425  :: INFO  :: [Logs]  :: Test configuration details are retrieved.. 
+2020-11-26 13:26:11,458  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:26:11,458  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M2_3394_ActionTrackerBuyerTab started XXXXXXXXXXXXXXXXXXXX. 
+2020-11-26 13:26:11,461  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-11-26 13:26:25,084  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-11-26 13:26:25,084  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-11-26 13:26:25,095  :: INFO  :: [Logs]  :: Navigated to URL - https://uatapp.mfg.com/#/auth/login/simple. 
+2020-11-26 13:26:25,095  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-11-26 13:27:07,751  :: INFO  :: [Logs]  :: ==========RegisterNewUser==========. 
+2020-11-26 13:27:09,954  :: INFO  :: [Logs]  :: Navigate to application. 
+2020-11-26 13:27:11,131  :: INFO  :: [Logs]  :: Automation1190217131 entered in input field. 
+2020-11-26 13:27:11,131  :: INFO  :: [Logs]  :: Enter first name. 
+2020-11-26 13:27:12,335  :: INFO  :: [Logs]  :: Buyer259889830 entered in input field. 
+2020-11-26 13:27:12,335  :: INFO  :: [Logs]  :: Enter last name. 
+2020-11-26 13:27:13,543  :: INFO  :: [Logs]  :: Automation433378998@yopmail.com entered in input field. 
+2020-11-26 13:27:13,543  :: INFO  :: [Logs]  :: Enter email. 
+2020-11-26 13:27:14,802  :: INFO  :: [Logs]  :: supplierCompany858370772 entered in input field. 
+2020-11-26 13:27:14,802  :: INFO  :: [Logs]  :: Enter company name. 
+2020-11-26 13:27:15,922  :: INFO  :: [Logs]  :: United Statesis selected From Dropdown. 
+2020-11-26 13:27:15,922  :: INFO  :: [Logs]  :: Choose country. 
+2020-11-26 13:27:17,103  :: INFO  :: [Logs]  :: 1449068360 entered in input field. 
+2020-11-26 13:27:17,103  :: INFO  :: [Logs]  :: Enter phone number. 
+2020-11-26 13:27:18,278  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 13:27:18,278  :: INFO  :: [Logs]  :: Enter password. 
+2020-11-26 13:27:19,430  :: INFO  :: [Logs]  :: Automation123@ entered in input field. 
+2020-11-26 13:27:19,430  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-26 13:27:20,592  :: INFO  :: [Logs]  :: 1399968266 entered in input field. 
+2020-11-26 13:27:20,592  :: INFO  :: [Logs]  :: Re-enter password to confirm. 
+2020-11-26 13:27:20,663  :: INFO  :: [Logs]  :: click on register button. 
+2020-11-26 13:27:20,664  :: INFO  :: [Logs]  :: ==========End of RegisterNewUser==========. 
+2020-11-26 13:27:20,664  :: INFO  :: [Logs]  :: Register New Supplier. 
+2020-11-26 13:27:24,231  :: INFO  :: [Logs]  :: =========== Login ==========. 
+2020-11-26 13:27:32,781  :: INFO  :: [Logs]  :: dcrowder@mfg.com entered in input field. 
+2020-11-26 13:27:34,030  :: INFO  :: [Logs]  :: JDCr0wd3rj! entered in input field. 
+2020-11-26 13:27:34,143  :: INFO  :: [Logs]  :: =========== End of Function Login==========. 
+2020-11-26 13:27:34,143  :: INFO  :: [Logs]  :: Vision is successfully logged in. 
+2020-11-26 13:27:37,737  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 13:27:48,332  :: INFO  :: [Logs]  :: click on Action Tracker button. 
+2020-11-26 13:27:51,529  :: INFO  :: [Logs]  :: clicked on New Reg  Tab. 
+2020-11-26 13:28:32,801  :: ERROR :: [Logs]  :: Failed to create RFQ OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //b[contains(text(),'UnChecked/Checked ')]//following::select, or: By.XPath: //b[contains(text(),'UnChecked/Checked ')]//following::select
+   at SeleniumExtras.PageObjects.RetryingElementLocator.LocateElement(IEnumerable`1 bys)
+   at SeleniumExtras.PageObjects.WebElementProxy.get_Element()
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at System.Object.ToString()
+   at System.String.Concat(Object[] args)
+   at MFG_Automation.Generics.Helper.ElementSelectFromDropDown(IWebElement element, String value) in E:\MFG Code\mfg.automation\Generics\Helper.cs:line 249
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email, String typeOfUser) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 211. 
+2020-11-26 13:28:32,808  :: INFO  :: [Logs]  :: ManufacturersActionTrackermethod is failed. 
+2020-11-26 13:28:32,937  :: INFO  :: [Logs]  :: Login with supplier is failed OpenQA.Selenium.NoSuchElementException: Could not find element by: By.XPath: //b[contains(text(),'UnChecked/Checked ')]//following::select, or: By.XPath: //b[contains(text(),'UnChecked/Checked ')]//following::select
+   at MFG_Atomation.PageObjects.RFQVision.ActionTrackerPageObject.ManufacturersActionTracker(String TabName, String email, String typeOfUser) in E:\MFG Code\mfg.automation\PageObjects\RFQVision\ActionTrackerPageObject.cs:line 288
+   at MFG_Atomation.Utility.RFQVision.ActionTrackerUtility.M2_3444_BuyerActionTrackerTab(String sheetName) in E:\MFG Code\mfg.automation\Utility\RFQVision\ActionTrackerUtility.cs:line 204. 
+2020-11-26 13:28:33,370  :: ERROR :: [Logs]  :: Unable to capture screen shot System.ArgumentException: Illegal characters in path.
+   at System.IO.Path.CheckInvalidPathChars(String path, Boolean checkAdditional)
+   at System.IO.Path.GetFileName(String path)
+   at System.IO.FileStream..ctor(String path, FileMode mode)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName, ScreenshotImageFormat format)
+   at OpenQA.Selenium.Screenshot.SaveAsFile(String fileName)
+   at MFGAutomation.Generics.CommonActions.TakesScreenshot(String testName) in E:\MFG Code\mfg.automation\Generics\CommonActions.cs:line 163. 
+2020-11-26 13:28:33,960  :: ERROR :: [Logs]  :: Test case failed. 

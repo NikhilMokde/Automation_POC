@@ -1,0 +1,47 @@
+2020-04-07 15:03:32,055  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-07 15:03:32,074  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX Execution of MFG Test Cases Started  XXXXXXXXXXXXXXXXXXXXX. 
+2020-04-07 15:03:32,075  :: INFO  :: [Logs]  :: ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~. 
+2020-04-07 15:03:32,140  :: INFO  :: [Logs]  :: Test configuration details are retrived.. 
+2020-04-07 15:03:32,157  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-07 15:03:32,158  :: INFO  :: [Logs]  :: XXXXXXXXXXXXXXXXXXX  Test Case : M22763 started XXXXXXXXXXXXXXXXXXXX. 
+2020-04-07 15:03:32,194  :: INFO  :: [Logs]  :: ===============================================================================================================. 
+2020-04-07 15:03:58,291  :: INFO  :: [Logs]  :: Chrome Browser is launched successfully.. 
+2020-04-07 15:03:58,292  :: INFO  :: [Logs]  :: Chrome is launched successfully for execution.. 
+2020-04-07 15:03:58,308  :: INFO  :: [Logs]  :: Navigated to URL - http://qa.mfg2020.com/#/auth/login/simple/. 
+2020-04-07 15:03:58,308  :: INFO  :: [Logs]  :: Browser is initialized successfully. 
+2020-04-07 15:05:01,163  :: INFO  :: [Logs]  :: Buyer Should be able to login sucessfully. 
+2020-04-07 15:06:34,830  :: INFO  :: [Logs]  :: 'Create RFQ' button is clicked. 
+2020-04-07 15:06:41,445  :: INFO  :: [Logs]  :: The element Element (id = 7b201983-1914-414e-a21a-1af5b6a193cc) was found on the page.. 
+2020-04-07 15:07:06,645  :: INFO  :: [Logs]  :: 'Enter Details' button is clicked. 
+2020-04-07 15:07:09,986  :: INFO  :: [Logs]  :: Entre Part Name. 
+2020-04-07 15:07:12,187  :: INFO  :: [Logs]  :: Entre Part No. 
+2020-04-07 15:07:14,449  :: INFO  :: [Logs]  :: Entre First Quantity. 
+2020-04-07 15:07:18,622  :: INFO  :: [Logs]  :: Select Unit. 
+2020-04-07 15:07:26,630  :: INFO  :: [Logs]  :: Retrieved current selected month name from date picker popup. 
+2020-04-07 15:07:28,674  :: INFO  :: [Logs]  :: Retrieved current selected year name from date picker popup. 
+2020-04-07 15:07:30,466  :: INFO  :: [Logs]  :: 'Delivery Date' has been selected. 
+2020-04-07 15:07:31,796  :: ERROR :: [Logs]  :: Unable to click on element System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div _ngcontent-c5="" class="selected-list">...</div> is not clickable at point (1151, 192). Other element would receive the click: <span class="ui-state-default ui-state-disabled ng-tns-c24-9 ng-star-inserted">...</span>
+  (Session info: chrome=80.0.3987.163)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at SeleniumExtras.PageObjects.WebDriverObjectProxy.InvokeMethod(IMethodCallMessage msg, Object representedValue)
+   at SeleniumExtras.PageObjects.WebElementProxy.Invoke(IMessage msg)
+   at System.Runtime.Remoting.Proxies.RealProxy.PrivateInvoke(MessageData& msgData, Int32 type)
+   at OpenQA.Selenium.IWebElement.Click()
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element). 
+2020-04-07 15:07:31,939  :: ERROR :: [Logs]  :: Failed to create RFQ System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> OpenQA.Selenium.ElementClickInterceptedException: element click intercepted: Element <div _ngcontent-c5="" class="selected-list">...</div> is not clickable at point (1151, 192). Other element would receive the click: <span class="ui-state-default ui-state-disabled ng-tns-c24-9 ng-star-inserted">...</span>
+  (Session info: chrome=80.0.3987.163)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Execute(String commandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.Click()
+   --- End of inner exception stack trace ---
+   at MFG_Automation.Generics.Helper.ClickElement(IWebElement element)
+   at MFG_Automation.PageObjects.RFQ.RFQPage.CreateRFQ(String sheetName). 
+2020-04-07 15:07:31,939  :: INFO  :: [Logs]  :: CreateRFQmethod is failed. 
