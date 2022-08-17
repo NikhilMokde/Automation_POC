@@ -39,12 +39,12 @@ steps:
      **\$(BuildConfiguration)\**\*test*.dll
      !**\*Microsoft.VisualStudio.TestPlatform*
      !**\obj\**
-    # vstestLocationMethod: 'location'
-    # vstestLocation: 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\TestPlatform\'
-    # codeCoverageEnabled: True
-    # otherConsoleOptions: '/platform:x64 /Framework:.NETCoreApp,Version=v2.1 /logger:console;verbosity="normal" '
-    # platform: '$(buildPlatform)'
-    # configuration: '$(buildConfiguration)'
+    vstestLocationMethod: 'location'
+    vstestLocation: 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\TestPlatform\'
+    codeCoverageEnabled: True
+    otherConsoleOptions: '/platform:x64 /Framework:.NETCoreApp,Version=v2.1 /logger:console;verbosity="normal" '
+    platform: '$(buildPlatform)'
+    configuration: '$(buildConfiguration)'
 
 
 - task: PublishTestResults@2
