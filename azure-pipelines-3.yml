@@ -1,0 +1,53 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- main
+
+pool:
+  demands: agent.name -equals Nikhil
+
+steps:
+- task: VisualStudioTestPlatformInstaller@1
+  inputs:
+    packageFeedSelector: 'nugetOrg'
+    versionSelector: 'latestPreRelease'
+
+# - task: VSTest@2
+#   inputs:
+#     testSelector: 'testAssemblies'
+#     testAssemblyVer2: '**\*test*.dll'
+#     searchFolder: '$(System.DefaultWorkingDirectory)'
+
+# - task: VSTest@2
+#   inputs:
+#       testSelector: 'testAssemblies'
+#       testAssemblyVer2: |
+#         **\*test.dll
+#       searchFolder: '$(System.DefaultWorkingDirectory)'
+#       distributionBatchType: basedOnExecutionTime
+#       runInParallel: true
+
+- task: VSTest@2
+  displayName: 'Run Unit Tests'
+  inputs:
+    testAssemblyVer2: |
+     **\$(BuildConfiguration)\*test*.dll
+     **\$(BuildConfiguration)\**\*test*.dll
+     !**\*Microsoft.VisualStudio.TestPlatform*
+     !**\obj\**
+    # vstestLocationMethod: 'location'
+    # vstestLocation: 'C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\Extensions\TestPlatform\'
+    # codeCoverageEnabled: True
+    # otherConsoleOptions: '/platform:x64 /Framework:.NETCoreApp,Version=v2.1 /logger:console;verbosity="normal" '
+    # platform: '$(buildPlatform)'
+    # configuration: '$(buildConfiguration)'
+
+
+- task: PublishTestResults@2
+  inputs:
+    testResultsFormat: 'NUnit'
+    testResultsFiles: '**/TEST-*.trx'
+    testRunTitle: 'VSTestResult'
