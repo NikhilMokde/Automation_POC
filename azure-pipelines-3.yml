@@ -35,8 +35,8 @@ steps:
   displayName: 'Run Unit Tests'
   inputs:
     testAssemblyVer2: |
-     **\$(BuildConfiguration)\*test*.dll
-     **\$(BuildConfiguration)\**\*test*.dll
+     **\$(BuildConfiguration)\*Tests*.dll
+     **\$(BuildConfiguration)\**\*Tests*.dll
      !**\*Microsoft.VisualStudio.TestPlatform*
      !**\obj\**
     vstestLocationMethod: 'location'
