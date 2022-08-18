@@ -39,8 +39,8 @@ steps:
   displayName: 'Run Unit Tests'
   inputs:
     testAssemblyVer2: |
-     **\$(BuildConfiguration)\*test*.dll
-     **\$(BuildConfiguration)\**\*test*.dll
+     **\$(BuildConfiguration)\*MFG Atomation*.dll
+     **\$(BuildConfiguration)\**\*MFG Atomation*.dll
      !**\*Microsoft.VisualStudio.TestPlatform*
      !**\obj\**
     vstestLocationMethod: 'location'
@@ -54,5 +54,5 @@ steps:
 - task: PublishTestResults@2
   inputs:
     testResultsFormat: 'NUnit'
-    testResultsFiles: '**/TEST-*.trx'
+    testResultsFiles: '**/MFG Atomation-*.trx'
     testRunTitle: 'VSTestResult'
