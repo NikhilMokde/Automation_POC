@@ -2,10 +2,7 @@
 using MFG_Automation.Generics;
 using MySql.Data.MySqlClient;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using static NUnit.Core.NUnitFramework;
 
 namespace MFG_Atomation.PageObjects.DataBaseOperation
 {
@@ -35,6 +32,10 @@ namespace MFG_Atomation.PageObjects.DataBaseOperation
                    
 
                 }
+
+                Assert.AreEqual("All", "false");
+              
+               
             }
             catch(Exception e)
             {
