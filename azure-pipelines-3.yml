@@ -58,3 +58,8 @@ steps:
     testResultsFiles: '**/MFG Atomation-*.trx'
     testRunTitle: 'VSTestResult'
     failTaskOnFailedTests: true
+
+- task: publishhtmlreport@1
+  inputs:
+    htmlType: 'genericHTML'
+    htmlPath: '$(System.DefaultWorkingDirectory)/Results/Report/RetriveDataFromDatabase.html'
