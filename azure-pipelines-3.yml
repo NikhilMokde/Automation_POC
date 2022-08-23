@@ -62,5 +62,11 @@ steps:
 - task: publishhtmlreport@1
   inputs:
     htmlType: 'genericHTML'
-    htmlPath: '$(System.DefaultWorkingDirectory)/Results/Report'
+    htmlPath: '$(System.DefaultWorkingDirectory)/Results/Report/InsertDataFromDatabase.html'
+    
+- task: PublishPipelineArtifact@1
+  inputs:
+    targetPath: '$(Pipeline.Workspace)/Results/Report/InsertDataFromDatabase.html'
+    artifact: 'Html  Report'
+    publishLocation: 'pipeline'
     
